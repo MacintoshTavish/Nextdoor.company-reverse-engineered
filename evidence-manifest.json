@@ -1,0 +1,2580 @@
+{
+  "generated_at": "2026-09-28T09:04:14.929816+00:00",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 26,
+      "sha256": "9618185d97a7b73972851bc179ac276080c298f79adbc1847951e647f4254c27"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 117,
+      "sha256": "a644a4a1a0a467f16fbc90c308d50409c89da1a6dc6afc885b6cbb607c918126"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1284,
+      "sha256": "4d5b593377b4218909d65508438d1f4c6ac42c2880df1293f7987676db614c29"
+    },
+    {
+      "path": "ENGINEERING-FIX-PLAN.md",
+      "bytes": 10241,
+      "sha256": "c9ca7146e6bb5d2fc2ccc2972f812731b23944b9f8c1880c262652043eb9cd0c"
+    },
+    {
+      "path": "FOUNDER-REPORT.md",
+      "bytes": 22270,
+      "sha256": "90022cddab4dbd489ed58dda3ad24ff89a3e45eac2211feeba95e5f26a8e3f7b"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1440,
+      "sha256": "b4a1b93104ac51863ddac5c3868ab89c7caeb49fe6f3ba7a845a4dd9acfd574b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10072,
+      "sha256": "8539d10a80017719ebe3b67b46d08fff4fe05ba7b6e554f8218ae020bdc3563a"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "bytes": 3595,
+      "sha256": "d2010e8a054bcbb1d444f08e1638f50e0d563ff9e994ccb5d4770086a1464a94"
+    },
+    {
+      "path": "analyze_inventory.py",
+      "bytes": 46035,
+      "sha256": "ebb2545eef71d1d7c9819020e77f840c2706dd53b31d24dadc066f488993fbdd"
+    },
+    {
+      "path": "build_brief.py",
+      "bytes": 21788,
+      "sha256": "aca96afaefeb9a067e7279eb8c9a39d23a4294cdc6adb935ce93e08d9062da60"
+    },
+    {
+      "path": "build_deliverables.py",
+      "bytes": 29991,
+      "sha256": "caf1dcb8c1b1d545cae1912bbfa73db3e43acb1ab15901cbe9d1a92c6ce86016"
+    },
+    {
+      "path": "check_careers_links.py",
+      "bytes": 7589,
+      "sha256": "81544d484fcaa23de277cd1d689d750667bf0ce0183d05c024e419d3ae5dfefa"
+    },
+    {
+      "path": "ci/README.md",
+      "bytes": 621,
+      "sha256": "63516672d74a737f86777935e66c4806e9a4c97e70cdde966a39ddec33a73d1d"
+    },
+    {
+      "path": "ci/github-actions.example.yml",
+      "bytes": 818,
+      "sha256": "9e4191de25e53a430d0d97f9cb8443c1b70f7c3f7f9388582f9df2cdc8b61afe"
+    },
+    {
+      "path": "collect_public_inventory.py",
+      "bytes": 9427,
+      "sha256": "a3912604f7460007e1bf473b7ade323402f3ca3571c14dfbe71e84e800874973"
+    },
+    {
+      "path": "company-source-index.html",
+      "bytes": 158073,
+      "sha256": "4509be2fc5865af75a33c7fa78273b58e456ecd27615684b58a51863ddde76ea"
+    },
+    {
+      "path": "company-source-index.json",
+      "bytes": 751425,
+      "sha256": "363e3ff17cebcfe6ed49c9765e3af7be0c73ff5b96c8f661f8dcdfbf0272fd0c"
+    },
+    {
+      "path": "company-source-index.md",
+      "bytes": 91008,
+      "sha256": "29583454a7955e0903bd4ca292eccbcf00b60ecf5c7c63ffa80e290d44289e04"
+    },
+    {
+      "path": "daily-index-monitor/README.md",
+      "bytes": 3343,
+      "sha256": "43146c8fda1351bf52d31ce5e7189423321402e5818df1d579919afa58e77e5c"
+    },
+    {
+      "path": "daily-index-monitor/monitor.py",
+      "bytes": 9658,
+      "sha256": "f1bfb9cfcf45dce56a010aa45752719750cf47b1e4d2ff0d3e0a645cb3884aa2"
+    },
+    {
+      "path": "daily-index-monitor/run-daily.sh",
+      "bytes": 380,
+      "sha256": "c8e943bfe69563e9f2e2bffe1f6dd532a9c9776e1d101d9cc2e07e1d761a9706"
+    },
+    {
+      "path": "daily-index-monitor/test_monitor.py",
+      "bytes": 2811,
+      "sha256": "33f18ea0c5e6b762a2c6391ef898a8ba709f42547c832dbbd76cbee4fd8d1bb4"
+    },
+    {
+      "path": "daily-index-monitor/verified-status.json",
+      "bytes": 377,
+      "sha256": "37c68eff891dad7a1a92effc46a29869b72466e03f234bb5749bd78439d37296"
+    },
+    {
+      "path": "data-quality.md",
+      "bytes": 107141,
+      "sha256": "c7676eb24915e89f67bb5198e473faa530186e96202e2293edfeab53b21bbc52"
+    },
+    {
+      "path": "evidence/browser-preview-observation.json",
+      "bytes": 577,
+      "sha256": "83b296465e8e6619d626ee241cec1e833e6d9f6746c9d453e283bef42189cf6e"
+    },
+    {
+      "path": "evidence/followup-api-responses.json",
+      "bytes": 746,
+      "sha256": "bd000e08b457dfb2dd1da564cd26b619238979e873f409e446066c4d5bfe9d24"
+    },
+    {
+      "path": "evidence/homepage-preview.png",
+      "bytes": 517446,
+      "sha256": "f5473751ae036fb3a4c4e4991cedf40c6e057ce2873b90f45e0c6ec7be316614"
+    },
+    {
+      "path": "evidence/locked-marker-login.png",
+      "bytes": 417005,
+      "sha256": "f0a2cf3cac53a1ac9acd1818bd83f5763508cca5df88bc57f9282bb66be604d1"
+    },
+    {
+      "path": "evidence/notification-call-redacted.txt",
+      "bytes": 796,
+      "sha256": "a88fc1e57c4a2fce8d0955e1853a8349803eb2903828478973cf7b5758c56753"
+    },
+    {
+      "path": "evidence/preview-gating-source.txt",
+      "bytes": 2876,
+      "sha256": "507aa365d43e80b8cc63207d98a09710d0e829b79f2a9f6d363065051aa8090d"
+    },
+    {
+      "path": "evidence/static-company-sample-summary.json",
+      "bytes": 1344,
+      "sha256": "1e6aed817af5b3382580a2416184c94d43de89f66b247ae16352709026eb9043"
+    },
+    {
+      "path": "evidence/verified-responses.json",
+      "bytes": 1526,
+      "sha256": "1a6893eed5b7861b4778821f4f745b5b7e53d64f9cbfb88d71d3c319c43c2aea"
+    },
+    {
+      "path": "frontend-audit.md",
+      "bytes": 27140,
+      "sha256": "fd14eabcdc6b5b456c430344071f54e455d96a6862a0042c0be47f5e9b89ec4e"
+    },
+    {
+      "path": "frontend-evidence.json",
+      "bytes": 30110,
+      "sha256": "5fb00fa000ad668779d3b193f266b7bf0cae1e0305d7d4431f46cf3d11106467"
+    },
+    {
+      "path": "frontend-repros/README.md",
+      "bytes": 1442,
+      "sha256": "3879924b98dc18b7a2ea83583c930d913bf566093deefe691c14eb8122a27a2b"
+    },
+    {
+      "path": "frontend-repros/extracted-source.json",
+      "bytes": 93871,
+      "sha256": "ab81e7d45154ad43146beb88664879370c95c41cd7fa137216022b7ee1050b77"
+    },
+    {
+      "path": "frontend-repros/results.json",
+      "bytes": 4891,
+      "sha256": "5e3f6ff8683ce3db91bac3c0cfcf5a557bed586e947bbb43ed68b59a693708b8"
+    },
+    {
+      "path": "frontend-repros/run.mjs",
+      "bytes": 9649,
+      "sha256": "99bddc8e56ac4102698cf6ace75663a8d5a312b3c70c58ff10b5be90edd4f340"
+    },
+    {
+      "path": "inventory/analysis.json",
+      "bytes": 7330591,
+      "sha256": "3fa79ed665327a96fe9622135f5a1afdfb666d4ea8f0f2d383f98d42cdb0ca63"
+    },
+    {
+      "path": "inventory/career-link-checks.json",
+      "bytes": 357516,
+      "sha256": "cacabb8cf5b921c4dbf1af223f56c7d6d18dbaeaa4166349e2e02ff5014bce29"
+    },
+    {
+      "path": "inventory/companies/100ms.json",
+      "bytes": 12000,
+      "sha256": "da46b3f7204e8c3e5c525dc365b34b76c0f3a51cb46ab0de338a21b0df8aa47d"
+    },
+    {
+      "path": "inventory/companies/1password.json",
+      "bytes": 95669,
+      "sha256": "a8b80f71a80474d5176125415f533bd6d1fbc18b0efa82009382844f43667a28"
+    },
+    {
+      "path": "inventory/companies/1x.json",
+      "bytes": 60827,
+      "sha256": "be9ec85f33c6ce54f3c6e2d7026b8e897260811c9537891ec97db084e68a5c8d"
+    },
+    {
+      "path": "inventory/companies/abridge.json",
+      "bytes": 58204,
+      "sha256": "dae036b15ed2ac3b51bd0ba4eafb6c0ee59f7a4bb77614bee09c16a318e91b3d"
+    },
+    {
+      "path": "inventory/companies/acceldata.json",
+      "bytes": 49542,
+      "sha256": "eb6f8692460d1c53c2af6cbcb3519aa7347850b978ad49dfbbd1257efa496835"
+    },
+    {
+      "path": "inventory/companies/acko.json",
+      "bytes": 18489,
+      "sha256": "403bbf1d0dff49d14eea24ff37bac0e00c9e27e2cc468f54c9f9e18512fb9cfa"
+    },
+    {
+      "path": "inventory/companies/aegis-ventures.json",
+      "bytes": 20165,
+      "sha256": "e36a11c220f44c80e5dbd926504f570b85f193d5b57bc59be4a77e2967a76898"
+    },
+    {
+      "path": "inventory/companies/aftershoot.json",
+      "bytes": 6339,
+      "sha256": "542de9d942d8116db9233475cd2aa5f1cc8c290bdd9c55b332967014876fcec1"
+    },
+    {
+      "path": "inventory/companies/aidash.json",
+      "bytes": 17349,
+      "sha256": "e4ddf305efa80cf81d05ef88dc7573be31fd045d7e0819f99ff8cc1709838c71"
+    },
+    {
+      "path": "inventory/companies/aikido-security.json",
+      "bytes": 72179,
+      "sha256": "ed2ed05b6ccd6cc0d642f9607800203f339e17a02eea227f3279752b59b79626"
+    },
+    {
+      "path": "inventory/companies/aizen.json",
+      "bytes": 6850,
+      "sha256": "472b2c627892507e2505a1ad60d89273b13d12c23106b192cc90f0b22a80f1bb"
+    },
+    {
+      "path": "inventory/companies/alchemy.json",
+      "bytes": 20146,
+      "sha256": "3f24e725280f8427a2c4f0073d83edb68d63ed7406eb84f1e88fdc9f920f59f0"
+    },
+    {
+      "path": "inventory/companies/aledade.json",
+      "bytes": 96016,
+      "sha256": "8d3bed2bd1a7c3ea55d1d7ba97b2c8b221024c28d57f25c43bc0f888b5f540f5"
+    },
+    {
+      "path": "inventory/companies/alloy.json",
+      "bytes": 32163,
+      "sha256": "26448da584c64d9a2aa2d401d441a996a98af2b44c7f9a447f11c2ff42dd2a6b"
+    },
+    {
+      "path": "inventory/companies/altimate.json",
+      "bytes": 15173,
+      "sha256": "d7550fffe8910df3b98a9d1edbae7505e5ec2d2a88d38af8e65ee86c76a5a5a3"
+    },
+    {
+      "path": "inventory/companies/amagi.json",
+      "bytes": 25544,
+      "sha256": "13e53a1d13ed5816bd3f4cd9db99af6c59fef4adfc69ffc6ca869dc5fd18e045"
+    },
+    {
+      "path": "inventory/companies/ambience-healthcare.json",
+      "bytes": 38183,
+      "sha256": "700430653ab1605377fa36d4373021c3500c9b5f1406a5d17e250f15a40426b2"
+    },
+    {
+      "path": "inventory/companies/anthropic.json",
+      "bytes": 277041,
+      "sha256": "8ec1fb2089d6a3e1f1124c5203b275a15973c7a93ba334a2bf1a2fea02ebb78c"
+    },
+    {
+      "path": "inventory/companies/anyscale.json",
+      "bytes": 24084,
+      "sha256": "89e17acd53a9275220c759b3714cca5a9416264009060f3318bdf97762c8b036"
+    },
+    {
+      "path": "inventory/companies/apna.json",
+      "bytes": 73081,
+      "sha256": "0a82c8f98f2a06b6f7358ba5317ba61fbefb10d79096d403df5aea0646fbd57d"
+    },
+    {
+      "path": "inventory/companies/apollo-io.json",
+      "bytes": 52845,
+      "sha256": "23aa88ca806241997396b7bb720868d799dc8f1b014784febfb11c18b6464331"
+    },
+    {
+      "path": "inventory/companies/appier.json",
+      "bytes": 48336,
+      "sha256": "c0d640a9ff8fd1901d2b2f3d70e65921471f9511ae3c62c25846d54638e1f1f5"
+    },
+    {
+      "path": "inventory/companies/applied.json",
+      "bytes": 191829,
+      "sha256": "740700bf2ad2bd63f32400c56141af3df7a617f4293115d6ff9f255f4f264303"
+    },
+    {
+      "path": "inventory/companies/appsforbharat.json",
+      "bytes": 21073,
+      "sha256": "299f25b4644157c26937a1484f97f88451583860206efd4cf799a57beeb82eb3"
+    },
+    {
+      "path": "inventory/companies/appzen.json",
+      "bytes": 41672,
+      "sha256": "5fe0d88a4dd4942e19ef3fd246c0d359c2b8dadd332021ae1e67cb5c86d04ba8"
+    },
+    {
+      "path": "inventory/companies/aqua-security.json",
+      "bytes": 12913,
+      "sha256": "fd320e4c99fb803e2b5cbdd502c6eb3f8857e61b436cb0ee6090b2a20ce29429"
+    },
+    {
+      "path": "inventory/companies/architect-labs.json",
+      "bytes": 14458,
+      "sha256": "0c076212a77ce06df100edd2cbbeb5ae335039c7eee7d437721d7cdef28ab4bf"
+    },
+    {
+      "path": "inventory/companies/arctic-wolf.json",
+      "bytes": 98580,
+      "sha256": "4bebc562d882dc2a56e159fc9231c37e2f137865a540fbaa5d5bfb24764e635a"
+    },
+    {
+      "path": "inventory/companies/arena.json",
+      "bytes": 17918,
+      "sha256": "5de60d647def04e4bee816549d5055ec065470eb13d173535106e7f6fb258fbe"
+    },
+    {
+      "path": "inventory/companies/array.json",
+      "bytes": 26527,
+      "sha256": "7f6b58f5566b1b55a83d4fc8c7f6a2e64d7afbd448cc7a362ae84f2d95f8af72"
+    },
+    {
+      "path": "inventory/companies/arta-finance.json",
+      "bytes": 21486,
+      "sha256": "dd23aeed9e0788dc778a4633d3a7f4b7f8a1191eec6552984409661bfe4ed80e"
+    },
+    {
+      "path": "inventory/companies/articul8.json",
+      "bytes": 30071,
+      "sha256": "d1d3b53b3b59a6beff152d7a79a776e43289880583118d3054af6a64e159a35e"
+    },
+    {
+      "path": "inventory/companies/ashby.json",
+      "bytes": 102053,
+      "sha256": "da12c65a608f4ca509525dc6edc33dc3adb74296238445ab7d2f772a4380c20b"
+    },
+    {
+      "path": "inventory/companies/aspora.json",
+      "bytes": 14531,
+      "sha256": "886fd1e67c693540d85573d54c598fa2c2369f53bbea92780e815bee18a4aa6e"
+    },
+    {
+      "path": "inventory/companies/assetplus.json",
+      "bytes": 21357,
+      "sha256": "18cfcb13030641c8b9dc65375a1a7d6b25ee29144f27d927aab0f33cf30df2a6"
+    },
+    {
+      "path": "inventory/companies/at-bay.json",
+      "bytes": 44138,
+      "sha256": "e96e820665327d61073611f67e4f07c97362f30e023e8de07b8e35b468c37734"
+    },
+    {
+      "path": "inventory/companies/atlan.json",
+      "bytes": 23506,
+      "sha256": "6a475f8528b298266af694c72c8ba488f7d6a54bcc88cc463c943e2b5274c222"
+    },
+    {
+      "path": "inventory/companies/atlys.json",
+      "bytes": 16765,
+      "sha256": "6b4e73efe4c094a68a25a89d1cf986762c07473c47d32f45d622a3580623e86a"
+    },
+    {
+      "path": "inventory/companies/atomicwork.json",
+      "bytes": 24945,
+      "sha256": "fb76a9664f312069e67b1da47cd7e9e47ae1b63d940622961a8a856989ce4b2c"
+    },
+    {
+      "path": "inventory/companies/atoms.json",
+      "bytes": 175767,
+      "sha256": "7e1e01f72f20e3ec5a4fc302781685e695b307cf2cdc6a12b8bbfef7d9ee1f26"
+    },
+    {
+      "path": "inventory/companies/attentive-ai.json",
+      "bytes": 25110,
+      "sha256": "d3ca31e33e88c19ee098e6e4c585c3d5e10596ed25249c16d452d0a3ec4fb9cf"
+    },
+    {
+      "path": "inventory/companies/avoma.json",
+      "bytes": 27308,
+      "sha256": "e33967b245a444e71b2a46b7bf31291ae1ada74d1a7227c7615bb75013fd6a79"
+    },
+    {
+      "path": "inventory/companies/awfis.json",
+      "bytes": 12885,
+      "sha256": "b80bae27de787d5a9d7149ca0898c426c0af5f1b73f3c3e10458e63a169dafad"
+    },
+    {
+      "path": "inventory/companies/axionray.json",
+      "bytes": 27148,
+      "sha256": "1ba09c1bb062725b71f995424068c3ae595b18e57018a233d7957d8985cc5317"
+    },
+    {
+      "path": "inventory/companies/axonius.json",
+      "bytes": 36066,
+      "sha256": "f46f2b3772c7ed553e30e34b8dbd09e21abc637c8506b3455afbf8f22908ae61"
+    },
+    {
+      "path": "inventory/companies/base-power.json",
+      "bytes": 140839,
+      "sha256": "89657b8b20b29fa9e58953677d4f9cd037d675c0a87901a6bc85c83aa983cf61"
+    },
+    {
+      "path": "inventory/companies/baseten.json",
+      "bytes": 130278,
+      "sha256": "e2ca5a0c13e9379861795e7b3b188f1e0b83aa85889ce2f496f40d5bba50d1f7"
+    },
+    {
+      "path": "inventory/companies/beacon-software.json",
+      "bytes": 42119,
+      "sha256": "925a127d9fd5bdb5a2a727ba73a37ee866437150be962c89c24f667c791844fa"
+    },
+    {
+      "path": "inventory/companies/betterup.json",
+      "bytes": 33907,
+      "sha256": "d4081c74c284f53533c6b446c2590e171a577b695ad43f3c7769b9f5470e165f"
+    },
+    {
+      "path": "inventory/companies/bharatpe.json",
+      "bytes": 6619,
+      "sha256": "a9ad1e037fa6083ca539523ecb2ca1123174ae2877307c1a8a24b4b72619b174"
+    },
+    {
+      "path": "inventory/companies/bik.json",
+      "bytes": 17228,
+      "sha256": "7f50c2405eeec6d14d133c1a20ecb502ad70b7f8950f4af8b7fcbe5f53e8d1a4"
+    },
+    {
+      "path": "inventory/companies/blinkops.json",
+      "bytes": 19326,
+      "sha256": "be34d787af5630a9825914db97abe352deb11299e38fd6b5a73dd11f807f68b6"
+    },
+    {
+      "path": "inventory/companies/blockchain-com.json",
+      "bytes": 32580,
+      "sha256": "45ec9e4c8e6e90ff186cfc7db2e6cd8037b47b7619f9e5c11e2cf0f7c15f6047"
+    },
+    {
+      "path": "inventory/companies/bloomreach.json",
+      "bytes": 71419,
+      "sha256": "a1d1ec408a60e71c4c4a41360bf7fd49f9f0a11d93b723ea965df16c4782f81c"
+    },
+    {
+      "path": "inventory/companies/bluevine.json",
+      "bytes": 11401,
+      "sha256": "58754ee95a25d942bc85e87170676d1683167b16ad4b34c287f983922db0ffd7"
+    },
+    {
+      "path": "inventory/companies/bobobox.json",
+      "bytes": 34075,
+      "sha256": "081db85bad11c1318ceed73dde90591c34af6273b7d88cd2122a203173c4dbdd"
+    },
+    {
+      "path": "inventory/companies/bright-money.json",
+      "bytes": 18574,
+      "sha256": "137c55d873914a1fef05c98584b42c77f446720fc85c2feff281deacd77645ab"
+    },
+    {
+      "path": "inventory/companies/brigit.json",
+      "bytes": 29927,
+      "sha256": "214505ea0c8e401527cb5e1dbd2f2771db16ecb3ca78b18b7672a400255b709a"
+    },
+    {
+      "path": "inventory/companies/browserstack.json",
+      "bytes": 47419,
+      "sha256": "da677f2a986a3bf7096057716bccb0b3259da3f56a2ae152b684be612f334b30"
+    },
+    {
+      "path": "inventory/companies/bubble.json",
+      "bytes": 28095,
+      "sha256": "ae34665f505d5c6142eb172bbc4d272d9762cb84a281026c4df27d6535762b7d"
+    },
+    {
+      "path": "inventory/companies/buildots.json",
+      "bytes": 45084,
+      "sha256": "c7e40d2653195015d1849dbbce163dc9b5ea6257d67cada9e1979bc0f9033a15"
+    },
+    {
+      "path": "inventory/companies/bureau.json",
+      "bytes": 18768,
+      "sha256": "cfa4ca24997c62e5a4c3046d74e965c8eaa6dc8ae589dea7335f0a24ab12738b"
+    },
+    {
+      "path": "inventory/companies/cardekho.json",
+      "bytes": 22048,
+      "sha256": "feb6acec0ed8ba1c0275c3df35f21cbcba33de71ee1163fbf95dbcfac6c05555"
+    },
+    {
+      "path": "inventory/companies/carousell.json",
+      "bytes": 56134,
+      "sha256": "10a2732969c95d5814fed0979d63c0959673ad9e85dd772077e278fb79d52327"
+    },
+    {
+      "path": "inventory/companies/carta.json",
+      "bytes": 57273,
+      "sha256": "5b4adb2ddd60f6487b99c8f5a67499de1094fd10aacd7d61c8a834769b1c4b6d"
+    },
+    {
+      "path": "inventory/companies/cartesia.json",
+      "bytes": 28589,
+      "sha256": "8f5586389d7dae6740eb50c5ecb509cf920a88ea3343639a31d08abb51b37803"
+    },
+    {
+      "path": "inventory/companies/casca.json",
+      "bytes": 11505,
+      "sha256": "99cc1a4e8cc5f11f7d2f8bc75155e7193f9e0fd72b1f17019c8a2668df8c95de"
+    },
+    {
+      "path": "inventory/companies/cashfree.json",
+      "bytes": 23447,
+      "sha256": "de88439f1f90d92328db897b3638da4477c926ef41df0a09a9e057fc36d479da"
+    },
+    {
+      "path": "inventory/companies/cato-networks.json",
+      "bytes": 88124,
+      "sha256": "cc9c13305bf23a2e199c63102a03cf3dfbf3c0ef0acab0f6465c8dc390f92839"
+    },
+    {
+      "path": "inventory/companies/celonis.json",
+      "bytes": 157189,
+      "sha256": "26bb79e70bf02e03a3283088bf527ce2ece67f088ab5d5faeb38cca0ac3aa9cf"
+    },
+    {
+      "path": "inventory/companies/certik.json",
+      "bytes": 52518,
+      "sha256": "3b418fb16443e9297aca612c76625a606944c9f912381a3bfe3cf4fe5bdf6e95"
+    },
+    {
+      "path": "inventory/companies/chai-discovery.json",
+      "bytes": 18113,
+      "sha256": "836bc87d36aa4c4bdc9cfa8b47f8e90cb5f59668e96f557412a418e4d6d47224"
+    },
+    {
+      "path": "inventory/companies/chainguard.json",
+      "bytes": 97296,
+      "sha256": "b4e2d75f61e221144592d601bdfcfe196fb21a0872f70720ff44d7331bd57570"
+    },
+    {
+      "path": "inventory/companies/character-ai.json",
+      "bytes": 15008,
+      "sha256": "a62bd4697c7cbc33f7c953a21782396018f0890986aa6a2b7033232d34808be1"
+    },
+    {
+      "path": "inventory/companies/chargebee.json",
+      "bytes": 13098,
+      "sha256": "f8e5d07c8afbdb504240ff13694fd659dc96cdf74ec752cda0af4d2add92e073"
+    },
+    {
+      "path": "inventory/companies/checkout-com.json",
+      "bytes": 120313,
+      "sha256": "7dd697bdd65229498d56e166a9b19ea3442c0d25e5273e936fbac1c61c8983f0"
+    },
+    {
+      "path": "inventory/companies/claim-health.json",
+      "bytes": 10722,
+      "sha256": "4898ca4167dc81b146d60307ec687ac02ba3a352bebc643cf0f6d8033332408b"
+    },
+    {
+      "path": "inventory/companies/clay.json",
+      "bytes": 46725,
+      "sha256": "1cf2a7ac764c13f05492a7c904fb8aec801285ddc218035629311a5f48cc1a0a"
+    },
+    {
+      "path": "inventory/companies/clear.json",
+      "bytes": 18082,
+      "sha256": "5b023add09e93d49dadc692b0486365b290dfbc99857332296507b7631f1d2a2"
+    },
+    {
+      "path": "inventory/companies/clevertap.json",
+      "bytes": 22544,
+      "sha256": "3d8f0f132429549bd523fa61fdca6c1cba5f154baf438651ee6d76ae5cfdaf97"
+    },
+    {
+      "path": "inventory/companies/clickhouse.json",
+      "bytes": 220444,
+      "sha256": "6e5f088543d1497997a7f750567b55dd5bb0d7a817bfa16a34940200c734bd72"
+    },
+    {
+      "path": "inventory/companies/clickup.json",
+      "bytes": 93609,
+      "sha256": "2e6cfa6eca4f322c734d496e9ba7e2e7c21ba6f70fee01ebf1463eb9b4f36734"
+    },
+    {
+      "path": "inventory/companies/clipboard-health.json",
+      "bytes": 84796,
+      "sha256": "e0b8fd962df67b93dfc5887630f645fbb100ae88e4041583ff368dad8cab06ac"
+    },
+    {
+      "path": "inventory/companies/coding-ninjas.json",
+      "bytes": 8838,
+      "sha256": "9f7e1d6802cc23d74da8c93484a8aa31580ae1faad9f51332a71380df4fcb0ef"
+    },
+    {
+      "path": "inventory/companies/coefficient.json",
+      "bytes": 10424,
+      "sha256": "08ac1653067e8c96d4dcf2e6145dd20c8f110307644cfa2fcd62457c7a1b3b55"
+    },
+    {
+      "path": "inventory/companies/cognida-ai.json",
+      "bytes": 12679,
+      "sha256": "601ff269dc68fd1d36246c744906011b53cea59c0681ade615461970ed8fcb86"
+    },
+    {
+      "path": "inventory/companies/cognition.json",
+      "bytes": 84041,
+      "sha256": "dc2c4bad580e80add2a223d705844f486756037280195d77f1717ce1c79eaf10"
+    },
+    {
+      "path": "inventory/companies/cohere.json",
+      "bytes": 130301,
+      "sha256": "7b73ae18f9235749f2429ba25083d3fc9ca8e4d5d0254d810744c6bd622b9a17"
+    },
+    {
+      "path": "inventory/companies/commerceiq.json",
+      "bytes": 21178,
+      "sha256": "d94723b3e88b5c17fbacb901101da7bfe7d42cbceff3dce0cf1e10f934044875"
+    },
+    {
+      "path": "inventory/companies/commure.json",
+      "bytes": 67349,
+      "sha256": "0048dd2a278aa01af4870c23dd5326e78a6889f9e581ba24bbdb3431967af0ef"
+    },
+    {
+      "path": "inventory/companies/composio.json",
+      "bytes": 31393,
+      "sha256": "9127297dac14c110c295031dbe0742c23427ac8bc81af2d53f72e338992502f3"
+    },
+    {
+      "path": "inventory/companies/confluent.json",
+      "bytes": 54002,
+      "sha256": "dbb08a6f196f8ffdde2b93ea6b326c5cd01f0cd6277019dad744c3afb44acc5b"
+    },
+    {
+      "path": "inventory/companies/corgi.json",
+      "bytes": 50709,
+      "sha256": "40e7625f8cb8e85eb4cbd5df96b75f96a867580ae37fb9c6687bb1ed6cd6d6fc"
+    },
+    {
+      "path": "inventory/companies/cred.json",
+      "bytes": 15378,
+      "sha256": "abae715d265c9c65d63d6bb18e68a39ca1a3d8ee7973f108ab1fe3d97b377254"
+    },
+    {
+      "path": "inventory/companies/crusoe.json",
+      "bytes": 329169,
+      "sha256": "9edf7a18e6a87992a96f5d210816e664ee31f69b8c4936a1a45c111271493069"
+    },
+    {
+      "path": "inventory/companies/cyera.json",
+      "bytes": 141684,
+      "sha256": "95b39c2ba81cec0d88d4baa50bdec108f3cbdaf53538e322d8765a41c6a8f7bb"
+    },
+    {
+      "path": "inventory/companies/daloopa.json",
+      "bytes": 17533,
+      "sha256": "059834f2b5e42c5e24040d2eecc40187586d7525dafa34da8110ba5c6f3c34ba"
+    },
+    {
+      "path": "inventory/companies/darwinbox.json",
+      "bytes": 36253,
+      "sha256": "6ee414a9264aae0ad275f37283b77d6eeea5825d84a8e6f09edd84cd969ac8b0"
+    },
+    {
+      "path": "inventory/companies/databricks.json",
+      "bytes": 549671,
+      "sha256": "51c6797335e2e41ec149f1077ebc6ac4e8cd1daa18df33ab453d81d8c5e39543"
+    },
+    {
+      "path": "inventory/companies/datachain.json",
+      "bytes": 18691,
+      "sha256": "2d955e4579b6aafdedfb05a339925d7aeaaae9fd652d488999cbe1b4303e3158"
+    },
+    {
+      "path": "inventory/companies/datacurve.json",
+      "bytes": 6596,
+      "sha256": "ad44a7dd52f5db7a778f84ad6c4165dfc6df22adfa3a2fb9fcbbced8eea033a1"
+    },
+    {
+      "path": "inventory/companies/daybreak-health.json",
+      "bytes": 37733,
+      "sha256": "d05b255a8580ff9aaf3c6ab7792e16105fa25153856be3e268404c0cf598992a"
+    },
+    {
+      "path": "inventory/companies/dealmaker.json",
+      "bytes": 13799,
+      "sha256": "4024eacbef97228dbed57f14b94a45e748cd9cb5443e96460f8e5bfc5cdd056c"
+    },
+    {
+      "path": "inventory/companies/decagon.json",
+      "bytes": 108525,
+      "sha256": "28dd9028064b9abedc75f232cae1229c2fa026bd1d1915c1d8b0a71c69ee9cae"
+    },
+    {
+      "path": "inventory/companies/deepaware-ai.json",
+      "bytes": 9909,
+      "sha256": "27897f1349fee45678014236070ff491bd7202f1b22518296e7996d0abb1fd43"
+    },
+    {
+      "path": "inventory/companies/deepl.json",
+      "bytes": 46336,
+      "sha256": "454e0ea313f3308f55d0980c0860c08751a9ff4063730514d88fbfb9f2de4788"
+    },
+    {
+      "path": "inventory/companies/deepscribe.json",
+      "bytes": 14507,
+      "sha256": "be85679fa1d8afea17c961768bd615dcea64e8223f8426594d03fcaf5418fb51"
+    },
+    {
+      "path": "inventory/companies/delhivery.json",
+      "bytes": 19952,
+      "sha256": "5626584633f5bd702a2a9d67782ef5927d7cce65c06ef88e6f3e0941a35154e2"
+    },
+    {
+      "path": "inventory/companies/dexterity.json",
+      "bytes": 31891,
+      "sha256": "ea50fc10d6d8d07a8ee1d17fde9f621f7c5fab8de40fd1776f670e300056df5b"
+    },
+    {
+      "path": "inventory/companies/dezerv.json",
+      "bytes": 21262,
+      "sha256": "26faf5342ea2be3cad5ad9a29f7a3e2a69de4efd2cbe5197535a8b3163e26c73"
+    },
+    {
+      "path": "inventory/companies/dialogue.json",
+      "bytes": 11674,
+      "sha256": "dadae981ec223675a5d445497007757fc95df147206f666275e532c15a398634"
+    },
+    {
+      "path": "inventory/companies/digantara.json",
+      "bytes": 48540,
+      "sha256": "6d4f6df9c5cb3575cf625531afa76a1aee5ac0ac8e175137c3521de7921c3669"
+    },
+    {
+      "path": "inventory/companies/distyl.json",
+      "bytes": 23929,
+      "sha256": "4aecfe29397904e4de200a5d7287cf874cfed28be5c0bfe129f8adf7187c8356"
+    },
+    {
+      "path": "inventory/companies/doctronic.json",
+      "bytes": 16091,
+      "sha256": "ac8f20daba6144b95e781ed7da500766416dc65756bb25f51939cc9e481ff716"
+    },
+    {
+      "path": "inventory/companies/dodopayments.json",
+      "bytes": 11169,
+      "sha256": "9c09e3405373bf830cf78e6c94149c2170ec208e679c1f3632b65d748bbb939e"
+    },
+    {
+      "path": "inventory/companies/domu-technology-inc.json",
+      "bytes": 15591,
+      "sha256": "f07e7c73330dd062428c977edb5014db76791addfd6d18c00b77973ac14f2e78"
+    },
+    {
+      "path": "inventory/companies/doola.json",
+      "bytes": 52956,
+      "sha256": "c98cceb431b388bcecfcc7b9f85f5f7ee832e0e6b238a480c454ccc1a3dabe4e"
+    },
+    {
+      "path": "inventory/companies/drinkprime.json",
+      "bytes": 7113,
+      "sha256": "de6b1af64622aacf5d96601f01e9b6b38def6c0b848e6090458d4d122b4c458e"
+    },
+    {
+      "path": "inventory/companies/drip-capital.json",
+      "bytes": 9683,
+      "sha256": "672580fa77b561a02f19dc9dfd8cdea47a46dc6670e5299e0f9b50185f7accef"
+    },
+    {
+      "path": "inventory/companies/drivetrain.json",
+      "bytes": 46610,
+      "sha256": "e3cb3dcf190b09883ecee6021fdded6c52b341ac790030c52db0b116ec43b634"
+    },
+    {
+      "path": "inventory/companies/druva.json",
+      "bytes": 45115,
+      "sha256": "8a80b84db56cf5974502a6a695ed9b633cdf8a7123df676a568cc222b8921878"
+    },
+    {
+      "path": "inventory/companies/dualentry.json",
+      "bytes": 106073,
+      "sha256": "2d753d05b38f869268becf4f4431e236f4870ef8aa9a2025c3f5b2f67eb43e52"
+    },
+    {
+      "path": "inventory/companies/durable.json",
+      "bytes": 9122,
+      "sha256": "7566b5070cae1135cc98b4a7b48cac1679217ebb311eace36af02cf8bc6943cf"
+    },
+    {
+      "path": "inventory/companies/dynatrace.json",
+      "bytes": 99888,
+      "sha256": "0a88acd939cb844a3e4b7fc9fb3eafc35b656c0e14795c3cc62b9abf7e3449a5"
+    },
+    {
+      "path": "inventory/companies/elementor.json",
+      "bytes": 7265,
+      "sha256": "ac4ea2550fe1500b47667274888311609ee41f2c623a7fc7aee5b162c45329c3"
+    },
+    {
+      "path": "inventory/companies/elevenlabs.json",
+      "bytes": 215180,
+      "sha256": "320b692ff12a33a5cfd5eff0d0b1de316f677920de86759066afc6dcc03f6998"
+    },
+    {
+      "path": "inventory/companies/eliseai.json",
+      "bytes": 117547,
+      "sha256": "64270c3537b2cdb13974ef04e54bcca2580fde19d9561139e1ef1b2c5b6ecdd7"
+    },
+    {
+      "path": "inventory/companies/emergent.json",
+      "bytes": 21937,
+      "sha256": "719bdb1d0b62428435a0afdcbf19081717aa88a5e63793abf5af785e03dd9be8"
+    },
+    {
+      "path": "inventory/companies/encord.json",
+      "bytes": 39989,
+      "sha256": "fa5ce4d0e1b436adb13fe6544b48a909f5512fa288bdcd4585460da6c7796a99"
+    },
+    {
+      "path": "inventory/companies/eon.json",
+      "bytes": 31823,
+      "sha256": "c0b5389967823a2a45867b602c7e6e457811b4a3b3120027c8603c0e7993ee70"
+    },
+    {
+      "path": "inventory/companies/epic-games.json",
+      "bytes": 88679,
+      "sha256": "af136495f3176cd85261db82e07b5bef17571f7dc45ce760c62026642b5d1392"
+    },
+    {
+      "path": "inventory/companies/eudia.json",
+      "bytes": 30015,
+      "sha256": "9a68ec9c2aa47941c9a38e3d40965ddf7486c94002a2ab921466fd4dddde9543"
+    },
+    {
+      "path": "inventory/companies/evenup.json",
+      "bytes": 72452,
+      "sha256": "64f7e3367b247d7c96420546bd2a2b9cfda630f13f5b12870380561eff19de71"
+    },
+    {
+      "path": "inventory/companies/everstage.json",
+      "bytes": 20260,
+      "sha256": "72f23493098bbd34523c44aededa55e3f639e6bca54cf626c7a1a1e9e028c215"
+    },
+    {
+      "path": "inventory/companies/exa.json",
+      "bytes": 38566,
+      "sha256": "3e594aa190bd345b52b4e0e83eb481349157d4a1c83da6ec3544d00c57f7f33e"
+    },
+    {
+      "path": "inventory/companies/exabeam.json",
+      "bytes": 10005,
+      "sha256": "26d0d541d35c7f55e96b93d8e49cb588c099a3f6f929413b686817911b77bd3b"
+    },
+    {
+      "path": "inventory/companies/exponent-energy.json",
+      "bytes": 34245,
+      "sha256": "766939e536fc5ab14be045c5c6b39aff666e1b699aa004a06f5053ea792ef26c"
+    },
+    {
+      "path": "inventory/companies/ezcater.json",
+      "bytes": 33214,
+      "sha256": "6f27bc16bf942e33024e49dd78cb972dc021f270046fe6e8a5c4ffc334b8ef05"
+    },
+    {
+      "path": "inventory/companies/faire.json",
+      "bytes": 52307,
+      "sha256": "c63a32e8aba78ace4b4f6e7ab8297706e269b02dab590ce6787d018c85f79ccf"
+    },
+    {
+      "path": "inventory/companies/falconx.json",
+      "bytes": 19198,
+      "sha256": "336a567d40d56cbb99b4c40280730c488f11b229d44fbedaff6419af2372eae4"
+    },
+    {
+      "path": "inventory/companies/fam.json",
+      "bytes": 17027,
+      "sha256": "f9e7adb756a450ade13afb89dc5e7091fb420c5cd9b7076411f78b5a607c63dd"
+    },
+    {
+      "path": "inventory/companies/famapp-by-trio.json",
+      "bytes": 16036,
+      "sha256": "c1a1826a2acd4716270954c1366087c7d659967f6cd7ab743fe4877234fa775b"
+    },
+    {
+      "path": "inventory/companies/fampay.json",
+      "bytes": 15558,
+      "sha256": "d655476f17d0f61d585b52b6aa3ff726bbc98be0480cfbc84684868c53416e09"
+    },
+    {
+      "path": "inventory/companies/farmart.json",
+      "bytes": 16424,
+      "sha256": "fa9968a41a26bd30c6dd219dc02da3426c5b091b7a4d850b0f52b43439d2b187"
+    },
+    {
+      "path": "inventory/companies/farther.json",
+      "bytes": 48469,
+      "sha256": "e8a7ee959ed669c0cff5185c42baf9bb9be78c4d395504c8ad24a2fb941b4bf7"
+    },
+    {
+      "path": "inventory/companies/federato.json",
+      "bytes": 29486,
+      "sha256": "e7a91fc79db0d7b516c6af7664a3ed9d1ef0443c71d2d3c23f69a615f934fdf7"
+    },
+    {
+      "path": "inventory/companies/fello.json",
+      "bytes": 24230,
+      "sha256": "8700105ad48924868090d4071203ff74fd26b11b376c1772d3822d343046b968"
+    },
+    {
+      "path": "inventory/companies/fiddler-ai.json",
+      "bytes": 17953,
+      "sha256": "864bf400683368d187c116c0411b5d6c57b4cbdb3a8a54c5f282984a3314b12a"
+    },
+    {
+      "path": "inventory/companies/figma.json",
+      "bytes": 88979,
+      "sha256": "3d94646f9a74f2d8fde4100a8247a942980903fa8bd9da62c3a213215d034c3f"
+    },
+    {
+      "path": "inventory/companies/figure.json",
+      "bytes": 64320,
+      "sha256": "90840fc3b635af19a12673cf9b68a6f9363ac7b429d95037e1ee49a8797d8b3f"
+    },
+    {
+      "path": "inventory/companies/finbox.json",
+      "bytes": 9123,
+      "sha256": "b41ef8e291bf89fc3610f4c4e443b4633c0f14d111cef497252f1e55d479ca1c"
+    },
+    {
+      "path": "inventory/companies/finix.json",
+      "bytes": 17425,
+      "sha256": "4e1676ba4ef0dd868a809b7acfdf363ca258f0dc2ab98143efc28e69ad96bf61"
+    },
+    {
+      "path": "inventory/companies/firecrawl.json",
+      "bytes": 35875,
+      "sha256": "d0b5c712ddc7e513a5e8edb1bf01d21f1b3f1774f8142e82abca922b998b2f2e"
+    },
+    {
+      "path": "inventory/companies/fireworks-ai.json",
+      "bytes": 61459,
+      "sha256": "7d10004c4da446a246e2c76ffe865224da5d4d9571f733eab2f9f90201f2d086"
+    },
+    {
+      "path": "inventory/companies/flobiz.json",
+      "bytes": 13629,
+      "sha256": "b357daab02ae47edffa641994f03991a7e13497ecff3b8870dfa5191ef7b48fc"
+    },
+    {
+      "path": "inventory/companies/flynote.json",
+      "bytes": 5639,
+      "sha256": "f8039738bb89c41551dc11b54fd239ebd6c24fe9df7be7db0970f1bf7a1c21f6"
+    },
+    {
+      "path": "inventory/companies/freecharge.json",
+      "bytes": 11199,
+      "sha256": "b2f680e10b4ca54bd42f1ba089eed16b5fc0dc280138a8d4478a52ca11d1e45e"
+    },
+    {
+      "path": "inventory/companies/freed.json",
+      "bytes": 12591,
+      "sha256": "289dbc91617a7707b2dfbcb1259078f73e8f8ec7960ce4d03716b916df4b11b5"
+    },
+    {
+      "path": "inventory/companies/freehand.json",
+      "bytes": 23077,
+      "sha256": "3165b221c13f0de70e6da126402b218b45f04b25d010fcd3b5e7ec02a87e041c"
+    },
+    {
+      "path": "inventory/companies/freshworks.json",
+      "bytes": 83318,
+      "sha256": "2ea574cc2103bca05e5818023e8fadaff54979550b955079b3821d6cd25f4172"
+    },
+    {
+      "path": "inventory/companies/gaiafamily.json",
+      "bytes": 17518,
+      "sha256": "9d2ea4cf0c3e42fe003ae60734ff20a844adab3ce36ee41be536b21cd43b705a"
+    },
+    {
+      "path": "inventory/companies/gamma.json",
+      "bytes": 35084,
+      "sha256": "2ef4ed2650461f54589c2741c6341fcbe3e9cd283d34ece54a2832e2af2f0120"
+    },
+    {
+      "path": "inventory/companies/giga.json",
+      "bytes": 27309,
+      "sha256": "3b4ac0c885db129d88b7a147a281764eed9dfecf616e74c59c1cb5bfd044756e"
+    },
+    {
+      "path": "inventory/companies/glean.json",
+      "bytes": 94518,
+      "sha256": "6083bf89c6d945ad639246699acdead709accdc14b8246833a93f7939ff1dedf"
+    },
+    {
+      "path": "inventory/companies/gohighlevel.json",
+      "bytes": 85740,
+      "sha256": "5610d6b72b98da9bb195db4e6c40a5e0571801a5413240253b08181957cad66f"
+    },
+    {
+      "path": "inventory/companies/gokwik.json",
+      "bytes": 19453,
+      "sha256": "2684fecfbf24c2f119d6645c4c10756c9748348e3f9770727ab36caeb7789ede"
+    },
+    {
+      "path": "inventory/companies/gomotive.json",
+      "bytes": 124890,
+      "sha256": "76714bfb298f6a137a354270aa6ed26902463ea63a65cca9cd5e7088df4addb8"
+    },
+    {
+      "path": "inventory/companies/goodera.json",
+      "bytes": 26496,
+      "sha256": "1ba08928ad296f12592dbc4ffba568d3ad43cbeab994bba954e4e753d15a53db"
+    },
+    {
+      "path": "inventory/companies/goodfire.json",
+      "bytes": 20272,
+      "sha256": "5c1e1f7df0f75f765739b7b2754f49208a1b78781a4deda0e6a6b5d00311512f"
+    },
+    {
+      "path": "inventory/companies/goodnotes.json",
+      "bytes": 32793,
+      "sha256": "873464a7eb72934b2b9fe0f49bd6ecf47e0570d1e7a1ad67c6890cd8a944ece6"
+    },
+    {
+      "path": "inventory/companies/google-deepmind.json",
+      "bytes": 9100,
+      "sha256": "6ff1e1abdb29ec8315a8ba9639d11813e3747bcc61d1241b907a3387db60f794"
+    },
+    {
+      "path": "inventory/companies/goto.json",
+      "bytes": 69564,
+      "sha256": "46287f9453b8d620acb9bb3c76f6e8ccc7f88cc46e515af2e3973140fe33f912"
+    },
+    {
+      "path": "inventory/companies/grafana-labs.json",
+      "bytes": 128793,
+      "sha256": "fbaf027d15faa2a413e8eb80d6d6749c59d4577ac2c167be0095bfdde45f5275"
+    },
+    {
+      "path": "inventory/companies/granola.json",
+      "bytes": 16096,
+      "sha256": "cc3f6440656c4c3311cc4b2b69573885637f99a4feafb81eba2e0bd1ffb83061"
+    },
+    {
+      "path": "inventory/companies/greylabs.json",
+      "bytes": 19947,
+      "sha256": "43c2ac390db46ccc5b33c91537eb88a0d0dcbfd20205376cbb35d9ecaaea5d8a"
+    },
+    {
+      "path": "inventory/companies/growfin.json",
+      "bytes": 6978,
+      "sha256": "8e35a70c9b5cf539f4686f5c1af2c5865f9facb1ce666f056080814792776880"
+    },
+    {
+      "path": "inventory/companies/groww.json",
+      "bytes": 17267,
+      "sha256": "dc1cf3d52645ffba13d5083a5ff283f413ecab159f5941a46b9063d33364a731"
+    },
+    {
+      "path": "inventory/companies/gushwork.json",
+      "bytes": 15713,
+      "sha256": "c92f9da1fd8070dd9155a4ec93d92394502a80a43aa8c37faccb262e6630bace"
+    },
+    {
+      "path": "inventory/companies/habyt.json",
+      "bytes": 13204,
+      "sha256": "7c6116fa072aa24a670b662e1819edc85aba952a48c92d9319d84009dcb24bc1"
+    },
+    {
+      "path": "inventory/companies/hackerrank.json",
+      "bytes": 34689,
+      "sha256": "f1b71bd608b486d76f6f0160576c84f089329c5c608b110737c00ab63fe94a04"
+    },
+    {
+      "path": "inventory/companies/handshake.json",
+      "bytes": 72296,
+      "sha256": "4dfbbbaec6d4558d52efe0bbb8baca674f92424896ba83c568314404a4b485dc"
+    },
+    {
+      "path": "inventory/companies/harvey.json",
+      "bytes": 202070,
+      "sha256": "4c77fff89e58439bd46b418841e4c8bed2a6922d1ef874e6fd3c765d268cc72c"
+    },
+    {
+      "path": "inventory/companies/headout.json",
+      "bytes": 25150,
+      "sha256": "bd34a449f5c38b448fe15a9ac434807f7c12149efe3c48fb92973a4d9353c4a6"
+    },
+    {
+      "path": "inventory/companies/headspin.json",
+      "bytes": 18009,
+      "sha256": "c9a2d87184b20fd5d56f058d9258f8601ecf268dd87cfd6997dee6d4f47787a9"
+    },
+    {
+      "path": "inventory/companies/heidi-health.json",
+      "bytes": 99054,
+      "sha256": "de217f4f48b3b1417731705d6d69be1bd03b537b31f7a08d09bacf355e5e78f8"
+    },
+    {
+      "path": "inventory/companies/helion-energy.json",
+      "bytes": 45796,
+      "sha256": "2a60b2ee8454eb8ba3b91de5b0678aab7c2870b897d53fe0dba2bd70a4c25c28"
+    },
+    {
+      "path": "inventory/companies/helsing.json",
+      "bytes": 90475,
+      "sha256": "107868d5123a3b3e377c552e433596fcd33a07e6d36a3d5713f29b838acae8f2"
+    },
+    {
+      "path": "inventory/companies/hevo-data.json",
+      "bytes": 38700,
+      "sha256": "2db0e17e97ecde0d9e93acae82b37d413df59c768fee352715520f8b94ff7801"
+    },
+    {
+      "path": "inventory/companies/highbeam.json",
+      "bytes": 14277,
+      "sha256": "280a426cf7c1e884b86d8689123990998f847f397a45228a523720947c93d865"
+    },
+    {
+      "path": "inventory/companies/highradius.json",
+      "bytes": 65767,
+      "sha256": "b2f397313dc37ac9fc3f1ce2f45cc4a7fbbe3bce770d1b924e84054808c7f0ab"
+    },
+    {
+      "path": "inventory/companies/hippocratic-ai.json",
+      "bytes": 46776,
+      "sha256": "046f58c318d20292c79a59b4c92f38ac118d4eb5e71c5f420d5f7b180f7e47c2"
+    },
+    {
+      "path": "inventory/companies/homelane.json",
+      "bytes": 48010,
+      "sha256": "4d4498e4c1bcaf7275dad05b2e921b4ebce05c018d524d5814851e3f85e39ee1"
+    },
+    {
+      "path": "inventory/companies/hook.json",
+      "bytes": 6509,
+      "sha256": "a801898732f0fabea62c828ea670891dae0397f7195c660ab6f8c999b71b6f48"
+    },
+    {
+      "path": "inventory/companies/hyperbound.json",
+      "bytes": 9111,
+      "sha256": "104d054bedd235d3b2744801cbd48a00ac32873bfcbda8679ebfd37d585c1f3d"
+    },
+    {
+      "path": "inventory/companies/hyperguest.json",
+      "bytes": 11896,
+      "sha256": "d6fae76230297f41ce1d407b8e40052e3269517c504d04a1614e1c7dd3a87944"
+    },
+    {
+      "path": "inventory/companies/ibaset.json",
+      "bytes": 27510,
+      "sha256": "b4e10b0836d99b0809bc10bcf6205584560b02ebf9032fdc87a6b015d04aac8e"
+    },
+    {
+      "path": "inventory/companies/imt-care.json",
+      "bytes": 7619,
+      "sha256": "18135d93fa7aa9a4406bb064376e0ee6c7928874b3c599e4541f3b948cd155a7"
+    },
+    {
+      "path": "inventory/companies/inc42.json",
+      "bytes": 6128,
+      "sha256": "d2b91b87fdf0baf4e5f6fb0434bdf369805aa532202ad527139a4ca5e45596ab"
+    },
+    {
+      "path": "inventory/companies/infinity.json",
+      "bytes": 7539,
+      "sha256": "e0580b868e39437b26737622013cbd804aae099e3a3b03a5891e61a75901294e"
+    },
+    {
+      "path": "inventory/companies/inflection.json",
+      "bytes": 13568,
+      "sha256": "80d39989c02d839024c31b9df6a0366cc144da23a1f41869b14afabc0a057714"
+    },
+    {
+      "path": "inventory/companies/innovaccer.json",
+      "bytes": 33327,
+      "sha256": "dbc0e95046f0ff3e2c911ade388f347b8db6f346e7fde66c9a7b56b312e25a7d"
+    },
+    {
+      "path": "inventory/companies/interfere.json",
+      "bytes": 7895,
+      "sha256": "2bc1f18c55c24ca073eb9570c9123f2f1b32a370b6db3b9874a0a7c3b8e6d330"
+    },
+    {
+      "path": "inventory/companies/inworld-ai.json",
+      "bytes": 25556,
+      "sha256": "52661ac94abbdef8b8c5cd0b0ae41290ab713ca374cb6b4e089153f59f57d848"
+    },
+    {
+      "path": "inventory/companies/ivy.json",
+      "bytes": 13070,
+      "sha256": "ffaf9dacc1f1af4df676f4958c72664e1520802357184fdec556a2bcfb753784"
+    },
+    {
+      "path": "inventory/companies/ixigo.json",
+      "bytes": 23291,
+      "sha256": "2f2ee0a55529ec3b1ba44cec60cdd890db23c7c7e79f93d0a4f610923cb30745"
+    },
+    {
+      "path": "inventory/companies/jar.json",
+      "bytes": 13593,
+      "sha256": "06b90e185057bf234a5486aba569922fc5cebf038f12be7c79ca035195021edf"
+    },
+    {
+      "path": "inventory/companies/jodo.json",
+      "bytes": 11677,
+      "sha256": "e0e8693ff67342a34f9ebbab2f214b444964415ce6683bef7dd7e2cbe347f870"
+    },
+    {
+      "path": "inventory/companies/josys.json",
+      "bytes": 25412,
+      "sha256": "18c54c8e2cb6a9c01b2febb18e31b10fb744a30337c4dfc812458dc42dceb76e"
+    },
+    {
+      "path": "inventory/companies/juniper-square.json",
+      "bytes": 52966,
+      "sha256": "95be205e9e85aee394e7185da77bf6e90d1ae3a742853cc44a4cbcb41e03d380"
+    },
+    {
+      "path": "inventory/companies/jupiter.json",
+      "bytes": 14014,
+      "sha256": "368efd3c7bee5d5c1b7e3d90e8fc19c7dc9c008447c95405c03456556715c2ee"
+    },
+    {
+      "path": "inventory/companies/k2-space.json",
+      "bytes": 156541,
+      "sha256": "2ac8a2046fdd8d3b29a916d1d7faa37ccd58edb1ace176db57ae6ebc3e99c661"
+    },
+    {
+      "path": "inventory/companies/kaagaz.json",
+      "bytes": 7839,
+      "sha256": "1ff02b59e64ad709f81093a29846e0fc0c246e81eee5772945bf9510ea62e65b"
+    },
+    {
+      "path": "inventory/companies/karius.json",
+      "bytes": 33608,
+      "sha256": "6ede5e601b44f137e97c1b1badb9cea0fcb0edb755962d92d9f73a4c62893ddc"
+    },
+    {
+      "path": "inventory/companies/ketryx.json",
+      "bytes": 22039,
+      "sha256": "f322bd31eef4749b4515524381292f3baf6724c21773f9e7698b30e95122cc65"
+    },
+    {
+      "path": "inventory/companies/ketto.json",
+      "bytes": 28566,
+      "sha256": "28cb48171215525d8af7cf28f4d1247f0c90e14dc6b1269b5704150cc6a3e20f"
+    },
+    {
+      "path": "inventory/companies/khatabook.json",
+      "bytes": 17628,
+      "sha256": "ec31960311e82b4e1343a80ef5846271b5f40635eac7c5defcc4ea013e80a5d5"
+    },
+    {
+      "path": "inventory/companies/kodiak-ai.json",
+      "bytes": 53667,
+      "sha256": "aac0880b141c2c86c569b590809caae24f4ab8626595eb686402a2cc1ce41798"
+    },
+    {
+      "path": "inventory/companies/kong.json",
+      "bytes": 80449,
+      "sha256": "bca71ecee6d7314112e2d45a7f244adf94cb6e8eb4a4063301b8341181ddd52a"
+    },
+    {
+      "path": "inventory/companies/kreditbee.json",
+      "bytes": 15559,
+      "sha256": "f7731ce3135254817031e88372efc1abfe2f702a638202dddbb4ac915ee12423"
+    },
+    {
+      "path": "inventory/companies/kutumb.json",
+      "bytes": 18113,
+      "sha256": "512320cf26a012daacde3e2fe4f35de927ad3e26e99bca9a1756807d06c1969c"
+    },
+    {
+      "path": "inventory/companies/lambda.json",
+      "bytes": 140700,
+      "sha256": "d1c36ac2f613087ab9f2f364f90990d08171417838c1f4ba4b1b06591b80a699"
+    },
+    {
+      "path": "inventory/companies/lambdatest.json",
+      "bytes": 15187,
+      "sha256": "4b750182ee20e986b8ca5cde877fd4a5b5c86379d5f39c6b7ef6f0d2e3f1f841"
+    },
+    {
+      "path": "inventory/companies/landeed.json",
+      "bytes": 24148,
+      "sha256": "ca754d4f02f66e534616187cfb7a878e7ff57b5d6c383747dbc6ab560c9f595c"
+    },
+    {
+      "path": "inventory/companies/langchain.json",
+      "bytes": 103002,
+      "sha256": "cb94ff6dff9543d97d856288fb579fdbdbce9d0e38c909efa8731e3eaa97e805"
+    },
+    {
+      "path": "inventory/companies/leap-finance.json",
+      "bytes": 42523,
+      "sha256": "f70a76797fd7d1fe5e801de44d97be38623c4b154545170eb128c48718f45c33"
+    },
+    {
+      "path": "inventory/companies/lemon-markets.json",
+      "bytes": 33136,
+      "sha256": "03a6c52af8a1e8fcabfe4588c0bf4f9316ca58d74ebeeb6ec1882744d9efd7a4"
+    },
+    {
+      "path": "inventory/companies/level-ai.json",
+      "bytes": 25574,
+      "sha256": "68508d26ace29eb5cc165a0967ca0cb0d90a191e3735c6de6c913c2917d3b2ab"
+    },
+    {
+      "path": "inventory/companies/liminal-custody.json",
+      "bytes": 15375,
+      "sha256": "f1905cd0add743ddeb07ae05560fd05c617fd76c5e0b507fe1bd96dc21c6a4cc"
+    },
+    {
+      "path": "inventory/companies/lindy.json",
+      "bytes": 6692,
+      "sha256": "d81c6432ab2529de6d342d19a16e197062d288e7f09fd053d14029d95eb97a7d"
+    },
+    {
+      "path": "inventory/companies/lokalapps.json",
+      "bytes": 54765,
+      "sha256": "9ef07635f5e03aabdcf186e8a07d46c606faef86d078939fbfaa6b3b7f468caf"
+    },
+    {
+      "path": "inventory/companies/loop-health.json",
+      "bytes": 16112,
+      "sha256": "e712ae6ac9424d1dfc5ff037e65161f34934c8172cdd562ee3fc53eeeb48dff7"
+    },
+    {
+      "path": "inventory/companies/lovable.json",
+      "bytes": 64383,
+      "sha256": "29c8c2fdf76e3adb4d86738a11faafec4e21c753ca52c295688bb8e9f0fad582"
+    },
+    {
+      "path": "inventory/companies/luma.json",
+      "bytes": 34191,
+      "sha256": "8a79dc5e0047478cd7822242438d1b94d0dbe653a1f0c1b07042f8ccc56c5b03"
+    },
+    {
+      "path": "inventory/companies/lyzr.json",
+      "bytes": 17013,
+      "sha256": "7656ffcc0b2ed83a7697bf7507e55fd8148580d463824bf1edaf6cb2e65e82ff"
+    },
+    {
+      "path": "inventory/companies/m2p-fintech.json",
+      "bytes": 26148,
+      "sha256": "67c064db63ebf4fc2b24328577064a016981538e1417d404787687a759032da2"
+    },
+    {
+      "path": "inventory/companies/makemytrip.json",
+      "bytes": 51294,
+      "sha256": "24dafd58824d3e66d01564a34c2f1e90c8d47dd4eee890589f2a4369b8738c9a"
+    },
+    {
+      "path": "inventory/companies/marketfeed.json",
+      "bytes": 6681,
+      "sha256": "84efcbdf254e95c3a631f6956de7569cbf8995cd4b231c5531b2263ae86f6693"
+    },
+    {
+      "path": "inventory/companies/matillion.json",
+      "bytes": 29941,
+      "sha256": "484d0dc57e4aceca913cc3fafd7c0cec0eb569912ff203f98415cc4e739a6239"
+    },
+    {
+      "path": "inventory/companies/meesho.json",
+      "bytes": 46504,
+      "sha256": "678581ac38cefe05d46d43c1ef1bc4c5cb68c835b34fccf54111fa255013799b"
+    },
+    {
+      "path": "inventory/companies/mem0.json",
+      "bytes": 8886,
+      "sha256": "ce289621bd688e392cbf7e163b9e5b58eccd762170d1031174b581c7fdb0158c"
+    },
+    {
+      "path": "inventory/companies/meragi.json",
+      "bytes": 18030,
+      "sha256": "5a85ceb490c1666cdbf950ee9078555b0d8292aecd27a777c7e92bd87031ef83"
+    },
+    {
+      "path": "inventory/companies/metaforms.json",
+      "bytes": 9717,
+      "sha256": "b0dfdbf91eb0dcac8267e2fe0267614db5be64e2eb2e22539f2718f8add67c1c"
+    },
+    {
+      "path": "inventory/companies/metropolis.json",
+      "bytes": 70523,
+      "sha256": "34f23a8ba3f594db1f4c5cda2eb4466e3455c791c12a9af79b8ecbafdcf9f437"
+    },
+    {
+      "path": "inventory/companies/midjourney.json",
+      "bytes": 24195,
+      "sha256": "8e6e485052038c3debfaf05af7b310c0708b9cca136fbcb9129596deca4558ae"
+    },
+    {
+      "path": "inventory/companies/mindtickle.json",
+      "bytes": 30047,
+      "sha256": "0da8899772eb8e275bfcc550b859531aa72d5c5966a91a2f45877f5d2eebebc9"
+    },
+    {
+      "path": "inventory/companies/mintifi.json",
+      "bytes": 6603,
+      "sha256": "927170fc67d596f6e821592f43da23ad83a60c7609812e4d7b12fe6470c3ec57"
+    },
+    {
+      "path": "inventory/companies/mistral-ai.json",
+      "bytes": 134158,
+      "sha256": "f634d7536d47d73ca9fd398365f5f2c96b483c554fc870a1ddeee18cb343bea2"
+    },
+    {
+      "path": "inventory/companies/mitti-labs.json",
+      "bytes": 12591,
+      "sha256": "b638b0c2556928bc03740d396e7e87d0195999ddeb4c9f71ad47ae69787c46b2"
+    },
+    {
+      "path": "inventory/companies/mobbin.json",
+      "bytes": 9331,
+      "sha256": "d97c4749bad1dfd0e41d59fe52f9da783c719b802768c97c62ca69487ea2a25c"
+    },
+    {
+      "path": "inventory/companies/modular.json",
+      "bytes": 25453,
+      "sha256": "d5c4553711bb3276023d71238b96bfa216bb27f6f26104671621e566b3666484"
+    },
+    {
+      "path": "inventory/companies/moengage.json",
+      "bytes": 20025,
+      "sha256": "00063af781d953b24e67ae265e291d13f94a5cd2002d45f356a23067cc159b4c"
+    },
+    {
+      "path": "inventory/companies/moment.json",
+      "bytes": 13789,
+      "sha256": "0d7cec254c33664fd3bf98da24a70e1f1656461886dbcc9a3939501dd0dbfa4f"
+    },
+    {
+      "path": "inventory/companies/mosaic-wellness.json",
+      "bytes": 23229,
+      "sha256": "14051157f31d4a81ecaa669f83d9cec729060b0ad84ee75f8e8afcf37791e767"
+    },
+    {
+      "path": "inventory/companies/motion.json",
+      "bytes": 9489,
+      "sha256": "1a1e7496f6640aa7c935bc791e3b9014ee25e8baced8a62ef7aa0cf7f651ab95"
+    },
+    {
+      "path": "inventory/companies/moveworks.json",
+      "bytes": 68534,
+      "sha256": "ce68528b78fe8b3e6358b78a668bd1edfffaa15a433eea3d3eb011fbee213193"
+    },
+    {
+      "path": "inventory/companies/mudrex.json",
+      "bytes": 12333,
+      "sha256": "59d81fde664577cf23ac2890cf3cbedb125b43c111cc2a3d5a6627b753073551"
+    },
+    {
+      "path": "inventory/companies/multiplier.json",
+      "bytes": 85009,
+      "sha256": "c29712a479c236645cf0feac690e63248f3cff9acc8555ceb37e9a54916b7b7c"
+    },
+    {
+      "path": "inventory/companies/multiverse.json",
+      "bytes": 22354,
+      "sha256": "95835af799b5186d45e15a80dbc0eea1aad9020a8ecf9c1fcc7d01ad80f1ebed"
+    },
+    {
+      "path": "inventory/companies/mysten-labs.json",
+      "bytes": 33623,
+      "sha256": "a3917c87e885574edd2923b39ef11bb74b68352236723697891e6e3d4a83eddf"
+    },
+    {
+      "path": "inventory/companies/nabla.json",
+      "bytes": 25014,
+      "sha256": "b80f8460b6a3ff76ee8d67d918f50632d8e4cdf015a5e83239a10fb247beb26c"
+    },
+    {
+      "path": "inventory/companies/nanonets.json",
+      "bytes": 23702,
+      "sha256": "d411c4f27cdc6f9bb6e09c74c8442f1c63ccd542a089ffe91ba67a4fb5486716"
+    },
+    {
+      "path": "inventory/companies/nas.json",
+      "bytes": 9402,
+      "sha256": "5653dc13ba5ed31fef6163890e598d33c606593b3cc0d7a259b6468005b28353"
+    },
+    {
+      "path": "inventory/companies/navan.json",
+      "bytes": 126818,
+      "sha256": "28e6b8fa3f203d0cbe78d396d8a858cdcbbfdee3ccf051cdbfb444e9a76199d8"
+    },
+    {
+      "path": "inventory/companies/neara.json",
+      "bytes": 65305,
+      "sha256": "f9fb125e8d36fc965731b3f7328ea1193e42e24279721e4696ed593badf971cc"
+    },
+    {
+      "path": "inventory/companies/neko-health.json",
+      "bytes": 88469,
+      "sha256": "6dc9df2bdde9e8c425d9783ddb1db8ee86a91644d969dfae7cfc8c86257a778c"
+    },
+    {
+      "path": "inventory/companies/netomi.json",
+      "bytes": 36151,
+      "sha256": "261314c599e04acbaf31cd56ca12d726ffb8a5c496c477b8839b329db82bf317"
+    },
+    {
+      "path": "inventory/companies/neuralink.json",
+      "bytes": 49158,
+      "sha256": "3ad10e13cd2f63add3cf4b9ccb593055e41b827b4d5a9666d572f202e21ec792"
+    },
+    {
+      "path": "inventory/companies/neuron7-ai.json",
+      "bytes": 20236,
+      "sha256": "57ada71012a18241b4522d171429a04670ffed572d1626b0e30d4af0cf658702"
+    },
+    {
+      "path": "inventory/companies/newtrace.json",
+      "bytes": 12423,
+      "sha256": "92de30c7a72b9a7bfee5486b6401d7d2afba898b768004842157604e3a6ac734"
+    },
+    {
+      "path": "inventory/companies/nexthop-ai.json",
+      "bytes": 42769,
+      "sha256": "ec731772f6f551844322de53e08520317ec60a93fc282a38e8a668f40748f33d"
+    },
+    {
+      "path": "inventory/companies/neysa.json",
+      "bytes": 17316,
+      "sha256": "42e4fb5a863a5f113514939c0257ce391fcb2fb1c49ecf085b85fdcdb946ef51"
+    },
+    {
+      "path": "inventory/companies/ninjacart.json",
+      "bytes": 21904,
+      "sha256": "b966d0eb51f94841d3498945694bc0360d0ea07de457281b48fb93182ec1fea6"
+    },
+    {
+      "path": "inventory/companies/nium.json",
+      "bytes": 37853,
+      "sha256": "507727d02a59ecd5fe5ca457dbcc9f5e199a3db4bf88fdae14b14e0bc246180b"
+    },
+    {
+      "path": "inventory/companies/nobroker.json",
+      "bytes": 11961,
+      "sha256": "7d0248c8ad402aa05cf627b8b99ea782441f1f4ac8bc0455a2ccceb5a80a2c69"
+    },
+    {
+      "path": "inventory/companies/notable-health.json",
+      "bytes": 18198,
+      "sha256": "626622bdf05b156dd882642568e98cc6ff10db457d36fc2ee02f908acb91e87a"
+    },
+    {
+      "path": "inventory/companies/nothing.json",
+      "bytes": 12195,
+      "sha256": "1d3773b1ab3c71de169947ea4bb3a0f5e2838d6e5f736537c60a992f724bf401"
+    },
+    {
+      "path": "inventory/companies/notion.json",
+      "bytes": 121089,
+      "sha256": "8287323c8f9fb6c5f251e1eb0f4fb99e099f311a2d0e9c81313ff9e909108a1f"
+    },
+    {
+      "path": "inventory/companies/nox-metals.json",
+      "bytes": 9924,
+      "sha256": "b0d24c6db17b6b1a16130929fab143758e05ef3311063eb047548318b80c001d"
+    },
+    {
+      "path": "inventory/companies/observe-ai.json",
+      "bytes": 26465,
+      "sha256": "8c7726b20c7948364cbcbaed27ed113c6891504acf0ac378cea0d9e5fed64cf6"
+    },
+    {
+      "path": "inventory/companies/ocrolus.json",
+      "bytes": 29396,
+      "sha256": "57f034783f0025ad61fff578b69d8a175c9e93f7d6f34d57bf4b43fed450105f"
+    },
+    {
+      "path": "inventory/companies/olema-oncology.json",
+      "bytes": 23722,
+      "sha256": "d9e3a02a1910f67b2b34b67ab0a9cde874f6a38948ecec7699a98790bea1c5cf"
+    },
+    {
+      "path": "inventory/companies/oligo-security.json",
+      "bytes": 12317,
+      "sha256": "dc48adb61f4f4a15f77e35b68ded348c269a9d7a9fe7b13a472878908c77ed38"
+    },
+    {
+      "path": "inventory/companies/oneleet.json",
+      "bytes": 34590,
+      "sha256": "5dd68d6ff05963daf36cb7d592d1ce1bb0896949a4db393f62f3cfafbf3d7be1"
+    },
+    {
+      "path": "inventory/companies/onepay.json",
+      "bytes": 45261,
+      "sha256": "0a685c14a6fae12b0a227b6928ccf2d8482743f3db78e0dea1f620591f25b558"
+    },
+    {
+      "path": "inventory/companies/onetrust.json",
+      "bytes": 61681,
+      "sha256": "449f056ff677d049e58742a7b3b5642c9bb38abe8946632204836d4ceb08ad36"
+    },
+    {
+      "path": "inventory/companies/ontic.json",
+      "bytes": 30091,
+      "sha256": "626196a6ae588c22888d3334119728226d0853b14329405dac4da6d17a66bb91"
+    },
+    {
+      "path": "inventory/companies/openai.json",
+      "bytes": 553808,
+      "sha256": "f3b65185881786fbf317b194a90dd235d97954e7039796d2821ede43efe0749b"
+    },
+    {
+      "path": "inventory/companies/openhouse.json",
+      "bytes": 10193,
+      "sha256": "435e9a03649b7b341afad1ed355a75d8adc79e5e3968d07317195871fe2eee65"
+    },
+    {
+      "path": "inventory/companies/opentable.json",
+      "bytes": 87374,
+      "sha256": "4eac31908bd5351b7c39d46040e8c52fe18c15b13cf4f00c745835df1c611f8f"
+    },
+    {
+      "path": "inventory/companies/orca-bio.json",
+      "bytes": 62040,
+      "sha256": "47cc9bc524932a491bec875cb2ecd7376cc32ebcee10a61be2c369fa2c1b5708"
+    },
+    {
+      "path": "inventory/companies/orkes.json",
+      "bytes": 28567,
+      "sha256": "f33cb6d34cc1fe9a35b4c65c47c81810772730cfcc3106719f53b93ad1b57791"
+    },
+    {
+      "path": "inventory/companies/outset.json",
+      "bytes": 24400,
+      "sha256": "128fe6996ff1319c84451e517ed30afd5aba28f619ecc7fe42e9a9891b10cf9d"
+    },
+    {
+      "path": "inventory/companies/pacificfusion.json",
+      "bytes": 24499,
+      "sha256": "ffa4b8a057a3556053f5f5975c4ab907c7fc89e66060d795580377e031a26fc2"
+    },
+    {
+      "path": "inventory/companies/pareto.json",
+      "bytes": 19139,
+      "sha256": "1a5cfb499c9557eddf1de45018ebcc679b3b5e0c70b29a8bed3a5d0d0be9ebf8"
+    },
+    {
+      "path": "inventory/companies/payhawk.json",
+      "bytes": 36269,
+      "sha256": "f3aa05b887c78d027352eabef22d00673c8d5669504f4ae8bf356cc97ceec901"
+    },
+    {
+      "path": "inventory/companies/pebble.json",
+      "bytes": 12207,
+      "sha256": "b477eaeed2bbd1946b1503ad2d1a8b11078400130fafa246e8ee4f6c77c0ed7d"
+    },
+    {
+      "path": "inventory/companies/pepper-content.json",
+      "bytes": 12715,
+      "sha256": "d59de0a2489fced4a0060b531b2bd9db2b271707a06142e3372b9481280c5421"
+    },
+    {
+      "path": "inventory/companies/periodic-labs.json",
+      "bytes": 38260,
+      "sha256": "7cc3d3b4ef513571804227d08782f71532ba759381440d23e85dcd37298d9629"
+    },
+    {
+      "path": "inventory/companies/perplexity.json",
+      "bytes": 88986,
+      "sha256": "491aa97999c4ef6fec370d2d2465fdf075ee0293da6808680211664ce3b98e25"
+    },
+    {
+      "path": "inventory/companies/phantom.json",
+      "bytes": 31952,
+      "sha256": "18b239015646bf26a45d504de3d82cbff3080ccc52e6e308abf42370d96be28c"
+    },
+    {
+      "path": "inventory/companies/pharmeasy.json",
+      "bytes": 18728,
+      "sha256": "cc470ca8b373aac4b6907941a2c1a39bbecc658367b204071b289b746bee2234"
+    },
+    {
+      "path": "inventory/companies/phonepe.json",
+      "bytes": 68572,
+      "sha256": "0dd67ba6c3a4b0eabccba940677a9509b66b9bd3684a779d9668c7e286d2f006"
+    },
+    {
+      "path": "inventory/companies/pice.json",
+      "bytes": 10469,
+      "sha256": "aba3091064ab1c104d27fe5872b2728f40dc20e5c579b910fd7bb77383cad837"
+    },
+    {
+      "path": "inventory/companies/pine-labs.json",
+      "bytes": 6902,
+      "sha256": "f56abc4727c095d03f795a4ef988f1751f5fe82aeab71b8893b6a08327138a8f"
+    },
+    {
+      "path": "inventory/companies/pixxel.json",
+      "bytes": 13632,
+      "sha256": "6313cf7c5ed1d63c401ae9aa25fde4a2c574087e0d0126ebb8c817e0818cd48d"
+    },
+    {
+      "path": "inventory/companies/plana-earth.json",
+      "bytes": 7175,
+      "sha256": "a9c2914cab7a8b60325cb07f49dd74262a765eb5a27dd6711fad0b9f05536d17"
+    },
+    {
+      "path": "inventory/companies/plane.json",
+      "bytes": 38656,
+      "sha256": "39d99cb231f001bae624cb05bdfd97cbc2f7108abb2cc19f8879657d32a49afd"
+    },
+    {
+      "path": "inventory/companies/playsimple-games.json",
+      "bytes": 18870,
+      "sha256": "23fa3e911e63d72a17aaa5db3784bcac1ad1600228105b6e7b4145bb80f308f2"
+    },
+    {
+      "path": "inventory/companies/plivo.json",
+      "bytes": 6322,
+      "sha256": "5c386660427887d476063c12c6c68a0f70b128bc2d1358b99a39eb7b1a4fc3be"
+    },
+    {
+      "path": "inventory/companies/plum.json",
+      "bytes": 30931,
+      "sha256": "d4a20107d6152e388c4fdccbbb1304179cef6438453c26245a2902d7f50dfdb5"
+    },
+    {
+      "path": "inventory/companies/polar-analytics.json",
+      "bytes": 32701,
+      "sha256": "f7da85735ebbe1aee42ff88b9f8a89fd21331f56adb3bc4bfe676f86b20b730c"
+    },
+    {
+      "path": "inventory/companies/porter.json",
+      "bytes": 29002,
+      "sha256": "5e17e0c173899215030153642bd29665eff37a705b209ff2033a995a9a206e31"
+    },
+    {
+      "path": "inventory/companies/posh.json",
+      "bytes": 14413,
+      "sha256": "3071391d9dfaf767d27ec76e6232d8875f2c1b80da8a93072cb932dbd85061bf"
+    },
+    {
+      "path": "inventory/companies/postman.json",
+      "bytes": 30247,
+      "sha256": "6a273948bc3e5eb18a09ecbad58e3cf48e2e1b00ea01f2e93e2aaaf040601e2b"
+    },
+    {
+      "path": "inventory/companies/procol.json",
+      "bytes": 11214,
+      "sha256": "dd0cf84ddf97cb9f2bc846531f3bc211d53ecd415ada8c47691cb5332be07e11"
+    },
+    {
+      "path": "inventory/companies/profound.json",
+      "bytes": 86489,
+      "sha256": "37eb79ae0eb6d5b0df97678aa64f6603aa0c6c646fcc7ccad4aa94c77abf2875"
+    },
+    {
+      "path": "inventory/companies/progress.json",
+      "bytes": 66501,
+      "sha256": "632f8e3e2d738ba5289177a66485be5731b04b668a1f8a407dce386c56acce62"
+    },
+    {
+      "path": "inventory/companies/promptql.json",
+      "bytes": 13977,
+      "sha256": "bfca3792b309117349ec1a3d21c8b4d28839efd53dd8f9e8455cbe9b468796a6"
+    },
+    {
+      "path": "inventory/companies/proxima-fusion.json",
+      "bytes": 40646,
+      "sha256": "4d63ff185630e0ece0664cbdd122855af69595321591d67080decb5722f4090e"
+    },
+    {
+      "path": "inventory/companies/purplle.json",
+      "bytes": 51836,
+      "sha256": "652f7f29c697006a399ccb02670fc7a0b4bd552cec83c49c3c5fb30dc74079d6"
+    },
+    {
+      "path": "inventory/companies/qoala.json",
+      "bytes": 43514,
+      "sha256": "43bd8d14a093ce6aaae12a42c2bb49a5879a6da75086f9e469c442446ab17b11"
+    },
+    {
+      "path": "inventory/companies/qure-ai.json",
+      "bytes": 25557,
+      "sha256": "7c2850cfae577175739a00fca0195e9e4b528652272f1639c981e189a57138e1"
+    },
+    {
+      "path": "inventory/companies/rain.json",
+      "bytes": 53138,
+      "sha256": "e7cc3deb0a5a200f7bd66038398985200a4bd68ea7e5b86e9ebff4f90f8b8db7"
+    },
+    {
+      "path": "inventory/companies/ramp.json",
+      "bytes": 109148,
+      "sha256": "488abd24fcaee62113025a0636d7a4a9a004587f5778482e06d2c75dff3784f0"
+    },
+    {
+      "path": "inventory/companies/raven.json",
+      "bytes": 7575,
+      "sha256": "da1ca2b48f04468c548bbd5c4903e1a55a5d57576e7267d60520de092c99335b"
+    },
+    {
+      "path": "inventory/companies/razorpay.json",
+      "bytes": 25703,
+      "sha256": "23c424a76b99194d8c9008cb9e30fd9aa006625c33db25976560be9169353bc9"
+    },
+    {
+      "path": "inventory/companies/redpanda.json",
+      "bytes": 26194,
+      "sha256": "a43afe8f7f6ed6ac81cc1956c187eccdbdd019d7bf8a88b488e009684e91bb2d"
+    },
+    {
+      "path": "inventory/companies/reducto.json",
+      "bytes": 35509,
+      "sha256": "e54d849ea5b22731934a57b18785142550177be47485fa31cf5726973e21fafc"
+    },
+    {
+      "path": "inventory/companies/reflection.json",
+      "bytes": 48177,
+      "sha256": "ac5ed3745f88b5678c118b4a3708c2e2dc584ce63dfb10e587cd2ef49781d9d0"
+    },
+    {
+      "path": "inventory/companies/regrello.json",
+      "bytes": 16019,
+      "sha256": "355d4a24731470a1eec15bb72a542a0c2bedc3c2e50b7ae09df1b4ba9e496837"
+    },
+    {
+      "path": "inventory/companies/reka-ai.json",
+      "bytes": 27414,
+      "sha256": "f5077f8f8009e93fc019251a43b10ade1221de5d5f32ef1b3e10e0fceb5918bf"
+    },
+    {
+      "path": "inventory/companies/relevance-ai.json",
+      "bytes": 10328,
+      "sha256": "5a61d3de5748977230297a76327e2f0b23ee7f7c32841cd5b8e6320222427781"
+    },
+    {
+      "path": "inventory/companies/replit.json",
+      "bytes": 76256,
+      "sha256": "707a1e88e745ea0379733952463410716f2e6da803e52209ec23557925e3201a"
+    },
+    {
+      "path": "inventory/companies/resolve-ai.json",
+      "bytes": 18116,
+      "sha256": "662b5f61d7475cab3408be56ae7e27d7d4d1113efbadc7e408e11aa95e200f82"
+    },
+    {
+      "path": "inventory/companies/revefi.json",
+      "bytes": 18969,
+      "sha256": "8eb21868d50b149dac149d8046edb74e727b254765427584b4f7a8561aac867f"
+    },
+    {
+      "path": "inventory/companies/rippling.json",
+      "bytes": 47785,
+      "sha256": "280637ddca0f5d35b8fdf9ff2139c1e96d821584771ebea54ee3c0337066f4a4"
+    },
+    {
+      "path": "inventory/companies/robco.json",
+      "bytes": 38581,
+      "sha256": "dcb6720d5f5fbe6549435912a6f104e96b54b81a535124fb8a60135b4b54dc9c"
+    },
+    {
+      "path": "inventory/companies/rocketlane.json",
+      "bytes": 35201,
+      "sha256": "07dbe21f4cf22e4a61f76b2e0a3a25439d45a46aa658868d8a1609a29ee66e06"
+    },
+    {
+      "path": "inventory/companies/roofstock.json",
+      "bytes": 34210,
+      "sha256": "bd4f283c499e24960e2556973843ce069d51fac1453e016a468b8600f1dbed25"
+    },
+    {
+      "path": "inventory/companies/rothy-s.json",
+      "bytes": 67786,
+      "sha256": "7f107abc22181785ccf6cdaa2187497db52c9545579cb4981e09bec03bb6d9f7"
+    },
+    {
+      "path": "inventory/companies/rox.json",
+      "bytes": 22799,
+      "sha256": "963ed431f3b85ad9905419a8ac3e55293491d47a275436d050013ca49ac2c271"
+    },
+    {
+      "path": "inventory/companies/saas-labs.json",
+      "bytes": 16187,
+      "sha256": "c3aa2ea85d2abb4898103114eaea7a8eb7abdbcd47dde89af56f8a659edbbf7d"
+    },
+    {
+      "path": "inventory/companies/sailpoint.json",
+      "bytes": 121615,
+      "sha256": "a5c76bd4acc7371e30295b7d2fd74da11cac52f717c6d8ff2500d1e1e73c3b54"
+    },
+    {
+      "path": "inventory/companies/sambanova.json",
+      "bytes": 41502,
+      "sha256": "a0853be2f8734d7a406c6cff48bb4fb1add6db1dab16430a13a74d4631f795c3"
+    },
+    {
+      "path": "inventory/companies/sanity.json",
+      "bytes": 67099,
+      "sha256": "f4a2b32dbe649c495860eb14af8695a4220568cd2941c45786990c3b0f59c4cb"
+    },
+    {
+      "path": "inventory/companies/sarasanalytics.json",
+      "bytes": 7756,
+      "sha256": "2f3f1245c2941e0490c9bdca87e38c2fd143a6098ca19fef3e8bc3addb3dfbb4"
+    },
+    {
+      "path": "inventory/companies/saronic-technologies.json",
+      "bytes": 172393,
+      "sha256": "689c06122fabb7323997e6f7ca4cd1707194e89d2106515b12cbdb107adacf95"
+    },
+    {
+      "path": "inventory/companies/sarvam-ai.json",
+      "bytes": 42933,
+      "sha256": "ae6326af77ed8d4897fcd7981ca2269785130f0e92b232c8235c3500b74381d6"
+    },
+    {
+      "path": "inventory/companies/saviynt.json",
+      "bytes": 86503,
+      "sha256": "3d4ada85ce5037e1b664d9ff667569c5aa9b9632f9cf7fbc3b57fe09bc08b39f"
+    },
+    {
+      "path": "inventory/companies/scale-ai.json",
+      "bytes": 145661,
+      "sha256": "4f90dcf7f0f10f31dc0ed2aef2331fec49581f323efca0900a68a497aa50cc49"
+    },
+    {
+      "path": "inventory/companies/scaleops.json",
+      "bytes": 44194,
+      "sha256": "01750053d3a60449264335c46461f669be9f019205171d492043ef2614c92f05"
+    },
+    {
+      "path": "inventory/companies/scrut.json",
+      "bytes": 10872,
+      "sha256": "6b014152c00de342054700f3c43e88c5670932d53e4a799fefcc08b14c21e359"
+    },
+    {
+      "path": "inventory/companies/semgrep.json",
+      "bytes": 28516,
+      "sha256": "feec72d61be1ccd8c9f2bbf95626cb9703706e283ffcdb446f3a06ea9c8b3dff"
+    },
+    {
+      "path": "inventory/companies/sharechat.json",
+      "bytes": 11207,
+      "sha256": "6238b900ae658cc868e5ca84e9c328ee4a1f0ab089a0f2158913399b8d63906b"
+    },
+    {
+      "path": "inventory/companies/shiprocket.json",
+      "bytes": 8758,
+      "sha256": "4d67cc2874a35b00ad5526eda71f831ccc3f2187809ca01a7b71a8925a08c204"
+    },
+    {
+      "path": "inventory/companies/shopdeck.json",
+      "bytes": 12290,
+      "sha256": "9c48b2b2abb1b4b7de70166d32aae45eed11af286a9dcce227faf39457b95942"
+    },
+    {
+      "path": "inventory/companies/sibros.json",
+      "bytes": 12347,
+      "sha256": "f381712d52436ca86585eeef40d8ef0ada5d2a1efcbfa65fb375433d82fddb89"
+    },
+    {
+      "path": "inventory/companies/sierra.json",
+      "bytes": 158677,
+      "sha256": "ecb2a06cf327fad0c8a452f4b7e2b92c747153e01655eff00cf658869186ba9d"
+    },
+    {
+      "path": "inventory/companies/sifthub.json",
+      "bytes": 8730,
+      "sha256": "f68a95712c9584befd79c13605633d9616fa078075741cedddff605b2d9b02e5"
+    },
+    {
+      "path": "inventory/companies/sigmoid.json",
+      "bytes": 31084,
+      "sha256": "713a7e09e8fa20f606aa253f087279af1a83b5736591f25af57066172c493891"
+    },
+    {
+      "path": "inventory/companies/skild-ai.json",
+      "bytes": 33559,
+      "sha256": "b1be241f864c3cc6d9e97c8cb1ed8f0e5f8d15597209c1ef6cbfbd8ff10c9049"
+    },
+    {
+      "path": "inventory/companies/slice.json",
+      "bytes": 25171,
+      "sha256": "ed4f7c7744a67428a4d2f7696aa8e05ca41d72730c24ab350ee177b9ab77708d"
+    },
+    {
+      "path": "inventory/companies/smallcase.json",
+      "bytes": 17320,
+      "sha256": "6f26b1ee4fec97ae07c1f8b31b958ad85c5855c42876387c920b728726c2d247"
+    },
+    {
+      "path": "inventory/companies/snitch.json",
+      "bytes": 32806,
+      "sha256": "2545305c23387c03748bd86a5f14b14db3e0e9322cec24fde999a6f4c2140935"
+    },
+    {
+      "path": "inventory/companies/snorkel-ai.json",
+      "bytes": 38696,
+      "sha256": "92f800d09a95e91fd2bee16c1129ab126582fcda82a57a1a4e1931114de6f5d9"
+    },
+    {
+      "path": "inventory/companies/solarsquare.json",
+      "bytes": 101509,
+      "sha256": "babb31cdbf1c387902c39fd14cd17752a6a92629fcf3e6dd66090fb2314dad81"
+    },
+    {
+      "path": "inventory/companies/solidroad.json",
+      "bytes": 11466,
+      "sha256": "11ed6d4e1e41c8bf8def49bcc14787a8a5641f71caf9d40b7480969e69011780"
+    },
+    {
+      "path": "inventory/companies/spinny.json",
+      "bytes": 18227,
+      "sha256": "19d5af1a8f626a5983d069db234fafff3adf500c1e319f72dc84bb7903fddf59"
+    },
+    {
+      "path": "inventory/companies/spotdraft.json",
+      "bytes": 7488,
+      "sha256": "2a923ea1387f14c12edd8594353c9c8a1621d6bf531a88d81ce18733302fcbbf"
+    },
+    {
+      "path": "inventory/companies/sprinto.json",
+      "bytes": 43554,
+      "sha256": "7ff172238e663d8de9441c14e730972e58fb50b59b115d27e622c457a8fc1125"
+    },
+    {
+      "path": "inventory/companies/spyne.json",
+      "bytes": 29153,
+      "sha256": "9993faa2f4ef8a16da6d8f58fa44f24bfbff21c6ba309886818934106ddd6c77"
+    },
+    {
+      "path": "inventory/companies/squadstack.json",
+      "bytes": 14664,
+      "sha256": "912338a66b0dc62d35ef2c06d6388386085ffac550fc693f936a56298729735a"
+    },
+    {
+      "path": "inventory/companies/stacks.json",
+      "bytes": 14503,
+      "sha256": "2a5f9b8eae833aaba15b5f8c7ce82a8696780f9db1ad77a355b2303daf02d675"
+    },
+    {
+      "path": "inventory/companies/starling-bank.json",
+      "bytes": 45950,
+      "sha256": "20e8e6563286f7e73c0d3f7b93c60525ffd8309532fa880cc4178a2485805b2c"
+    },
+    {
+      "path": "inventory/companies/starsling.json",
+      "bytes": 6157,
+      "sha256": "ae59f8b3c52ce727d435badbdec8389e03140a80bd9e844890f5dca89668538c"
+    },
+    {
+      "path": "inventory/companies/stashaway.json",
+      "bytes": 15245,
+      "sha256": "c98314cd0f46a269fb93f641c5c56678eec84fd63f9d0975b01978f7d911be50"
+    },
+    {
+      "path": "inventory/companies/strava.json",
+      "bytes": 31842,
+      "sha256": "3b0ab6375c2e571565b80c26f4bc78b65341e9ff18148fb7082ee359f06c3d9a"
+    },
+    {
+      "path": "inventory/companies/stripe.json",
+      "bytes": 393189,
+      "sha256": "2f9dd09ca1b4bbe4e7baebd76ffce233d7accee854a14310489f2f2865187c09"
+    },
+    {
+      "path": "inventory/companies/suger.json",
+      "bytes": 18947,
+      "sha256": "7fbcebfa789c01dae47bc9bd2c2378ddd2cd0e3f05814f805565846ae8337f57"
+    },
+    {
+      "path": "inventory/companies/suki.json",
+      "bytes": 16965,
+      "sha256": "0359813ea7bf30dd92ab448d34c7bb52dccd6c2a3fbef05247a573be75543077"
+    },
+    {
+      "path": "inventory/companies/suno.json",
+      "bytes": 58797,
+      "sha256": "ccb426e641f676e746bc86edb4577e7e832819b680c1ece83a1730cd634553e8"
+    },
+    {
+      "path": "inventory/companies/supabase.json",
+      "bytes": 91404,
+      "sha256": "e8526e62a63d6d85d9521dd69ca3ec29b0498b4118f44d72f25ce3cabdeca8cf"
+    },
+    {
+      "path": "inventory/companies/superk.json",
+      "bytes": 18103,
+      "sha256": "fd9a79837eaa71c685bbd11e5198e62402a27c41153457cf84dd921bd2f46c3a"
+    },
+    {
+      "path": "inventory/companies/superkalam.json",
+      "bytes": 18402,
+      "sha256": "74ef91dc1c1fdec025a26fd8bd349885d260d975092bb2ca73bc52fc585b323a"
+    },
+    {
+      "path": "inventory/companies/synthesia.json",
+      "bytes": 72083,
+      "sha256": "a40a2628898c9bfdaabade87cfbfc52edcd29be9cbbcbda994ca61c1bb83141d"
+    },
+    {
+      "path": "inventory/companies/synthflow-ai.json",
+      "bytes": 24995,
+      "sha256": "82e6f0131e7c0d1d6abaf7365d55646d3e1bc64fe7929e852733e2beb433fb4d"
+    },
+    {
+      "path": "inventory/companies/synthio-labs.json",
+      "bytes": 15507,
+      "sha256": "4546e37c3624baca9120d75759d609ad539382032b91518a488d492d4650949f"
+    },
+    {
+      "path": "inventory/companies/tabs.json",
+      "bytes": 23913,
+      "sha256": "bc9ee67063118392ebf531d4aa5dde4e3220806a521cb7e7abb486b971eb04f7"
+    },
+    {
+      "path": "inventory/companies/tala.json",
+      "bytes": 34777,
+      "sha256": "8a18b8fdf9cdd8cd3f6f10ee26fe4284bde82edc2100c33dc90f62fc64138875"
+    },
+    {
+      "path": "inventory/companies/tamara.json",
+      "bytes": 31715,
+      "sha256": "4794c8716590af3e8cade4b2165a4bb3dbc5f1129201af38f0878856a0ad41f1"
+    },
+    {
+      "path": "inventory/companies/tata-1mg.json",
+      "bytes": 34122,
+      "sha256": "e761528564beba56ed7ccf400376ef6c657964ed2dd495525f08936eeba6f1bd"
+    },
+    {
+      "path": "inventory/companies/tekion.json",
+      "bytes": 102081,
+      "sha256": "79cd47af4f76402e72bcc36da4e85879ea21f9bbb1065700dc58ec8a5c74db31"
+    },
+    {
+      "path": "inventory/companies/temporal.json",
+      "bytes": 93956,
+      "sha256": "55b153a951a0c7a1bcf311a07794e9d01895bfd9fab5c9a66398f79376b720ff"
+    },
+    {
+      "path": "inventory/companies/tennr.json",
+      "bytes": 36148,
+      "sha256": "e20165a855c5b343fc073655b6690b1b9b7e148b179782873b63e008909e07a1"
+    },
+    {
+      "path": "inventory/companies/tensorwave.json",
+      "bytes": 40656,
+      "sha256": "27b5f46dd02f60a757a11c055da6ab831b18b635cf810e40ad8c4a73986c4bcd"
+    },
+    {
+      "path": "inventory/companies/tessell.json",
+      "bytes": 12987,
+      "sha256": "2ed1b3646f823d02d85ef79347728b09ec5f52ac7b18cb7818cf5cb2b8714ec7"
+    },
+    {
+      "path": "inventory/companies/testzeus.json",
+      "bytes": 7951,
+      "sha256": "6fb5ce3035539cc11478141eb320cdf23f4947ab9dfde78032630d8a0df9a0e5"
+    },
+    {
+      "path": "inventory/companies/the-nudge-institute.json",
+      "bytes": 41389,
+      "sha256": "c818eac841249faf955dcd77824ae58dbd0571a7029c6a228ab9a0e92a0cdfb5"
+    },
+    {
+      "path": "inventory/companies/the-whole-truth-foods.json",
+      "bytes": 19523,
+      "sha256": "5e517a5f618195facb42c23940ca625a2660cf7aeee66f439478d9d21cea2c41"
+    },
+    {
+      "path": "inventory/companies/thena.json",
+      "bytes": 7078,
+      "sha256": "71784ca7195f6277e669b5f05142c14fb0764e756cb19ef918517d07da7b6a72"
+    },
+    {
+      "path": "inventory/companies/thinking-machines-lab.json",
+      "bytes": 31756,
+      "sha256": "01963af1c5cad0277c08a7b71c00915fb14db8100f156a5711f63477d9a4ebee"
+    },
+    {
+      "path": "inventory/companies/thoughtspot.json",
+      "bytes": 14399,
+      "sha256": "99839d37d59a62f85c91a503cddf0f18084d8081660e32da0aa127bf8e830af9"
+    },
+    {
+      "path": "inventory/companies/thunkable.json",
+      "bytes": 7075,
+      "sha256": "73ef084bb96407deb17ec871e46390a8dea5fe4097aeebb613788fd0d02aa581"
+    },
+    {
+      "path": "inventory/companies/tide.json",
+      "bytes": 59662,
+      "sha256": "7162b679874915ca76c5a8abaaffc7bd0a448437aa1d8dc7322da3fb6ea2a56c"
+    },
+    {
+      "path": "inventory/companies/tilt.json",
+      "bytes": 61847,
+      "sha256": "3b54cdd68829ba7f43d083b3c9138e9a056622f71e0e195c131d1037ba939f12"
+    },
+    {
+      "path": "inventory/companies/toddle.json",
+      "bytes": 50858,
+      "sha256": "fff90142f5f56014e2947c52467f55791ca2c258aa07e28c83bb388f29be9ec7"
+    },
+    {
+      "path": "inventory/companies/together-ai.json",
+      "bytes": 53914,
+      "sha256": "825355c467a17c86594a6b9d6848e9009315990095c20cdcff9a3024e14fc62a"
+    },
+    {
+      "path": "inventory/companies/tokopedia.json",
+      "bytes": 31918,
+      "sha256": "690c80ab4135510a76686d6706fd43cb9db7ee1f48ec29d1bc0d5cf22814bf1d"
+    },
+    {
+      "path": "inventory/companies/tracxn.json",
+      "bytes": 6769,
+      "sha256": "68613b88e581be3b7fd436e107803d94a0cc9e365f6d1d591d2c857bb55c9315"
+    },
+    {
+      "path": "inventory/companies/treebo-hotels.json",
+      "bytes": 71280,
+      "sha256": "c7f9d789a2cd0e9252ff187d5008bc9973a12451c3f62fb6ee89e885a036f4e9"
+    },
+    {
+      "path": "inventory/companies/truecaller.json",
+      "bytes": 19784,
+      "sha256": "4426a8728963886b8935130fc822044428547004fcc5f0b432835abd6952e3e0"
+    },
+    {
+      "path": "inventory/companies/truewind.json",
+      "bytes": 10693,
+      "sha256": "877dac677a9048621329c8b96f24ae8dd23eeb876a18881eded2129eebb29fc8"
+    },
+    {
+      "path": "inventory/companies/tubi.json",
+      "bytes": 30181,
+      "sha256": "bdf1b3355fac2e4c6e6cf5b2d4cc5029ab41203968e45787ea4ae91b99725f4d"
+    },
+    {
+      "path": "inventory/companies/twin-health.json",
+      "bytes": 40021,
+      "sha256": "fd44428dbeea8dae3dc22aed50d0f81fff85c1882cb0d39bf87b6b27d69347c2"
+    },
+    {
+      "path": "inventory/companies/typeface.json",
+      "bytes": 30350,
+      "sha256": "01c9b5f7b8e64922c50172b5bace27187e3f6cd3a326cf2d0cb879cc14217b1c"
+    },
+    {
+      "path": "inventory/companies/uipath.json",
+      "bytes": 177220,
+      "sha256": "29e6272a8753d3e541a66e35a6204c37efe1c5cb5466ec8c7374d2597d23f527"
+    },
+    {
+      "path": "inventory/companies/unacademy.json",
+      "bytes": 15621,
+      "sha256": "d0f8894c08d28062b85f0ac80484a0cd5ba7dfd47daf0bac1a2da6cae8ccb046"
+    },
+    {
+      "path": "inventory/companies/uniphore.json",
+      "bytes": 46736,
+      "sha256": "b82fb62f7b38054cf02a874a62dfcbe3c1c5a602169d98a4353956ff3f62a39b"
+    },
+    {
+      "path": "inventory/companies/uniqode.json",
+      "bytes": 7168,
+      "sha256": "66f4fd8dd746dcb0a578450aac8596de17fd99f737f7613c5fed1840aaeb8e51"
+    },
+    {
+      "path": "inventory/companies/upstox.json",
+      "bytes": 22044,
+      "sha256": "bd8004db9407edf00c4da8780e4970521c1ed7b2a10126339ac6aecf4d2ab14b"
+    },
+    {
+      "path": "inventory/companies/vegapay.json",
+      "bytes": 10226,
+      "sha256": "b14546bc20ba5a34c7d32c57cfffbddf5f1a02ffbef9fef8261d3205b5d67c27"
+    },
+    {
+      "path": "inventory/companies/venn.json",
+      "bytes": 18110,
+      "sha256": "ba2451f9fd786ddf1337046dbe34e872ac2d5e4fbe974d5ced6be59e9b188775"
+    },
+    {
+      "path": "inventory/companies/vercel.json",
+      "bytes": 66881,
+      "sha256": "2dc36b4da3186b0ba2b299b7edeabbec2e8e60b7a9fe562457ad49d201989599"
+    },
+    {
+      "path": "inventory/companies/verily.json",
+      "bytes": 57522,
+      "sha256": "d9856701c5633768ce634cbb8437beb77353e9802462e156dcf62600416ed0d7"
+    },
+    {
+      "path": "inventory/companies/verkada.json",
+      "bytes": 183115,
+      "sha256": "967f362ba2c33231a9e7e40e60fe51ab1e0a91b4319054e3c532c5c81ca7ea52"
+    },
+    {
+      "path": "inventory/companies/versa-networks.json",
+      "bytes": 38227,
+      "sha256": "96b679721da81f60d1f2791dda1596cf1326f372197c38bda08662ad17f55027"
+    },
+    {
+      "path": "inventory/companies/waabi.json",
+      "bytes": 86587,
+      "sha256": "321cc76a320805392ecef7c92c24bef7fe0193604d96ee7face3b7804a42d2f5"
+    },
+    {
+      "path": "inventory/companies/wayground.json",
+      "bytes": 20258,
+      "sha256": "a5a7bc6d72c8bff4d6eb450a4b73768b98cf2022dd90304c5de9d922a8aff8e2"
+    },
+    {
+      "path": "inventory/companies/weee.json",
+      "bytes": 18744,
+      "sha256": "1dd64653c832cf84dc68ba4420d883a943d6a657cf43f4a4ada506a23fb48f87"
+    },
+    {
+      "path": "inventory/companies/whatfix.json",
+      "bytes": 22422,
+      "sha256": "db397e793714bf3203a3663e27bbf95cffc1bd54199cc076768f586d5e463530"
+    },
+    {
+      "path": "inventory/companies/whatnot.json",
+      "bytes": 100485,
+      "sha256": "0c151cd27a9f20dd0f5c0b38a3ad36d0090e230371bda0d35f48d86e6f786035"
+    },
+    {
+      "path": "inventory/companies/wheel.json",
+      "bytes": 14897,
+      "sha256": "bff9636d3f5c2e57f584d3f5763957596693f96943c9a70ead22dd54c9e539f2"
+    },
+    {
+      "path": "inventory/companies/willow-voice.json",
+      "bytes": 8655,
+      "sha256": "e204de57c73113a7aec45fc60dae949bc4f96cb60424db8431a2213ce9cb27ad"
+    },
+    {
+      "path": "inventory/companies/wingify.json",
+      "bytes": 19920,
+      "sha256": "3e812bed6d281878f582aa30d300f79025800349f9bdcff2627640706badebbe"
+    },
+    {
+      "path": "inventory/companies/wintermute.json",
+      "bytes": 22891,
+      "sha256": "485d4740ab68bd122b57dcac5d2de3daf627629e7028cfa48c9a34bac5c91d14"
+    },
+    {
+      "path": "inventory/companies/wise.json",
+      "bytes": 234309,
+      "sha256": "501cb1af46c88bd4ec05044500ebcb25d9d7a44148d1e88cc2668c9e326c2326"
+    },
+    {
+      "path": "inventory/companies/wishlink.json",
+      "bytes": 16231,
+      "sha256": "5c3ca937b10a080da4b78f41491833cb6ecd0d5fdb7cc1f96912695674cc9ae1"
+    },
+    {
+      "path": "inventory/companies/wisprflow.json",
+      "bytes": 28267,
+      "sha256": "ef9bf0cc17ffa460f02be60e039dac4aba885e979dac4057cd45590d73ce095a"
+    },
+    {
+      "path": "inventory/companies/wiz.json",
+      "bytes": 127537,
+      "sha256": "cb1b5ddcc2ec798785401e3d598803d7aa37e94bf4c0c2552a41b18ccd728215"
+    },
+    {
+      "path": "inventory/companies/workos.json",
+      "bytes": 34602,
+      "sha256": "bfb55ee59b12029d0b8f374b7fa3531e5904188256d833a79fad6316a78a9545"
+    },
+    {
+      "path": "inventory/companies/writer.json",
+      "bytes": 67201,
+      "sha256": "177558adc9192bbd2d268a44b2800e852c49c88fb23ae72f3499815470b828c5"
+    },
+    {
+      "path": "inventory/companies/xai.json",
+      "bytes": 203547,
+      "sha256": "dd941e831b07737f5e66091b65abecbdaf3ef2d22514576d5d10abbc460440db"
+    },
+    {
+      "path": "inventory/companies/xflow.json",
+      "bytes": 11788,
+      "sha256": "ffdbc045a5d4708b3043fcd194bfc57e2d927bb5c18df270fe6d61e0d6f59bd5"
+    },
+    {
+      "path": "inventory/companies/yoga-bar.json",
+      "bytes": 14835,
+      "sha256": "df9765b870bc6ff58fa0da6788ae81c8ffca92c652e7173b446650443e8187c6"
+    },
+    {
+      "path": "inventory/companies/you.json",
+      "bytes": 10953,
+      "sha256": "dc78ed647da4a813ed906c5f875956533a6f58f5efa34190b02200aa97865c70"
+    },
+    {
+      "path": "inventory/companies/yugabyte.json",
+      "bytes": 35847,
+      "sha256": "a8280edfe531b785728838a9e173c87c921c12151ede952ce976ab12a7eb461f"
+    },
+    {
+      "path": "inventory/companies/yupp.json",
+      "bytes": 9657,
+      "sha256": "5cbb2899b8374d16cc1d96b69065c67196824a675b027da0e5d58b554520b4fc"
+    },
+    {
+      "path": "inventory/companies/zamp.json",
+      "bytes": 16843,
+      "sha256": "4012e5dd7b96b8af14e7b9811b1b337822e1f120f797516de1cc92375cb5c0f3"
+    },
+    {
+      "path": "inventory/companies/zeni.json",
+      "bytes": 12747,
+      "sha256": "3172aa54525f76d193fc6172a1991d1130691d60791c40a629be5a76bca3dd2a"
+    },
+    {
+      "path": "inventory/companies/zenoti.json",
+      "bytes": 40200,
+      "sha256": "e5c436fc68806c23967ddb583b32fa43996c713805de71ca322bd460051a8191"
+    },
+    {
+      "path": "inventory/companies/zenyum.json",
+      "bytes": 13135,
+      "sha256": "38ff26c6fbed89dd8183962422f343aa8615da5cec8067c7a0cadb4d43e5fc9f"
+    },
+    {
+      "path": "inventory/companies/zeotap.json",
+      "bytes": 17677,
+      "sha256": "ab8b821118297afff033ee9fe035e259222564a7a55b4d5602bac8d29d915294"
+    },
+    {
+      "path": "inventory/companies/zeta.json",
+      "bytes": 26502,
+      "sha256": "da96345f6ced418b5da1b3cc3beec78052622116b6a2eb0d440f76f5c6afb452"
+    },
+    {
+      "path": "inventory/companies/zetwerk.json",
+      "bytes": 40583,
+      "sha256": "6754e24f4026275f3b6080ffe8e5834dce31ccae1732f59132543a5b33e251c3"
+    },
+    {
+      "path": "inventory/companies/zilo.json",
+      "bytes": 11194,
+      "sha256": "36082bf1764cb345c9a2d03ccfd234cfdb8ddf7403dedff746732214b5fcbbab"
+    },
+    {
+      "path": "inventory/companies/zipstack.json",
+      "bytes": 16402,
+      "sha256": "a8bd5e55e1eb49c173cf1ee21b8eccb01af64e19542e73478709a6897b35d6ac"
+    },
+    {
+      "path": "inventory/companies/zluri.json",
+      "bytes": 15164,
+      "sha256": "c5e4611e1795147e4977e9995c461a32d46a90fe0b6273c0afcc9c500346536b"
+    },
+    {
+      "path": "inventory/companies/zoca.json",
+      "bytes": 10741,
+      "sha256": "6acd630fc0d95260dc76a184d386bb0e3be874fd338e45b725de8d7d37e3d84b"
+    },
+    {
+      "path": "inventory/companies/zolve.json",
+      "bytes": 14144,
+      "sha256": "958eb45b786776f0d4f0dea7e2eef87855667f40c73874161faa11ac9510efc0"
+    },
+    {
+      "path": "inventory/companies/zscaler.json",
+      "bytes": 281722,
+      "sha256": "d5dce6b863e4daf5be3f38cac5ba1649ec425d3baec03b243d766ced5d955280"
+    },
+    {
+      "path": "inventory/earlier-module-index.json",
+      "bytes": 71326,
+      "sha256": "5944238b87618a11d373a0e98a088c2f0f7129ff7a55f43536f57c6e1405e61b"
+    },
+    {
+      "path": "inventory/module-index.json",
+      "bytes": 71378,
+      "sha256": "bf59dbe4c729cc7f8ef9d6b0e7f9db9accfff6aee1761d92aff1f2ddf1f183b7"
+    },
+    {
+      "path": "inventory/progress.json",
+      "bytes": 37834,
+      "sha256": "3c79fdef377831c0b46ad4162f3e3a2de4365850d33531f3b76ab01102110e0e"
+    },
+    {
+      "path": "inventory-browser-check.json",
+      "bytes": 374,
+      "sha256": "a342c47b7ae2511fe7207b1971053f0cb44fe3ad3ca66e3036ef3bcacc83bb31"
+    },
+    {
+      "path": "inventory-browser-check.png",
+      "bytes": 206113,
+      "sha256": "2d08884cd2975dd16173e10ef6054aa5c31297a758d5685dfe73287851c2979b"
+    },
+    {
+      "path": "job-inventory.json",
+      "bytes": 17921143,
+      "sha256": "d4672a043547d981d8ac5e27e5aa06f5f3b93948920fca90e1825502f58219ef"
+    },
+    {
+      "path": "output/pdf/nextdoor-founder-brief.pdf",
+      "bytes": 25079,
+      "sha256": "5958f39b64caa1cb1c9b1628598948fc81c81bbda0b6e961cfdb06714b8d0d93"
+    },
+    {
+      "path": "public-data-boundary.md",
+      "bytes": 2983,
+      "sha256": "26bb92a0034f452e7c7d05b46444aef7f89492dda2dd88b26bd0d6d9e3ae6392"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 114,
+      "sha256": "50ae82e4648c57fc329108ceb79c122b7d1763e96c21cb2c2bedc5c32d4aede5"
+    },
+    {
+      "path": "source-verification-evidence.json",
+      "bytes": 121199,
+      "sha256": "fdf742fd4abce612aea56f5a756a7ddaf1ad8d1604c7517dc34955aafbce0f1a"
+    },
+    {
+      "path": "source-verification.md",
+      "bytes": 24421,
+      "sha256": "aaf397eb7d565d18cc3194ef7b2284a2640088427e49df89f57a8db2258cc9cf"
+    },
+    {
+      "path": "summary-metrics.json",
+      "bytes": 435,
+      "sha256": "3f2b369d910d5050628b713d6e86723254bb54415835fd014022724ad2279012"
+    },
+    {
+      "path": "validation-summary.json",
+      "bytes": 335,
+      "sha256": "3351c1859d7e287444edddfa17eddab4f7441f91d1d54f83bedcd81d082c5ba2"
+    },
+    {
+      "path": "verify_deliverables.py",
+      "bytes": 3350,
+      "sha256": "3cbfb9e5df88d18ce64455da44345bdfe3db4f7bf0fdc5bb0807b835475181a9"
+    },
+    {
+      "path": "verify_inventory_ui.py",
+      "bytes": 1647,
+      "sha256": "3c66058e3527f995432563c1a15f092cad6f6e1999249e341269bb05dfa9aeb6"
+    }
+  ]
+}

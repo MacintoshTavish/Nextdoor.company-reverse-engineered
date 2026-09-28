@@ -7,4 +7,3 @@ Company facts, job metadata, trademarks, URLs and bounded source excerpts come f
 The published NextDoor.Company terms restrict systematic extraction without written permission: https://www.nextdoor.company/terms. The included collection code documents the bounded audit and is not proof of permission for ongoing collection. Settle access and supported integration arrangements with the operator before deploying a production feed.
 
 The released evidence excludes credential values, cookies, visitor IPs, raw founder profile bodies and private account records. Public professional/business metadata and source attribution remain where necessary to explain findings. Known source errors remain in the dated snapshot as evidence; they should not be consumed as verified current job or financial facts.
-

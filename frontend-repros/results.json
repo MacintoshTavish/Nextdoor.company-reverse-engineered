@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-28",
+  "mode": "offline-only",
+  "results": [
+    {
+      "id": "checkout-missing-product-id",
+      "observed": {
+        "environment_keys": [],
+        "one_time_url": "https://checkout.dodopayments.com/buy/undefined?quantity=1",
+        "growth_url": "https://checkout.dodopayments.com/buy/undefined?quantity=1"
+      },
+      "external_requests": 0
+    },
+    {
+      "id": "free-company-false-success",
+      "scenario": "network-rejection",
+      "observed": [
+        [
+          "loading",
+          true
+        ],
+        [
+          "analytics",
+          "company_listing_free_submitted"
+        ],
+        [
+          "mock-fetch",
+          "network-rejection"
+        ],
+        [
+          "mock-fetch",
+          "network-rejection"
+        ],
+        [
+          "success",
+          true
+        ],
+        [
+          "loading",
+          false
+        ],
+        [
+          "onSubmitted",
+          true
+        ]
+      ],
+      "external_requests": 0
+    },
+    {
+      "id": "free-company-false-success",
+      "scenario": "http-503",
+      "observed": [
+        [
+          "loading",
+          true
+        ],
+        [
+          "analytics",
+          "company_listing_free_submitted"
+        ],
+        [
+          "mock-fetch",
+          "http-503"
+        ],
+        [
+          "mock-fetch",
+          "http-503"
+        ],
+        [
+          "success",
+          true
+        ],
+        [
+          "loading",
+          false
+        ],
+        [
+          "onSubmitted",
+          true
+        ]
+      ],
+      "external_requests": 0
+    },
+    {
+      "id": "leadership-http-error-cached-as-empty",
+      "observed": {
+        "first": [],
+        "second": [],
+        "fetch_calls": 1
+      },
+      "external_requests": 0
+    },
+    {
+      "id": "job-alert-false-success",
+      "scenario": "http-500",
+      "observed": [
+        [
+          "mock-fetch",
+          "http-500"
+        ],
+        [
+          "child-analytics",
+          "job_alert_signup_submitted"
+        ],
+        [
+          "success",
+          true
+        ]
+      ],
+      "external_requests": 0
+    },
+    {
+      "id": "job-alert-false-success",
+      "scenario": "network-rejection",
+      "observed": [
+        [
+          "mock-fetch",
+          "network-rejection"
+        ],
+        [
+          "child-analytics",
+          "job_alert_signup_submitted"
+        ],
+        [
+          "success",
+          true
+        ]
+      ],
+      "external_requests": 0
+    },
+    {
+      "id": "job-alert-false-success",
+      "scenario": "http-200-control",
+      "observed": [
+        [
+          "mock-fetch",
+          "http-200-control"
+        ],
+        [
+          "parent-analytics",
+          "job_alert_signup_success"
+        ],
+        [
+          "modal-open",
+          false
+        ],
+        [
+          "child-analytics",
+          "job_alert_signup_submitted"
+        ],
+        [
+          "success",
+          true
+        ]
+      ],
+      "external_requests": 0
+    },
+    {
+      "id": "raw-html-interpolation",
+      "observed": {
+        "raw_inert_markup_count": 2,
+        "escaped_marker_found": false
+      },
+      "external_requests": 0,
+      "limitation": "Inert markup only. No script executed and no persisted attacker-controlled source path demonstrated."
+    },
+    {
+      "id": "free-access-lookalike-host-validation",
+      "observed": [
+        {
+          "url": "https://www.instagram.com/reel/owned-fixture/",
+          "platform": "Instagram",
+          "accepted_as_video": true
+        },
+        {
+          "url": "https://instagram.com.example.invalid/reel/owned-fixture/",
+          "platform": "Instagram",
+          "accepted_as_video": true
+        },
+        {
+          "url": "https://tiktok.com.example.invalid/@owned/video/123",
+          "platform": "TikTok",
+          "accepted_as_video": true
+        }
+      ],
+      "external_requests": 0,
+      "limitation": "Client validation only; no access grant or server acceptance tested."
+    },
+    {
+      "id": "zero-role-failed-crawl-hiring-label",
+      "observed": {
+        "failed_crawl_labelled_not_hiring": true,
+        "crawl_failure_explained": false
+      },
+      "external_requests": 0,
+      "limitation": "Owned fixture proves renderer behavior; whether ingest publishes failed crawls as zero roles is a separate data-pipeline question."
+    },
+    {
+      "id": "representative-geocode-rendered-as-office",
+      "observed": {
+        "office_address_label": true,
+        "representative_address_displayed": true,
+        "office_network_label": true,
+        "representative_provenance_displayed": false
+      },
+      "external_requests": 0,
+      "fixture_provenance": "Synthetic company/role with public Databricks location shape from inventory/companies/databricks.json; no claimed physical office verification."
+    }
+  ]
+}

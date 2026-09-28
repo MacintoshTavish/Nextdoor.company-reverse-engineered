@@ -1,7 +1,5 @@
 # Nextdoor.company reverse engineered
 
-[![Offline audit checks](https://github.com/MacintoshTavish/Nextdoor.company-reverse-engineered/actions/workflows/checks.yml/badge.svg)](https://github.com/MacintoshTavish/Nextdoor.company-reverse-engineered/actions/workflows/checks.yml)
-
 A public-source audit of **[nextdoor.company](https://www.nextdoor.company/)**: where its listings come from, how fresh its published data is, which failures can be reproduced, and what the operator can fix.
 
 **Snapshot: 28 September 2026.** This repository records observations from that date, not a continuously updated claim about the live site. It is independent research, not the operator's source code or an official integration. The subject is the job-discovery site `nextdoor.company`; no relationship with `nextdoor.com` was established.
@@ -79,7 +77,7 @@ node frontend-repros/run.mjs
 python3 -m unittest discover -s daily-index-monitor -v
 ```
 
-The checks validate coverage, totals, known credential patterns, evidence hashes, frontend behavior and monitor failure handling. Frontend requests are mocked. **Passing the reproduction harness means the captured defect reproduces; it does not mean the production site is fixed.** CI runs these offline checks and does not crawl the target.
+The checks validate coverage, totals, known credential patterns, evidence hashes, frontend behavior and monitor failure handling. Frontend requests are mocked. **Passing the reproduction harness means the captured defect reproduces; it does not mean the production site is fixed.** The included [CI example](ci/README.md) runs these checks without crawling the target. It is not installed as an active workflow because the publishing token lacks GitHub workflow scope.
 
 To rebuild derived reports from the frozen snapshot:
 

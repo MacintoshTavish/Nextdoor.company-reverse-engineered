@@ -9,4 +9,3 @@ For code changes, run the offline checks in the README. Do not add target reques
 Keep source metadata, extracted/reformatted evidence and original-response hashes distinct. Rebuild the file manifest after intentional artifact edits; never replace an original-response hash with the hash of a sanitized record.
 
 Do not open public issues containing secrets or customer data. Findings in this repository are not authorization to probe private systems or contact third parties.
-

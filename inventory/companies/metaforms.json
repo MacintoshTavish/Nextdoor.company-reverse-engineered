@@ -1,0 +1,258 @@
+{
+  "slug": "metaforms",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/7623.926ea94e8dc286b2.js",
+  "observed_at": "2026-09-28T08:33:56.248431+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 14451,
+    "sha256": "a3d5a28dabc9246b7f9fa12bbfe34fdda72b322b47ec13fa19a3458dfc03493f",
+    "elapsed_seconds": 0.17,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:56 GMT",
+      "etag": "\"42b0b773fc30ebaf09aa7a892ca256ae\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:49 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Metaforms",
+    "company_name_legal": "Metaforms",
+    "founded_year": 2022,
+    "website_url": "https://www.metaforms.ai",
+    "careers_url": "https://jobs.ashbyhq.com/metaforms",
+    "investor_portfolio_page": null,
+    "id": 117
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-18T15:44:41.975Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/metaforms/274f033c-5328-4a15-98e3-0c75effd3f3b",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-24",
+      "ashby_job_id": "274f033c-5328-4a15-98e3-0c75effd3f3b"
+    },
+    {
+      "title": "AI Specialist - Market Research",
+      "title_original": "Build With Metaforms",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-23T06:03:11.693Z",
+      "apply_url": "https://jobs.ashbyhq.com/metaforms/11526b3e-d4df-4ff9-86a6-df6878236b16",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-22",
+      "ashby_job_id": "11526b3e-d4df-4ff9-86a6-df6878236b16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job description emphasizes the use of an AI platform for market research, highlighting the role of AI Agents in survey programming, data processing, and project management. This indicates a strong focus on AI technologies and applications, making 'ai' the most appropriate category."
+    },
+    {
+      "title": "Senior Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/metaforms/fbaa4289-1ec2-4e48-a83f-ddd090715cd6",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "fbaa4289-1ec2-4e48-a83f-ddd090715cd6"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9352,
+      "longitude": 77.6123,
+      "exact_address": "3rd Floor, Shop No 777, JK Aswath Lakshmi Heritage, 80 Feet Road, Koramangala 4th Block, Ejipura, Bengaluru, Bengaluru Urban, Karnataka, India - 560034",
+      "departments": [
+        "sales",
+        "customer-support",
+        "product",
+        "research",
+        "ai",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-05T03:04:22.998Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-05T03:04:22.998Z",
+    "total_funding_raised": "$10 million",
+    "total_funding_raised_last_updated": "2025-12-05T03:04:22.998Z",
+    "key_investors": [
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "domain": "nexusvp.com"
+      },
+      {
+        "name": "Together Fund",
+        "domain": "together.fund"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "logo_url": "/investor-logos/nexus-venture.png"
+      },
+      {
+        "name": "Together Fund",
+        "logo_url": "/investor-logos/together-fund.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-05T03:04:22.998Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "learning-development",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-05T03:04:22.998Z",
+    "company_basic_information.website_url_last_updated": "2025-12-05T03:04:22.998Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-05T03:04:22.998Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-05T03:04:22.998Z",
+    "company_basic_information.last_updated": "2025-12-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-05T04:20:31.789Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:01:55.756Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:06:47.788Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-05T04:21:04.751Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-05T04:21:28.072Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:02:06.348Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:06:53.096Z",
+    "leadership.last_updated": "2025-12-05T09:49:01.000Z",
+    "social_media.x_url_last_verified": "2025-12-05T04:01:11.839Z",
+    "social_media.linkedin_url_last_verified": "2025-12-05T04:07:42.938Z",
+    "social_media.instagram_url_last_verified": "2025-12-05T04:07:58.794Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:56.845Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-05T03:04:22.998Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-05T03:04:22.998Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-05T03:04:22.998Z",
+    "financial_information.investor_logos_last_updated": "2025-12-05T03:04:22.998Z",
+    "location_mapping[0].last_updated": "2025-12-05T03:04:22.998Z",
+    "job_data.roles[0].posted_date": "2026-06-24",
+    "job_data.roles[1].posted_date": "2026-07-22",
+    "job_data.roles[1].title_updated_timestamp": "2026-07-23T06:03:11.693Z",
+    "job_data.roles[2].posted_date": "2026-08-06",
+    "job_data.last_updated": "2026-09-18T15:44:41.975Z",
+    "benefits.health-insurance.last_updated": "2026-01-06T14:12:43.772Z",
+    "benefits.learning-development.last_updated": "2026-01-06T14:12:43.772Z",
+    "benefits.meal-allowance.last_updated": "2026-01-06T14:12:43.772Z"
+  }
+}

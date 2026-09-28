@@ -1,0 +1,590 @@
+{
+  "slug": "gaiafamily",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/18285.7ad10b6cd236414c.js",
+  "observed_at": "2026-09-28T08:32:02.586397+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 16513,
+    "sha256": "0bf0b312e6723e7eaebad5404917b1ce369f30c1ce0ca0a607ff2af2d7a76df4",
+    "elapsed_seconds": 0.177,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:02 GMT",
+      "etag": "\"460562ce29bc8331342870c0e728f0bf\"",
+      "last-modified": "Mon, 28 Sep 2026 08:23:07 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Gaiafamily",
+    "company_name_legal": "Gaiafamily",
+    "founded_year": "2019",
+    "website_url": "https://gaiafamily.com",
+    "careers_url": "https://jobs.ashbyhq.com/gaiafamily",
+    "investor_portfolio_page": null,
+    "id": 189
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 4,
+    "last_updated": "2026-09-14T09:51:33.803Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 4,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/gaiafamily/c9702ab3-6c03-4a35-9ed7-6616f6a8cf62",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "GBP65k-95k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-17",
+      "ashby_job_id": "c9702ab3-6c03-4a35-9ed7-6616f6a8cf62"
+    },
+    {
+      "title": "Product Manager, Employer",
+      "apply_url": "https://jobs.ashbyhq.com/gaiafamily/3d20f495-2740-41d6-8f58-ec7e36bc2df6",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": "$130k-160k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-15",
+      "ashby_job_id": "3d20f495-2740-41d6-8f58-ec7e36bc2df6"
+    },
+    {
+      "title": "Creative Lead",
+      "apply_url": "https://jobs.ashbyhq.com/gaiafamily/db0b66a3-248a-497f-b3c4-4437e3d98f8a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "db0b66a3-248a-497f-b3c4-4437e3d98f8a"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/gaiafamily/e99ea4f2-2bed-4c0d-9213-40d006d1f9a8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e99ea4f2-2bed-4c0d-9213-40d006d1f9a8"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cali_office",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "exact_address": "Cali, Valle del Cauca, Colombia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cordoba_office",
+      "city": "Córdoba",
+      "state": "Córdoba",
+      "country": "Argentina",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "exact_address": "Córdoba, Córdoba, Argentina",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lima_office",
+      "city": "Lima",
+      "state": "Lima",
+      "country": "Peru",
+      "latitude": -12.0464,
+      "longitude": -77.0428,
+      "exact_address": "Lima, Lima, Peru",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "medellin_office",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia",
+      "latitude": 6.2476,
+      "longitude": -75.5658,
+      "exact_address": "Medellín, Antioquia, Colombia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rosario_office",
+      "city": "Rosario",
+      "state": "Santa Fe",
+      "country": "Argentina",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "exact_address": "Rosario, Santa Fe, Argentina",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santiago_office",
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "country": "Chile",
+      "latitude": -33.4489,
+      "longitude": -70.6693,
+      "exact_address": "Santiago, Región Metropolitana, Chile",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valparaiso_office",
+      "city": "Valparaíso",
+      "state": "Valparaíso",
+      "country": "Chile",
+      "latitude": -33.0472,
+      "longitude": -71.6127,
+      "exact_address": "Valparaíso, Valparaíso, Chile",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-02-13T14:30:44.871Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-02-13T14:30:44.871Z",
+    "total_funding_raised": "$34 million",
+    "total_funding_raised_last_updated": "2026-02-13T14:30:44.871Z",
+    "key_investors": [
+      {
+        "name": "Valar Ventures",
+        "domain": "valar.com"
+      },
+      {
+        "name": "Atomico",
+        "domain": "atomico.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Valar Ventures",
+        "logo_url": "/investor-logos/valar-ventures.png"
+      },
+      {
+        "name": "Atomico",
+        "logo_url": "/investor-logos/atomico.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-13T14:30:44.871Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "retirement-401k",
+    "wfh-setup",
+    "learning-development",
+    "remote-work",
+    "benefits_scraping_source",
+    "equity-stock",
+    "childcare-support",
+    "flexible-hours",
+    "employee-product-access"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-13T14:30:44.871Z",
+    "company_basic_information.website_url_last_updated": "2026-02-13T14:30:44.871Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-13T14:30:44.871Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-13T14:30:44.871Z",
+    "company_basic_information.last_updated": "2026-02-13",
+    "company_basic_information.founded_year_last_updated": "2026-02-13T15:46:40.509Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-13T14:56:10.698Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-13T14:56:25.936Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:30:52.331Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:33:16.391Z",
+    "social_media.x_url_last_verified": "2026-02-13T14:56:40.411Z",
+    "social_media.linkedin_url_last_verified": "2026-02-13T14:57:07.764Z",
+    "social_media.instagram_url_last_verified": "2026-02-13T14:57:19.967Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-13T14:30:44.871Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-13T14:30:44.871Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-13T14:30:44.871Z",
+    "financial_information.investor_logos_last_updated": "2026-02-13T14:30:44.871Z",
+    "job_data.roles[0].posted_date": "2026-02-17",
+    "job_data.roles[1].posted_date": "2026-05-15",
+    "job_data.roles[2].posted_date": "2026-08-16",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T09:51:33.803Z",
+    "benefits.health-insurance.last_updated": "2026-03-11T12:06:28.194Z",
+    "benefits.retirement-401k.last_updated": "2026-03-11T12:06:28.194Z",
+    "benefits.wfh-setup.last_updated": "2026-03-11T12:06:28.194Z",
+    "benefits.learning-development.last_updated": "2026-03-11T12:06:28.194Z",
+    "benefits.remote-work.last_updated": "2026-03-11T12:06:28.194Z",
+    "benefits.equity-stock.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.childcare-support.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.flexible-hours.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.employee-product-access.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

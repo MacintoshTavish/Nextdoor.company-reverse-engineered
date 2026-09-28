@@ -1,0 +1,949 @@
+{
+  "slug": "lemon-markets",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/97891.e8271ce688369ca9.js",
+  "observed_at": "2026-09-28T08:33:34.886067+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 29971,
+    "sha256": "efc756d40279259a494aa5a9437d3c0eb8c19582b0f7c39f7b8c4a2f414a9b02",
+    "elapsed_seconds": 0.744,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:34 GMT",
+      "etag": "\"00d6c31fcba85b90f1b2ed8186a44092\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "lemon.markets",
+    "company_name_legal": "lemon.markets GmbH",
+    "founded_year": 2020,
+    "website_url": "https://www.lemon.markets",
+    "careers_url": "https://jobs.ashbyhq.com/lemon-markets",
+    "investor_portfolio_page": null,
+    "id": 427
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 20,
+    "last_updated": "2026-09-16T17:53:30.542Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 20,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/f9586596-cfcf-4267-9b27-250d83824a01",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "f9586596-cfcf-4267-9b27-250d83824a01"
+    },
+    {
+      "title": "Banking Operations Specialist (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/5965a538-655e-48a7-ac25-e9e6b987e5f5",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "5965a538-655e-48a7-ac25-e9e6b987e5f5"
+    },
+    {
+      "title": "Founder's Associate - FinTech Operations",
+      "title_original": "Founder's Associate (f/m/d)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-18T19:56:32.643Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/397377e4-7260-4b21-83c3-b970fdd2c7dd",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "397377e4-7260-4b21-83c3-b970fdd2c7dd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Founder's Associate involves working closely with the Founder and CEO to drive strategic priorities and operational execution, which aligns closely with entrepreneurial functions. The responsibilities include leading cross-functional projects, supporting strategic initiatives, and mentoring interns, all of which are typical in a startup or entrepreneurial environment."
+    },
+    {
+      "title": "ICT Outsourcing Manager (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/65403fcd-f3dc-4f59-ac02-ba15240c9e93",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "65403fcd-f3dc-4f59-ac02-ba15240c9e93"
+    },
+    {
+      "title": "Principal Program Manager (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/7cd23c72-024f-420f-8b33-70f64ebdc70b",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "7cd23c72-024f-420f-8b33-70f64ebdc70b"
+    },
+    {
+      "title": "Senior AFC Operations Specialist (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/4f1b03f0-5e52-44fe-9c31-e90dfe3aba0c",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "4f1b03f0-5e52-44fe-9c31-e90dfe3aba0c"
+    },
+    {
+      "title": "(Senior) Backend Engineer (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/a2fa9c37-a62c-4376-8fb0-bcca7b80b2fd#loc-0",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "a2fa9c37-a62c-4376-8fb0-bcca7b80b2fd"
+    },
+    {
+      "title": "(Senior) Backend Engineer (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/a2fa9c37-a62c-4376-8fb0-bcca7b80b2fd#loc-1",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "a2fa9c37-a62c-4376-8fb0-bcca7b80b2fd"
+    },
+    {
+      "title": "(Senior) Corporate Actions Specialist - Investment Operations",
+      "title_original": "(Senior) Corporate Actions Specialist (f/m/d)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-18T19:57:25.225Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/3b2e9eb6-d598-48d4-9c7d-5594eed8b9d5",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "3b2e9eb6-d598-48d4-9c7d-5594eed8b9d5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Corporate Actions Specialist involve managing the end-to-end lifecycle of corporate actions, which includes processing, validation, and settlement, all of which fall under operational functions. The role also emphasizes continuous improvement and automation of processes, further aligning it with operations."
+    },
+    {
+      "title": "(Senior) Investment Compliance Manager (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/df2b4362-8d58-47b1-9d31-3dc8fa635b0b",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "df2b4362-8d58-47b1-9d31-3dc8fa635b0b"
+    },
+    {
+      "title": "(Senior) Legal Counsel (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/7fc5a5eb-c0e6-4423-ad44-0522b746d78f",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "7fc5a5eb-c0e6-4423-ad44-0522b746d78f"
+    },
+    {
+      "title": "Senior Partner Manager (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/7a67e2ed-88b9-40f5-acce-64636e896f1e",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "7a67e2ed-88b9-40f5-acce-64636e896f1e"
+    },
+    {
+      "title": "Senior Risk Management Specialist (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/418bca14-1175-495d-ad62-fe5f3717344f",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "418bca14-1175-495d-ad62-fe5f3717344f"
+    },
+    {
+      "title": "Engineering Specialist - Brokerage Technology",
+      "title_original": "Engineering Specialist - Brokerage Technology",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-18T20:25:08.185Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/c5d48e7f-b563-4c56-8476-cd4cc6960457#loc-0",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "c5d48e7f-b563-4c56-8476-cd4cc6960457",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job title 'Engineering Specialist - Brokerage Technology' and the description emphasize the role's focus on technology and engineering within the brokerage domain. The primary responsibilities involve building and enhancing the technology that supports the brokerage services, which aligns closely with the engineering department."
+    },
+    {
+      "title": "Engineering Specialist - Brokerage Technology",
+      "title_original": "Engineering Specialist - Brokerage Technology",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-18T20:25:23.669Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/c5d48e7f-b563-4c56-8476-cd4cc6960457#loc-1",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "c5d48e7f-b563-4c56-8476-cd4cc6960457",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily involves working within the engineering team to develop and enhance the Brokerage-as-a-Service platform, focusing on building technology solutions for brokerage operations. The emphasis on technology, problem-solving, and product development aligns closely with engineering responsibilities."
+    },
+    {
+      "title": "Engineering Specialist - Brokerage Technology",
+      "title_original": "Engineering Specialist - Brokerage Technology",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-18T20:25:52.257Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/c5d48e7f-b563-4c56-8476-cd4cc6960457#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Europe",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "c5d48e7f-b563-4c56-8476-cd4cc6960457",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job description emphasizes the need for individuals who can contribute to the technology and product development aspects of the brokerage platform, which aligns closely with engineering roles. The mention of building products from scratch and working with technology indicates a strong focus on engineering responsibilities."
+    },
+    {
+      "title": "VP People (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/b3ab6260-b8fd-400b-a6ab-598fb5bfb197",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "b3ab6260-b8fd-400b-a6ab-598fb5bfb197"
+    },
+    {
+      "title": "AI-Enabled Governance Associate - Financial Services",
+      "title_original": "AI-Enabled Governance Associate (f/m/x)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-16T18:08:00.852Z",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/e10fe3bd-68a5-49d7-95ab-62a876fa80f2",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-16",
+      "ashby_job_id": "e10fe3bd-68a5-49d7-95ab-62a876fa80f2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI-Enabled Governance Associate revolve around using AI tools to optimize governance processes, improve workflows, and enhance operational efficiency. The role explicitly focuses on leveraging AI for analysis, documentation, and process improvement, which aligns closely with the AI department."
+    },
+    {
+      "title": "(Senior) Backend Engineer - Banking (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/8eb5e491-1af6-459e-b3d7-1f7a36871e79",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-16",
+      "ashby_job_id": "8eb5e491-1af6-459e-b3d7-1f7a36871e79"
+    },
+    {
+      "title": "(Senior) Backend Engineer - Investing (f/m/x)",
+      "apply_url": "https://jobs.ashbyhq.com/lemon-markets/f91d5fa8-9ae5-4cf8-9c98-dc1f7d1ecb59",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-16",
+      "ashby_job_id": "f91d5fa8-9ae5-4cf8-9c98-dc1f7d1ecb59"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales",
+        "operations",
+        "other",
+        "hr",
+        "product",
+        "engineering",
+        "legal",
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales",
+        "operations",
+        "hr",
+        "product",
+        "engineering",
+        "other",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt am Main",
+      "state": "Hesse",
+      "country": "Germany",
+      "latitude": 50.1404,
+      "longitude": 8.6389,
+      "exact_address": "Marie-Curie-Straße 24-28, 60439 Frankfurt am Main, Hesse, Germany",
+      "departments": [
+        "sales",
+        "operations",
+        "hr",
+        "product",
+        "engineering",
+        "other",
+        "legal"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "country": "Germany",
+      "latitude": 53.5715,
+      "longitude": 9.9143,
+      "exact_address": "Beim Alten Gaswerk 1, 22761 Hamburg, Germany",
+      "departments": [
+        "sales",
+        "operations",
+        "hr",
+        "product",
+        "engineering",
+        "other",
+        "legal"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "latitude": 48.1323,
+      "longitude": 11.575,
+      "exact_address": "Reichenbachstr. 33, 80469 München, Germany",
+      "departments": [
+        "sales",
+        "operations",
+        "hr",
+        "product",
+        "engineering",
+        "other",
+        "legal"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "location_tbd",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.4939,
+      "longitude": 13.4223,
+      "exact_address": "Kottbusser Damm 79, 2nd Floor, Kreuzberg/Neukölln, Berlin, Berlin, Germany - 10967",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations",
+        "other",
+        "hr",
+        "product",
+        "legal",
+        "finance"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_corrected_reason": "Original data said series-b. Crunchbase and CommerzVentures' own press release both label the July 2024 round (CommerzVentures, Heliad, Creandum, Lakestar, Lightspeed, System.One) as a Series A, following an April 2022 Seed round. No Series B has been announced.",
+    "funding_stage_last_updated": "2026-08-18T19:13:52.525Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-08-18T19:13:52.525Z",
+    "total_funding_raised": "$42M",
+    "total_funding_raised_last_updated": "2026-08-18T19:13:52.525Z",
+    "key_investors": [
+      {
+        "name": "CommerzVentures",
+        "domain": "commerzventures.com"
+      }
+    ],
+    "key_investors_correction_reason": "Removed 5 entries that were not investors at all: 'View mutual connections', 'Articles by Max', 'Building lemon', 'Experience', and 'Education' are LinkedIn page UI labels and profile section headers that were mistakenly scraped as if they were investor names. Only CommerzVentures was a genuine investor. Verified via CommerzVentures' own press release and Crunchbase that the July 2024 Series A round included CommerzVentures, Heliad, Creandum, Lakestar, Lightspeed, and System.One -- only CommerzVentures was already present so no other names were added, per the composition-editing rule.",
+    "investor_logos": [
+      {
+        "name": "CommerzVentures",
+        "logo_url": "/investor-logos/commerzventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-18T19:13:52.525Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "flexible-hours",
+    "remote-work",
+    "learning-development",
+    "commute-allowance",
+    "team-events",
+    "sabbatical",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "direct_navigation",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[3].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-18T19:13:52.525Z",
+    "company_basic_information.website_url_last_updated": "2026-08-18T19:13:52.525Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-18T19:13:52.525Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-18T19:13:52.525Z",
+    "company_basic_information.last_updated": "2026-08-18",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-18",
+    "leadership.founders[0].image_url_last_updated": "2026-08-18T20:40:36.572Z",
+    "leadership.founders[0].description_last_updated": "2026-08-18T20:42:19.181Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-18",
+    "leadership.founders[1].image_url_last_updated": "2026-08-18T20:41:27.654Z",
+    "leadership.founders[1].description_last_updated": "2026-08-18T20:42:26.510Z",
+    "social_media.linkedin_url_last_updated": "2026-08-18",
+    "social_media.linkedin_url_last_verified": "2026-08-18",
+    "business_details.industry_domains_last_updated": "2026-08-18",
+    "financial_information.funding_stage_last_updated": "2026-08-18T19:13:52.525Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-18T19:13:52.525Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-18T19:13:52.525Z",
+    "financial_information.investor_logos_last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[0].last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[1].last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[2].last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[3].last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[4].last_updated": "2026-08-18T19:13:52.525Z",
+    "location_mapping[5].last_updated": "2026-08-18T19:13:52.525Z",
+    "job_data.roles[0].posted_date": "2026-09-02",
+    "job_data.roles[1].posted_date": "2026-09-02",
+    "job_data.roles[2].posted_date": "2026-09-02",
+    "job_data.roles[2].title_updated_timestamp": "2026-08-18T19:56:32.643Z",
+    "job_data.roles[3].posted_date": "2026-09-02",
+    "job_data.roles[4].posted_date": "2026-09-02",
+    "job_data.roles[5].posted_date": "2026-09-02",
+    "job_data.roles[6].posted_date": "2026-09-02",
+    "job_data.roles[7].posted_date": "2026-09-02",
+    "job_data.roles[8].posted_date": "2026-09-02",
+    "job_data.roles[8].title_updated_timestamp": "2026-08-18T19:57:25.225Z",
+    "job_data.roles[9].posted_date": "2026-09-02",
+    "job_data.roles[10].posted_date": "2026-09-02",
+    "job_data.roles[11].posted_date": "2026-09-02",
+    "job_data.roles[12].posted_date": "2026-09-02",
+    "job_data.roles[13].posted_date": "2026-09-02",
+    "job_data.roles[13].title_updated_timestamp": "2026-08-18T20:25:08.185Z",
+    "job_data.roles[14].posted_date": "2026-09-02",
+    "job_data.roles[14].title_updated_timestamp": "2026-08-18T20:25:23.669Z",
+    "job_data.roles[15].posted_date": "2026-09-02",
+    "job_data.roles[15].title_updated_timestamp": "2026-08-18T20:25:52.257Z",
+    "job_data.roles[16].posted_date": "2026-09-02",
+    "job_data.roles[17].posted_date": "2026-09-16",
+    "job_data.roles[17].title_updated_timestamp": "2026-09-16T18:08:00.852Z",
+    "job_data.roles[18].posted_date": "2026-09-16",
+    "job_data.roles[19].posted_date": "2026-09-16",
+    "job_data.last_updated": "2026-09-16T17:53:30.542Z",
+    "benefits.bonus.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.flexible-hours.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.remote-work.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.learning-development.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.commute-allowance.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.team-events.last_updated": "2026-08-18T20:37:01.126Z",
+    "benefits.sabbatical.last_updated": "2026-08-18T20:37:01.126Z"
+  }
+}

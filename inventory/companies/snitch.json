@@ -1,0 +1,840 @@
+{
+  "slug": "snitch",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/31307.3cc2f4d3b422d225.js",
+  "observed_at": "2026-09-28T08:36:42.714155+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 26645,
+    "sha256": "db91d68c8a2bff7bdc7c8029bc326374f273f0e5e32a1077a4121c812f622bbf",
+    "elapsed_seconds": 0.453,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:42 GMT",
+      "etag": "\"c35b5a48fe97c182811b19324af77a2b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:42 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Snitch",
+    "company_name_legal": "Snitch Fashion Private Limited",
+    "founded_year": 2020,
+    "website_url": "https://www.snitch.com",
+    "careers_url": "https://snitch.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 107
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 29,
+    "last_updated": "2026-09-24T10:21:09.305Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 29,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Support Executive (Semi-Voice)",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/82671",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "82671"
+    },
+    {
+      "title": "Manager – Design (Plus Size)",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/67019",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "INR",
+        "min": 1200000,
+        "max": 1800000,
+        "period": "year",
+        "display": "₹12–18 LPA",
+        "confidence": "medium",
+        "reason": "Based on salary data for design management roles in Bengaluru's fast-fashion sector, a Manager Design (Plus Size) at Snitch in 2025 is expected to have an annual base compensation within the range of ₹12 Lakhs - ₹18 Lakhs per year (approx.",
+        "citations": [
+          "https://www.glassdoor.co.uk/Salaries/bangalore-india-design-manager-salary-SRCH_IL.0,15_IM1091_KO16,30.htm",
+          "https://www.ambitionbox.com/profile/design-manager-salary/bengaluru-location",
+          "https://www.ambitionbox.com/profile/design-manager-salary",
+          "https://kidat.in/blog/fashion-designer-salary/",
+          "https://www.uplers.com/company/snitch-5316"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-07-21T05:03:59.198Z"
+      },
+      "experience": "5-8 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "67019"
+    },
+    {
+      "title": "Finance Executive - Receivables & Reconciliation",
+      "title_original": "Finance Executive - Receivables & Reconciliation",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-17T08:54:24.969Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/71430",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "71430",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Finance Executive involve monitoring receivables, preparing reports, performing reconciliations, and coordinating with various teams to ensure accurate financial accounting. These tasks are clearly aligned with finance and accounts functions."
+    },
+    {
+      "title": "Manager - Warehouse Finance",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/83213",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "83213"
+    },
+    {
+      "title": "Analyst - Founder's Office",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/53594",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2–4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "53594"
+    },
+    {
+      "title": "Assistant Manager - Performance Marketing",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/67958",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "67958"
+    },
+    {
+      "title": "HR - Retail Operations",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/54998",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4–5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "54998"
+    },
+    {
+      "title": "B2C & Q-Commerce Logistics Lead",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/80937",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2–5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "80937"
+    },
+    {
+      "title": "Production Merchandiser/ Junior Designer & Product Development",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/41908",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0.6–4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "41908"
+    },
+    {
+      "title": "South Regional Project Manager",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/46484",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "46484"
+    },
+    {
+      "title": "BD Support Executive",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/77264",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "77264"
+    },
+    {
+      "title": "Assistant Manager - Inventory",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/50473",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "6-8",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "50473"
+    },
+    {
+      "title": "B2B Operations Executive",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/34504",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1–3 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "34504"
+    },
+    {
+      "title": "Warehouse Executive- Inventory",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/34071",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "34071"
+    },
+    {
+      "title": "Social Media Strategist - Gen Z Marketing",
+      "title_original": "Social Media Strategist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-13T19:33:01.812Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/72499",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3–5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "72499",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Social Media Strategist revolve around defining and driving social media strategy, content creation, and performance analysis, all of which are core functions of the marketing department. The role emphasizes brand storytelling, community engagement, and collaboration with creative teams, further solidifying its classification under marketing."
+    },
+    {
+      "title": "Creative Strategist - Founder's Office",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/83599",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2–5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "83599"
+    },
+    {
+      "title": "Logistics Executive - Q-Com Operations",
+      "title_original": "Q-Com Logistics Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T19:06:03.272Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/61162",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "61162",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Q-Com Logistics Executive focus on managing logistics operations, coordinating order flow, and ensuring compliance with delivery processes. This aligns closely with the operations category, particularly in the context of logistics and supply chain management."
+    },
+    {
+      "title": "Copywriter - Digital Content Production",
+      "title_original": "Copywriter",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T18:29:55.738Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/64484",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "64484",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Copywriter role involve structuring and scripting content, improving content performance, and collaborating with creators to produce engaging narratives. This aligns closely with content production activities, particularly in the context of digital and social media."
+    },
+    {
+      "title": "Social Media Intern - Kannada Content",
+      "title_original": "Social Media Intern – Snitch Kannada Page (Regional Content)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T19:08:24.739Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/56194",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "56194",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Social Media Intern revolve around managing and creating content for the Snitch Kannada Instagram page, which is a marketing function. The role requires ideation of content, tracking performance metrics, and staying updated with social media trends, all of which fall under marketing activities."
+    },
+    {
+      "title": "Social Media Intern - Campus Engagement",
+      "title_original": "Social Media Intern - Campus Engagement",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-06T14:29:48.765Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/56196",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "56196",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on managing social media content, engaging with campus culture, and tracking performance metrics, which are all key functions of marketing. The emphasis on content creation and trend awareness further solidifies this classification."
+    },
+    {
+      "title": "Marketplace Operations Associate",
+      "title_original": "Marketplace Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T18:20:16.383Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/67568",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2+ Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "67568",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Marketplace Associate involve managing inventory, defining selection strategies, and driving optimization plans, which are all key functions within operations. The role also emphasizes tracking metrics and supporting financial reporting, further aligning it with operational tasks."
+    },
+    {
+      "title": "Manager - Marketplaces Business Operations",
+      "title_original": "Manager – Marketplaces (Long Tail Categories)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-27T20:27:02.757Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/80782",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4+ Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "80782",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily focuses on managing the marketplace business, including P&L ownership, inventory management, and category strategy, which are all key responsibilities within operations. The role also emphasizes scaling the business and driving growth through strategic planning and execution across various marketplaces."
+    },
+    {
+      "title": "Production Associate - Apparel Manufacturing",
+      "title_original": "Associate - Production",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T09:11:59.279Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/83171",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "83171",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Associate - Production role focus on coordinating production schedules, tracking order progress, and managing vendor relationships, which are all key aspects of operations within a manufacturing context. The job also emphasizes quality assurance and production planning, further solidifying its classification under operations."
+    },
+    {
+      "title": "Area Visual Merchandiser - Retail Operations",
+      "title_original": "Area Visual Merchandiser",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T19:08:47.575Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/49484",
+      "location_ids": [
+        "gujarat_office"
+      ],
+      "location_display": "Gujarat, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "49484",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Area Visual Merchandiser involve understanding retail store layouts and visual merchandising principles, which are closely related to operations in a retail context. The role focuses on executing visual displays and merchandising strategies across multiple stores, aligning with operational functions."
+    },
+    {
+      "title": "Business Development Manager - Retail Expansion",
+      "title_original": "Business Development - Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-13T19:32:41.610Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/77262",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "77262",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on business development, site identification, and commercial negotiations, which align closely with sales activities. The job emphasizes generating a pipeline of potential retail locations and managing relationships with landlords and developers, which are key aspects of sales in a retail context."
+    },
+    {
+      "title": "Fashion Consultant / Senior Fashion consulant",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/78125",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "78125"
+    },
+    {
+      "title": "Executive - B2C Returns Operations",
+      "title_original": "Executive: B2C Returns",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T18:19:45.001Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/34399",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1–3 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "34399",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on managing B2C return shipments, coordinating with various teams, and ensuring efficient return workflows, which aligns closely with operations. The role requires a good understanding of e-commerce reverse logistics, further supporting its classification under operations."
+    },
+    {
+      "title": "Sales & Receivables Reconciliation Specialist - E-commerce",
+      "title_original": "Sales & Receivables Reconciliation (Prepaid Payment Partners)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T21:08:21.470Z",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/84079",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "84079",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on reconciling sales data with receipts, managing accounts receivable, and ensuring accurate financial reporting. The job requires a strong understanding of finance and accounting principles, particularly in the context of e-commerce and payment processing, which aligns it closely with the finance department."
+    },
+    {
+      "title": "Assistant Manager – B2C Operations (Forward & Returns)",
+      "apply_url": "https://snitch.keka.com/careers/jobdetails/85041",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "6-8",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "85041"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9689,
+      "longitude": 77.5941,
+      "exact_address": "No 1/1, 1st, 2nd, 3rd, 4th, 5th Floors, St. Johns Church Road, Bharathinagar, Fraser Town, Bangalore North, Karnataka, India - 560005",
+      "departments": [
+        "other",
+        "design",
+        "legal",
+        "finance",
+        "entrepreneurs",
+        "marketing",
+        "content-production",
+        "product",
+        "academy-training",
+        "data",
+        "engineering"
+      ],
+      "employee_count": "15+"
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5621,
+      "longitude": 77.25,
+      "exact_address": "K-60/A, Lajpat Nagar-II, New Delhi, South East Delhi, Delhi, India - 110024",
+      "departments": [
+        "hr",
+        "other",
+        "data",
+        "administration",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gujarat_office",
+      "city": "Gujarat",
+      "state": "Gujarat",
+      "country": "India",
+      "latitude": 22.2587,
+      "longitude": 71.1924,
+      "exact_address": "Gujarat, India",
+      "departments": [
+        "operations",
+        "sales",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kolkata_office",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "exact_address": "Kolkata, West Bengal, India",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-11-30T10:44:40.112Z",
+    "current_valuation_usd": "$250 million",
+    "current_valuation_usd_last_updated": "2025-11-30T10:44:40.112Z",
+    "total_funding_raised": "$52.99 million",
+    "total_funding_raised_last_updated": "2025-11-30T10:44:40.112Z",
+    "key_investors": [
+      {
+        "name": "360 ONE Asset",
+        "domain": "360one.in"
+      },
+      {
+        "name": "IvyCap Ventures",
+        "domain": "ivycap.com"
+      },
+      {
+        "name": "SWC",
+        "domain": "swcglobal.com"
+      },
+      {
+        "name": "Ravi Modi Family Office",
+        "domain": null
+      },
+      {
+        "name": "Anupam Mittal",
+        "domain": null
+      },
+      {
+        "name": "Aman Gupta",
+        "domain": null
+      },
+      {
+        "name": "Namita Thapar",
+        "domain": null
+      },
+      {
+        "name": "Vineeta Singh",
+        "domain": null
+      },
+      {
+        "name": "Peyush Bansal",
+        "domain": null
+      },
+      {
+        "name": "Amit Jain",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "360 ONE Asset",
+        "logo_url": "/investor-logos/360-one-asset.png"
+      },
+      {
+        "name": "IvyCap Ventures",
+        "logo_url": "/investor-logos/ivycap-ventures.png"
+      },
+      {
+        "name": "SWC",
+        "logo_url": "/investor-logos/swc.png"
+      },
+      {
+        "name": "Ravi Modi Family Office",
+        "logo_url": "/investor-logos/ravi-modi-family-office.png"
+      },
+      {
+        "name": "Anupam Mittal",
+        "logo_url": "/investor-logos/anupam-mittal.png"
+      },
+      {
+        "name": "Aman Gupta",
+        "logo_url": "/investor-logos/aman-gupta.png"
+      },
+      {
+        "name": "Namita Thapar",
+        "logo_url": "/investor-logos/namita-thapar.png"
+      },
+      {
+        "name": "Vineeta Singh",
+        "logo_url": "/investor-logos/vineeta-singh.png"
+      },
+      {
+        "name": "Peyush Bansal",
+        "logo_url": "/investor-logos/peyush-bansal.png"
+      },
+      {
+        "name": "Amit Jain",
+        "logo_url": "/investor-logos/amit-jain.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-30T10:44:40.112Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$31.2 million",
+      "annual_revenue_inr": "₹243 crore",
+      "revenue_growth_rate": 120,
+      "fiscal_year": "FY24"
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.roles[1].salary_estimated.citations": [
+      "https://www.glassdoor.co.uk/Salaries/bangalore-india-design-manager-salary-SRCH_IL.0,15_IM1091_KO16,30.htm",
+      "https://www.ambitionbox.com/profile/design-manager-salary/bengaluru-location",
+      "https://www.ambitionbox.com/profile/design-manager-salary",
+      "https://kidat.in/blog/fashion-designer-salary/",
+      "https://www.uplers.com/company/snitch-5316"
+    ],
+    "job_data.roles[1].salary_estimated.source": "searchapi",
+    "job_data.roles[27].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-30T10:44:40.112Z",
+    "company_basic_information.website_url_last_updated": "2025-11-30T10:44:40.112Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-30T10:44:40.112Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-30T10:44:40.112Z",
+    "company_basic_information.last_updated": "2025-11-30",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-30T11:24:33.699Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-30T10:50:16.716Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:05:11.148Z",
+    "social_media.x_url_last_verified": "2025-11-30T10:50:36.898Z",
+    "social_media.instagram_url_last_verified": "2025-11-30T10:51:21.758Z",
+    "social_media.linkedin_url_last_verified": "2025-11-30T10:55:00.405Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:49.590Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-11-30T10:44:40.112Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-30T10:44:40.112Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-30T10:44:40.112Z",
+    "financial_information.investor_logos_last_updated": "2025-11-30T10:44:40.112Z",
+    "location_mapping[0].last_updated": "2025-11-30T10:44:40.112Z",
+    "location_mapping[1].last_updated": "2025-11-30T10:44:40.112Z",
+    "job_data.roles[1].salary_estimated.fetched_at": "2026-07-21T05:03:59.198Z",
+    "job_data.roles[2].title_updated_timestamp": "2026-05-17T08:54:24.969Z",
+    "job_data.roles[14].title_updated_timestamp": "2026-07-13T19:33:01.812Z",
+    "job_data.roles[16].title_updated_timestamp": "2026-05-02T19:06:03.272Z",
+    "job_data.roles[17].title_updated_timestamp": "2026-05-02T18:29:55.738Z",
+    "job_data.roles[18].title_updated_timestamp": "2026-05-02T19:08:24.739Z",
+    "job_data.roles[19].title_updated_timestamp": "2026-05-06T14:29:48.765Z",
+    "job_data.roles[20].title_updated_timestamp": "2026-05-02T18:20:16.383Z",
+    "job_data.roles[21].title_updated_timestamp": "2026-07-27T20:27:02.757Z",
+    "job_data.roles[22].title_updated_timestamp": "2026-08-11T09:11:59.279Z",
+    "job_data.roles[23].title_updated_timestamp": "2026-05-02T19:08:47.575Z",
+    "job_data.roles[24].title_updated_timestamp": "2026-07-13T19:32:41.610Z",
+    "job_data.roles[26].title_updated_timestamp": "2026-05-02T18:19:45.001Z",
+    "job_data.roles[27].title_updated_timestamp": "2026-08-25T21:08:21.470Z",
+    "job_data.last_updated": "2026-09-24T10:21:09.305Z"
+  }
+}

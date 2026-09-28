@@ -1,0 +1,1905 @@
+{
+  "slug": "lovable",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/98127.c507e4f4d6480c39.js",
+  "observed_at": "2026-09-28T08:33:43.301216+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 53267,
+    "sha256": "8999bdb845b2ea02ff901be9d7735584e9ce690e83bb66d441acde79835790f9",
+    "elapsed_seconds": 0.943,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:43 GMT",
+      "etag": "\"7e7886f254806e8057d520a57f7a64f5\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:43 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Lovable",
+    "company_name_legal": "Lovable",
+    "founded_year": 2023,
+    "website_url": "https://lovable.dev",
+    "careers_url": "https://jobs.ashbyhq.com/lovable",
+    "investor_portfolio_page": null,
+    "id": 63
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 81,
+    "last_updated": "2026-09-14T09:59:17.612Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 81,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Analytics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/69c3e92a-1bff-498b-9cda-a78e267030ad",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-22",
+      "ashby_job_id": "69c3e92a-1bff-498b-9cda-a78e267030ad"
+    },
+    {
+      "title": "Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/22169279-acc3-4133-96ab-6f525b16fc8e",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-16",
+      "ashby_job_id": "22169279-acc3-4133-96ab-6f525b16fc8e"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-17",
+      "ashby_job_id": "cf78be5e-41ca-478a-b480-0d0839c24543"
+    },
+    {
+      "title": "Product Manager (Build Experience)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/e8897c7e-53bd-43f8-94bb-02237f4459bb",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-01",
+      "ashby_job_id": "e8897c7e-53bd-43f8-94bb-02237f4459bb"
+    },
+    {
+      "title": "Product Manager (Security)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/282cea94-a525-43a6-a18e-8b92900d03f8",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-01",
+      "ashby_job_id": "282cea94-a525-43a6-a18e-8b92900d03f8"
+    },
+    {
+      "title": "Senior Solutions Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/963fb756-a35b-452e-8aeb-41602dde011f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-16",
+      "ashby_job_id": "963fb756-a35b-452e-8aeb-41602dde011f"
+    },
+    {
+      "title": "Account Executive, London",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/129316bb-b02c-4177-8d8a-5184e3de6070",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-20",
+      "ashby_job_id": "129316bb-b02c-4177-8d8a-5184e3de6070"
+    },
+    {
+      "title": "Data Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-08-22",
+      "ashby_job_id": "cfef6fe1-e0c9-4139-8618-b51bfb1dc683"
+    },
+    {
+      "title": "Finance & BizOps, Strategic Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/30887380-e180-4e2d-a239-00995ca84fcf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-25",
+      "ashby_job_id": "30887380-e180-4e2d-a239-00995ca84fcf"
+    },
+    {
+      "title": "Product Experience Specialist - APAC",
+      "title_original": "Product Experience Specialist (APAC)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-23T21:24:43.683Z",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/00ad65ae-2d29-41cf-898e-248ddf8ca7ae",
+      "location_ids": [
+        "singapore_remote"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-17",
+      "ashby_job_id": "00ad65ae-2d29-41cf-898e-248ddf8ca7ae",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Product Experience Specialist involve delivering user support, troubleshooting issues, and capturing user feedback to improve the product. This aligns closely with the customer support function, as the role focuses on providing assistance and enhancing the user experience."
+    },
+    {
+      "title": "Product Experience Specialist (Sweden)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/70a219dc-435d-435e-bc82-d38531b0513c",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "PartTime",
+      "posted_date": "2025-11-17",
+      "ashby_job_id": "70a219dc-435d-435e-bc82-d38531b0513c"
+    },
+    {
+      "title": "Product Experience Team Lead  (Americas)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/84f8b1ba-1b6c-4ee8-a822-f2f2ba095bef",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-30",
+      "ashby_job_id": "84f8b1ba-1b6c-4ee8-a822-f2f2ba095bef"
+    },
+    {
+      "title": "Researcher, Post Training",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-28",
+      "ashby_job_id": "59d85cf1-104b-48cb-956c-bed73ef934c9"
+    },
+    {
+      "title": "Software Engineer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/581951b9-537e-49d5-89fb-dd74cdf3256c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-10",
+      "ashby_job_id": "581951b9-537e-49d5-89fb-dd74cdf3256c"
+    },
+    {
+      "title": "Software Engineer, Platform (Developer Experience)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-06",
+      "ashby_job_id": "99f2854e-4937-4227-b96a-81269b5f871d"
+    },
+    {
+      "title": "Software Engineer, Platform (Infrastructure)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-06",
+      "ashby_job_id": "920b4099-00bc-4d5e-9469-2c955ef3a662"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/ac61dda2-bff0-4f22-adca-a48b0b2f560c",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-09",
+      "ashby_job_id": "ac61dda2-bff0-4f22-adca-a48b0b2f560c"
+    },
+    {
+      "title": "Staff / Principal Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/5635b88f-a361-4f5f-8209-ca343a003947",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-15",
+      "ashby_job_id": "5635b88f-a361-4f5f-8209-ca343a003947"
+    },
+    {
+      "title": "Application Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/d15f1a6a-dbba-41d6-b8b4-90fc00de183c",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-15",
+      "ashby_job_id": "d15f1a6a-dbba-41d6-b8b4-90fc00de183c"
+    },
+    {
+      "title": "Brand Editor & Copywriter",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/db107c99-103c-4ca8-979e-fbe6d714f971",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-19",
+      "ashby_job_id": "db107c99-103c-4ca8-979e-fbe6d714f971"
+    },
+    {
+      "title": "Software Engineer, Platform (Runtime)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/3b6525b4-8229-4b7e-a307-a550646d0483",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-13",
+      "ashby_job_id": "3b6525b4-8229-4b7e-a307-a550646d0483"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Platform",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/dc19c01d-a6d5-4fbd-bba6-47efa01a8dce",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-14",
+      "ashby_job_id": "dc19c01d-a6d5-4fbd-bba6-47efa01a8dce"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/45db5790-4305-4fad-b96b-1fbdf42b88f2",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-14",
+      "ashby_job_id": "45db5790-4305-4fad-b96b-1fbdf42b88f2"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Security",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/3496c512-9612-446a-bbed-152457fa2389",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-22",
+      "ashby_job_id": "3496c512-9612-446a-bbed-152457fa2389"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/4e100b5b-35be-462d-a3c1-bd0ca7fad267",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-29",
+      "ashby_job_id": "4e100b5b-35be-462d-a3c1-bd0ca7fad267"
+    },
+    {
+      "title": "Product and Technical Communications",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/933f4857-6a41-4b78-bbcb-c9895b18055a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-28",
+      "ashby_job_id": "933f4857-6a41-4b78-bbcb-c9895b18055a"
+    },
+    {
+      "title": "Fullstack Engineer - Lovable Apps Platform Team",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/4a2535cc-9b62-42d4-9401-941c465ee56b",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-10",
+      "ashby_job_id": "4a2535cc-9b62-42d4-9401-941c465ee56b"
+    },
+    {
+      "title": "Research Engineering Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/79e04665-0e50-45f8-92e3-9237bcb4e0bc",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "79e04665-0e50-45f8-92e3-9237bcb4e0bc"
+    },
+    {
+      "title": "Global People Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/dbdb349a-195e-4de6-834d-f0e587678ee9",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-17",
+      "ashby_job_id": "dbdb349a-195e-4de6-834d-f0e587678ee9"
+    },
+    {
+      "title": "Head of Customer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/49a57a49-8a9d-43bf-a102-762e2e3a99ee",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-08",
+      "ashby_job_id": "49a57a49-8a9d-43bf-a102-762e2e3a99ee"
+    },
+    {
+      "title": "HR Business Partner - Engineering, Product, Design (EPD)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/82b7f137-3648-4996-b6ff-2b1e5d1a27d2",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-17",
+      "ashby_job_id": "82b7f137-3648-4996-b6ff-2b1e5d1a27d2"
+    },
+    {
+      "title": "Lifecycle Marketer, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/5535f584-03e8-4f33-8504-21d272e44714",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-14",
+      "ashby_job_id": "5535f584-03e8-4f33-8504-21d272e44714"
+    },
+    {
+      "title": "Lifecycle Marketer, Self-Serve",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/32413614-22d9-4752-830d-6614e49ab28f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "32413614-22d9-4752-830d-6614e49ab28f"
+    },
+    {
+      "title": "Performance Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/ef383f78-4d6b-4226-8902-8d4dab2f6a47",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "ef383f78-4d6b-4226-8902-8d4dab2f6a47"
+    },
+    {
+      "title": "Product Experience Specialist (Full Time)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/8e09291b-304a-4b73-b786-95e498a301e6",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "8e09291b-304a-4b73-b786-95e498a301e6"
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/cb717c83-53e2-484e-bf0d-60e19699c7d8",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "cb717c83-53e2-484e-bf0d-60e19699c7d8"
+    },
+    {
+      "title": "Head of Strategic Partnerships, Hyperscalers & GSIs",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/02602e34-6b41-4c20-ad1f-ed794811791d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "02602e34-6b41-4c20-ad1f-ed794811791d"
+    },
+    {
+      "title": "Software Engineer, Platform (Enterprise)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/722d4ea3-9aa7-460f-802e-ae1ec31170f4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "722d4ea3-9aa7-460f-802e-ae1ec31170f4"
+    },
+    {
+      "title": "AI Ops Engineer (People Team)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "8dd92c40-b45d-41b2-ae6b-1680b0a05d92"
+    },
+    {
+      "title": "Analytics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "d92292d5-a9f5-4637-9d86-77e95bf66970"
+    },
+    {
+      "title": "Brand Designer, AI & Ops",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "df79d83b-e366-4998-afdd-694d06183d75"
+    },
+    {
+      "title": "Brand Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/a4e39bdc-b143-43ea-8077-a113445edbd2",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "a4e39bdc-b143-43ea-8077-a113445edbd2"
+    },
+    {
+      "title": "Brand & Integrated Marketing Lead, Europe",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/73b2c110-29d0-402e-a6d6-ac7984946052",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "73b2c110-29d0-402e-a6d6-ac7984946052"
+    },
+    {
+      "title": "Community Manager, Virtual Spaces",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/41d9ea2b-72c5-48e3-b8a9-90504f73edbc",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "41d9ea2b-72c5-48e3-b8a9-90504f73edbc"
+    },
+    {
+      "title": "Data Scientist, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "a1e49a18-7533-450f-b760-cef337f2f9e3"
+    },
+    {
+      "title": "Data Scientist, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba"
+    },
+    {
+      "title": "Data Scientist, Pricing",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/03e04a4e-75d6-425f-843d-684ae505fa61",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "03e04a4e-75d6-425f-843d-684ae505fa61"
+    },
+    {
+      "title": "Data Scientist, Product",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/c5bc3891-8482-4276-816e-fe38302b1a3c",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "c5bc3891-8482-4276-816e-fe38302b1a3c"
+    },
+    {
+      "title": "GTM Technical Enablement Partner",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/ea135d52-a6a9-4324-b6ce-0bbdfbb3d374",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ea135d52-a6a9-4324-b6ce-0bbdfbb3d374"
+    },
+    {
+      "title": "IT Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/1c1571b0-effe-4be9-8d2f-e5af61aa7144",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1c1571b0-effe-4be9-8d2f-e5af61aa7144"
+    },
+    {
+      "title": "Mid Market Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/58a2e1f6-0448-4310-931e-f3c5496149f5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "58a2e1f6-0448-4310-931e-f3c5496149f5"
+    },
+    {
+      "title": "Product Manager (Agents)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/1140665c-a426-49d5-bcdd-f78560efe50d",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1140665c-a426-49d5-bcdd-f78560efe50d"
+    },
+    {
+      "title": "Product Manager (Identity & Access Management)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/725b8529-5c3e-4b23-867e-8e2766bc9629",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "725b8529-5c3e-4b23-867e-8e2766bc9629"
+    },
+    {
+      "title": "Product Marketing Manager, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/b346e4d6-f082-4428-bb60-ce4961108dfd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "b346e4d6-f082-4428-bb60-ce4961108dfd"
+    },
+    {
+      "title": "Product Partnership Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/87f4e6eb-c8ca-496c-a3d3-ff0dda4d8d8c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "87f4e6eb-c8ca-496c-a3d3-ff0dda4d8d8c"
+    },
+    {
+      "title": "Sales Manager, Enterprise & Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/bd7b3e44-1bda-42dd-9610-b89d070d7277",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "bd7b3e44-1bda-42dd-9610-b89d070d7277"
+    },
+    {
+      "title": "Solutions Marketer, Competitive Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/fe195b42-7422-41fa-b1ff-e329b7077705",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "fe195b42-7422-41fa-b1ff-e329b7077705"
+    },
+    {
+      "title": "Staff / Principal Design Engineer, Web",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Detection and Response",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Infrastructure Security",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/522e925e-ede2-4659-8b8b-1122d4ad7ab0",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "522e925e-ede2-4659-8b8b-1122d4ad7ab0"
+    },
+    {
+      "title": "Staff Software Engineer, Platform (Enterprise)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/6971bf2b-5873-4817-b886-ad6d63358a71",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "6971bf2b-5873-4817-b886-ad6d63358a71"
+    },
+    {
+      "title": "Strategic Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/e8085310-ce77-4412-931c-2cf7297c37ed",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e8085310-ce77-4412-931c-2cf7297c37ed"
+    },
+    {
+      "title": "Trust & Safety Analyst Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/9b35a15d-6abb-4b60-a9e7-270a68491850",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "9b35a15d-6abb-4b60-a9e7-270a68491850"
+    },
+    {
+      "title": "Trust & Safety Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/13c2f37b-a60c-4601-993b-88baac9cbdfc",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "13c2f37b-a60c-4601-993b-88baac9cbdfc"
+    },
+    {
+      "title": "AI Ops Engineer (FBOS)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/ac86ab57-ff2e-4a49-83f8-51dd6bbc2cbf",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ac86ab57-ff2e-4a49-83f8-51dd6bbc2cbf"
+    },
+    {
+      "title": "AI Scaled Customer Success Programs",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3944f55e-910f-4248-ba28-2c1e6143eb28"
+    },
+    {
+      "title": "Brand Designer, Web",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/76f4a64e-b343-4c0e-b5f1-ea7686001346",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "76f4a64e-b343-4c0e-b5f1-ea7686001346"
+    },
+    {
+      "title": "Growth Creative Operations",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/10d863c5-9a53-422b-907e-f0618064da24",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "10d863c5-9a53-422b-907e-f0618064da24"
+    },
+    {
+      "title": "IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/960a64d7-07d7-4137-9d4b-70ed2b08ef1d",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "960a64d7-07d7-4137-9d4b-70ed2b08ef1d"
+    },
+    {
+      "title": "Partner Development Manager, Regional SIs",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/4f26af7a-43ad-48f4-9902-1e779c05af66",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4f26af7a-43ad-48f4-9902-1e779c05af66"
+    },
+    {
+      "title": "Payroll Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/8fa6170d-847d-4059-b49a-a27a941ee9bc",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8fa6170d-847d-4059-b49a-a27a941ee9bc"
+    },
+    {
+      "title": "Product Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/03b5e020-88ac-45b8-9105-5553cc7b4788",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "03b5e020-88ac-45b8-9105-5553cc7b4788"
+    },
+    {
+      "title": "Security Engineer, Corporate",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/e826f9a8-e380-4c6b-a869-4b92e42d3f5a",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e826f9a8-e380-4c6b-a869-4b92e42d3f5a"
+    },
+    {
+      "title": "Social Media Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/716e58b3-af3d-482a-a357-a34628742b4f",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "716e58b3-af3d-482a-a357-a34628742b4f"
+    },
+    {
+      "title": "Content Designer (Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "8a196add-25ef-4dfa-a196-c54c986bda60"
+    },
+    {
+      "title": "Corporate Communications & Public Affairs (Europe)",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/a0ff5040-7acb-4c3e-b32a-191dee540617",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a0ff5040-7acb-4c3e-b32a-191dee540617"
+    },
+    {
+      "title": "Finance & BizOps, Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7ee5ea78-9858-43c3-92b1-1d9a263414e1"
+    },
+    {
+      "title": "Internal Communications Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/0b59a6c1-c9e9-4f5e-9fdd-42a319c6ac40",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0b59a6c1-c9e9-4f5e-9fdd-42a319c6ac40"
+    },
+    {
+      "title": "Mid-Market Account Executive, Nordics",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/379953a7-bd23-44cc-a64e-5901cf9b4eaa",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "379953a7-bd23-44cc-a64e-5901cf9b4eaa"
+    },
+    {
+      "title": "Tech Procurement Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/514c4592-13ff-4900-9e89-ef262e2268b0",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "514c4592-13ff-4900-9e89-ef262e2268b0"
+    },
+    {
+      "title": "Transformation Lead - AI Solutions",
+      "title_original": "Transformation Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:24:34.070Z",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/c366a748-218f-4038-8965-6b28adc36e14",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c366a748-218f-4038-8965-6b28adc36e14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Transformation Lead primarily focuses on leading customer transformations, working directly with executives to identify and solve strategic problems, and translating strategic objectives into actionable transformation roadmaps. This aligns closely with consulting, as it involves advising and implementing changes within client organizations."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "operations",
+        "sales",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": "Stockholms län",
+      "country": "Sweden",
+      "latitude": 59.336001,
+      "longitude": 18.060888,
+      "exact_address": "Tunnelgatan 5, 111 37 Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "sales",
+        "it"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_remote",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-19T11:02:47.383Z",
+    "current_valuation_usd": "$1.8 billion",
+    "current_valuation_usd_last_updated": "2025-10-19T11:02:47.383Z",
+    "total_funding_raised": "$224 million",
+    "total_funding_raised_last_updated": "2025-10-19T11:02:47.383Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "20VC",
+        "domain": "20vc.com"
+      },
+      {
+        "name": "byFounders",
+        "domain": "byfounders.vc"
+      },
+      {
+        "name": "Creandum",
+        "domain": "creandum.com"
+      },
+      {
+        "name": "Hummingbird Ventures",
+        "domain": "hummingbird.vc"
+      },
+      {
+        "name": "Visionaries Club",
+        "domain": "visionariesclub.com"
+      },
+      {
+        "name": "Sebastian Siemiatkowski",
+        "domain": null
+      },
+      {
+        "name": "Job van der Voort",
+        "domain": null
+      },
+      {
+        "name": "Stewart Butterfield",
+        "domain": null
+      },
+      {
+        "name": "Dharmesh Shah",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "20VC",
+        "logo_url": "/investor-logos/20vc.png"
+      },
+      {
+        "name": "byFounders",
+        "logo_url": "/investor-logos/byfounders.png"
+      },
+      {
+        "name": "Creandum",
+        "logo_url": "/investor-logos/creandum.png"
+      },
+      {
+        "name": "Hummingbird Ventures",
+        "logo_url": "/investor-logos/hummingbird.png"
+      },
+      {
+        "name": "Visionaries Club",
+        "logo_url": "/investor-logos/visionaries-club.png"
+      },
+      {
+        "name": "Sebastian Siemiatkowski",
+        "logo_url": "/investor-logos/sebastian-siemiatkowski.png"
+      },
+      {
+        "name": "Job van der Voort",
+        "logo_url": "/investor-logos/job-van-der-voort.png"
+      },
+      {
+        "name": "Stewart Butterfield",
+        "logo_url": "/investor-logos/stewart-butterfield.png"
+      },
+      {
+        "name": "Dharmesh Shah",
+        "logo_url": "/investor-logos/dharmesh-shah.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-19T11:02:47.383Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$75 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[27].source": "ai_inference_upsert",
+    "job_data.roles[9].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-19T11:02:47.383Z",
+    "company_basic_information.website_url_last_updated": "2025-10-19T11:02:47.383Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-19T11:02:47.383Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.765Z",
+    "company_basic_information.last_updated": "2025-10-19",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:27:04.854Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:46:06.212Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-01T11:27:16.526Z",
+    "leadership.founders[1].description_last_updated": "2026-02-01T11:46:11.222Z",
+    "social_media.x_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "social_media.linkedin_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "social_media.instagram_url_last_verified": "2025-10-19T11:02:47.383Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:03.434Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-19T11:02:47.383Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-19T11:02:47.383Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-19T11:02:47.383Z",
+    "financial_information.investor_logos_last_updated": "2025-10-19T11:02:47.383Z",
+    "location_mapping[0].last_updated": "2025-10-19T11:02:47.383Z",
+    "location_mapping[1].last_updated": "2025-10-19T11:08:49.527Z",
+    "location_mapping[27].last_updated": "2026-05-23T21:24:43.683Z",
+    "job_data.roles[0].posted_date": "2025-12-22",
+    "job_data.roles[1].posted_date": "2025-10-16",
+    "job_data.roles[2].posted_date": "2025-07-17",
+    "job_data.roles[3].posted_date": "2026-04-01",
+    "job_data.roles[4].posted_date": "2026-04-01",
+    "job_data.roles[5].posted_date": "2026-03-16",
+    "job_data.roles[6].posted_date": "2026-05-20",
+    "job_data.roles[7].posted_date": "2025-08-22",
+    "job_data.roles[8].posted_date": "2026-02-25",
+    "job_data.roles[9].posted_date": "2025-11-17",
+    "job_data.roles[9].title_updated_timestamp": "2026-05-23T21:24:43.683Z",
+    "job_data.roles[10].posted_date": "2025-11-17",
+    "job_data.roles[11].posted_date": "2026-03-30",
+    "job_data.roles[12].posted_date": "2026-04-28",
+    "job_data.roles[13].posted_date": "2026-04-10",
+    "job_data.roles[14].posted_date": "2025-11-06",
+    "job_data.roles[15].posted_date": "2025-11-06",
+    "job_data.roles[16].posted_date": "2026-04-09",
+    "job_data.roles[17].posted_date": "2026-04-15",
+    "job_data.roles[18].posted_date": "2026-05-15",
+    "job_data.roles[19].posted_date": "2026-05-19",
+    "job_data.roles[20].posted_date": "2026-05-13",
+    "job_data.roles[21].posted_date": "2026-05-14",
+    "job_data.roles[22].posted_date": "2026-05-14",
+    "job_data.roles[23].posted_date": "2026-05-22",
+    "job_data.roles[24].posted_date": "2026-05-29",
+    "job_data.roles[25].posted_date": "2026-05-28",
+    "job_data.roles[26].posted_date": "2026-06-10",
+    "job_data.roles[27].posted_date": "2026-06-22",
+    "job_data.roles[28].posted_date": "2026-07-17",
+    "job_data.roles[29].posted_date": "2026-07-08",
+    "job_data.roles[30].posted_date": "2026-07-17",
+    "job_data.roles[31].posted_date": "2026-07-14",
+    "job_data.roles[32].posted_date": "2026-07-13",
+    "job_data.roles[33].posted_date": "2026-07-13",
+    "job_data.roles[34].posted_date": "2026-07-13",
+    "job_data.roles[35].posted_date": "2026-08-02",
+    "job_data.roles[36].posted_date": "2026-08-02",
+    "job_data.roles[37].posted_date": "2026-08-02",
+    "job_data.roles[38].posted_date": "2026-08-16",
+    "job_data.roles[39].posted_date": "2026-08-16",
+    "job_data.roles[40].posted_date": "2026-08-16",
+    "job_data.roles[41].posted_date": "2026-08-16",
+    "job_data.roles[42].posted_date": "2026-08-16",
+    "job_data.roles[43].posted_date": "2026-08-16",
+    "job_data.roles[44].posted_date": "2026-08-16",
+    "job_data.roles[45].posted_date": "2026-08-16",
+    "job_data.roles[46].posted_date": "2026-08-16",
+    "job_data.roles[47].posted_date": "2026-08-16",
+    "job_data.roles[48].posted_date": "2026-08-16",
+    "job_data.roles[49].posted_date": "2026-08-16",
+    "job_data.roles[50].posted_date": "2026-08-16",
+    "job_data.roles[51].posted_date": "2026-08-16",
+    "job_data.roles[52].posted_date": "2026-08-16",
+    "job_data.roles[53].posted_date": "2026-08-16",
+    "job_data.roles[54].posted_date": "2026-08-16",
+    "job_data.roles[55].posted_date": "2026-08-16",
+    "job_data.roles[56].posted_date": "2026-08-16",
+    "job_data.roles[57].posted_date": "2026-08-16",
+    "job_data.roles[58].posted_date": "2026-08-16",
+    "job_data.roles[59].posted_date": "2026-08-16",
+    "job_data.roles[60].posted_date": "2026-08-16",
+    "job_data.roles[61].posted_date": "2026-08-16",
+    "job_data.roles[62].posted_date": "2026-08-16",
+    "job_data.roles[63].posted_date": "2026-08-16",
+    "job_data.roles[64].posted_date": "2026-08-31",
+    "job_data.roles[65].posted_date": "2026-08-31",
+    "job_data.roles[66].posted_date": "2026-08-31",
+    "job_data.roles[67].posted_date": "2026-08-31",
+    "job_data.roles[68].posted_date": "2026-08-31",
+    "job_data.roles[69].posted_date": "2026-08-31",
+    "job_data.roles[70].posted_date": "2026-08-31",
+    "job_data.roles[71].posted_date": "2026-08-31",
+    "job_data.roles[72].posted_date": "2026-08-31",
+    "job_data.roles[73].posted_date": "2026-08-31",
+    "job_data.roles[74].posted_date": "2026-09-14",
+    "job_data.roles[75].posted_date": "2026-09-14",
+    "job_data.roles[76].posted_date": "2026-09-14",
+    "job_data.roles[77].posted_date": "2026-09-14",
+    "job_data.roles[78].posted_date": "2026-09-14",
+    "job_data.roles[79].posted_date": "2026-09-14",
+    "job_data.roles[80].posted_date": "2026-09-14",
+    "job_data.roles[80].title_updated_timestamp": "2026-09-14T15:24:34.070Z",
+    "job_data.last_updated": "2026-09-14T09:59:17.612Z"
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "slug": "squadstack",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/11901.92ffbd9d3626d64b.js",
+  "observed_at": "2026-09-28T08:36:53.250811+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 13076,
+    "sha256": "c883e4c2f4572dc7388f1c40453ec17d72155ff92100e5b22161134e4ec2a6af",
+    "elapsed_seconds": 0.155,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:53 GMT",
+      "etag": "\"080af98657f9ad8c2c0daa030a62d3b8\"",
+      "last-modified": "Mon, 28 Sep 2026 08:26:10 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "SquadStack",
+    "company_name_legal": "SquadStack Technologies Private Limited",
+    "founded_year": 2017,
+    "website_url": "https://www.squadstack.ai",
+    "careers_url": "https://squadrun.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 93
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 12,
+    "last_updated": "2026-09-24T10:21:50.916Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 12,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/33348",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 4 Years",
+      "commitment": "Full Time",
+      "posted_date": "2026-07-16",
+      "keka_job_id": "33348"
+    },
+    {
+      "title": "Associate Director - Marketing",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/82288",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-8",
+      "commitment": "Full Time",
+      "posted_date": "2026-07-30",
+      "keka_job_id": "82288"
+    },
+    {
+      "title": "Visual Designer Intern",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/60410",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full Time",
+      "posted_date": "2026-07-07",
+      "keka_job_id": "60410"
+    },
+    {
+      "title": "Principal Product Manager - Voice AI Platform",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/78388",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8-14",
+      "commitment": "Full Time",
+      "posted_date": "2026-07-02",
+      "keka_job_id": "78388"
+    },
+    {
+      "title": "Product Manager - Voice AI",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/85922",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-25",
+      "keka_job_id": "85922"
+    },
+    {
+      "title": "Senior Director, Enterprise Sales",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/85940",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "12-15",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-25",
+      "keka_job_id": "85940"
+    },
+    {
+      "title": "Talent Acquisition Partner",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/49470",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4 Years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-13",
+      "keka_job_id": "49470"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/20733",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-6 years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-14",
+      "keka_job_id": "20733"
+    },
+    {
+      "title": "Head of Brand",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/88393",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-8 Years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-14",
+      "keka_job_id": "88393"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager - Education",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/88627",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-15",
+      "keka_job_id": "88627"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager - Insurance",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/88629",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "10+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-15",
+      "keka_job_id": "88629"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager - Government and PSU",
+      "apply_url": "https://squadrun.keka.com/careers/jobdetails/88630",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "10+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-15",
+      "keka_job_id": "88630"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "noida_office",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 28.584618,
+      "longitude": 77.312927,
+      "exact_address": "D-18, First & Second Floor, Sector-3, Noida, Uttar Pradesh, India - 201301",
+      "departments": [
+        "ai",
+        "data",
+        "engineering",
+        "finance",
+        "legal",
+        "marketing",
+        "design",
+        "hr",
+        "operations",
+        "sales",
+        "product",
+        "customer-success",
+        "other",
+        "customer-support"
+      ],
+      "employee_count": "150+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-11-10T12:51:59.851Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-10T12:51:59.851Z",
+    "total_funding_raised": "$16.8 million",
+    "total_funding_raised_last_updated": "2025-11-10T12:51:59.851Z",
+    "key_investors": [
+      {
+        "name": "Bertelsmann India Investments",
+        "domain": "bertelsmann-investments.com"
+      },
+      {
+        "name": "Chiratae Ventures",
+        "domain": "chiratae.com"
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      },
+      {
+        "name": "Axilor Ventures",
+        "domain": "axilor.com"
+      },
+      {
+        "name": "Emergent Ventures",
+        "domain": "emergent.vc"
+      },
+      {
+        "name": "India Internet Fund",
+        "domain": "indiainternetfund.com"
+      },
+      {
+        "name": "Powai Lake Ventures",
+        "domain": "powailake.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Bertelsmann India Investments",
+        "logo_url": "/investor-logos/bertelsmann-india-investments.png"
+      },
+      {
+        "name": "Chiratae Ventures",
+        "logo_url": "/investor-logos/chiratae.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "Axilor Ventures",
+        "logo_url": "/investor-logos/axilor.png"
+      },
+      {
+        "name": "Emergent Ventures",
+        "logo_url": "/investor-logos/emergent.png"
+      },
+      {
+        "name": "India Internet Fund",
+        "logo_url": "/investor-logos/india-internet-fund.png"
+      },
+      {
+        "name": "Powai Lake Ventures",
+        "logo_url": "/investor-logos/powai-lake-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-10T12:51:59.851Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": 300
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "mental-health",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "sankalp",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-10T12:51:59.851Z",
+    "company_basic_information.website_url_last_updated": "2025-11-10T12:51:59.851Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-10T12:51:59.851Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-10T12:51:59.851Z",
+    "company_basic_information.last_updated": "2025-11-10",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-02T05:16:18.212Z",
+    "leadership.founders[0].description_last_updated": "2026-02-02T05:21:59.792Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-02T05:16:28.996Z",
+    "leadership.founders[1].description_last_updated": "2026-02-02T05:22:05.992Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-02T05:16:39.827Z",
+    "leadership.founders[2].description_last_updated": "2026-02-02T05:22:12.092Z",
+    "social_media.x_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "social_media.linkedin_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "social_media.instagram_url_last_verified": "2025-11-10T12:51:59.851Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:50.344Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-11-10T12:51:59.851Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-10T12:51:59.851Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-10T12:51:59.851Z",
+    "financial_information.investor_logos_last_updated": "2025-11-10T12:51:59.851Z",
+    "location_mapping[0].last_updated": "2025-11-10T12:51:59.851Z",
+    "job_data.roles[0].posted_date": "2026-07-16",
+    "job_data.roles[1].posted_date": "2026-07-30",
+    "job_data.roles[2].posted_date": "2026-07-07",
+    "job_data.roles[3].posted_date": "2026-07-02",
+    "job_data.roles[4].posted_date": "2026-08-25",
+    "job_data.roles[5].posted_date": "2026-08-25",
+    "job_data.roles[6].posted_date": "2026-08-13",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-15",
+    "job_data.roles[10].posted_date": "2026-09-15",
+    "job_data.roles[11].posted_date": "2026-09-15",
+    "job_data.last_updated": "2026-09-24T10:21:50.916Z",
+    "benefits.health-insurance.last_updated": "2026-01-11T21:12:21.150Z",
+    "benefits.mental-health.last_updated": "2026-01-11T21:12:21.150Z"
+  }
+}

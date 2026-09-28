@@ -1,0 +1,200 @@
+{
+  "slug": "hook",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/50691.b27703129d51c25f.js",
+  "observed_at": "2026-09-28T08:32:47.234940+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 5808,
+    "sha256": "0a9cd7b206ca9d2dfdc181b0ba9d0febe4845a37b06a6d8f922d31a0351172be",
+    "elapsed_seconds": 0.423,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:47 GMT",
+      "etag": "\"b13d819c7f22b4617405c43ac285f04f\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:47 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "slug",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Hook",
+    "company_name_legal": "Hook",
+    "founded_year": 2020,
+    "website_url": "https://hook.co",
+    "careers_url": "https://jobs.ashbyhq.com/hook",
+    "investor_portfolio_page": null,
+    "id": 334
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-19T16:44:39.983Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Fullstack Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/hook/d32be795-e08a-4686-90b2-443baf89199f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d32be795-e08a-4686-90b2-443baf89199f"
+    },
+    {
+      "title": "Technical Implementation Consultant",
+      "apply_url": "https://jobs.ashbyhq.com/hook/154625bf-b4b9-4e71-95fb-f78194563eba",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "154625bf-b4b9-4e71-95fb-f78194563eba"
+    },
+    {
+      "title": "Business Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/hook/adab6cd3-2268-4187-915d-68d7d40c26d8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "adab6cd3-2268-4187-915d-68d7d40c26d8"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.51787,
+      "longitude": -0.0865,
+      "exact_address": "21 Great Winchester St, London, England, United Kingdom - EC2N 2JA",
+      "departments": [
+        "engineering",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-06-12T08:27:50.578Z",
+    "current_valuation_usd": "$60 million",
+    "current_valuation_usd_last_updated": "2026-06-12T08:57:05.161Z",
+    "total_funding_raised": "$16 million",
+    "total_funding_raised_last_updated": "2026-06-12T08:56:38.018Z",
+    "key_investors": [
+      {
+        "name": "Balderton Capital",
+        "domain": "balderton.com"
+      },
+      {
+        "name": "LocalGlobe",
+        "domain": "localglobe.vc"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Balderton Capital",
+        "logo_url": null
+      },
+      {
+        "name": "LocalGlobe",
+        "logo_url": null
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-12T08:27:50.578Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-12T08:27:50.578Z",
+    "company_basic_information.website_url_last_updated": "2026-06-12T08:27:50.578Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-12T08:27:50.578Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-12T08:27:50.578Z",
+    "company_basic_information.last_updated": "2026-06-12",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-06-12T08:55:57.482Z",
+    "social_media.linkedin_url_last_verified": "2026-06-12T08:58:34.468Z",
+    "business_details.industry_domains_last_updated": "2026-06-12",
+    "financial_information.funding_stage_last_updated": "2026-06-12T08:27:50.578Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-12T08:57:05.161Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-12T08:56:38.018Z",
+    "financial_information.investor_logos_last_updated": "2026-06-12T08:27:50.578Z",
+    "location_mapping[0].last_updated": "2026-06-12T08:27:50.578Z",
+    "job_data.roles[0].posted_date": "2026-08-07",
+    "job_data.roles[1].posted_date": "2026-08-07",
+    "job_data.roles[2].posted_date": "2026-09-05",
+    "job_data.last_updated": "2026-09-19T16:44:39.983Z"
+  }
+}

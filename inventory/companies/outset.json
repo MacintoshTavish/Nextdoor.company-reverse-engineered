@@ -1,0 +1,796 @@
+{
+  "slug": "outset",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/31649.7333d4df8fe6d097.js",
+  "observed_at": "2026-09-28T08:35:04.210540+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20093,
+    "sha256": "9c14d19c847b3b07fe91073e75cae0b7d7b44c49b9528f1189735b28f3d57874",
+    "elapsed_seconds": 0.488,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:04 GMT",
+      "etag": "\"5d0ff6bbaa7137e868ba01e2d932008c\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:04 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "social_media",
+    "leadership",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Outset",
+    "company_name_legal": "Outset",
+    "founded_year": 2022,
+    "website_url": "https://outset.ai",
+    "careers_url": "https://jobs.ashbyhq.com/outset",
+    "investor_portfolio_page": null,
+    "id": 15
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 18,
+    "last_updated": "2026-09-14T10:02:29.533Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 18,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/outset/582d6e29-ac95-4db5-ba35-1ffb47d36462",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "582d6e29-ac95-4db5-ba35-1ffb47d36462"
+    },
+    {
+      "title": "Enterprise Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/outset/e1c6a663-f3c4-4967-9aef-da136a39e105",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e1c6a663-f3c4-4967-9aef-da136a39e105"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/outset/731d6783-7b2b-4d6a-bffd-ba7a5b51de44",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "731d6783-7b2b-4d6a-bffd-ba7a5b51de44"
+    },
+    {
+      "title": "Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/outset/55d672a5-823b-4ad3-9e06-5c7f8aff529a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "55d672a5-823b-4ad3-9e06-5c7f8aff529a"
+    },
+    {
+      "title": "Customer Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/outset/e940392f-18f2-47ed-9423-3f6c31c10f1c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e940392f-18f2-47ed-9423-3f6c31c10f1c"
+    },
+    {
+      "title": "Enterprise Account Executive - NYC",
+      "apply_url": "https://jobs.ashbyhq.com/outset/264f52b4-0d71-48fe-8cc3-8b7015ed4689",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "264f52b4-0d71-48fe-8cc3-8b7015ed4689"
+    },
+    {
+      "title": "Enterprise Account Executive - SF",
+      "apply_url": "https://jobs.ashbyhq.com/outset/190a3eb2-6c10-42b0-b68c-e7cfe6456f67",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "190a3eb2-6c10-42b0-b68c-e7cfe6456f67"
+    },
+    {
+      "title": "Forward Deployed Software Engineer (EU)",
+      "apply_url": "https://jobs.ashbyhq.com/outset/ef882074-b4bd-4e7e-b0ab-325e3c5c6a93",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "European Union",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ef882074-b4bd-4e7e-b0ab-325e3c5c6a93"
+    },
+    {
+      "title": "Frontend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/outset/9aa84548-cab6-44b2-8bed-2627f234262f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "9aa84548-cab6-44b2-8bed-2627f234262f"
+    },
+    {
+      "title": "General Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/outset/2f74bd49-04dc-424e-b493-62fb8c307bb2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2f74bd49-04dc-424e-b493-62fb8c307bb2"
+    },
+    {
+      "title": "Research Strategy Lead - Pre Sales",
+      "apply_url": "https://jobs.ashbyhq.com/outset/000fd379-6f0f-4000-8bef-076293c8ad0e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "000fd379-6f0f-4000-8bef-076293c8ad0e"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/outset/2f27ce92-24e3-4f6c-bf2b-d63c442df1d6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2f27ce92-24e3-4f6c-bf2b-d63c442df1d6"
+    },
+    {
+      "title": "Sales Director - Market Research & Insights",
+      "apply_url": "https://jobs.ashbyhq.com/outset/31977090-4aa3-4fe2-8def-d3ddcfdac9b4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "31977090-4aa3-4fe2-8def-d3ddcfdac9b4"
+    },
+    {
+      "title": "Sourcer (Temporary)",
+      "apply_url": "https://jobs.ashbyhq.com/outset/fff7a361-d167-4042-bf44-6018161e74df",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "fff7a361-d167-4042-bf44-6018161e74df"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/outset/b8032edc-176f-4782-afdc-abaff320a534",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b8032edc-176f-4782-afdc-abaff320a534"
+    },
+    {
+      "title": "Program Manager - Research Operations",
+      "apply_url": "https://jobs.ashbyhq.com/outset/bfbc9270-a47e-4b0b-b177-67ec84823e62",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bfbc9270-a47e-4b0b-b177-67ec84823e62"
+    },
+    {
+      "title": "Research Manager",
+      "apply_url": "https://jobs.ashbyhq.com/outset/a694d79e-4d16-4707-9dbb-4014b5a6c61f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a694d79e-4d16-4707-9dbb-4014b5a6c61f"
+    },
+    {
+      "title": "Scaled Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/outset/f40f4700-acf4-4e60-939e-9a3d56e24f29",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f40f4700-acf4-4e60-939e-9a3d56e24f29"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.789466,
+      "longitude": -122.395064,
+      "exact_address": "548 Market Street, San Francisco, California, United States - 94104",
+      "departments": [
+        "engineering",
+        "sales",
+        "marketing",
+        "design"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-11-19T09:21:21.642Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-19T09:21:21.642Z",
+    "total_funding_raised": "$21 million",
+    "total_funding_raised_last_updated": "2025-11-19T09:21:21.642Z",
+    "key_investors": [
+      {
+        "name": "8VC",
+        "domain": "8vc.com"
+      },
+      {
+        "name": "Future Back Ventures",
+        "domain": "futureback.vc"
+      },
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Adverb Ventures",
+        "domain": null
+      },
+      {
+        "name": "Rebel Fund",
+        "domain": "rebelfund.com"
+      },
+      {
+        "name": "Genius Ventures",
+        "domain": null
+      },
+      {
+        "name": "Ritual Capital",
+        "domain": null
+      },
+      {
+        "name": "Alt Capital",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "8VC",
+        "logo_url": "/investor-logos/8vc.png"
+      },
+      {
+        "name": "Future Back Ventures",
+        "logo_url": "/investor-logos/future-back-ventures.png"
+      },
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Adverb Ventures",
+        "logo_url": "/investor-logos/adverb-ventures.png"
+      },
+      {
+        "name": "Rebel Fund",
+        "logo_url": "/investor-logos/rebel-fund.png"
+      },
+      {
+        "name": "Genius Ventures",
+        "logo_url": "/investor-logos/genius-ventures.png"
+      },
+      {
+        "name": "Ritual Capital",
+        "logo_url": "/investor-logos/ritual-capital.png"
+      },
+      {
+        "name": "Alt Capital",
+        "logo_url": "/investor-logos/alt-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-19T09:21:21.642Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": 240
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.x_url_verified_by": "sankalp",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-19T09:21:21.642Z",
+    "company_basic_information.website_url_last_updated": "2025-11-19T09:21:21.642Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-19T09:21:21.642Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-19T09:21:21.642Z",
+    "company_basic_information.last_updated": "2025-11-19",
+    "social_media.x_url_last_verified": "2025-11-23T10:30:17.697Z",
+    "social_media.linkedin_url_last_verified": "2025-11-23T10:20:50.983Z",
+    "social_media.instagram_url_last_verified": "2025-11-23T10:20:11.388Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-23T10:25:07.497Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-23T09:38:56.308Z",
+    "leadership.founders[0].description_last_updated": "2026-01-17T10:52:20.514Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-17T11:17:26.050Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-23T09:42:43.133Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-23T09:43:04.071Z",
+    "leadership.founders[1].description_last_updated": "2026-01-17T10:52:26.137Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-17T11:17:34.289Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:01:01.756Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-11-19T09:21:21.642Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-19T09:21:21.642Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-19T09:21:21.642Z",
+    "financial_information.investor_logos_last_updated": "2025-11-19T09:21:21.642Z",
+    "location_mapping[0].last_updated": "2025-11-19T09:21:21.642Z",
+    "job_data.roles[0].posted_date": "2026-08-16",
+    "job_data.roles[1].posted_date": "2026-08-16",
+    "job_data.roles[2].posted_date": "2026-08-16",
+    "job_data.roles[3].posted_date": "2026-08-16",
+    "job_data.roles[4].posted_date": "2026-08-16",
+    "job_data.roles[5].posted_date": "2026-08-16",
+    "job_data.roles[6].posted_date": "2026-08-16",
+    "job_data.roles[7].posted_date": "2026-08-16",
+    "job_data.roles[8].posted_date": "2026-08-16",
+    "job_data.roles[9].posted_date": "2026-08-16",
+    "job_data.roles[10].posted_date": "2026-08-16",
+    "job_data.roles[11].posted_date": "2026-08-16",
+    "job_data.roles[12].posted_date": "2026-08-16",
+    "job_data.roles[13].posted_date": "2026-08-16",
+    "job_data.roles[14].posted_date": "2026-09-14",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.roles[16].posted_date": "2026-09-14",
+    "job_data.roles[17].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T10:02:29.533Z",
+    "benefits.equity-stock.last_updated": "2026-01-05T19:10:54.366Z"
+  }
+}

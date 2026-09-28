@@ -1,0 +1,988 @@
+{
+  "slug": "typeface",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/21195.5144aa23e2fe113a.js",
+  "observed_at": "2026-09-28T08:37:50.040742+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23815,
+    "sha256": "3df868be81e3520c661d8d6adec4c1dc518fc3f97df4234dfafc1cdc2ae7f8b2",
+    "elapsed_seconds": 0.465,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:50 GMT",
+      "etag": "\"eb4434aed7f8ae989146e9e7717cad70\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:50 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "location_tbd_fallback",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Typeface",
+    "company_name_legal": "Typeface",
+    "founded_year": 2022,
+    "website_url": "https://www.typeface.ai",
+    "careers_url": "https://job-boards.greenhouse.io/typeface",
+    "investor_portfolio_page": null,
+    "id": 268
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 16,
+    "last_updated": "2026-09-14T12:59:34.553Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 16,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4989851007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Solutions Architect role primarily focuses on translating complex business needs into scalable technical architectures, integrating AI-driven applications, and building custom agents and workflows. The emphasis on AI technologies and hands-on experience with generative AI indicates that the role is centered around AI development and implementation."
+    },
+    {
+      "title": "Staff Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4617046007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal ML Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5129777007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4827956007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer (Backend/Platform)",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4846965007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff ML Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4833257007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Accounting Manager",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5198836007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5103496007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Manager-Ads",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4685808007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5103539007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Product Manager-Design and Intelligence",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5018972007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5037371007",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/4841745007",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5229736007",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5227418007",
+      "location_ids": [
+        "east_office"
+      ],
+      "location_display": "East",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/typeface/jobs/5227888007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "operations",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bellevue_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6101,
+      "longitude": -122.2015,
+      "exact_address": "Bellevue, Washington, United States",
+      "departments": [
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "operations",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0422,
+      "longitude": -118.3291,
+      "exact_address": "1640 S Orange Dr, Los Angeles, California, United States - 90019",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "operations",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4419,
+      "longitude": -122.143,
+      "exact_address": "845 Page Mill Road, Palo Alto, California, 94304, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "65+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "operations",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": "38+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "operations",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "2400-333 Bay St., Toronto, Ontario, Canada - M5H 2T6",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "operations",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "central_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "west_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "east_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.4492,
+      "longitude": 78.4004,
+      "exact_address": "10th Floor, My Home Twilio, Gachibowli, Hyderabad, Telangana, India - 500032",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "100+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-04-30T09:02:38.343Z",
+    "current_valuation_usd": "$1 billion",
+    "current_valuation_usd_last_updated": "2026-04-30T09:02:38.343Z",
+    "total_funding_raised": "$205 million",
+    "total_funding_raised_last_updated": "2026-04-30T09:02:38.343Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "domain": "salesforceventures.com"
+      },
+      {
+        "name": "Google Ventures",
+        "domain": "gv.com"
+      },
+      {
+        "name": "Menlo Ventures",
+        "domain": "menlovc.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "logo_url": "/investor-logos/salesforce-ventures.png"
+      },
+      {
+        "name": "Google Ventures",
+        "logo_url": "/investor-logos/google-ventures.png"
+      },
+      {
+        "name": "Menlo Ventures",
+        "logo_url": "/investor-logos/menlo-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-30T09:02:38.343Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "retirement-401k",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "health-savings-account",
+    "flexible-hours",
+    "parental-leave",
+    "mental-health",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-30T09:02:38.343Z",
+    "company_basic_information.website_url_last_updated": "2026-04-30T09:02:38.343Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-30T09:02:38.343Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-30T09:02:38.343Z",
+    "company_basic_information.last_updated": "2026-04-30",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:32:37.379Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T06:38:30.268Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:32:44.026Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T06:38:49.485Z",
+    "social_media.x_url_last_updated": "2026-04-30T09:02:38.343Z",
+    "social_media.linkedin_url_last_updated": "2026-04-30T09:02:38.343Z",
+    "social_media.instagram_url_last_updated": "2026-04-30T09:02:38.343Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T19:17:41.758Z",
+    "financial_information.funding_stage_last_updated": "2026-04-30T09:02:38.343Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-30T09:02:38.343Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-30T09:02:38.343Z",
+    "financial_information.investor_logos_last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[0].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[1].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[2].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[3].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[4].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[5].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[6].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[7].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[8].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[9].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[10].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[11].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[12].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[13].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[14].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[15].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[16].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[17].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[18].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[19].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[20].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[21].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[22].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[23].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[24].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[25].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[26].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[27].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[28].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[29].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[30].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[31].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[32].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[33].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[34].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[35].last_updated": "2026-04-30T09:02:38.343Z",
+    "location_mapping[36].last_updated": "2026-04-30T09:02:38.343Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.roles[12].posted_date": "2026-09-14",
+    "job_data.roles[13].posted_date": "2026-09-14",
+    "job_data.roles[14].posted_date": "2026-09-14",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:59:34.553Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.retirement-401k.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.dental-insurance.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.vision-insurance.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.health-savings-account.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.flexible-hours.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.mental-health.last_updated": "2026-06-06T18:06:11.562Z",
+    "benefits.meal-allowance.last_updated": "2026-06-06T18:06:11.562Z"
+  }
+}

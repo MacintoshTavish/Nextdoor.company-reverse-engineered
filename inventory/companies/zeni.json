@@ -1,0 +1,380 @@
+{
+  "slug": "zeni",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/88493.2c574aac4c7a56ad.js",
+  "observed_at": "2026-09-28T08:38:37.626297+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 12353,
+    "sha256": "8bd4084355996c5d144671541cd052f8e009eb7a64977c1d93f74a8de5dd211e",
+    "elapsed_seconds": 0.393,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:37 GMT",
+      "etag": "\"f3ccb9ae32fc20f56b7b65f2bc0f2bb7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:37 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Zeni",
+    "company_name_legal": "Zeni Inc.",
+    "founded_year": 2019,
+    "website_url": "https://www.zeni.ai",
+    "careers_url": "https://zeni.bamboohr.com/careers",
+    "investor_portfolio_page": null,
+    "id": 379
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-24T10:25:02.620Z",
+    "crawl_status": "success",
+    "source": "BambooHR",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "bamboohr_job_id",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Sr / Finance Associate (Pune/Mohali) RTR",
+      "apply_url": "https://zeni.bamboohr.com/careers/51",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://zeni.bamboohr.com/careers/71",
+      "location_ids": [
+        "lehi_office"
+      ],
+      "location_display": "Lehi, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Fractional CFO",
+      "apply_url": "https://zeni.bamboohr.com/careers/134",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5686,
+      "longitude": 73.8044,
+      "exact_address": "137A-8, Sidharth Nagar Phase 3, Aundh Gaon, Pune, Maharashtra, India - 411007",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "lehi_office",
+      "city": "Lehi",
+      "state": "Utah",
+      "country": "United States",
+      "latitude": 40.4308243,
+      "longitude": -111.8745688,
+      "exact_address": "1557 W Innovation Way, Lehi, UT 84043",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-07-14T14:44:45.727Z",
+    "current_valuation_usd": "$99.9 million",
+    "current_valuation_usd_last_updated": "2026-07-14T14:44:45.727Z",
+    "total_funding_raised": "$47.5 million",
+    "total_funding_raised_last_updated": "2026-07-14T14:44:45.727Z",
+    "key_investors": [
+      {
+        "name": "Elevation Capital",
+        "domain": "elevationcapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Elevation Capital",
+        "logo_url": "/investor-logos/elevation-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-14T14:44:45.727Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "meal-allowance",
+    "relocation-assistance",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "unlimited-pto",
+    "team-events",
+    "learning-development",
+    "equity-stock",
+    "paid-volunteer-days",
+    "flexible-hours",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "searchapi-maps",
+    "location_mapping[1].location_source_query": "Zeni office Lehi Utah",
+    "job_data.crawl_status": "success",
+    "job_data.source": "BambooHR",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-14T14:44:45.727Z",
+    "company_basic_information.website_url_last_updated": "2026-07-14T14:44:45.727Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-14T14:44:45.727Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-14T14:44:45.727Z",
+    "company_basic_information.last_updated": "2026-07-14",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-14T15:08:54.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-14T15:08:54.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-14T15:12:15.568Z",
+    "leadership.founders[0].description_last_updated": "2026-07-14T15:12:52.104Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-14T15:08:54.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-14T15:08:54.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-14T15:12:35.913Z",
+    "leadership.founders[1].description_last_updated": "2026-07-14T15:12:58.891Z",
+    "social_media.x_url_last_updated": "2026-07-14T14:44:45.727Z",
+    "social_media.x_url_last_verified": "2026-07-14T15:08:54.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-14T14:44:45.727Z",
+    "social_media.linkedin_url_last_verified": "2026-07-14T15:08:54.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-14T14:44:45.727Z",
+    "social_media.instagram_url_last_verified": "2026-07-14T15:08:54.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-14",
+    "financial_information.funding_stage_last_updated": "2026-07-14T14:44:45.727Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-14T14:44:45.727Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-14T14:44:45.727Z",
+    "financial_information.investor_logos_last_updated": "2026-07-14T14:44:45.727Z",
+    "location_mapping[0].last_updated": "2026-07-14T14:44:45.727Z",
+    "location_mapping[1].last_updated": "2026-07-14T14:44:45.727Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:25:02.620Z",
+    "benefits.meal-allowance.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.relocation-assistance.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.health-insurance.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.dental-insurance.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.vision-insurance.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.retirement-401k.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.unlimited-pto.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.team-events.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.learning-development.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.equity-stock.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.paid-volunteer-days.last_updated": "2026-07-14T15:11:31.506Z",
+    "benefits.flexible-hours.last_updated": "2026-07-14T15:11:31.506Z"
+  }
+}

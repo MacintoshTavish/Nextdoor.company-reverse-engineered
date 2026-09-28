@@ -1,0 +1,474 @@
+{
+  "slug": "lambdatest",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/19599.d180cfeb40d4f60e.js",
+  "observed_at": "2026-09-28T08:33:28.579294+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 22516,
+    "sha256": "f9e1ac2e0be20652b5e3aeaf0bab21c357610eef7dfaa6275e4fdf1cf2ad60d5",
+    "elapsed_seconds": 0.436,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:28 GMT",
+      "etag": "\"f0650a10a8a7e79e0e870e3cb05bb728\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:28 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "LambdaTest",
+    "company_name_legal": "LambdaTest Inc.",
+    "founded_year": 2018,
+    "website_url": "https://www.lambdatest.com",
+    "careers_url": "https://lambdatest.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 143
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 4,
+    "last_updated": "2026-09-24T10:20:45.423Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 4,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive- APAC & EMEA",
+      "apply_url": "https://lambdatest.keka.com/careers/jobdetails/137286",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 7 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "137286"
+    },
+    {
+      "title": "Account Manager",
+      "apply_url": "https://lambdatest.keka.com/careers/jobdetails/125587",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7–12 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "125587"
+    },
+    {
+      "title": "Business Development Representative - APAC",
+      "apply_url": "https://lambdatest.keka.com/careers/jobdetails/138113",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138113"
+    },
+    {
+      "title": "AI PRODUCT MANAGER",
+      "apply_url": "https://lambdatest.keka.com/careers/jobdetails/137246",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 to 4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "137246"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "noida_office",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 28.5355,
+      "longitude": 77.391,
+      "exact_address": "Noida, Uttar Pradesh, India",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "hr",
+        "legal",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-d+",
+    "funding_stage_last_updated": "2026-01-05T18:12:23.854Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-05T18:12:23.854Z",
+    "total_funding_raised": "$108 million",
+    "total_funding_raised_last_updated": "2026-01-05T18:12:23.854Z",
+    "key_investors": [
+      {
+        "name": "Avataar Ventures",
+        "domain": "avataarventures.com"
+      },
+      {
+        "name": "Qualcomm Ventures",
+        "domain": "qualcommventures.com"
+      },
+      {
+        "name": "Premji Invest",
+        "domain": "premjiinvest.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      },
+      {
+        "name": "Leo Capital Holdings",
+        "domain": "leocapital.in"
+      },
+      {
+        "name": "Surge",
+        "domain": "surge.vc"
+      },
+      {
+        "name": "Titanium Ventures",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Avataar Ventures",
+        "logo_url": "/investor-logos/avataar-ventures.png"
+      },
+      {
+        "name": "Qualcomm Ventures",
+        "logo_url": "/investor-logos/qualcomm.png"
+      },
+      {
+        "name": "Premji Invest",
+        "logo_url": "/investor-logos/premji-invest.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "Leo Capital Holdings",
+        "logo_url": "/investor-logos/leo-capital-holdings.png"
+      },
+      {
+        "name": "Surge",
+        "logo_url": "/investor-logos/surge.png"
+      },
+      {
+        "name": "Titanium Ventures",
+        "logo_url": "/investor-logos/titanium-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-05T18:12:23.854Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "flexible-hours",
+    "remote-work",
+    "learning-development",
+    "team-events",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].x_twitter_verified_by": "ai",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-05T18:12:23.854Z",
+    "company_basic_information.website_url_last_updated": "2026-01-05T18:12:23.854Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-05T18:12:23.854Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-05T18:12:23.854Z",
+    "company_basic_information.last_updated": "2026-01-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-05T18:53:31.756Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-06T18:58:55.550Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:15:05.040Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-05T18:53:51.569Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-01-08T10:45:08.503Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-06T18:59:13.218Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:15:10.477Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-01-05T18:54:29.913Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-01-05T18:54:47.959Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-06T18:59:26.858Z",
+    "leadership.founders[2].description_last_updated": "2026-02-06T19:15:15.998Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-01-05T18:55:08.712Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2026-01-05T18:55:34.561Z",
+    "leadership.founders[3].image_url_last_updated": "2026-02-06T18:59:37.692Z",
+    "leadership.founders[3].description_last_updated": "2026-02-06T19:15:21.627Z",
+    "social_media.x_url_last_verified": "2026-01-05T18:55:55.192Z",
+    "social_media.linkedin_url_last_verified": "2026-01-05T18:56:30.922Z",
+    "social_media.instagram_url_last_verified": "2026-01-08T10:44:34.797Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:38.353Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2026-01-05T18:12:23.854Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-05T18:12:23.854Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-05T18:12:23.854Z",
+    "financial_information.investor_logos_last_updated": "2026-01-05T18:12:23.854Z",
+    "location_mapping[0].last_updated": "2026-01-05T18:12:23.854Z",
+    "location_mapping[11].last_updated": "2026-05-31T00:00:00.000Z",
+    "job_data.last_updated": "2026-09-24T10:20:45.423Z",
+    "benefits.health-insurance.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.dental-insurance.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.vision-insurance.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.flexible-hours.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.remote-work.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.learning-development.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.team-events.last_updated": "2026-01-11T21:11:28.079Z",
+    "benefits.bonus.last_updated": "2026-01-11T21:11:28.079Z"
+  }
+}

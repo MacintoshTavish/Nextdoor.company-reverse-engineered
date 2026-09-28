@@ -1,0 +1,616 @@
+{
+  "slug": "revefi",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/43355.a08aa8fead98cab4.js",
+  "observed_at": "2026-09-28T08:36:01.718711+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15946,
+    "sha256": "ecd840058ecda0fd956a2687f0dd9c46eb9a87e8f8952b4225ded88622d2e560",
+    "elapsed_seconds": 0.376,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:01 GMT",
+      "etag": "\"dbe1d0be76325bca132a2422966a0ebc\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:01 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Revefi",
+    "company_name_legal": "Revefi",
+    "founded_year": 2021,
+    "website_url": "https://www.revefi.com",
+    "careers_url": "https://jobs.lever.co/revefi",
+    "investor_portfolio_page": null,
+    "id": 213
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 4,
+    "last_updated": "2026-09-26T18:11:07.273Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 4,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Enterprise Account Executive - US",
+      "apply_url": "https://jobs.lever.co/revefi/62e70f20-92f1-4146-b190-b9c7876cf586",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Sales",
+      "posted_date": "2026-07-31",
+      "lever_job_id": "62e70f20-92f1-4146-b190-b9c7876cf586"
+    },
+    {
+      "title": "Lead Backend Engineer (BLR)",
+      "apply_url": "https://jobs.lever.co/revefi/b4e64f01-94ef-484d-bedd-b707d016e151",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Engineering",
+      "posted_date": "2026-07-31",
+      "lever_job_id": "b4e64f01-94ef-484d-bedd-b707d016e151"
+    },
+    {
+      "title": "Senior Backend Engineer - Seattle, WA",
+      "apply_url": "https://jobs.lever.co/revefi/5739006e-75aa-436a-b6dd-0912626fa7a2",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Engineering",
+      "posted_date": "2026-07-31",
+      "lever_job_id": "5739006e-75aa-436a-b6dd-0912626fa7a2"
+    },
+    {
+      "title": "Founding Product Manager - Data Spend Optimization",
+      "title_original": "Founding Product Mananger",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-05T20:08:01.569Z",
+      "apply_url": "https://jobs.lever.co/revefi/12f9922a-7dec-4567-9541-7260222ca258",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Product Management",
+      "posted_date": "2026-07-31",
+      "lever_job_id": "12f9922a-7dec-4567-9541-7260222ca258",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Founding Product Manager include defining the product roadmap, driving execution, and owning the user experience. This aligns closely with product management functions, which focus on product strategy and development."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9072,
+      "longitude": 77.718,
+      "exact_address": "C 601, Smondo 2, Neotown, Electronics City Phase 1, Electronics City, Bangalore South, Bangalore, Karnataka, India - 560100",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.5033,
+      "longitude": 13.4415,
+      "exact_address": "Revefi GmbH, Köpenicker Straße 154, 10997 Berlin, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.2165,
+      "longitude": 55.2826,
+      "exact_address": "Office 1403, 14th Floor, Al Moosa Tower 2, Sheikh Zayed Road, Dubai, United Arab Emirates - 127922",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Redmond",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6765,
+      "longitude": -122.132,
+      "exact_address": "ThinkSpace Office, 8201 164th Ave NE, Suite 340, Redmond, WA, United States - 98052",
+      "departments": [
+        "sales",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "11-50"
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-03-10T08:46:36.158Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-03-10T08:46:36.158Z",
+    "total_funding_raised": "$30.5 million",
+    "total_funding_raised_last_updated": "2026-03-10T08:46:36.158Z",
+    "key_investors": [
+      {
+        "name": "Mayfield Fund",
+        "domain": "mayfield.com"
+      },
+      {
+        "name": "Icon Ventures",
+        "domain": "iconventures.com"
+      },
+      {
+        "name": "GTMfund",
+        "domain": "gtmfund.com"
+      },
+      {
+        "name": "Neythri Futures Fund",
+        "domain": "neythriff.org"
+      },
+      {
+        "name": "StepStone Group",
+        "domain": "stepstonegroup.com"
+      },
+      {
+        "name": "Ajeet Singh",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Mayfield Fund",
+        "logo_url": "/investor-logos/mayfield-fund.png"
+      },
+      {
+        "name": "Icon Ventures",
+        "logo_url": "/investor-logos/icon-ventures.png"
+      },
+      {
+        "name": "GTMfund",
+        "logo_url": "/investor-logos/gtmfund.png"
+      },
+      {
+        "name": "Neythri Futures Fund",
+        "logo_url": null
+      },
+      {
+        "name": "StepStone Group",
+        "logo_url": "/investor-logos/stepstone-group.png"
+      },
+      {
+        "name": "Ajeet Singh",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-10T08:46:36.158Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-10T08:46:36.158Z",
+    "company_basic_information.website_url_last_updated": "2026-03-10T08:46:36.158Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-10T08:46:36.158Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-10T08:46:36.158Z",
+    "company_basic_information.last_updated": "2026-03-10",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-10T09:53:24.699Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:59:38.598Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:03:18.207Z",
+    "social_media.linkedin_url_last_verified": "2026-03-10T09:54:16.235Z",
+    "social_media.x_url_last_verified": "2026-03-10T10:46:01.823Z",
+    "social_media.instagram_url_last_verified": "2026-03-10T10:46:30.739Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-10T08:46:36.158Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-10T08:46:36.158Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-10T08:46:36.158Z",
+    "financial_information.investor_logos_last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[0].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[1].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[2].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[3].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[4].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[5].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[6].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[7].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[8].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[9].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[10].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[11].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[12].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[13].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[14].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[15].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[16].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[17].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[18].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[19].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[20].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[21].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[22].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[23].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[24].last_updated": "2026-03-10T08:46:36.158Z",
+    "location_mapping[25].last_updated": "2026-03-10T08:46:36.158Z",
+    "job_data.roles[0].posted_date": "2026-07-31",
+    "job_data.roles[1].posted_date": "2026-07-31",
+    "job_data.roles[2].posted_date": "2026-07-31",
+    "job_data.roles[3].posted_date": "2026-07-31",
+    "job_data.roles[3].title_updated_timestamp": "2026-05-05T20:08:01.569Z",
+    "job_data.last_updated": "2026-09-26T18:11:07.273Z"
+  }
+}

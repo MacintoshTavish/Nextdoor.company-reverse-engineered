@@ -1,0 +1,460 @@
+{
+  "slug": "posh",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/65921.5ec2e2e3d090ea18.js",
+  "observed_at": "2026-09-28T08:35:32.656502+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 12187,
+    "sha256": "9a7afaf5e6e4c796ca8046fb0c55b5556c37f8e05ec06acdb029916e2bd0e7a3",
+    "elapsed_seconds": 0.376,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:32 GMT",
+      "etag": "\"d81ab9382315db430ced93166aa488b5\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:32 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "social_media",
+    "leadership",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Posh",
+    "company_name_legal": "Posh, Inc.",
+    "founded_year": 2018,
+    "website_url": "https://www.posh.ai",
+    "careers_url": "https://jobs.ashbyhq.com/posh-ai",
+    "investor_portfolio_page": null,
+    "id": 16
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-14T12:28:41.942Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Security Administrator",
+      "apply_url": "https://jobs.ashbyhq.com/posh-ai/95f93660-b1dc-4cd1-9dab-f89e9b7ebd4d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "95f93660-b1dc-4cd1-9dab-f89e9b7ebd4d"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/posh-ai/ca367637-45ce-48ed-ace7-2a8b73e61883",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ca367637-45ce-48ed-ace7-2a8b73e61883"
+    },
+    {
+      "title": "Senior AI Implementation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/posh-ai/1f280a5c-3306-43a3-a67a-5395f813a623",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1f280a5c-3306-43a3-a67a-5395f813a623"
+    },
+    {
+      "title": "Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/posh-ai/5ee5d401-1189-42a1-bd6d-e66b629a7462",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "5ee5d401-1189-42a1-bd6d-e66b629a7462"
+    },
+    {
+      "title": "People Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/posh-ai/35350c9b-6191-4c60-968a-b77679a62b79",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "35350c9b-6191-4c60-968a-b77679a62b79"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "boston_office",
+      "city": "boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3555,
+      "longitude": -71.0608,
+      "exact_address": "33 Arch Street, Floor 17, Boston, Massachusetts, United States - 02110",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-11-19T14:10:26.058Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-19T14:10:26.058Z",
+    "total_funding_raised": "$45 million",
+    "total_funding_raised_last_updated": "2025-11-19T14:10:26.058Z",
+    "key_investors": [
+      {
+        "name": "Canapi Ventures",
+        "domain": "canapi.com"
+      },
+      {
+        "name": "Curql Collective",
+        "domain": "curql.com"
+      },
+      {
+        "name": "Human Capital",
+        "domain": "humancapital.com"
+      },
+      {
+        "name": "CMFG Ventures",
+        "domain": "cmfgventures.com"
+      },
+      {
+        "name": "JAM FINTOP",
+        "domain": "jamfintop.com"
+      },
+      {
+        "name": "Piedmont Capital",
+        "domain": "piedmontcap.com"
+      },
+      {
+        "name": "TruStage Ventures",
+        "domain": "trustage.com"
+      },
+      {
+        "name": "MIT Federal Credit Union",
+        "domain": "mitfcu.org"
+      },
+      {
+        "name": "One Nevada Credit Union",
+        "domain": "onenevada.org"
+      },
+      {
+        "name": "Educators Credit Union",
+        "domain": "ecu.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Canapi Ventures",
+        "logo_url": "/investor-logos/canapi-ventures.png"
+      },
+      {
+        "name": "Curql Collective",
+        "logo_url": "/investor-logos/curql-collective.png"
+      },
+      {
+        "name": "Human Capital",
+        "logo_url": "/investor-logos/human-capital.png"
+      },
+      {
+        "name": "CMFG Ventures",
+        "logo_url": "/investor-logos/cmfg-ventures.png"
+      },
+      {
+        "name": "JAM FINTOP",
+        "logo_url": "/investor-logos/jam-fintop.png"
+      },
+      {
+        "name": "Piedmont Capital",
+        "logo_url": "/investor-logos/piedmont-capital.png"
+      },
+      {
+        "name": "TruStage Ventures",
+        "logo_url": "/investor-logos/trustage-ventures.png"
+      },
+      {
+        "name": "MIT Federal Credit Union",
+        "logo_url": "/investor-logos/mit-federal-credit-union.png"
+      },
+      {
+        "name": "One Nevada Credit Union",
+        "logo_url": "/investor-logos/one-nevada-credit-union.png"
+      },
+      {
+        "name": "Educators Credit Union",
+        "logo_url": "/investor-logos/educators-credit-union.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-19T14:10:26.058Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-19T14:10:26.058Z",
+    "company_basic_information.website_url_last_updated": "2025-11-19T14:10:26.058Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-19T14:10:26.058Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-19T14:10:26.058Z",
+    "company_basic_information.last_updated": "2025-11-19",
+    "social_media.x_url_last_verified": "2025-11-23T10:42:07.992Z",
+    "social_media.instagram_url_last_verified": "2025-11-23T10:42:34.620Z",
+    "social_media.linkedin_url_last_verified": "2025-11-23T12:11:20.707Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-23T10:38:33.718Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-23T10:38:35.289Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-17T12:03:30.332Z",
+    "leadership.founders[0].description_last_updated": "2026-01-17T12:03:46.283Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-23T10:42:03.830Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-17T12:03:39.287Z",
+    "leadership.founders[1].description_last_updated": "2026-01-17T12:03:52.157Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:00:46.991Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-11-19T14:10:26.058Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-19T14:10:26.058Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-19T14:10:26.058Z",
+    "financial_information.investor_logos_last_updated": "2025-11-19T14:10:26.058Z",
+    "location_mapping[0].last_updated": "2025-11-19T14:10:26.058Z",
+    "job_data.roles[0].posted_date": "2026-08-02",
+    "job_data.roles[1].posted_date": "2026-08-16",
+    "job_data.roles[2].posted_date": "2026-08-16",
+    "job_data.roles[3].posted_date": "2026-08-16",
+    "job_data.roles[4].posted_date": "2026-08-31",
+    "job_data.last_updated": "2026-09-14T12:28:41.942Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T08:47:46.690Z",
+    "benefits.remote-work.last_updated": "2026-01-06T08:47:46.690Z"
+  }
+}

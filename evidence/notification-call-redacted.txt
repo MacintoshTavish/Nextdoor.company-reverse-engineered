@@ -1,0 +1,4 @@
+Source: https://www.nextdoor.company/_next/static/chunks/51563-d17f6911d2f6dfdf.js
+Original bundle SHA-256: 3f768bc531a1399fb0156bf57442d5a70bc4322b7523f030ffa613ee50de897b
+Excerpt (value redacted):
+fetch("/api/send-company-listing-notification",{method:"POST",headers:{"Content-Type":"application/json","x-api-key":"[REDACTED]"},body:JSON.stringify({companyName:j,websiteUrl:k,careersPageUrl:S,workEmail:C,phoneNumber:e,planType:"free",planLabel:"Free (Pending Review)",amount:"$0"})})}catch(e){console.error("Email notification failed:",e)}}else{o.capture("company_listing_payment_initiated",{page:"modal",company_name:j,has_careers_page:!!S,selected_plan:R,plan_price:b[R].price,plan_type:b[R].type}),window.open(g(R),"_blank");return}}I(!0),L(!1),null==v||v()}catch(e){console.error("Error s

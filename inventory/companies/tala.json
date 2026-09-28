@@ -1,0 +1,1135 @@
+{
+  "slug": "tala",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/21173.c273385633f46a96.js",
+  "observed_at": "2026-09-28T08:37:14.189803+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28619,
+    "sha256": "2b30810d4bf3f8d8d3b6a9c5b9dd7f277178d66ee81ee7641692c14d2eb8f4ca",
+    "elapsed_seconds": 0.386,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:14 GMT",
+      "etag": "\"ec7345ded0532f388aaf15c1a0b20a41\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Tala",
+    "company_name_legal": "InVenture Capital Corporation",
+    "founded_year": 2011,
+    "website_url": "https://www.tala.co",
+    "careers_url": "https://jobs.lever.co/tala",
+    "investor_portfolio_page": null,
+    "id": 210
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 6,
+    "last_updated": "2026-09-24T10:13:23.279Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 6,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Brand & Community Manager - Social Media Marketing",
+      "title_original": "Brand & Community Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T10:20:31.615Z",
+      "apply_url": "https://jobs.lever.co/tala/a538a1ca-0b76-46d1-a933-d43dbe7f5c83",
+      "location_ids": [
+        "mexico_city_remote"
+      ],
+      "location_display": "Remote, Mexico",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "a538a1ca-0b76-46d1-a933-d43dbe7f5c83",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Brand & Community Manager focus on managing social media strategies, content creation, and community engagement, which are all core functions of marketing. The role emphasizes driving brand awareness and engagement through various social media platforms."
+    },
+    {
+      "title": "Senior Manager - Expansion Risk Management",
+      "title_original": "Senior Manager Expansion Risk",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T09:13:26.353Z",
+      "apply_url": "https://jobs.lever.co/tala/a391ff08-acf0-456b-84a1-46f3dd98afdb",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "India",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "a391ff08-acf0-456b-84a1-46f3dd98afdb",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role primarily focuses on risk management within credit strategy, which is a key function of finance departments, especially in consumer lending contexts. The responsibilities include monitoring portfolio health, developing credit strategies, and managing risk for partnerships, all of which are central to financial operations."
+    },
+    {
+      "title": "Senior SecOps Engineer",
+      "apply_url": "https://jobs.lever.co/tala/1499b2f6-9bf1-4840-aef6-99a4bf8e3710",
+      "location_ids": [
+        "san_francisco_remote",
+        "new_york_remote",
+        "austin_remote",
+        "seattle_remote",
+        "boston_remote",
+        "chicago_remote",
+        "denver_remote",
+        "los_angeles_remote",
+        "atlanta_remote",
+        "miami_remote"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "1499b2f6-9bf1-4840-aef6-99a4bf8e3710",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior SecOps Engineer focus on designing, implementing, and maintaining security solutions for cloud environments, specifically AWS. The role emphasizes security configuration, vulnerability management, and incident response, which are core functions of the security department."
+    },
+    {
+      "title": "Senior Visual Brand Designer - Global Branding",
+      "title_original": "Senior Visual Brand Designer",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T11:01:22.245Z",
+      "apply_url": "https://jobs.lever.co/tala/9784a4c7-745e-4b9f-ba17-ffa9d8023bdf",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Global",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "9784a4c7-745e-4b9f-ba17-ffa9d8023bdf",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Visual Brand Designer focus on managing and elevating the visual brand identity, creating design assets, and ensuring brand consistency across various channels. This aligns directly with the design category, as the role is centered around visual design and branding."
+    },
+    {
+      "title": "Analytics Platforms Architect",
+      "apply_url": "https://jobs.lever.co/tala/848e6f75-9b40-45d2-b5b8-82de6670b0ed",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "848e6f75-9b40-45d2-b5b8-82de6670b0ed"
+    },
+    {
+      "title": "Manager, Machine Learning Engineering",
+      "apply_url": "https://jobs.lever.co/tala/414d3726-20bc-4a89-9f82-66620943febb",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "414d3726-20bc-4a89-9f82-66620943febb"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.36987,
+      "longitude": -97.74864,
+      "exact_address": "4505 Spicewood Springs Road, Suite 350, Austin, Texas, United States - 78759",
+      "departments": [
+        "finance",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9539,
+      "longitude": 77.6487,
+      "exact_address": "WeWork, Embassy Golf Links Business Park, Off Intermediate Ring Road, Challaghatta, Bengaluru, Karnataka, India - 560071",
+      "departments": [
+        "hr",
+        "data",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.6692,
+      "longitude": 77.258,
+      "exact_address": "179, Dr Mukherjee Nagar, New Delhi, Delhi, India - 110009",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Makati",
+      "state": "National Capital Region",
+      "country": "Philippines",
+      "latitude": 14.5618,
+      "longitude": 121.0006,
+      "exact_address": "5th Floor, TIM Building, 5600 Osmeña Highway corner Arellano Street, Barangay Palanan, Makati City, Metro Manila, Philippines - 1235",
+      "departments": [
+        "finance",
+        "marketing"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Ciudad de México",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.41772,
+      "longitude": -99.16054,
+      "exact_address": "Colima 161, Piso 4, Roma Norte, Cuauhtémoc, Ciudad de México, Mexico - 06700",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7539,
+      "longitude": -73.9841,
+      "exact_address": "546 5th Avenue, Floor 9, New York, New York, United States - 10036",
+      "departments": [
+        "finance",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "800+"
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "data",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7826206,
+      "longitude": -122.3933159,
+      "exact_address": "27 S Park St, Suite 201, San Francisco, California, United States - 94107",
+      "departments": [
+        "finance",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "finance",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "other",
+        "finance",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "finance",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "finance",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "finance",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "finance",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_remote",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "ho_chi_minh_city_office",
+      "city": "Ho Chi Minh City",
+      "state": null,
+      "country": "Vietnam",
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "exact_address": "Ho Chi Minh City, Vietnam",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "hanoi_office",
+      "city": "Hanoi",
+      "state": null,
+      "country": "Vietnam",
+      "latitude": 21.0285,
+      "longitude": 105.8542,
+      "exact_address": "Hanoi, Vietnam",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "da_nang_office",
+      "city": "Da Nang",
+      "state": null,
+      "country": "Vietnam",
+      "latitude": 16.0544,
+      "longitude": 108.2022,
+      "exact_address": "Da Nang, Vietnam",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-03-09T11:50:11.922Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-03-09T11:50:11.922Z",
+    "total_funding_raised": "$219.4 million",
+    "total_funding_raised_last_updated": "2026-03-09T11:50:11.922Z",
+    "key_investors": [
+      {
+        "name": "RPS Ventures",
+        "domain": "rpsventures.com"
+      },
+      {
+        "name": "Revolution",
+        "domain": "revolution.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "PayPal Ventures",
+        "domain": "paypalventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "RPS Ventures",
+        "logo_url": "/investor-logos/rps-ventures.png"
+      },
+      {
+        "name": "Revolution",
+        "logo_url": "/investor-logos/revolution.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "PayPal Ventures",
+        "logo_url": "/investor-logos/paypal-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-09T11:50:11.922Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "remote-work",
+    "flexible-hours",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[40].source": "ai_inference_upsert",
+    "location_mapping[41].source": "ai_inference_upsert",
+    "location_mapping[42].source": "ai_inference_upsert",
+    "location_mapping[43].source": "ai_inference_upsert",
+    "location_mapping[44].source": "ai_inference_upsert",
+    "location_mapping[45].source": "ai_inference_upsert",
+    "location_mapping[46].source": "ai_inference_upsert",
+    "location_mapping[47].source": "ai_inference_upsert",
+    "location_mapping[48].source": "ai_inference_upsert",
+    "location_mapping[49].source": "ai_inference_upsert",
+    "location_mapping[50].source": "ai_inference_upsert",
+    "job_data.roles[3].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-07T10:04:14.139Z",
+    "company_basic_information.website_url_last_updated": "2026-03-07T10:04:14.139Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-07T10:04:14.139Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-07T10:04:14.139Z",
+    "company_basic_information.last_updated": "2026-03-07",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-08T07:47:18.117Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-08T07:47:36.425Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:58:07.809Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:02:40.254Z",
+    "leadership.last_updated": "2026-03-08T07:41:48.760Z",
+    "social_media.x_url_last_verified": "2026-03-07T12:03:32.626Z",
+    "social_media.linkedin_url_last_verified": "2026-03-07T12:04:03.313Z",
+    "social_media.instagram_url_last_verified": "2026-03-08T07:42:12.054Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-09T11:50:11.922Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-09T11:50:11.922Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-09T11:50:11.922Z",
+    "financial_information.investor_logos_last_updated": "2026-03-09T11:50:11.922Z",
+    "location_mapping[0].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[1].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[2].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[3].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[4].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[5].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[6].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[7].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[8].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[9].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[10].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[11].last_updated": "2026-03-07T10:04:14.139Z",
+    "location_mapping[40].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[41].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[42].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[43].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[44].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[45].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[46].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[47].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[48].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[49].last_updated": "2026-07-27T19:59:15.780Z",
+    "location_mapping[50].last_updated": "2026-08-11T10:20:31.615Z",
+    "location_mapping[51].last_updated": "2026-08-11T10:23:12.273Z",
+    "location_mapping[52].last_updated": "2026-08-11T10:23:15.440Z",
+    "location_mapping[53].last_updated": "2026-08-11T10:23:15.813Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[0].title_updated_timestamp": "2026-08-11T10:20:31.615Z",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[1].title_updated_timestamp": "2026-08-11T09:13:26.353Z",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[3].title_updated_timestamp": "2026-09-24T11:01:22.245Z",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:13:23.279Z",
+    "benefits.remote-work.last_updated": "2026-03-11T12:31:09.493Z",
+    "benefits.flexible-hours.last_updated": "2026-03-11T12:31:09.493Z"
+  }
+}

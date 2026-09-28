@@ -1,0 +1,920 @@
+{
+  "slug": "betterup",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/87087.671bc765211d8662.js",
+  "observed_at": "2026-09-28T08:29:25.838629+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28571,
+    "sha256": "01860250e0a88e2d4a404a6f4acdf326d2179315e9a4da1d52c368300c2ea078",
+    "elapsed_seconds": 0.427,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:25 GMT",
+      "etag": "\"ad1a59704a6b05af108c8db70ae27d55\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:25 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "slug",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "BetterUp",
+    "company_name_legal": "BetterUp Inc.",
+    "founded_year": 2013,
+    "website_url": "https://betterup.com",
+    "careers_url": "https://jobs.ashbyhq.com/betterup",
+    "investor_portfolio_page": null,
+    "id": 336
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 27,
+    "last_updated": "2026-09-24T09:33:44.315Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 27,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Director, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/d43c9675-6181-47f1-85ed-4c33ee0690dd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "d43c9675-6181-47f1-85ed-4c33ee0690dd"
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director involve managing client relationships post-sale, ensuring successful delivery of services, and enhancing client outcomes, which are key aspects of customer success. The role focuses on orchestrating the delivery of the BetterUp platform and maintaining strong client engagement, aligning closely with customer success functions."
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director focus on managing client relationships post-sale, ensuring successful delivery of services, and enhancing client outcomes. This aligns closely with the customer success function, which emphasizes client engagement and satisfaction."
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-2",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director revolve around managing client relationships post-sale, ensuring successful delivery of services, and enhancing client outcomes, which are key aspects of customer success. The role requires strong communication and collaboration skills to work with clients and internal teams, further solidifying its alignment with the customer-success category."
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director involve managing client relationships post-sale, ensuring successful delivery of services, and enhancing client outcomes. This aligns closely with the customer success category, as the role focuses on maintaining strong client engagement and satisfaction."
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director involve managing client relationships post-sale, ensuring successful delivery of services, and orchestrating cross-functional teams to enhance client outcomes. This aligns closely with customer success, which focuses on maintaining and improving client satisfaction and engagement."
+    },
+    {
+      "title": "Client Delivery Director",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/05a01bf8-7a37-40cf-9791-96821ed99314#loc-5",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "05a01bf8-7a37-40cf-9791-96821ed99314",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Client Delivery Director include managing client relationships post-sale, ensuring successful delivery of services, and enhancing client outcomes. This aligns closely with the customer success function, which focuses on maintaining and improving client satisfaction and engagement."
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/91d5b43a-3275-4301-b6b5-36e1bf7ea744",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "91d5b43a-3275-4301-b6b5-36e1bf7ea744"
+    },
+    {
+      "title": "Principal Product Designer, Core",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/3eb362fc-4911-42d4-b022-69d5c8c343ac#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3eb362fc-4911-42d4-b022-69d5c8c343ac"
+    },
+    {
+      "title": "Principal Product Designer, Core",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/3eb362fc-4911-42d4-b022-69d5c8c343ac#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3eb362fc-4911-42d4-b022-69d5c8c343ac"
+    },
+    {
+      "title": "Principal Product Designer, Core",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/3eb362fc-4911-42d4-b022-69d5c8c343ac#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3eb362fc-4911-42d4-b022-69d5c8c343ac"
+    },
+    {
+      "title": "Principal Product Designer, Core",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/3eb362fc-4911-42d4-b022-69d5c8c343ac#loc-3",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3eb362fc-4911-42d4-b022-69d5c8c343ac"
+    },
+    {
+      "title": "Principal Product Designer, Partner Experience",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/bad7334f-032f-4263-a8db-3bf8b0fcc1a0#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "bad7334f-032f-4263-a8db-3bf8b0fcc1a0"
+    },
+    {
+      "title": "Principal Product Designer, Partner Experience",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/bad7334f-032f-4263-a8db-3bf8b0fcc1a0#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "bad7334f-032f-4263-a8db-3bf8b0fcc1a0"
+    },
+    {
+      "title": "Principal Product Designer, Partner Experience",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/bad7334f-032f-4263-a8db-3bf8b0fcc1a0#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "bad7334f-032f-4263-a8db-3bf8b0fcc1a0"
+    },
+    {
+      "title": "Principal Product Designer, Partner Experience",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/bad7334f-032f-4263-a8db-3bf8b0fcc1a0#loc-3",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "bad7334f-032f-4263-a8db-3bf8b0fcc1a0"
+    },
+    {
+      "title": "Principal Product Manager, Forward Deployment",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/5d56e8ee-9d91-44a9-b09e-2594e0f0e778",
+      "location_ids": [
+        "global_headquarters_all_hubs_office"
+      ],
+      "location_display": "All Hubs",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "5d56e8ee-9d91-44a9-b09e-2594e0f0e778"
+    },
+    {
+      "title": "Senior Events Manager, EMEA (12-14 month Fixed-Term Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/cedecdbe-b08f-430e-963f-57033ca17265",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Contract",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "cedecdbe-b08f-430e-963f-57033ca17265"
+    },
+    {
+      "title": "Staff Product Designer, Design Systems",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/faa62bc5-cee2-4514-aab2-e656cf40b88c#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "faa62bc5-cee2-4514-aab2-e656cf40b88c"
+    },
+    {
+      "title": "Staff Product Designer, Design Systems",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/faa62bc5-cee2-4514-aab2-e656cf40b88c#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "faa62bc5-cee2-4514-aab2-e656cf40b88c"
+    },
+    {
+      "title": "Staff Product Designer, Design Systems",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/faa62bc5-cee2-4514-aab2-e656cf40b88c#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "faa62bc5-cee2-4514-aab2-e656cf40b88c"
+    },
+    {
+      "title": "Staff Product Designer, Design Systems",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/faa62bc5-cee2-4514-aab2-e656cf40b88c#loc-3",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "faa62bc5-cee2-4514-aab2-e656cf40b88c"
+    },
+    {
+      "title": "Senior Channel Partnerships Manager, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/e8fe0dec-fe72-4406-b9e4-046191f4fe68#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e8fe0dec-fe72-4406-b9e4-046191f4fe68"
+    },
+    {
+      "title": "Senior Channel Partnerships Manager, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/e8fe0dec-fe72-4406-b9e4-046191f4fe68#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e8fe0dec-fe72-4406-b9e4-046191f4fe68"
+    },
+    {
+      "title": "Senior Channel Partnerships Manager, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/e8fe0dec-fe72-4406-b9e4-046191f4fe68#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e8fe0dec-fe72-4406-b9e4-046191f4fe68"
+    },
+    {
+      "title": "Senior Channel Partnerships Manager, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/e8fe0dec-fe72-4406-b9e4-046191f4fe68#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e8fe0dec-fe72-4406-b9e4-046191f4fe68"
+    },
+    {
+      "title": "Senior Channel Partnerships Manager, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/e8fe0dec-fe72-4406-b9e4-046191f4fe68#loc-4",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e8fe0dec-fe72-4406-b9e4-046191f4fe68"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-success",
+        "operations",
+        "sales",
+        "hr",
+        "design",
+        "product",
+        "ai",
+        "research",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "arlington_office",
+      "city": "Arlington",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 38.8816,
+      "longitude": -77.091,
+      "exact_address": "Arlington, Virginia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.5255,
+      "longitude": -0.0914,
+      "exact_address": "142-146 Old Street, London, England, United Kingdom - EC1V 9BW",
+      "departments": [
+        "sales",
+        "customer-success",
+        "research"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.753857,
+      "longitude": -73.978665,
+      "exact_address": "335 Madison Avenue, New York, New York, United States - 10017",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.77272,
+      "longitude": -122.41035,
+      "exact_address": "1200 Folsom Street, San Francisco, California, United States - 94103",
+      "departments": [
+        "customer-success",
+        "ai"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6046553,
+      "longitude": -122.3339157,
+      "exact_address": "999 3rd Ave, Suite 3300, Seattle, Washington, United States - 98104",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.650383,
+      "longitude": -79.399697,
+      "exact_address": "215 Spadina Avenue, Suite 400, Toronto, Ontario, Canada - M5T 2C7",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "global_headquarters_all_hubs_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.25994,
+      "longitude": -97.70857,
+      "exact_address": "3100 East 5th Street, Suite 350, Austin, Texas, United States - 78702",
+      "departments": [
+        "sales",
+        "customer-success",
+        "hr",
+        "engineering",
+        "operations",
+        "design",
+        "product",
+        "ai",
+        "research"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-06-15T07:22:21.018Z",
+    "current_valuation_usd": "$4.7 billion",
+    "current_valuation_usd_last_updated": "2026-06-15T07:22:21.018Z",
+    "total_funding_raised": "$200 million",
+    "total_funding_raised_last_updated": "2026-06-15T07:22:21.018Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Wellington Management",
+        "domain": ""
+      },
+      {
+        "name": "Salesforce Ventures",
+        "domain": "salesforceventures.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      },
+      {
+        "name": "Morningside Group",
+        "domain": ""
+      },
+      {
+        "name": "Mubadala Capital",
+        "domain": ""
+      },
+      {
+        "name": "ICONIQ Growth",
+        "domain": ""
+      },
+      {
+        "name": "SV Angel",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Wellington Management",
+        "logo_url": "/investor-logos/wellington-management.png"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "logo_url": "/investor-logos/salesforce-ventures.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      },
+      {
+        "name": "Morningside Group",
+        "logo_url": "/investor-logos/morningside-group.png"
+      },
+      {
+        "name": "Mubadala Capital",
+        "logo_url": "/investor-logos/mubadala-capital.png"
+      },
+      {
+        "name": "ICONIQ Growth",
+        "logo_url": "/investor-logos/iconiq-growth.png"
+      },
+      {
+        "name": "SV Angel",
+        "logo_url": "/investor-logos/sv-angel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-15T07:22:21.018Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "mental-health",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "company-recharge-days",
+    "paid-volunteer-days",
+    "learning-development",
+    "sabbatical",
+    "donation-matching",
+    "retirement-401k",
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "x-profile",
+    "leadership.founders[0].description_source": "linkedin",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[2].location_source": "manual-fix",
+    "location_mapping[2].location_source_notes": "Added for BDR Federal Sales role. Arlington VA is the standard location for federal government sales roles near Washington DC.",
+    "location_mapping[6].location_source": "perplexity",
+    "location_mapping[7].location_source": "manual-fix",
+    "location_mapping[7].location_source_notes": "Previous entry had a San Francisco address — corrected to city-level LA coordinates. No confirmed BetterUp street address in LA.",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "perplexity",
+    "location_mapping[11].location_source": "perplexity",
+    "location_mapping[12].location_source": "perplexity",
+    "location_mapping[13].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-15T07:22:21.018Z",
+    "company_basic_information.website_url_last_updated": "2026-06-15T07:22:21.018Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-15T07:22:21.018Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-15T07:22:21.018Z",
+    "company_basic_information.last_updated": "2026-06-15",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-06-15T08:18:59.462Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-15T08:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-15T08:30:00.000Z",
+    "leadership.founders[0].description_last_updated": "2026-06-15T08:00:00.000Z",
+    "social_media.x_url_last_updated": "2026-06-15T07:22:21.018Z",
+    "social_media.x_url_last_verified": "2026-06-15T08:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-06-15T07:22:21.018Z",
+    "social_media.linkedin_url_last_verified": "2026-06-15T08:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-06-15T07:22:21.018Z",
+    "social_media.instagram_url_last_verified": "2026-06-15T08:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-06-15",
+    "financial_information.funding_stage_last_updated": "2026-06-15T07:22:21.018Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-15T07:22:21.018Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-15T07:22:21.018Z",
+    "financial_information.investor_logos_last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[0].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[1].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[2].last_updated": "2026-06-15T08:00:00.000Z",
+    "location_mapping[3].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[4].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[5].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[6].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[7].last_updated": "2026-06-15T08:00:00.000Z",
+    "location_mapping[8].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[9].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[10].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[11].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[12].last_updated": "2026-06-15T07:22:21.018Z",
+    "location_mapping[13].last_updated": "2026-06-15T07:22:21.018Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.roles[26].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:33:44.315Z",
+    "benefits.mental-health.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.health-insurance.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.dental-insurance.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.vision-insurance.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.company-recharge-days.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.paid-volunteer-days.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.learning-development.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.sabbatical.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.donation-matching.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.retirement-401k.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.flexible-hours.last_updated": "2026-06-15T08:29:27.512Z",
+    "benefits.remote-work.last_updated": "2026-06-15T08:29:27.512Z"
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "slug": "array",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/59883.052d5a7697fed62c.js",
+  "observed_at": "2026-09-28T08:28:59.084041+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 21483,
+    "sha256": "877d39c04efe24e8e66b917a567f28e8ff433070a981ee32dc22fa8260238580",
+    "elapsed_seconds": 0.615,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:28:59 GMT",
+      "etag": "\"7e6750de991153afa9a231724acd7447\"",
+      "last-modified": "Mon, 28 Sep 2026 08:28:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Array",
+    "company_name_legal": "Array, Inc.",
+    "founded_year": 2020,
+    "website_url": "https://array.com",
+    "careers_url": "https://boards.greenhouse.io/array",
+    "investor_portfolio_page": null,
+    "id": 359
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 14,
+    "last_updated": "2026-09-14T12:52:32.689Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 14,
+  "role_field_names": [
+    "apply_url",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/4805410004?gh_jid=4805410004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Partnerships",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5477345004?gh_jid=5477345004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Manager",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5611246004?gh_jid=5611246004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Manager, Digital Banking Partners",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5777163004?gh_jid=5777163004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "FP&A Analyst",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Deployment Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5841728004?gh_jid=5841728004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Go Software Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5440151004?gh_jid=5440151004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Svelte Software Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5737236004?gh_jid=5737236004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/4747055004?gh_jid=4747055004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5154821004?gh_jid=5154821004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Deployment Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/6109957004?gh_jid=6109957004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Offensive Security Engineer",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/6133568004?gh_jid=6133568004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/4713067004?gh_jid=4713067004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Strategic Account Executive",
+      "apply_url": "https://boards.greenhouse.io/array/jobs/5465988004?gh_jid=5465988004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA / Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.7535,
+      "longitude": -84.379,
+      "exact_address": "Array, 200 Edgewood Avenue Southeast, Atlanta, Georgia, United States - 30303",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2294,
+      "longitude": -97.6987,
+      "exact_address": "2101 Burton Dr, Austin, TX 78741, United States",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "null"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.35503,
+      "longitude": -71.05368,
+      "exact_address": "Array, 99 High Street, Financial District, Boston, Massachusetts, United States - 02110",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8821,
+      "longitude": -87.6422,
+      "exact_address": "500 West Madison Street, Suite 810, Chicago, Illinois, United States - 60661",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "engineering",
+        "product",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.608716,
+      "longitude": -104.901918,
+      "exact_address": "7600 East Orchard Road, Suite 350-N, Greenwood Village, Denver, Colorado, United States - 80111",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.07155,
+      "longitude": -118.2074,
+      "exact_address": "2110 North Main Street, Suite 215, Los Angeles, California, United States - 90031",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montréal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.501875,
+      "longitude": -73.567354,
+      "exact_address": "3 Place Ville Marie, Suite 400, Montréal, Quebec, Canada - H3B 2E3",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "finance",
+        "data",
+        "product",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7896,
+      "longitude": -122.3968,
+      "exact_address": "555 Market St, Suite 900, San Francisco, CA 94105, United States",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.602038,
+      "longitude": -122.329358,
+      "exact_address": "500 4th Avenue, Suite 810, Seattle, Washington, United States - 98104",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "customer-success",
+        "finance",
+        "data",
+        "product",
+        "other",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.7777,
+      "longitude": -79.2847,
+      "exact_address": "45 Progress Avenue, Toronto, Ontario M1P 2Y6, Canada",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "finance",
+        "data",
+        "product",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "1000+"
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.28042,
+      "longitude": -123.11595,
+      "exact_address": "401 West Georgia Street, 13th Floor, Vancouver, British Columbia, Canada - V6B 5A1",
+      "departments": [
+        "sales",
+        "operations",
+        "legal",
+        "finance",
+        "data",
+        "product",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-07-04T10:20:46.895Z",
+    "current_valuation_usd": "$1.13 billion",
+    "current_valuation_usd_last_updated": "2026-07-04T10:20:46.895Z",
+    "total_funding_raised": "$90.3 million",
+    "total_funding_raised_last_updated": "2026-07-04T10:20:46.895Z",
+    "key_investors": [
+      {
+        "name": "Washington Harbour Partners",
+        "domain": ""
+      },
+      {
+        "name": "Cultivation Capital",
+        "domain": ""
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "Maiora Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Animal Capital",
+        "domain": ""
+      },
+      {
+        "name": "SuperOrganism",
+        "domain": ""
+      },
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Gaingels",
+        "domain": ""
+      },
+      {
+        "name": "Hexagon",
+        "domain": ""
+      },
+      {
+        "name": "Kompas",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Washington Harbour Partners",
+        "logo_url": "/investor-logos/washington-harbour-partners.png"
+      },
+      {
+        "name": "Cultivation Capital",
+        "logo_url": "/investor-logos/cultivation-capital.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Maiora Ventures",
+        "logo_url": "/investor-logos/maiora-ventures.png"
+      },
+      {
+        "name": "Animal Capital",
+        "logo_url": "/investor-logos/animal-capital.png"
+      },
+      {
+        "name": "SuperOrganism",
+        "logo_url": "/investor-logos/superorganism.png"
+      },
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Gaingels",
+        "logo_url": "/investor-logos/gaingels.png"
+      },
+      {
+        "name": "Hexagon",
+        "logo_url": "/investor-logos/hexagon.png"
+      },
+      {
+        "name": "Kompas",
+        "logo_url": "/investor-logos/kompas.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-04T10:20:46.895Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "sick-leave",
+    "company-recharge-days",
+    "retirement-401k",
+    "parental-leave",
+    "wfh-setup",
+    "phone-reimbursement",
+    "flexible-hours",
+    "commute-allowance",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[3].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "perplexity",
+    "location_mapping[11].location_source": "perplexity",
+    "location_mapping[12].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-04T10:20:46.895Z",
+    "company_basic_information.website_url_last_updated": "2026-07-04T10:20:46.895Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-04T10:20:46.895Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-04T10:20:46.895Z",
+    "company_basic_information.last_updated": "2026-07-04",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-04T10:00:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-04T10:00:00.000Z",
+    "leadership.founders[0].description_last_updated": "2026-07-04T10:37:28.043Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-04T10:00:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-04T10:00:00.000Z",
+    "leadership.founders[1].description_last_updated": "2026-07-04T10:37:33.289Z",
+    "social_media.x_url_last_updated": "2026-07-04T10:00:00.000Z",
+    "social_media.x_url_last_verified": "2026-07-04T10:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-04T10:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-07-04T10:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-04T10:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-07-04T10:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-04",
+    "financial_information.funding_stage_last_updated": "2026-07-04T10:20:46.895Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-04T10:20:46.895Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-04T10:20:46.895Z",
+    "financial_information.investor_logos_last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[0].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[1].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[2].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[3].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[4].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[5].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[6].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[7].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[8].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[9].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[10].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[11].last_updated": "2026-07-04T10:20:46.895Z",
+    "location_mapping[12].last_updated": "2026-07-04T10:20:46.895Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.roles[12].posted_date": "2026-09-14",
+    "job_data.roles[13].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:52:32.689Z",
+    "benefits.health-insurance.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.dental-insurance.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.vision-insurance.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.unlimited-pto.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.sick-leave.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.company-recharge-days.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.retirement-401k.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.parental-leave.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.wfh-setup.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.flexible-hours.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.commute-allowance.last_updated": "2026-07-04T10:35:09.295Z",
+    "benefits.remote-work.last_updated": "2026-07-04T10:35:09.295Z"
+  }
+}

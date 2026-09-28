@@ -1,0 +1,788 @@
+{
+  "slug": "level-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/12515.1f84f8a9c8ca35d6.js",
+  "observed_at": "2026-09-28T08:33:36.074688+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20876,
+    "sha256": "72197e8726a86dd22e4d7cbd40e879be7cc7becc31d971f3c77b57d28fdac0b5",
+    "elapsed_seconds": 0.173,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:36 GMT",
+      "etag": "\"6adc3c408b01c737c14bfb8a7477d783\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Level AI",
+    "company_name_legal": "Level AI",
+    "founded_year": 2019,
+    "website_url": "https://thelevel.ai",
+    "careers_url": "https://jobs.lever.co/levelai",
+    "investor_portfolio_page": null,
+    "id": 175
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 19,
+    "last_updated": "2026-09-14T13:11:49.398Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 19,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Analyst",
+      "apply_url": "https://jobs.lever.co/levelai/c55479cf-bc3e-471b-9ed7-ac213b0ee8b5",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "c55479cf-bc3e-471b-9ed7-ac213b0ee8b5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI Analyst involve conducting quantitative research, analyzing AI model performance, and optimizing AI models, which are all focused on artificial intelligence. The role emphasizes working with AI technologies and improving AI-driven applications, clearly aligning it with the AI department."
+    },
+    {
+      "title": "Senior Machine Learning Engineer - NLP (Bangalore/Noida Location)",
+      "apply_url": "https://jobs.lever.co/levelai/cc04ab77-6ee3-4078-9cfd-110cda0b1438",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "cc04ab77-6ee3-4078-9cfd-110cda0b1438"
+    },
+    {
+      "title": "Senior Machine Learning Engineer (Bangalore/Noida Location)",
+      "apply_url": "https://jobs.lever.co/levelai/55ba7aee-57ff-440c-91a4-58bcafcd10a8",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "55ba7aee-57ff-440c-91a4-58bcafcd10a8"
+    },
+    {
+      "title": "Sr. Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations)",
+      "apply_url": "https://jobs.lever.co/levelai/78ddcdbd-4bd8-4187-b7d0-38fcb39c8232",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "78ddcdbd-4bd8-4187-b7d0-38fcb39c8232"
+    },
+    {
+      "title": "Forward Deployed Engineer - Agents(Remote)",
+      "apply_url": "https://jobs.lever.co/levelai/498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "498dfb1d-2f80-4a74-8d08-ecadccd8a221"
+    },
+    {
+      "title": "Lead Software Engineer - AI Agents",
+      "apply_url": "https://jobs.lever.co/levelai/30eaa8f7-fb66-4ed4-9ac8-e2f343a84ad3",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "30eaa8f7-fb66-4ed4-9ac8-e2f343a84ad3"
+    },
+    {
+      "title": "SDET (Noida, India)",
+      "apply_url": "https://jobs.lever.co/levelai/55678283-3e23-46f0-baaa-48b91b5ff6ea",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "55678283-3e23-46f0-baaa-48b91b5ff6ea"
+    },
+    {
+      "title": "Senior Backend Engineer - Analytics, Noida",
+      "apply_url": "https://jobs.lever.co/levelai/6d4ce92d-88d9-4d78-b30d-ae22b12a268f",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "6d4ce92d-88d9-4d78-b30d-ae22b12a268f"
+    },
+    {
+      "title": "Senior Backend Engineer - Customer Engineering",
+      "apply_url": "https://jobs.lever.co/levelai/24d02a5c-3dc1-4849-a615-3e4f505100c3",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "24d02a5c-3dc1-4849-a615-3e4f505100c3"
+    },
+    {
+      "title": "Senior Backend Engineer -PE",
+      "apply_url": "https://jobs.lever.co/levelai/195920b3-83c9-4f7d-8612-b6b7a252154d",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "195920b3-83c9-4f7d-8612-b6b7a252154d"
+    },
+    {
+      "title": "Senior Backend Engineer- AI Agents",
+      "apply_url": "https://jobs.lever.co/levelai/98f0df69-79f8-4072-b676-19d9eec4df74",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "98f0df69-79f8-4072-b676-19d9eec4df74"
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "apply_url": "https://jobs.lever.co/levelai/e6658081-92af-4f0c-aec8-c63ec7ded03e",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "e6658081-92af-4f0c-aec8-c63ec7ded03e"
+    },
+    {
+      "title": "Senior Full Stack Engineer (Noida, BLR, India)",
+      "apply_url": "https://jobs.lever.co/levelai/d3198817-960e-4625-9b06-418ca2e6ce4e",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "d3198817-960e-4625-9b06-418ca2e6ce4e"
+    },
+    {
+      "title": "Senior Site Reliability Engineer (Noida, BLR, India)",
+      "apply_url": "https://jobs.lever.co/levelai/0e0cd345-09e0-4da3-87a5-75315d99c75d",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "0e0cd345-09e0-4da3-87a5-75315d99c75d"
+    },
+    {
+      "title": "EA and Operations Specialist - Bay Area",
+      "apply_url": "https://jobs.lever.co/levelai/5f299aa0-d358-43ae-a2a4-58b9ac1d426d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "Bay Area, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "5f299aa0-d358-43ae-a2a4-58b9ac1d426d"
+    },
+    {
+      "title": "Revenue Operations Architect — GTM Systems Builder",
+      "apply_url": "https://jobs.lever.co/levelai/547c0e23-c994-418b-b256-3e44333a75b6",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "547c0e23-c994-418b-b256-3e44333a75b6"
+    },
+    {
+      "title": "Revops Lead",
+      "apply_url": "https://jobs.lever.co/levelai/9ab7ec92-ab28-483f-bf66-52b5ebd60e7b",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "9ab7ec92-ab28-483f-bf66-52b5ebd60e7b"
+    },
+    {
+      "title": "Sales Development Manager",
+      "apply_url": "https://jobs.lever.co/levelai/5e685c6e-f07e-4ac5-a528-b1f3e85b63fe",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "Bay Area, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "5e685c6e-f07e-4ac5-a528-b1f3e85b63fe"
+    },
+    {
+      "title": "Principal Software Engineer — Backend & Infrastructure - Noida / Bengaluru",
+      "apply_url": "https://jobs.lever.co/levelai/d9c3409d-a86f-4901-b628-d27813c673b6",
+      "location_ids": [
+        "noida_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Noida, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-16",
+      "lever_job_id": "d9c3409d-a86f-4901-b628-d27813c673b6"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5244,
+      "longitude": 77.2591,
+      "exact_address": "C/O 91 Springboard Business Hub Private Limited, B1/H3, Mohan Co-Operative, Mathura Road, Industrial Area, Block B, Pul Pahladpur, South Delhi, Delhi, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "noida_office",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 28.5355,
+      "longitude": 77.391,
+      "exact_address": "Noida, Uttar Pradesh, India",
+      "departments": [
+        "engineering",
+        "ai",
+        "sales",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "mountain view",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3942,
+      "longitude": -122.079,
+      "exact_address": "444 Castro Street, Suite 305, Mountain View, California, United States - 94041",
+      "departments": [
+        "operations",
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": "168"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "product",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mountain_view_office",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3861,
+      "longitude": -122.0839,
+      "exact_address": "Mountain View, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-01-30T16:06:44.606Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-30T16:06:44.606Z",
+    "total_funding_raised": "$73.1 million",
+    "total_funding_raised_last_updated": "2026-01-30T16:06:44.606Z",
+    "key_investors": [
+      {
+        "name": "Adams Street Partners",
+        "domain": null
+      },
+      {
+        "name": "Cross Creek",
+        "domain": null
+      },
+      {
+        "name": "Brightloop",
+        "domain": null
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": null
+      },
+      {
+        "name": "Eniac Ventures",
+        "domain": null
+      },
+      {
+        "name": "Village Global",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Adams Street Partners",
+        "logo_url": "/investor-logos/adams-street-partners.png"
+      },
+      {
+        "name": "Cross Creek",
+        "logo_url": "/investor-logos/cross-creek.png"
+      },
+      {
+        "name": "Brightloop",
+        "logo_url": "/investor-logos/brightloop.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "Eniac Ventures",
+        "logo_url": "/investor-logos/eniac-ventures.png"
+      },
+      {
+        "name": "Village Global",
+        "logo_url": "/investor-logos/village.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-30T16:06:44.606Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-30T16:06:44.606Z",
+    "company_basic_information.website_url_last_updated": "2026-01-30T16:06:44.606Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-30T16:06:44.606Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-30T16:06:44.606Z",
+    "company_basic_information.last_updated": "2026-01-30",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-30T16:50:14.631Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T13:57:20.257Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:01:03.170Z",
+    "social_media.linkedin_url_last_verified": "2026-01-30T16:49:47.553Z",
+    "social_media.x_url_last_verified": "2026-01-30T16:51:45.426Z",
+    "social_media.instagram_url_last_verified": "2026-01-30T16:52:02.213Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-01-30T16:06:44.606Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-30T16:06:44.606Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-30T16:06:44.606Z",
+    "financial_information.investor_logos_last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[0].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[1].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[2].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[3].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[4].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[5].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[6].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[7].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[8].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[9].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[10].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[11].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[12].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[13].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[14].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[15].last_updated": "2026-01-30T16:06:44.606Z",
+    "location_mapping[16].last_updated": "2026-01-30T16:06:44.606Z",
+    "job_data.roles[0].posted_date": "2026-08-16",
+    "job_data.roles[1].posted_date": "2026-08-16",
+    "job_data.roles[2].posted_date": "2026-08-16",
+    "job_data.roles[3].posted_date": "2026-08-16",
+    "job_data.roles[4].posted_date": "2026-08-16",
+    "job_data.roles[5].posted_date": "2026-08-16",
+    "job_data.roles[6].posted_date": "2026-08-16",
+    "job_data.roles[7].posted_date": "2026-08-16",
+    "job_data.roles[8].posted_date": "2026-08-16",
+    "job_data.roles[9].posted_date": "2026-08-16",
+    "job_data.roles[10].posted_date": "2026-08-16",
+    "job_data.roles[11].posted_date": "2026-08-16",
+    "job_data.roles[12].posted_date": "2026-08-16",
+    "job_data.roles[13].posted_date": "2026-08-16",
+    "job_data.roles[14].posted_date": "2026-08-16",
+    "job_data.roles[15].posted_date": "2026-08-16",
+    "job_data.roles[16].posted_date": "2026-08-16",
+    "job_data.roles[17].posted_date": "2026-08-16",
+    "job_data.roles[18].posted_date": "2026-08-16",
+    "job_data.last_updated": "2026-09-14T13:11:49.398Z"
+  }
+}

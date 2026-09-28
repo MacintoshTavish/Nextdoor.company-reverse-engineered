@@ -1,0 +1,502 @@
+{
+  "slug": "arena",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/58899.deb41947fe13dd0e.js",
+  "observed_at": "2026-09-28T08:28:57.458142+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 17876,
+    "sha256": "824a856ecbc0991784b47c84414484cd2987bd0e8f35563a4e34f03bb5e725fd",
+    "elapsed_seconds": 0.169,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:28:57 GMT",
+      "etag": "\"f1179260d9feacc9fbb4467d02a9505e\"",
+      "last-modified": "Mon, 28 Sep 2026 08:20:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Arena",
+    "company_name_legal": "Arena",
+    "founded_year": 2025,
+    "website_url": "https://arena.ai",
+    "careers_url": "https://jobs.ashbyhq.com/arena",
+    "investor_portfolio_page": null,
+    "id": 409
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 20,
+    "last_updated": "2026-09-15T12:57:05.425Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 20,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Associate General Counsel - AI Product & Privacy",
+      "apply_url": "https://jobs.ashbyhq.com/arena/6805896b-c5ff-412d-9490-0f0f0c6fd149",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "6805896b-c5ff-412d-9490-0f0f0c6fd149"
+    },
+    {
+      "title": "Backend Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/arena/7490c92c-e7a0-4629-b9b8-eb89d5862527",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "7490c92c-e7a0-4629-b9b8-eb89d5862527"
+    },
+    {
+      "title": "Founding Product Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/arena/d1c71ccd-8fbf-42cb-82b5-06694e1b79f3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "d1c71ccd-8fbf-42cb-82b5-06694e1b79f3"
+    },
+    {
+      "title": "Infrastructure Engineer, TL",
+      "apply_url": "https://jobs.ashbyhq.com/arena/02c6443b-f882-4e2a-8e17-9a4bc22b7508",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "02c6443b-f882-4e2a-8e17-9a4bc22b7508"
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/arena/38c21c97-1852-4cd1-b618-2f5fe0492202",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "38c21c97-1852-4cd1-b618-2f5fe0492202"
+    },
+    {
+      "title": "Machine Learning Scientist - Open Source Lead",
+      "apply_url": "https://jobs.ashbyhq.com/arena/62014e2d-6225-4310-96d3-c0a2c3df27f0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "62014e2d-6225-4310-96d3-c0a2c3df27f0"
+    },
+    {
+      "title": "People Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/arena/4cbc2bd8-24e1-4100-862c-ea93651b4cb7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "4cbc2bd8-24e1-4100-862c-ea93651b4cb7"
+    },
+    {
+      "title": "Product Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/arena/33a9584b-8f94-4478-8253-605da4bcc65c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "33a9584b-8f94-4478-8253-605da4bcc65c"
+    },
+    {
+      "title": "Senior Software Engineer, Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/arena/0f4ce213-8537-4a9b-af4f-25139df1b705",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "0f4ce213-8537-4a9b-af4f-25139df1b705"
+    },
+    {
+      "title": "Senior Software Engineer, ML Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/arena/8a52db07-5ba9-4d64-a08f-1b1f6cd88c5a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "8a52db07-5ba9-4d64-a08f-1b1f6cd88c5a"
+    },
+    {
+      "title": "Senior Software Engineer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/arena/e53c0f7f-b715-42e0-96ca-4316a703c3dc",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "e53c0f7f-b715-42e0-96ca-4316a703c3dc"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/arena/84a4ce23-eada-4c98-9a18-f9427069a8db",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "84a4ce23-eada-4c98-9a18-f9427069a8db"
+    },
+    {
+      "title": "Software Engineer, Anti-Abuse",
+      "apply_url": "https://jobs.ashbyhq.com/arena/76fcd272-2f5b-4405-ae6c-577f7b4ccd2b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "76fcd272-2f5b-4405-ae6c-577f7b4ccd2b"
+    },
+    {
+      "title": "Staff Software Engineer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/arena/7354e079-fd69-4c1a-b9ce-ce99dcf30482",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "7354e079-fd69-4c1a-b9ce-ce99dcf30482"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/arena/44726c2d-4a54-43da-9e32-73bcb7522c38",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-03",
+      "ashby_job_id": "44726c2d-4a54-43da-9e32-73bcb7522c38"
+    },
+    {
+      "title": "Business Development",
+      "apply_url": "https://jobs.ashbyhq.com/arena/23e78034-6de6-4868-894a-1ce79881be13",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "23e78034-6de6-4868-894a-1ce79881be13"
+    },
+    {
+      "title": "GTM Strategy & Ops Lead",
+      "apply_url": "https://jobs.ashbyhq.com/arena/119355e2-857d-431e-bc95-5e2c525b16e9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "119355e2-857d-431e-bc95-5e2c525b16e9"
+    },
+    {
+      "title": "Member of Technical Staff - Data Science",
+      "apply_url": "https://jobs.ashbyhq.com/arena/81faa42c-c9a3-433e-b6bc-9ad7eefb88af",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-01",
+      "ashby_job_id": "81faa42c-c9a3-433e-b6bc-9ad7eefb88af"
+    },
+    {
+      "title": "Software Engineer, Marketing & Web",
+      "apply_url": "https://jobs.ashbyhq.com/arena/577240cb-96fd-424f-a178-147ff5413ab1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-01",
+      "ashby_job_id": "577240cb-96fd-424f-a178-147ff5413ab1"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d82adca7-5bd5-4c54-b201-3d027968764d"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7648,
+      "longitude": -122.4313,
+      "exact_address": "2261 Market Street, Suite 85064, San Francisco, California, United States - 94114-1612",
+      "departments": [
+        "legal",
+        "engineering",
+        "data",
+        "security",
+        "ai",
+        "hr"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-08-03T16:33:06.871Z",
+    "current_valuation_usd": "$1.7B",
+    "current_valuation_usd_last_updated": "2026-08-03T16:33:06.871Z",
+    "total_funding_raised": "$250M",
+    "total_funding_raised_last_updated": "2026-08-03T16:33:06.871Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Felicis",
+        "domain": "felicis.vc"
+      },
+      {
+        "name": "UC Investments",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Felicis",
+        "logo_url": "/investor-logos/felicis.png"
+      },
+      {
+        "name": "UC Investments",
+        "logo_url": "/investor-logos/uc-investments.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-03T16:33:06.871Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "mental-health",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-03T16:33:06.871Z",
+    "company_basic_information.website_url_last_updated": "2026-08-03T16:33:06.871Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-03T16:33:06.871Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-03T16:33:06.871Z",
+    "company_basic_information.last_updated": "2026-08-03",
+    "leadership.founders[0].founder_data_last_updated": "2026-08-03T17:03:15.469Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-03T17:05:26.668Z",
+    "leadership.founders[0].description_last_updated": "2026-08-03T17:07:04.541Z",
+    "leadership.founders[1].founder_data_last_updated": "2026-08-03T17:03:15.469Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-03T17:05:52.607Z",
+    "leadership.founders[1].description_last_updated": "2026-08-03T17:07:11.704Z",
+    "leadership.founders[2].founder_data_last_updated": "2026-08-03T17:03:15.469Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-03T17:06:12.464Z",
+    "leadership.founders[2].description_last_updated": "2026-08-03T17:07:18.255Z",
+    "social_media.x_url_last_updated": "2026-08-03T16:33:06.871Z",
+    "social_media.linkedin_url_last_updated": "2026-08-03T16:33:06.871Z",
+    "social_media.instagram_url_last_updated": "2026-08-03T16:33:06.871Z",
+    "business_details.industry_domains_last_updated": "2026-08-03",
+    "financial_information.funding_stage_last_updated": "2026-08-03T16:33:06.871Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-03T16:33:06.871Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-03T16:33:06.871Z",
+    "financial_information.investor_logos_last_updated": "2026-08-03T16:33:06.871Z",
+    "location_mapping[0].last_updated": "2026-08-03T16:33:06.871Z",
+    "job_data.roles[0].posted_date": "2026-08-03",
+    "job_data.roles[1].posted_date": "2026-08-03",
+    "job_data.roles[2].posted_date": "2026-08-03",
+    "job_data.roles[3].posted_date": "2026-08-03",
+    "job_data.roles[4].posted_date": "2026-08-03",
+    "job_data.roles[5].posted_date": "2026-08-03",
+    "job_data.roles[6].posted_date": "2026-08-03",
+    "job_data.roles[7].posted_date": "2026-08-03",
+    "job_data.roles[8].posted_date": "2026-08-03",
+    "job_data.roles[9].posted_date": "2026-08-03",
+    "job_data.roles[10].posted_date": "2026-08-03",
+    "job_data.roles[11].posted_date": "2026-08-03",
+    "job_data.roles[12].posted_date": "2026-08-03",
+    "job_data.roles[13].posted_date": "2026-08-03",
+    "job_data.roles[14].posted_date": "2026-08-03",
+    "job_data.roles[15].posted_date": "2026-08-17",
+    "job_data.roles[16].posted_date": "2026-08-17",
+    "job_data.roles[17].posted_date": "2026-09-01",
+    "job_data.roles[18].posted_date": "2026-09-01",
+    "job_data.roles[19].posted_date": "2026-09-15",
+    "job_data.last_updated": "2026-09-15T12:57:05.425Z",
+    "benefits.health-insurance.last_updated": "2026-08-03T17:04:25.545Z",
+    "benefits.dental-insurance.last_updated": "2026-08-03T17:04:25.545Z",
+    "benefits.vision-insurance.last_updated": "2026-08-03T17:04:25.545Z",
+    "benefits.mental-health.last_updated": "2026-08-03T17:04:25.545Z",
+    "benefits.equity-stock.last_updated": "2026-08-03T17:04:25.545Z"
+  }
+}

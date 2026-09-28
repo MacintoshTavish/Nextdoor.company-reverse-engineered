@@ -1,0 +1,646 @@
+{
+  "slug": "clevertap",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/19671.866327f302ac0d2c.js",
+  "observed_at": "2026-09-28T08:30:08.916976+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20339,
+    "sha256": "0bd3fe8b95d7cd38a89f713db33091713e1fd0d57e5e282c3dc60e94c788284a",
+    "elapsed_seconds": 0.406,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:08 GMT",
+      "etag": "\"3392163afba15a9b31010832f16fbab7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "CleverTap",
+    "company_name_legal": "WizRocket, Inc.",
+    "founded_year": 2013,
+    "website_url": "https://clevertap.com",
+    "careers_url": "https://careers.kula.ai/clevertap",
+    "investor_portfolio_page": null,
+    "id": 288
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 14,
+    "last_updated": "2026-09-18T16:01:55.146Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 14,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://careers.kula.ai/clevertap/12616/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "apply_url": "https://careers.kula.ai/clevertap/27359/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior DevSecOps Engineer revolve around managing infrastructure security, incident response, compliance, and security posture within a SaaS environment. This role is heavily focused on security practices and policies, making 'security' the most appropriate department classification."
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "apply_url": "https://careers.kula.ai/clevertap/32677/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://careers.kula.ai/clevertap/32880/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior DevOps Engineer include maintaining and improving platform operations, managing infrastructure, and collaborating with the engineering team, which clearly aligns with the engineering department. The role requires technical skills in DevOps practices, cloud infrastructure, and software deployment, further solidifying its classification under engineering."
+    },
+    {
+      "title": "Senior Manager - Deal Desk and Order to Cash",
+      "apply_url": "https://careers.kula.ai/clevertap/51668/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Associate Director- Partner Marketing",
+      "apply_url": "https://careers.kula.ai/clevertap/52969/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://careers.kula.ai/clevertap/35763/",
+      "location_ids": [
+        "sao_paulo_office",
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil / State of São Paulo, Brazil",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Partnerships Manager",
+      "apply_url": "https://careers.kula.ai/clevertap/51725/",
+      "location_ids": [
+        "bogota_office",
+        "sao_paulo_office"
+      ],
+      "location_display": "Colombia; São Paulo, State of São Paulo, Brazil",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Onboarding Manager - Customer Success (Vietnam)",
+      "title_original": "Onboarding Manager - Customer Success (Vietnam)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-13T15:01:34.408Z",
+      "apply_url": "https://careers.kula.ai/clevertap/27358/",
+      "location_ids": [
+        "ho_chi_minh_city_office",
+        "ho_chi_minh_city_office"
+      ],
+      "location_display": "Ho Chi Minh City, Vietnam / Ho Chi Minh City, Vietnam",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Onboarding Manager involve ensuring successful implementation and onboarding of customers to CleverTap's platform, which aligns closely with customer success activities. The role focuses on building relationships, educating clients, and providing technical support to help customers achieve their business goals."
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://careers.kula.ai/clevertap/50168/",
+      "location_ids": [
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Associate Director - Customer Solutions",
+      "title_original": "Associate Director - Customer Solutions",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-06T19:20:19.488Z",
+      "apply_url": "https://careers.kula.ai/clevertap/51900/",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role primarily focuses on leading a solutions organization to drive customer lifecycle excellence, ensuring customer satisfaction, and improving business outcomes. This aligns closely with customer success responsibilities, particularly in a B2B SaaS context."
+    },
+    {
+      "title": "IT Support Engineer – IT Operations",
+      "apply_url": "https://careers.kula.ai/clevertap/54244/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Associate - Talent Acquisition and HR Business Partner",
+      "apply_url": "https://careers.kula.ai/clevertap/53585/",
+      "location_ids": [
+        "sao_paulo_office",
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil / State of São Paulo, Brazil",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Customer Success Manager (6 months contract)",
+      "apply_url": "https://careers.kula.ai/clevertap/52714/",
+      "location_ids": [
+        "sao_paulo_office",
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil / State of São Paulo, Brazil",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amman_office",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "latitude": 31.9454,
+      "longitude": 35.9284,
+      "exact_address": "Amman, Jordan",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "PRESTIGE BLUE CHIP SOFTWARE PARK, Smartworks Global Tech Park Koramangala, 9 / 7, Hosur Main Road, Dairy Colony, Adugodi, Bengaluru, Karnataka 560030, India",
+      "departments": [
+        "marketing",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ho_chi_minh_city_office",
+      "city": "Ho Chi Minh City",
+      "state": null,
+      "country": "Vietnam",
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "exact_address": "Ho Chi Minh City, Vietnam",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "indonesia_office",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jakarta_office",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "location_tbd",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.1651,
+      "longitude": 72.8446,
+      "exact_address": "1901, 19th Floor, DLH Park, Ramlal Compound, S.V. Road, Goregaon (West), Mumbai, Maharashtra, India - 400062",
+      "departments": [
+        "engineering",
+        "security",
+        "marketing",
+        "sales",
+        "content-production",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "19th Floor, Malad, Sunder Nagar, Malad West, Mumbai, Maharashtra 400104, India",
+      "departments": [
+        "engineering",
+        "security",
+        "marketing",
+        "sales",
+        "content-production",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "535 Mission St unit 1624, San Francisco, CA 94105",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-05-28T00:00:00.000Z",
+    "current_valuation_usd": "$775M",
+    "current_valuation_usd_last_updated": "2026-05-13T09:55:20.235Z",
+    "total_funding_raised": "$182 million",
+    "total_funding_raised_last_updated": "2026-05-13T09:55:20.235Z",
+    "key_investors": [
+      {
+        "name": "CDPQ",
+        "domain": "cdpq.com"
+      },
+      {
+        "name": "IIFL AMC's Tech Fund",
+        "domain": "iiflcap.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "sequoiacap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "CDPQ",
+        "logo_url": "/investor-logos/cdpq.png"
+      },
+      {
+        "name": "IIFL AMC's Tech Fund",
+        "logo_url": "/investor-logos/iifl-amcs-tech-fund.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-28T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "claude-co-work-review",
+    "location_mapping[1].source": "searchapi-maps-backfill-2026-05-24-strict",
+    "location_mapping[10].source": "searchapi-maps-backfill-2026-05-24-strict",
+    "location_mapping[12].source": "searchapi-maps-backfill-2026-05-24-strict",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-13T09:55:20.235Z",
+    "company_basic_information.website_url_last_updated": "2026-05-13T09:55:20.235Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-13T09:55:20.235Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-13T09:55:20.235Z",
+    "company_basic_information.last_updated": "2026-05-13",
+    "leadership.founders[0].linkedin_verified_at": "2026-05-28",
+    "leadership.founders[0].x_twitter_verified_at": "2026-05-28",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T14:29:53.450Z",
+    "leadership.founders[0].description_last_updated": "2026-06-08T14:36:19.187Z",
+    "leadership.founders[1].linkedin_verified_at": "2026-05-28",
+    "leadership.founders[1].x_twitter_verified_at": "2026-05-28",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T14:30:23.052Z",
+    "leadership.founders[1].description_last_updated": "2026-06-08T14:36:27.441Z",
+    "leadership.founders[2].linkedin_verified_at": "2026-05-28",
+    "leadership.founders[2].x_twitter_verified_at": "2026-05-28",
+    "leadership.founders[2].image_url_last_updated": "2026-06-08T14:30:53.867Z",
+    "leadership.founders[2].description_last_updated": "2026-06-08T14:36:33.691Z",
+    "social_media.x_url_last_updated": "2026-05-13T09:55:20.235Z",
+    "social_media.x_url_verified_at": "2026-05-28",
+    "social_media.linkedin_url_last_updated": "2026-05-13T09:55:20.235Z",
+    "social_media.linkedin_url_verified_at": "2026-05-28",
+    "social_media.instagram_url_last_updated": "2026-05-13T09:55:20.235Z",
+    "social_media.instagram_url_verified_at": "2026-05-28",
+    "business_details.industry_category_last_updated": "2026-05-13T09:55:20.235Z",
+    "business_details.industry_domains_last_updated": "2026-05-28",
+    "financial_information.funding_stage_last_updated": "2026-05-28T00:00:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-13T09:55:20.235Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-13T09:55:20.235Z",
+    "financial_information.investor_logos_last_updated": "2026-05-28T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2026-06-11T11:51:48.282029+00:00",
+    "location_mapping[1].last_updated": "2026-05-24T10:25:58.329Z",
+    "location_mapping[5].last_updated": "2026-05-13T00:00:00.000Z",
+    "location_mapping[7].last_updated": "2026-05-13T09:55:20.235Z",
+    "location_mapping[10].last_updated": "2026-05-24T10:25:58.329Z",
+    "location_mapping[12].last_updated": "2026-05-24T10:25:58.329Z",
+    "job_data.roles[0].posted_date": "2026-09-03",
+    "job_data.roles[1].posted_date": "2026-09-03",
+    "job_data.roles[2].posted_date": "2026-09-03",
+    "job_data.roles[3].posted_date": "2026-09-03",
+    "job_data.roles[4].posted_date": "2026-09-03",
+    "job_data.roles[5].posted_date": "2026-09-03",
+    "job_data.roles[6].posted_date": "2026-09-03",
+    "job_data.roles[7].posted_date": "2026-09-03",
+    "job_data.roles[8].posted_date": "2026-09-03",
+    "job_data.roles[8].title_updated_timestamp": "2026-05-13T15:01:34.408Z",
+    "job_data.roles[9].posted_date": "2026-09-03",
+    "job_data.roles[10].posted_date": "2026-09-03",
+    "job_data.roles[10].title_updated_timestamp": "2026-08-06T19:20:19.488Z",
+    "job_data.roles[11].posted_date": "2026-09-03",
+    "job_data.roles[12].posted_date": "2026-09-03",
+    "job_data.roles[13].posted_date": "2026-09-03",
+    "job_data.last_updated": "2026-09-18T16:01:55.146Z"
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "slug": "sigmoid",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/30223.21ea9136b66bdbfc.js",
+  "observed_at": "2026-09-28T08:36:37.340144+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28302,
+    "sha256": "664e6ea5a43531e0ee64d951aaf027c494c56cdd31703b80ff2d0ce555cfe3dd",
+    "elapsed_seconds": 0.496,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:37 GMT",
+      "etag": "\"6d83e686d13918241dedd28d5b2f3f52\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:37 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Sigmoid",
+    "company_name_legal": "Sigmoid Inc.",
+    "founded_year": 2013,
+    "website_url": "https://www.sigmoid.com",
+    "careers_url": "https://boards.greenhouse.io/sigmoid",
+    "investor_portfolio_page": null,
+    "id": 211
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 35,
+    "last_updated": "2026-09-26T18:08:55.003Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 35,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Accounts Director",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8742061002",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Accounts Director involve maintaining and enhancing client relationships, cross-selling and up-selling services, and spearheading new business development, which are all key functions of a sales role. The focus on revenue generation and account management further solidifies this classification."
+    },
+    {
+      "title": "Associate Director - Account Management",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8202878002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Director - Account Management Life Sciences",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8610349002",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Director - Consulting",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8546937002",
+      "location_ids": [
+        "west_new_york_office"
+      ],
+      "location_display": "West New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Director, Consulting - Supply Chain",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8591761002",
+      "location_ids": [
+        "west_new_york_office"
+      ],
+      "location_display": "West New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Engagement Manager – Life Sciences",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8203194002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Engagement Manager - SCM",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8750336002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Financial Services Leader",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8486432002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Insurance Analytics Leader",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8583355002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Engagement Manager - Pharma",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8581515002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Management Consultant – Life Sciences Consulting",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/7892471002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Supply Chain Consulting Leader",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8750371002",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "consulting",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "BI Solution Architect",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8675459002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Data Analyst- Tableau",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8360420002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Software Development Engineer II",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/4808098002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Lead",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/5020791002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Lead – Databricks Champion",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8642437002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Project Manager",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/4426715002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Director Data Science",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/7854703002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Associate Director - Data Engineering Delivery",
+      "title_original": "Associate Director - Data Engineering Delivery",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-16T14:08:38.767Z",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8622021002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role focuses on leading delivery for large-scale Data Engineering programs, which involves working closely with clients on data platforms and solutions. The primary responsibilities include managing data engineering project execution and providing technical leadership, which aligns closely with the data and analytics category."
+    },
+    {
+      "title": "Industrial Trainee - Finance & Accounting",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Learning & Development Partner – Data Engineering Business",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8675405002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Associate Manager- Presales",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8653273002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Full Stack Software Development Engineer II",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8741978002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8041196002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Lead (Full Stack)",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8047928002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "HR Intern + Trainee",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8403513002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Key Account Manager",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8769075002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Director Onsite Consulting Leader - Solution Delivery & Consultative Sales, SCM Practice",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8816190002",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Database Migration Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8829803002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "DataOps Architect/Lead",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8816197002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Associate Lead Data Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/5083674002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/4985961002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Lead Data Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/4685999002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Software Development Engineer II - Frontend",
+      "apply_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8844035002",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9545,
+      "longitude": 77.7212,
+      "exact_address": "Bagmane Constellation Business Park, Survey No 58/2 59/2, Doddanekkundi Village, Krishnarajapuram Hobli, Outer Ring Road, Bangalore, Karnataka, India - 560048",
+      "departments": [
+        "sales",
+        "data",
+        "operations",
+        "consulting",
+        "engineering",
+        "other",
+        "product",
+        "finance",
+        "academy-training",
+        "marketing",
+        "administration",
+        "design",
+        "hr"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "data",
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6426,
+      "longitude": -79.3871,
+      "exact_address": "1100 - 55 York St, Toronto, Ontario M5J 1R7, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "newark_office",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.7357,
+      "longitude": -74.1724,
+      "exact_address": "Newark, New Jersey, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "west_new_york_office",
+      "city": "West New York",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.7873,
+      "longitude": -74.0143,
+      "exact_address": "West New York, New Jersey, United States",
+      "departments": [
+        "consulting",
+        "operations",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-03-10T08:14:03.216Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-03-10T08:14:03.216Z",
+    "total_funding_raised": "$19.3 million",
+    "total_funding_raised_last_updated": "2026-03-10T08:14:03.216Z",
+    "key_investors": [
+      {
+        "name": "Peak XV Partners",
+        "domain": "sequoiacap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-10T08:14:03.216Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-10T08:14:03.216Z",
+    "company_basic_information.website_url_last_updated": "2026-03-10T08:14:03.216Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-10T08:14:03.216Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-10T08:14:03.216Z",
+    "company_basic_information.last_updated": "2026-03-10",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-10T09:55:09.394Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-10T09:55:24.383Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:02:46.130Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-03-10T09:56:03.365Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-03-10T09:56:17.003Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:58:41.020Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T15:02:53.224Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-03-10T12:30:19.581Z",
+    "leadership.founders[2].image_url_last_updated": "2026-03-11T14:58:53.175Z",
+    "leadership.founders[2].description_last_updated": "2026-03-11T15:02:59.543Z",
+    "social_media.x_url_last_verified": "2026-03-10T09:57:18.718Z",
+    "social_media.linkedin_url_last_verified": "2026-03-10T09:57:52.832Z",
+    "social_media.instagram_url_last_verified": "2026-03-10T12:45:09.749Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-10T08:14:03.216Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-10T08:14:03.216Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-10T08:14:03.216Z",
+    "financial_information.investor_logos_last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[0].last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[1].last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[2].last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[3].last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[4].last_updated": "2026-03-10T08:14:03.216Z",
+    "location_mapping[5].last_updated": "2026-04-22T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.roles[15].posted_date": "2026-09-26",
+    "job_data.roles[16].posted_date": "2026-09-26",
+    "job_data.roles[17].posted_date": "2026-09-26",
+    "job_data.roles[18].posted_date": "2026-09-26",
+    "job_data.roles[19].posted_date": "2026-09-26",
+    "job_data.roles[19].title_updated_timestamp": "2026-07-16T14:08:38.767Z",
+    "job_data.roles[20].posted_date": "2026-09-26",
+    "job_data.roles[21].posted_date": "2026-09-26",
+    "job_data.roles[22].posted_date": "2026-09-26",
+    "job_data.roles[23].posted_date": "2026-09-26",
+    "job_data.roles[24].posted_date": "2026-09-26",
+    "job_data.roles[25].posted_date": "2026-09-26",
+    "job_data.roles[26].posted_date": "2026-09-26",
+    "job_data.roles[27].posted_date": "2026-09-26",
+    "job_data.roles[28].posted_date": "2026-09-26",
+    "job_data.roles[29].posted_date": "2026-09-26",
+    "job_data.roles[30].posted_date": "2026-09-26",
+    "job_data.roles[31].posted_date": "2026-09-26",
+    "job_data.roles[32].posted_date": "2026-09-26",
+    "job_data.roles[33].posted_date": "2026-09-26",
+    "job_data.roles[34].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T18:08:55.003Z"
+  }
+}

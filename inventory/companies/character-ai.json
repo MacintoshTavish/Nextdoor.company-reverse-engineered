@@ -1,0 +1,422 @@
+{
+  "slug": "character-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/1117.0512317fc8de4f60.js",
+  "observed_at": "2026-09-28T08:29:59.526481+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15627,
+    "sha256": "8ebe988e77973e5076056968f6d571c0a8958f6be248d4474d1f704c3a311388",
+    "elapsed_seconds": 0.382,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:59 GMT",
+      "etag": "\"91813146988e8c3a4cd99f25c7a6a5bd\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Character.AI",
+    "company_name_legal": "Character Technologies",
+    "founded_year": 2021,
+    "website_url": "https://character.ai",
+    "careers_url": "https://jobs.ashbyhq.com/character",
+    "investor_portfolio_page": null,
+    "id": 2
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 14,
+    "last_updated": "2026-09-14T09:20:39.142Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 14,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Machine Learning Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/character/13006848-6a69-4467-9274-5d54e80b965d",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-04-24",
+      "ashby_job_id": "13006848-6a69-4467-9274-5d54e80b965d"
+    },
+    {
+      "title": "Principal Research Engineer, Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/character/cab23a8b-97ba-4b20-a8e3-f7d9a61e13f4",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "cab23a8b-97ba-4b20-a8e3-f7d9a61e13f4"
+    },
+    {
+      "title": "Research Engineer, AI Safety & Alignment",
+      "apply_url": "https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-03",
+      "ashby_job_id": "a7ddb640-466f-4a1f-9a94-7465006aad05"
+    },
+    {
+      "title": "Software Engineer, Applied ML (Discovery, Recommendation & Search)",
+      "apply_url": "https://jobs.ashbyhq.com/character/3cfa1472-4f6d-46fa-bd08-f6de0833a53f",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-18",
+      "ashby_job_id": "3cfa1472-4f6d-46fa-bd08-f6de0833a53f"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "apply_url": "https://jobs.ashbyhq.com/character/b063d44b-e1fd-4777-8079-573706a589a0",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-08",
+      "ashby_job_id": "b063d44b-e1fd-4777-8079-573706a589a0"
+    },
+    {
+      "title": "Software Engineer, Backend/Applied ML (Safety & Integrity)",
+      "apply_url": "https://jobs.ashbyhq.com/character/690f5ec2-2d7b-4c28-9b4d-d710e7225851",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-07",
+      "ashby_job_id": "690f5ec2-2d7b-4c28-9b4d-d710e7225851"
+    },
+    {
+      "title": "Software Engineer, Core Product",
+      "apply_url": "https://jobs.ashbyhq.com/character/140e81c9-c989-4e95-9768-f4f6e7f6759c",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-03",
+      "ashby_job_id": "140e81c9-c989-4e95-9768-f4f6e7f6759c"
+    },
+    {
+      "title": "Software Engineer, Monetization",
+      "apply_url": "https://jobs.ashbyhq.com/character/902c3060-f41f-4bb0-b23d-988055e94f3c",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-03",
+      "ashby_job_id": "902c3060-f41f-4bb0-b23d-988055e94f3c"
+    },
+    {
+      "title": "Staff Data Scientist, Monetization",
+      "apply_url": "https://jobs.ashbyhq.com/character/df95a7a5-87ca-4f51-85fd-4bb595a47a55",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "df95a7a5-87ca-4f51-85fd-4bb595a47a55"
+    },
+    {
+      "title": "Technical Program Manager, AI Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/character/fd023b84-a746-4fe9-8a9d-277899e67a78",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-20",
+      "ashby_job_id": "fd023b84-a746-4fe9-8a9d-277899e67a78"
+    },
+    {
+      "title": "Technical Program Manager, Model Alignment and Deployment",
+      "apply_url": "https://jobs.ashbyhq.com/character/091a6ad6-75dd-4dd4-9439-7e1e9d13970b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-01",
+      "ashby_job_id": "091a6ad6-75dd-4dd4-9439-7e1e9d13970b"
+    },
+    {
+      "title": "Technical Program Manager, Product Experience",
+      "apply_url": "https://jobs.ashbyhq.com/character/56dcfddd-ba6d-48a8-81fb-3332abb1c032",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "56dcfddd-ba6d-48a8-81fb-3332abb1c032"
+    },
+    {
+      "title": "Research Engineer, Post-Training (All Industry Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918#loc-0",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "449bf7c1-41d7-47a4-89a7-0ee0b31f5918"
+    },
+    {
+      "title": "Research Engineer, Post-Training (All Industry Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "449bf7c1-41d7-47a4-89a7-0ee0b31f5918"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "redwood_city_office",
+      "city": "Menlo Park",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4525,
+      "longitude": -122.1821,
+      "exact_address": "700 El Camino Real #1152, Suite 120, Menlo Park, California, United States - 94025",
+      "departments": [
+        "ai",
+        "design",
+        "product",
+        "engineering",
+        "data",
+        "security"
+      ],
+      "employee_count": "105+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-04-05T18:56:44.615Z",
+    "current_valuation_usd": "$1 billion",
+    "current_valuation_usd_last_updated": "2026-04-05T18:56:44.615Z",
+    "total_funding_raised": "$193 million",
+    "total_funding_raised_last_updated": "2026-04-05T18:56:44.615Z",
+    "key_investors": [
+      {
+        "name": "Elad Gil",
+        "domain": ""
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Google",
+        "domain": "google.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Elad Gil",
+        "logo_url": "/investor-logos/elad-gil.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Google",
+        "logo_url": "/investor-logos/google.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-05T18:56:44.615Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "retirement-401k",
+    "parental-leave",
+    "privilege-leave",
+    "meal-allowance",
+    "mental-health",
+    "equity-stock",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-05T18:56:44.615Z",
+    "company_basic_information.website_url_last_updated": "2026-04-05T18:56:44.615Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-05T18:56:44.615Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-05T18:56:44.615Z",
+    "company_basic_information.last_updated": "2026-04-05",
+    "leadership.founders[0].linkedin_last_verified": "2026-04-07T09:25:51.249Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-04-07T09:25:51.249Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-06T07:58:41.651Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-06T08:25:56.478Z",
+    "social_media.x_url_last_verified": "2026-04-06T08:26:20.059Z",
+    "social_media.linkedin_url_last_verified": "2026-04-07T09:25:51.249Z",
+    "social_media.instagram_url_last_verified": "2026-04-07T09:25:51.249Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-04-05T18:56:44.615Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-05T18:56:44.615Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-05T18:56:44.615Z",
+    "financial_information.investor_logos_last_updated": "2026-04-05T18:56:44.615Z",
+    "location_mapping[0].last_updated": "2026-04-05T18:56:44.615Z",
+    "location_mapping[1].last_updated": "2026-04-05T18:56:44.615Z",
+    "job_data.roles[0].posted_date": "2025-04-24",
+    "job_data.roles[1].posted_date": "2026-06-22",
+    "job_data.roles[2].posted_date": "2025-10-03",
+    "job_data.roles[3].posted_date": "2025-12-18",
+    "job_data.roles[4].posted_date": "2025-12-08",
+    "job_data.roles[5].posted_date": "2026-01-07",
+    "job_data.roles[6].posted_date": "2025-10-03",
+    "job_data.roles[7].posted_date": "2025-10-03",
+    "job_data.roles[8].posted_date": "2026-04-30",
+    "job_data.roles[9].posted_date": "2026-04-20",
+    "job_data.roles[10].posted_date": "2026-06-01",
+    "job_data.roles[11].posted_date": "2026-06-30",
+    "job_data.roles[12].posted_date": "2026-08-31",
+    "job_data.roles[13].posted_date": "2026-08-31",
+    "job_data.last_updated": "2026-09-14T09:20:39.142Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.parental-leave.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.privilege-leave.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.meal-allowance.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.mental-health.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.equity-stock.last_updated": "2026-04-23T18:37:30.423Z",
+    "benefits.remote-work.last_updated": "2026-04-23T18:37:30.423Z"
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "slug": "blinkops",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/43541.f1c69ccfb9d1c0c6.js",
+  "observed_at": "2026-09-28T08:29:30.104891+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 17941,
+    "sha256": "771203834306028cbd61ccc27a27aca4e72da3f204e30702e3abb48eb032d582",
+    "elapsed_seconds": 0.408,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:30 GMT",
+      "etag": "\"26e94970e96b408d259b0c8a125f5607\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:30 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "BlinkOps",
+    "company_name_legal": "Blink Ops Inc",
+    "founded_year": 2021,
+    "website_url": "https://blinkops.com",
+    "careers_url": "https://www.comeet.com/jobs/blinkops/C7.004",
+    "investor_portfolio_page": null,
+    "id": 9
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 13,
+    "last_updated": "2026-09-22T10:00:58.817Z",
+    "crawl_status": "success",
+    "source": "Comeet Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 13,
+  "role_field_names": [
+    "apply_url",
+    "comeet_job_id",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive - California",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/account-executive---california/66.469",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-25"
+    },
+    {
+      "title": "Account Executive - SouthEast US (NC, SC TN, KY)",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/account-executive---southeast-us-nc-sc-tn-ky/7B.A53",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-25"
+    },
+    {
+      "title": "Backend Engineer",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/backend-engineer/7B.C58",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel-Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-06"
+    },
+    {
+      "title": "Channel Account Manager - North East US",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/channel-account-manager---north-east-us/9D.465",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-25"
+    },
+    {
+      "title": "Channel Account Manager - SouthEast US",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/channel-account-manager---southeast-us/BF.076",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-25"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/customer-success-manager/A2.F6D",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-26"
+    },
+    {
+      "title": "Product Marketing Lead",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/product-marketing-lead/62.278",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Massachusetts, US",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-02"
+    },
+    {
+      "title": "Sales Engineer - Mid-West US (Chicago)",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/sales-engineer---mid-west-us-chicago/51.A56",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-04-30"
+    },
+    {
+      "title": "Sales Engineer - Mid-West US (Minnesota)",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/sales-engineer---mid-west-us-minnesota/44.D6D",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Minnesota, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-06-25"
+    },
+    {
+      "title": "Sales Engineer - Mid-West US (OH/MN)",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/sales-engineer---mid-west-us-ohmn/51.A57",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Ohio, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-04-30"
+    },
+    {
+      "title": "Account Executive - New England US",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/account-executive---new-england-us/1F.07B",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Massachusetts, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-11"
+    },
+    {
+      "title": "Security Solution Engineer",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/security-solution-engineer/B4.F60",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-07"
+    },
+    {
+      "title": "Senior Security Product Manager",
+      "apply_url": "https://www.comeet.com/jobs/blinkops/C7.004/senior-security-product-manager/A6.76F",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel-Aviv, Israel",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-08"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "548 Market St, PMB 69871, San Francisco, CA, United States - 94101",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": "5+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "exact_address": "Phoenix, Arizona, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-04-07T10:22:54.248Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-06T07:05:01.754Z",
+    "total_funding_raised": "$100 million",
+    "total_funding_raised_last_updated": "2026-04-06T07:05:01.754Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "O.G. Venture Partners",
+        "domain": "ogvp.com"
+      },
+      {
+        "name": "Hetz Ventures",
+        "domain": "hetz.vc"
+      },
+      {
+        "name": "Entree Capital",
+        "domain": "entreecap.com"
+      },
+      {
+        "name": "Vertex Ventures",
+        "domain": "vertexventures.com"
+      },
+      {
+        "name": "Sweetwood Ventures",
+        "domain": "sweetwood.vc"
+      },
+      {
+        "name": "INT3",
+        "domain": "int3.vc"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "O.G. Venture Partners",
+        "logo_url": "/investor-logos/og-venture-partners.png"
+      },
+      {
+        "name": "Hetz Ventures",
+        "logo_url": "/investor-logos/hetz-ventures.png"
+      },
+      {
+        "name": "Entree Capital",
+        "logo_url": "/investor-logos/entree-capital.png"
+      },
+      {
+        "name": "Vertex Ventures",
+        "logo_url": "/investor-logos/vertex-ventures.png"
+      },
+      {
+        "name": "Sweetwood Ventures",
+        "logo_url": "/investor-logos/sweetwood-ventures.png"
+      },
+      {
+        "name": "INT3",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-06T07:05:01.754Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Comeet Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-06T07:05:01.754Z",
+    "company_basic_information.website_url_last_updated": "2026-04-06T07:05:01.754Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-06T07:05:01.754Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-06T07:05:01.754Z",
+    "company_basic_information.last_updated": "2026-04-06",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-06T09:59:53.142Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-04-07T09:26:24.337Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-06T10:00:53.386Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-04-07T09:26:24.337Z",
+    "social_media.x_url_last_verified": "2026-04-06T07:42:30.525Z",
+    "social_media.linkedin_url_last_verified": "2026-04-06T07:43:06.964Z",
+    "social_media.instagram_url_last_verified": "2026-04-07T10:08:32.055Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-04-07T10:22:54.248Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-06T07:05:01.754Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-06T07:05:01.754Z",
+    "financial_information.investor_logos_last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[0].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[1].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[2].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[3].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[4].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[5].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[6].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[7].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[8].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[9].last_updated": "2026-04-06T07:05:01.754Z",
+    "location_mapping[10].last_updated": "2026-04-06T07:05:01.754Z",
+    "job_data.roles[0].posted_date": "2026-08-25",
+    "job_data.roles[1].posted_date": "2026-08-25",
+    "job_data.roles[2].posted_date": "2026-09-06",
+    "job_data.roles[3].posted_date": "2026-08-25",
+    "job_data.roles[4].posted_date": "2026-08-25",
+    "job_data.roles[5].posted_date": "2026-08-26",
+    "job_data.roles[6].posted_date": "2026-09-02",
+    "job_data.roles[7].posted_date": "2026-04-30",
+    "job_data.roles[8].posted_date": "2026-06-25",
+    "job_data.roles[9].posted_date": "2026-04-30",
+    "job_data.roles[10].posted_date": "2026-09-11",
+    "job_data.roles[11].posted_date": "2026-09-07",
+    "job_data.roles[12].posted_date": "2026-09-08",
+    "job_data.last_updated": "2026-09-22T10:00:58.817Z"
+  }
+}

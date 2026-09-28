@@ -1,0 +1,767 @@
+{
+  "slug": "fello",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/48111.d3bdf5aaec5c621b.js",
+  "observed_at": "2026-09-28T08:31:43.469818+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 22770,
+    "sha256": "836be050191faeab60b61f08e6cd168a3d335a9428eeff3fbc4b1365ea6ea8b3",
+    "elapsed_seconds": 0.44,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:43 GMT",
+      "etag": "\"e65a8572ee643c628404acac8e87179d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:43 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Fello",
+    "company_name_legal": "FlashHouse, INC.",
+    "founded_year": 2018,
+    "website_url": "https://www.hifello.com",
+    "careers_url": "https://fello.rippling-ats.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 177
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-14T13:16:50.108Z",
+    "crawl_status": "success",
+    "source": "Rippling",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "rippling_job_id",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "apply_url": "https://fello.rippling-ats.com/job/336423/senior-software-engineer-full-stack",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Worldwide",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Sales Manager",
+      "apply_url": "https://fello.rippling-ats.com/job/751205/sales-manager",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Worldwide",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Account Executive",
+      "apply_url": "https://fello.rippling-ats.com/job/776922/senior-account-executive",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Worldwide",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Solutions Expert - Customer Success",
+      "title_original": "Solutions Expert",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-02T18:27:11.568Z",
+      "apply_url": "https://fello.rippling-ats.com/job/807177/solutions-expert",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Global",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Solutions Expert role focus on onboarding clients, educating them about the product, and ensuring customer satisfaction through support and collaboration with Sales and Customer Success teams. This aligns closely with the Customer Success department as the role is centered around enhancing the customer experience and ensuring successful product implementation."
+    },
+    {
+      "title": "Executive Assistant - Operations Support",
+      "title_original": "Executive Assistant",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-23T21:23:14.210Z",
+      "apply_url": "https://fello.rippling-ats.com/job/865125/executive-assistant",
+      "location_ids": [
+        "bengaluru_remote"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "administration",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Executive Assistant role include providing dynamic operations support, managing administrative tasks, and assisting with hiring coordination. These tasks align closely with the functions typically associated with the administration department, which focuses on office management and support activities."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9128,
+      "longitude": 77.6514,
+      "exact_address": "Hanto Workspace Technologies Pvt Ltd, Kaveri Building, 14th Main, HSR Layout, Sector 7, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8634,
+      "longitude": 151.1961,
+      "exact_address": "International Tower One Level 35, 100 Barangaroo Avenue, Sydney, New South Wales, Australia - 2000",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering",
+        "sales",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_remote",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2026-02-04T08:54:26.387Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-02-04T08:54:26.387Z",
+    "total_funding_raised": "$4 million",
+    "total_funding_raised_last_updated": "2026-02-04T08:54:26.387Z",
+    "key_investors": [
+      {
+        "name": "Top real estate teams",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Top real estate teams",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-04T08:54:26.387Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "health-insurance",
+    "flexible-hours",
+    "retirement-401k",
+    "unlimited-pto",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[26].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Rippling",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-04T08:54:26.387Z",
+    "company_basic_information.website_url_last_updated": "2026-02-04T08:54:26.387Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-04T08:54:26.387Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-04T08:54:26.387Z",
+    "company_basic_information.last_updated": "2026-02-04",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-04T21:12:58.312Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-05T08:04:37.141Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T13:58:07.307Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:01:14.945Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-04T21:13:28.918Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-02-05T08:04:55.065Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T13:58:28.152Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:01:21.393Z",
+    "social_media.x_url_last_verified": "2026-02-04T21:14:00.072Z",
+    "social_media.linkedin_url_last_verified": "2026-02-04T21:14:29.990Z",
+    "social_media.instagram_url_last_verified": "2026-02-04T21:14:41.785Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-04T08:54:26.387Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-04T08:54:26.387Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-04T08:54:26.387Z",
+    "financial_information.investor_logos_last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[0].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[1].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[2].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[3].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[4].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[5].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[6].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[7].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[8].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[9].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[10].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[11].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[12].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[13].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[14].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[15].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[16].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[17].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[18].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[19].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[20].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[21].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[22].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[23].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[24].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[25].last_updated": "2026-02-04T08:54:26.387Z",
+    "location_mapping[26].last_updated": "2026-05-23T21:23:14.210Z",
+    "job_data.roles[3].title_updated_timestamp": "2026-05-02T18:27:11.568Z",
+    "job_data.roles[4].title_updated_timestamp": "2026-05-23T21:23:14.210Z",
+    "job_data.last_updated": "2026-09-14T13:16:50.108Z",
+    "benefits.bonus.last_updated": "2026-02-07T10:43:05.801Z",
+    "benefits.health-insurance.last_updated": "2026-02-07T10:43:05.801Z",
+    "benefits.flexible-hours.last_updated": "2026-02-07T10:43:05.801Z",
+    "benefits.retirement-401k.last_updated": "2026-02-07T10:43:05.801Z",
+    "benefits.unlimited-pto.last_updated": "2026-02-07T10:43:05.801Z",
+    "benefits.remote-work.last_updated": "2026-02-07T10:43:05.801Z"
+  }
+}

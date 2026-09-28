@@ -1,0 +1,622 @@
+{
+  "slug": "wingify",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/75123.1a11e993b29b4bd6.js",
+  "observed_at": "2026-09-28T08:38:17.466340+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 16760,
+    "sha256": "97443f3b99a0d68023d3bbc292e3f6200d0ac37a05c78cd1a87e845e6c2d6b3f",
+    "elapsed_seconds": 0.392,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:17 GMT",
+      "etag": "\"cc4d98e305b1ed4be73718907b151594\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:17 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Wingify",
+    "company_name_legal": "Wingify Software Private Limited",
+    "founded_year": 2010,
+    "website_url": "http://wingify.com",
+    "careers_url": "https://wingify.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 97
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 18,
+    "last_updated": "2026-09-24T10:22:22.479Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 18,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Success Manager - LATAM",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/136690",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "136690"
+    },
+    {
+      "title": "Big Data Engineer",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/138043",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4-6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138043"
+    },
+    {
+      "title": "Senior Software Engineer – Full-Stack",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/140838",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "140838"
+    },
+    {
+      "title": "Software Engineer - QA (Client Services team)",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/110231",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "110231"
+    },
+    {
+      "title": "Senior Software Engineer - Client Services",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/123803",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5 - 8 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "123803"
+    },
+    {
+      "title": "VP – Legal & Compliance",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/133094",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "12+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "133094"
+    },
+    {
+      "title": "Technical Account Manager - Customer support specialist - US",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/91748",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "91748"
+    },
+    {
+      "title": "Product Trainer - Agency Enablement & Certification",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/134440",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "134440"
+    },
+    {
+      "title": "Technical Support Engineer (French Fluent)",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/135402",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "135402"
+    },
+    {
+      "title": "Account Executive - Commercial - DACH",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/135494",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "135494"
+    },
+    {
+      "title": "SDR - LATAM",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/111380",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "111380"
+    },
+    {
+      "title": "Solutions Strategist - APAC Sales",
+      "title_original": "Solutions Strategist - APAC",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:29:28.436Z",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/138530",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4 - 6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138530",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Solutions Strategist involve owning the strategic narrative for complex enterprise deals, collaborating closely with Account Executives and Solutions Engineers, and influencing sales outcomes. This aligns closely with the sales department, as the role is fundamentally about driving revenue through strategic pre-sales activities."
+    },
+    {
+      "title": "Senior SDR - Inbound/Outbound (UK)",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/63642",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "63642"
+    },
+    {
+      "title": "CSM (US)",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/90446",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "90446"
+    },
+    {
+      "title": "Product Consultant - ANZ",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/115758",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 7 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "115758"
+    },
+    {
+      "title": "Salesforce Admin Specialist (Sales Cloud & CPQ)",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/141784",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-6 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "141784"
+    },
+    {
+      "title": "Salesforce Support Analyst (US Shift) & Data Specialist",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/141786",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office",
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, USA (North America Shift)",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "2-4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "141786"
+    },
+    {
+      "title": "Sr. SDR - ANZ",
+      "apply_url": "https://wingify.keka.com/careers/jobdetails/142472",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "142472"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.697427,
+      "longitude": 77.151322,
+      "exact_address": "Office No. 703, 7th Floor, KLJ North Tower, Netaji Subhash Place, Shakur Pur I Block, Pitampura, Delhi 110034, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "400+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "bootstrapped",
+    "funding_stage_last_updated": "2025-11-11T15:53:30.030Z",
+    "current_valuation_usd": "$200 million",
+    "current_valuation_usd_last_updated": "2025-11-10T15:19:04.895Z",
+    "total_funding_raised": "$0",
+    "total_funding_raised_last_updated": "2025-11-21T10:13:49.883Z",
+    "key_investors": [
+      {
+        "name": "Everstone",
+        "domain": "everstonecapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Everstone",
+        "logo_url": "/investor-logos/everstone.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-10T15:19:04.895Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$50 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-10T15:19:04.895Z",
+    "company_basic_information.website_url_last_updated": "2025-11-10T15:19:04.895Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-10T15:19:04.895Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-10T15:19:04.895Z",
+    "company_basic_information.last_updated": "2025-11-10",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-02T05:18:02.990Z",
+    "leadership.founders[0].description_last_updated": "2026-02-02T05:22:49.019Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-02T05:18:13.821Z",
+    "leadership.founders[1].description_last_updated": "2026-02-02T05:22:54.275Z",
+    "social_media.x_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "social_media.linkedin_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "social_media.instagram_url_last_verified": "2025-11-10T15:19:04.895Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:29.724Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-11-11T15:53:30.030Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-10T15:19:04.895Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-21T10:13:49.883Z",
+    "financial_information.investor_logos_last_updated": "2025-11-10T15:19:04.895Z",
+    "location_mapping[0].last_updated": "2025-11-10T15:19:04.895Z",
+    "job_data.roles[11].title_updated_timestamp": "2026-09-21T18:29:28.436Z",
+    "job_data.last_updated": "2026-09-24T10:22:22.479Z",
+    "benefits.flexible-hours.last_updated": "2026-01-11T21:12:43.951Z",
+    "benefits.remote-work.last_updated": "2026-01-11T21:12:43.951Z"
+  }
+}

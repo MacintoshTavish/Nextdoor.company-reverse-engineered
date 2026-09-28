@@ -1,0 +1,375 @@
+{
+  "slug": "hyperguest",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/6581.f80b9bb077d5cac6.js",
+  "observed_at": "2026-09-28T08:32:50.098402+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 11740,
+    "sha256": "efb42c70fe0b3cb5c6a5ec7ababd69f549080ea1b38c7a00eaab2f26e90b6010",
+    "elapsed_seconds": 0.404,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:50 GMT",
+      "etag": "\"d6731e2fe99f134359579d571ff40c99\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:50 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "HyperGuest",
+    "company_name_legal": "Hypergsp Inc",
+    "founded_year": 2020,
+    "website_url": "https://hyperguest.com",
+    "careers_url": "https://www.comeet.com/jobs/hyperguest/09.00B",
+    "investor_portfolio_page": null,
+    "id": 155
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-14T12:48:04.167Z",
+    "crawl_status": "success",
+    "source": "Comeet Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "comeet_job_id",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Hotel Onboarding + Support Agent",
+      "apply_url": "https://www.comeet.com/jobs/hyperguest/09.00B/hotel-onboarding--support-agent/EC.F4E",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-21"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://www.comeet.com/jobs/hyperguest/09.00B/product-manager/79.172",
+      "location_ids": [
+        "ramat_gan_office"
+      ],
+      "location_display": "Ramat Gan, Israel",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-26"
+    },
+    {
+      "title": "Hotel Onboarding + Support Agent",
+      "apply_url": "https://www.comeet.com/jobs/hyperguest/09.00B/hotel-onboarding--support-agent/18.D4C",
+      "location_ids": [
+        "bogota_office"
+      ],
+      "location_display": "Bogota, Colombia",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-01"
+    },
+    {
+      "title": "Hotel Onboarding +Support Agent",
+      "apply_url": "https://www.comeet.com/jobs/hyperguest/09.00B/hotel-onboarding-support-agent/06.C40",
+      "location_ids": [
+        "ph_office"
+      ],
+      "location_display": "Philippines, PH",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-01"
+    },
+    {
+      "title": "Junior Account Manager – Demand",
+      "apply_url": "https://www.comeet.com/jobs/hyperguest/09.00B/junior-account-manager--demand/14.270",
+      "location_ids": [
+        "barcelona_office"
+      ],
+      "location_display": "Barcelona, Spain",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "barcelona_office",
+      "city": "barcelona",
+      "state": "Catalonia",
+      "country": "Spain",
+      "latitude": 41.3935,
+      "longitude": 2.1658,
+      "exact_address": "Carrer de Sardenya, 229, Barcelona, Catalonia, Spain - 08013",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "100-200"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "customer-support",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.3119,
+      "longitude": 103.8616,
+      "exact_address": "12 Kallang Ave, #03-07 Aperia Mall, Singapore - 339511",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "ph_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Philippines",
+      "departments": [
+        "customer-support",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "medellin_office",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia",
+      "latitude": 6.2476,
+      "longitude": -75.5658,
+      "exact_address": "Medellín, Antioquia, Colombia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ramat_gan_office",
+      "city": "Ramat Gan",
+      "state": "Tel Aviv District",
+      "country": "Israel",
+      "latitude": 32.0684,
+      "longitude": 34.8248,
+      "exact_address": "Ramat Gan, Tel Aviv District, Israel",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-04-08T16:03:19.515Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-08T16:03:19.515Z",
+    "total_funding_raised": "$43.1 million",
+    "total_funding_raised_last_updated": "2026-04-08T16:03:19.515Z",
+    "key_investors": [
+      {
+        "name": "Altshuler Shaham Investment House",
+        "domain": ""
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Thayer Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Viola Ventures",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Altshuler Shaham Investment House",
+        "logo_url": "/investor-logos/altshuler-shaham-investment-house.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Thayer Ventures",
+        "logo_url": "/investor-logos/thayer-ventures.png"
+      },
+      {
+        "name": "Viola Ventures",
+        "logo_url": "/investor-logos/viola-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-08T16:03:19.515Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[2].linkedin_verified_by": "cowork",
+    "leadership.founders[3].linkedin_verified_by": "cowork",
+    "social_media.x_url_verified_by": "cowork",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "cowork",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Comeet Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-08T16:03:19.515Z",
+    "company_basic_information.website_url_last_updated": "2026-04-08T16:03:19.515Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-08T16:03:19.515Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-08T16:03:19.515Z",
+    "company_basic_information.last_updated": "2026-04-08",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-08T16:24:35.860Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-08T16:25:13.028Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-08T18:00:00.000Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-04-08T18:00:00.000Z",
+    "social_media.x_url_last_verified": "2026-04-08T18:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-04-08T16:26:56.582Z",
+    "social_media.instagram_url_last_verified": "2026-04-08T16:15:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-04-08T16:03:19.515Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-08T16:03:19.515Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-08T16:03:19.515Z",
+    "financial_information.investor_logos_last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[0].last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[1].last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[2].last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[3].last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[4].last_updated": "2026-04-08T16:03:19.515Z",
+    "location_mapping[5].last_updated": "2026-04-08T16:10:00.000Z",
+    "job_data.roles[0].posted_date": "2026-08-21",
+    "job_data.roles[1].posted_date": "2026-08-26",
+    "job_data.roles[2].posted_date": "2026-09-01",
+    "job_data.roles[3].posted_date": "2026-09-01",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:48:04.167Z"
+  }
+}

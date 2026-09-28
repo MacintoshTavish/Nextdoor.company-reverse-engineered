@@ -1,0 +1,204 @@
+{
+  "slug": "thunkable",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/80107.6973789aac226cb4.js",
+  "observed_at": "2026-09-28T08:37:33.310243+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 8526,
+    "sha256": "69f805b87d549c32bc0e472dcd3f015ba6e087ad091698983fa80f3a7d02fbd7",
+    "elapsed_seconds": 0.171,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:33 GMT",
+      "etag": "\"b51a0a9a0b9b748e2698f1e5ba3ef9b7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:15:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Thunkable",
+    "company_name_legal": "Thunkable",
+    "founded_year": 2015,
+    "website_url": "https://thunkable.com",
+    "careers_url": "https://jobs.lever.co/thunkable",
+    "investor_portfolio_page": null,
+    "id": 153
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 2,
+    "last_updated": "2026-09-26T18:11:26.224Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 2,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.lever.co/thunkable/9bbcc4b9-ee31-4921-b844-d8f1e0bc533f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-14",
+      "lever_job_id": "9bbcc4b9-ee31-4921-b844-d8f1e0bc533f"
+    },
+    {
+      "title": "Sr. Data Analyst (Product Analytics)",
+      "apply_url": "https://jobs.lever.co/thunkable/ba35e135-a1ee-4ab8-a9c7-318559a94114",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-08-14",
+      "lever_job_id": "ba35e135-a1ee-4ab8-a9c7-318559a94114"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.791,
+      "longitude": -122.4008,
+      "exact_address": "548 Market St, PMB 90793, San Francisco, California, United States - 94104",
+      "departments": [
+        "data",
+        "engineering",
+        "marketing",
+        "academy-training"
+      ],
+      "employee_count": "25+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-04-08T14:34:39.572Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-08T14:34:39.572Z",
+    "total_funding_raised": "$7 million",
+    "total_funding_raised_last_updated": "2026-04-08T14:34:39.572Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Owl Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Sky9 Capital",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Owl Ventures",
+        "logo_url": "/investor-logos/owl-ventures.png"
+      },
+      {
+        "name": "Sky9 Capital",
+        "logo_url": "/investor-logos/sky9-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-08T14:34:39.572Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "unlimited-pto",
+    "learning-development",
+    "mental-health",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "cowork",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-08T14:34:39.572Z",
+    "company_basic_information.website_url_last_updated": "2026-04-08T14:34:39.572Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-08T14:34:39.572Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-08T14:34:39.572Z",
+    "company_basic_information.last_updated": "2026-04-08",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-08T14:45:30.000Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-08T14:43:13.310Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-08T14:43:35.503Z",
+    "social_media.x_url_last_verified": "2026-04-08T14:43:54.995Z",
+    "social_media.linkedin_url_last_verified": "2026-04-08T14:44:32.021Z",
+    "social_media.instagram_url_last_verified": "2026-04-08T14:44:51.519Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-04-08T14:34:39.572Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-08T14:34:39.572Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-08T14:34:39.572Z",
+    "financial_information.investor_logos_last_updated": "2026-04-08T14:34:39.572Z",
+    "location_mapping[0].last_updated": "2026-04-08T14:34:39.572Z",
+    "job_data.roles[0].posted_date": "2026-08-14",
+    "job_data.roles[1].posted_date": "2026-08-14",
+    "job_data.last_updated": "2026-09-26T18:11:26.224Z",
+    "benefits.equity-stock.last_updated": "2026-04-23T18:43:17.425Z",
+    "benefits.unlimited-pto.last_updated": "2026-04-23T18:43:17.425Z",
+    "benefits.learning-development.last_updated": "2026-04-23T18:43:17.425Z",
+    "benefits.mental-health.last_updated": "2026-04-23T18:43:17.425Z",
+    "benefits.remote-work.last_updated": "2026-04-23T18:43:17.425Z"
+  }
+}

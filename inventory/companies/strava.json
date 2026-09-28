@@ -1,0 +1,983 @@
+{
+  "slug": "strava",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/93027.a664cb0183e75da7.js",
+  "observed_at": "2026-09-28T08:36:59.906263+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28025,
+    "sha256": "fe3da293c24a5f679add434bbb8cdec6161039cf4de5dcc7a580dfbbb9eebbfb",
+    "elapsed_seconds": 0.423,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:59 GMT",
+      "etag": "\"07332377c75125a34961f063eb97dea9\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Strava",
+    "company_name_legal": "Strava, Inc.",
+    "founded_year": 2009,
+    "website_url": "https://www.strava.com",
+    "careers_url": "https://jobs.ashbyhq.com/strava",
+    "investor_portfolio_page": null,
+    "id": 188
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 27,
+    "last_updated": "2026-09-14T12:34:00.736Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 27,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Global Senior Payroll Manager",
+      "apply_url": "https://jobs.ashbyhq.com/strava/42ce9042-f0ab-4f91-8b79-568b89bf0b75",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": "EUR140k-150k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-05",
+      "ashby_job_id": "42ce9042-f0ab-4f91-8b79-568b89bf0b75"
+    },
+    {
+      "title": "Lead Marketing Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/strava/b84257fd-a8a3-48bc-951b-a619b0182cbe",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$205k-227k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-26",
+      "ashby_job_id": "b84257fd-a8a3-48bc-951b-a619b0182cbe"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/strava/5aaf1d74-988b-4edb-911f-671b22990623",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": "$198k-222k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-03",
+      "ashby_job_id": "5aaf1d74-988b-4edb-911f-671b22990623"
+    },
+    {
+      "title": "Senior Staff Full Stack Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/strava/ef5eb2de-deeb-43ac-8d9b-5a7b11dcbac6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$300k-330k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "ef5eb2de-deeb-43ac-8d9b-5a7b11dcbac6"
+    },
+    {
+      "title": "Staff AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/strava/dc37642d-399e-49a3-853f-81fdc0eee2b4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": "$260k-280k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-27",
+      "ashby_job_id": "dc37642d-399e-49a3-853f-81fdc0eee2b4"
+    },
+    {
+      "title": "Staff Engineer, Core Services Platform",
+      "apply_url": "https://jobs.ashbyhq.com/strava/daf4c971-6a2b-48e0-aafe-afc6af47e3a1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$225k-278k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-24",
+      "ashby_job_id": "daf4c971-6a2b-48e0-aafe-afc6af47e3a1"
+    },
+    {
+      "title": "Director, Corporate Finance",
+      "apply_url": "https://jobs.ashbyhq.com/strava/0044fab3-4656-4e4b-8838-920f4e17801e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": "$225k-245k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "0044fab3-4656-4e4b-8838-920f4e17801e"
+    },
+    {
+      "title": "Director, Product Design",
+      "apply_url": "https://jobs.ashbyhq.com/strava/0a5d4116-f6af-4c2b-887f-dd5f9e82e8ac",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": "$290k-310k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-18",
+      "ashby_job_id": "0a5d4116-f6af-4c2b-887f-dd5f9e82e8ac"
+    },
+    {
+      "title": "Finance Manager",
+      "apply_url": "https://jobs.ashbyhq.com/strava/dc70ec51-77f1-46f4-9ce5-9486a8404544",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": "$155k-165k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-11",
+      "ashby_job_id": "dc70ec51-77f1-46f4-9ce5-9486a8404544"
+    },
+    {
+      "title": "Senior Manager, Product Design",
+      "apply_url": "https://jobs.ashbyhq.com/strava/7423c916-9780-421a-a5d5-62eb0992fc37",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": "GBP118k-131k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-18",
+      "ashby_job_id": "7423c916-9780-421a-a5d5-62eb0992fc37"
+    },
+    {
+      "title": "Senior Technical Program Manager II",
+      "apply_url": "https://jobs.ashbyhq.com/strava/4d330de1-9237-40a9-8912-30470c1e52ee",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": "$195k-215k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-15",
+      "ashby_job_id": "4d330de1-9237-40a9-8912-30470c1e52ee"
+    },
+    {
+      "title": "Senior Manager, Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/strava/6336aff7-c225-4db5-b978-c0c29aacdcab",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-225k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-03",
+      "ashby_job_id": "6336aff7-c225-4db5-b978-c0c29aacdcab"
+    },
+    {
+      "title": "Staff Product Manager, AI/ML",
+      "apply_url": "https://jobs.ashbyhq.com/strava/93c6fa97-8615-4713-af85-c74662a5cebe",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": "$250k-270k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-23",
+      "ashby_job_id": "93c6fa97-8615-4713-af85-c74662a5cebe"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/strava/f59560b2-a3d5-47b4-a7a5-18247653128d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "f59560b2-a3d5-47b4-a7a5-18247653128d"
+    },
+    {
+      "title": "Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/strava/9db24007-a432-4eda-a453-5e93a34aa9ce",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "9db24007-a432-4eda-a453-5e93a34aa9ce"
+    },
+    {
+      "title": "Senior Manager - Security Detection Response",
+      "title_original": "Senior Manager - Detection Response",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-17T09:54:57.645Z",
+      "apply_url": "https://jobs.ashbyhq.com/strava/288b9cda-2539-4107-be58-115a99a0bdb2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "288b9cda-2539-4107-be58-115a99a0bdb2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on leading incident response and security operations, managing detection engineering, and ensuring security measures are integrated into systems. This aligns closely with the security department, as the role is centered on protecting the platform and data against threats."
+    },
+    {
+      "title": "Senior Manager, Enterprise Security",
+      "apply_url": "https://jobs.ashbyhq.com/strava/9927c4ab-84aa-44a7-9dd7-d5cbdd3f7a27",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "9927c4ab-84aa-44a7-9dd7-d5cbdd3f7a27"
+    },
+    {
+      "title": "Director, Strategic Sourcing & Procurement",
+      "apply_url": "https://jobs.ashbyhq.com/strava/6b2521e1-a015-4777-a2cf-01a137f52d53",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6b2521e1-a015-4777-a2cf-01a137f52d53"
+    },
+    {
+      "title": "Engineering Manager, Subscriptions",
+      "apply_url": "https://jobs.ashbyhq.com/strava/29c316b0-ffdc-4184-9efe-13a11591e22c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "29c316b0-ffdc-4184-9efe-13a11591e22c"
+    },
+    {
+      "title": "Lead Data Scientist, Data Products",
+      "apply_url": "https://jobs.ashbyhq.com/strava/09ab60f0-de73-4bde-9de2-f5b6809f8dce",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "09ab60f0-de73-4bde-9de2-f5b6809f8dce"
+    },
+    {
+      "title": "Retention Marketing Manager, GTM & Feature Adoption",
+      "apply_url": "https://jobs.ashbyhq.com/strava/6c20fcf2-25ac-46d9-bb3d-b5f75fa44a5a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6c20fcf2-25ac-46d9-bb3d-b5f75fa44a5a"
+    },
+    {
+      "title": "Senior Counsel, IP, Risk, and Litigation",
+      "apply_url": "https://jobs.ashbyhq.com/strava/94e3c529-d66b-4797-a8c5-9b136f8cfff5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "94e3c529-d66b-4797-a8c5-9b136f8cfff5"
+    },
+    {
+      "title": "Senior Engineering Manager, Community Engagement",
+      "apply_url": "https://jobs.ashbyhq.com/strava/1d8caf8a-e73d-417c-8a8a-d9cb1beec067",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1d8caf8a-e73d-417c-8a8a-d9cb1beec067"
+    },
+    {
+      "title": "Senior Product Manager II, Identity & Privacy",
+      "apply_url": "https://jobs.ashbyhq.com/strava/0ce5d0c4-f459-4a3c-94b3-fa27d17618c5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0ce5d0c4-f459-4a3c-94b3-fa27d17618c5"
+    },
+    {
+      "title": "Lead Data Scientist, Inference",
+      "apply_url": "https://jobs.ashbyhq.com/strava/f39b4232-33e1-4853-af84-163d1bcdef69",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f39b4232-33e1-4853-af84-163d1bcdef69"
+    },
+    {
+      "title": "Senior Product Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/strava/3479a442-004f-41d5-a166-e8636711ae39",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3479a442-004f-41d5-a166-e8636711ae39"
+    },
+    {
+      "title": "Senior Technical Program Manager II, Strava for Business",
+      "apply_url": "https://jobs.ashbyhq.com/strava/ee060e98-549d-4d81-ad36-2b7704d1bef7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ee060e98-549d-4d81-ad36-2b7704d1bef7"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5132,
+      "longitude": -0.0865,
+      "exact_address": "Birchin Court, 5th Floor, 19-25 Birchin Lane, London, EC3V 9DU, United Kingdom",
+      "departments": [
+        "customer-success",
+        "design",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7942,
+      "longitude": -122.3934,
+      "exact_address": "181 Fremont Street, Floor 27, San Francisco, California, United States - 94105",
+      "departments": [
+        "engineering",
+        "hr",
+        "product",
+        "design",
+        "finance",
+        "legal",
+        "ai",
+        "marketing",
+        "data",
+        "sales"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2026-02-13T14:25:32.740Z",
+    "current_valuation_usd": "$2.2 billion",
+    "current_valuation_usd_last_updated": "2026-02-13T14:25:32.740Z",
+    "total_funding_raised": "$228.5M",
+    "total_funding_raised_last_updated": "2026-02-13T14:25:32.740Z",
+    "key_investors": [
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "TCV",
+        "domain": "tcv.com"
+      },
+      {
+        "name": "Jackson Square Ventures",
+        "domain": "jacksonsquareventures.com"
+      },
+      {
+        "name": "Go4it Capital",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "TCV",
+        "logo_url": "/investor-logos/tcv.png"
+      },
+      {
+        "name": "Jackson Square Ventures",
+        "logo_url": "/investor-logos/jackson-square-ventures.png"
+      },
+      {
+        "name": "Go4it Capital",
+        "logo_url": "/investor-logos/go4it-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-13T14:25:32.740Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$500 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "flexible-hours",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-13T14:25:32.740Z",
+    "company_basic_information.website_url_last_updated": "2026-02-13T14:25:32.740Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-13T14:25:32.740Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-13T14:25:32.740Z",
+    "company_basic_information.last_updated": "2026-02-13",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-13T16:28:42.084Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:30:21.784Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:33:00.941Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-13T16:29:02.721Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:30:35.271Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:33:07.069Z",
+    "leadership.last_updated": "2026-02-13T16:27:05.326Z",
+    "social_media.x_url_last_verified": "2026-02-13T14:57:45.626Z",
+    "social_media.instagram_url_last_verified": "2026-02-13T14:58:23.184Z",
+    "social_media.linkedin_url_last_verified": "2026-02-13T16:29:32.676Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-13T14:25:32.740Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-13T14:25:32.740Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-13T14:25:32.740Z",
+    "financial_information.investor_logos_last_updated": "2026-02-13T14:25:32.740Z",
+    "location_mapping[0].last_updated": "2026-02-13T14:25:32.740Z",
+    "location_mapping[1].last_updated": "2026-02-13T14:25:32.740Z",
+    "location_mapping[2].last_updated": "2026-02-13T14:25:32.740Z",
+    "location_mapping[3].last_updated": "2026-02-13T14:25:32.740Z",
+    "job_data.roles[0].posted_date": "2026-06-05",
+    "job_data.roles[1].posted_date": "2026-04-26",
+    "job_data.roles[2].posted_date": "2026-04-03",
+    "job_data.roles[3].posted_date": "2026-06-04",
+    "job_data.roles[4].posted_date": "2026-05-27",
+    "job_data.roles[5].posted_date": "2026-04-24",
+    "job_data.roles[6].posted_date": "2026-06-17",
+    "job_data.roles[7].posted_date": "2026-06-18",
+    "job_data.roles[8].posted_date": "2026-06-11",
+    "job_data.roles[9].posted_date": "2026-06-18",
+    "job_data.roles[10].posted_date": "2026-06-15",
+    "job_data.roles[11].posted_date": "2026-07-03",
+    "job_data.roles[12].posted_date": "2026-06-23",
+    "job_data.roles[13].posted_date": "2026-08-17",
+    "job_data.roles[14].posted_date": "2026-08-17",
+    "job_data.roles[15].posted_date": "2026-08-17",
+    "job_data.roles[15].title_updated_timestamp": "2026-08-17T09:54:57.645Z",
+    "job_data.roles[16].posted_date": "2026-08-17",
+    "job_data.roles[17].posted_date": "2026-08-31",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-08-31",
+    "job_data.roles[21].posted_date": "2026-08-31",
+    "job_data.roles[22].posted_date": "2026-08-31",
+    "job_data.roles[23].posted_date": "2026-08-31",
+    "job_data.roles[24].posted_date": "2026-09-14",
+    "job_data.roles[25].posted_date": "2026-09-14",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:34:00.736Z",
+    "benefits.equity-stock.last_updated": "2026-03-11T12:06:05.467Z",
+    "benefits.bonus.last_updated": "2026-03-11T12:06:05.467Z",
+    "benefits.flexible-hours.last_updated": "2026-03-11T12:06:05.467Z"
+  }
+}

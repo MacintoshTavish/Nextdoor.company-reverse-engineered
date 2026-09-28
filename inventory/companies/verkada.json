@@ -1,0 +1,5612 @@
+{
+  "slug": "verkada",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/46099.7a9ac22b26e7e479.js",
+  "observed_at": "2026-09-28T08:38:04.822845+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 134406,
+    "sha256": "1b5586d9b5bf5e32c11b33e766e42f0b1b040130fa1d37b54d8243695573deed",
+    "elapsed_seconds": 0.521,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:04 GMT",
+      "etag": "\"9faf30c902a442caef5e56a05b91a687\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:04 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Verkada",
+    "company_name_legal": "Verkada Inc.",
+    "founded_year": 2016,
+    "website_url": "https://www.verkada.com",
+    "careers_url": "https://job-boards.greenhouse.io/verkada",
+    "investor_portfolio_page": null,
+    "id": 7
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 293,
+    "last_updated": "2026-09-14T13:00:44.675Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 293,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Accounts Receivable Specialist (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5200009007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Stock Administrator - Equity Management",
+      "title_original": "Stock Administrator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-23T21:11:37.916Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5140952007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Stock Administrator involve overseeing equity transactions, managing the cap table, and coordinating with finance-related teams such as Accounting and Tax. The role requires a solid understanding of equity compensation plans and taxation, which aligns closely with finance functions."
+    },
+    {
+      "title": "Sr. IT Systems Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5146680007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Deputy / Associate General Counsel, Corporate",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5165396007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director of Global Security",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5155848007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Privacy Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5089108007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Privacy Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5148169007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5082376007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5082756007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "People Operations Associate",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5218033007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Director/ VP, People Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5170948007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Leave of Absence Associate",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5197220007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior People Business Partner, Sales",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5186731007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Communications Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5142130007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "AV Engineer - East Coast (NYC)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5188708007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Industrial Designer - Taiwan",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5164973007",
+      "location_ids": [
+        "taipei_office"
+      ],
+      "location_display": "Taipei, Taiwan",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5114867007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Product Designer - Design Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5050372007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5193871007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Hardware Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4288855007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Hardware Engineering Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4207342007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Fulfillment Specialist, Salt Lake City",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5219108007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Fulfillment Specialist, Tampa",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5191759007",
+      "location_ids": [
+        "tampa_office"
+      ],
+      "location_display": "Tampa, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Operations Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5209920007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Global Operations Trade & Compliance Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5217938007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Supplier Quality Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5116237007",
+      "location_ids": [
+        "taipei_office"
+      ],
+      "location_display": "Taipei, Taiwan",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Field Marketing Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5205073007",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Field Marketing Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5205074007",
+      "location_ids": [
+        "calgary_office"
+      ],
+      "location_display": "Calgary, Canada",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Field Marketing Manager - France",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5205667007",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Field Marketing Manager - Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5158660007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Field Marketing Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5222828007",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Phoenix, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Field Marketing Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5222833007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5082442007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5085013007",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Philadelphia, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, East",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5085014007",
+      "location_ids": [
+        "tampa_office"
+      ],
+      "location_display": "Tampa, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5082424007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5085015007",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Phoenix, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5133072007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5208252007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr.) Field Marketing Manager - Mid-Market, West",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5208260007",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Digital Growth Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5211647007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Digital Growth Marketing Associate",
+      "title_original": "Digital Growth Senior Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-17T09:55:25.093Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5211644007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Digital Growth Senior Associate revolve around executing digital marketing campaigns, managing various marketing channels, and synthesizing insights to drive growth. The role is clearly situated within the marketing department as it focuses on campaign execution, cross-functional collaboration for marketing strategies, and performance analysis."
+    },
+    {
+      "title": "Growth Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5068617007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Growth Marketing Senior Associate",
+      "title_original": "Growth Senior Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-04T12:26:32.985Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5024738007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Growth Senior Associate primarily focuses on pipeline generation, account-based marketing, and executing marketing campaigns to drive revenue growth. The responsibilities outlined in the job description emphasize marketing strategies, collaboration with sales, and managing marketing campaigns, which clearly align with the marketing department."
+    },
+    {
+      "title": "Senior Digital Growth Manager, JAPAC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5140211007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Digital Growth Manager, JAPAC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5140253007",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Growth Manager, JAPAC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5140637007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "AI Marketing Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199940007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Growth Strategy & Analytics Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4970809007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Head of Marketing Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5018852007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer, Growth",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4525665007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Marketing Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4714156007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Marketing Operations Manager, EMEA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199873007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Marketing (Sales) Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4144772007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative - Sydney",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4775290007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Field Marketing Content Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5195753007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Localization Manager - Global Marketing",
+      "title_original": "Localization Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:56:09.323Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5224027007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Localization Manager role primarily involves managing localization processes for marketing materials, ensuring that content is culturally relevant and linguistically accurate for various international markets. The responsibilities include collaborating with marketing teams to adapt go-to-market materials and overseeing the quality of localized content, which aligns closely with marketing functions."
+    },
+    {
+      "title": "Product Marketing Manager, Privacy and Data Security",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5150337007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Associate, Pricing & Commercial Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4945957007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Associate, Pricing & Commercial Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5130977007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Product Manager, Edge Products (Gateways & Security Trailers)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5209567007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Product Manager, New Alarms Product",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5023364007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Manager, Perimeter & Intrusion Security",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5205130007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Product Manager, New Alarms Product",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5104945007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Project Architect, Global Services",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "USD",
+        "min": 125000,
+        "max": 175000,
+        "period": "year",
+        "display": "$125k–175k",
+        "confidence": "medium",
+        "reason": "Based on job market data for 2025–2026, the annual base salary for a Senior Project Engineer, Global Services at Verkada in New York City typically ranges between $125,000 and $175,000 JobLeads.",
+        "citations": [
+          "https://www.theladders.com/job/senior-project-engineer-global-services-verkada-new-york-ny_83942934",
+          "https://www.jobleads.com/us/job/senior-project-engineer-global-services--new-york--e9b7e58bcbac51fd9f594a303591c2ac6",
+          "https://www.levels.fyi/companies/verkada/salaries/mechanical-engineer"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-07-02T20:05:44.451Z"
+      },
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Project Engineer, Global Services",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5185633007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Recruiter - Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4980976007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Recruiter, Channel",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5213991007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Recruiter, EMEA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5171282007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior GTM Recruiter, London",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5172992007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Bay Area",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5055794007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Bay Area",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5147150007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Georgia",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199115007",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Germany",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4818526007",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Japan",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4568144007",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5193539007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager (Northern NJ / Staten Island)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5207473007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Southern Europe",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5148663007",
+      "location_ids": [
+        "milan_office",
+        "rome_office",
+        "turin_office"
+      ],
+      "location_display": "Remote, Italy",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Sweden",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5009999007",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager - Team Lead, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5179303007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director, Channel Sales EMEA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221766007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, CDW (Corp)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4930888007",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Eastern US)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4945720007",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "Raleigh, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Eastern US)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4950449007",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Philadelphia, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Eastern US)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4950450007",
+      "location_ids": [
+        "jacksonville_office"
+      ],
+      "location_display": "Jacksonville, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Eastern US)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5144827007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (North East)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5142373007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (North East)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5142374007",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Philadelphia, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Southeast)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5057504007",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Convergint (Southeast)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5057506007",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "National Channel Sales Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5207125007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Washington, D.C. United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Enablement Lead",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5172960007",
+      "location_ids": [
+        "tampa_office"
+      ],
+      "location_display": "Tampa, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Enablement Lead",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5208742007",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Phoenix, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Development Representative - German Speaking",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5194255007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Idaho)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5104166007",
+      "location_ids": [
+        "boise_office"
+      ],
+      "location_display": "Boise, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (LA - Corporate)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5065295007",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Washington)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5100608007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Federal Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5198695007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Washington, D.C. United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (New Jersey - Muni)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5170725007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (New York City - Muni)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5156789007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Virginia - ED)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210779007",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Washington - SLED)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5132351007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Head of Government Affairs",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5057188007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Washington, D.C. United States",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Sales Account Executive, State - VA, WV, NC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5029695007",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "State Enterprise Account Executive - Florida",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5029686007",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "State Enterprise Account Executive - MD, PA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199808007",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Washington, D.C. United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "State Enterprise Account Executive - NY, CT, NJ",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5043530007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "State Enterprise Account Executive - TN, KY, OH",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199767007",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Ohio, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "State Enterprise Account Executive - VA, WV, NC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5152703007",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140723007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Phoenix, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, France",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4087134007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Nordics",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5074752007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive (Osaka, Japan)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4866484007",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Seoul",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4911923007",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Tokyo",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4915934007",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, UK",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135260007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive - France",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140486007",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Osaka)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5132545007",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive, Tokyo",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4913872007",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (VIC)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5198175007",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Director, UK",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5075713007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Manager, DACH",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5199323007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Manager, UK",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5018489007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director, Global Sales - Fortune 500 Accounts",
+      "title_original": "Director, Global Enterprise Accounts",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-20T08:50:06.217Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5138265007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on leading a sales team, acquiring new business, managing pipelines, and achieving revenue targets, which are all key functions within the sales department. The emphasis on working with Fortune 500 accounts and driving team performance to exceed sales goals further solidifies this classification."
+    },
+    {
+      "title": "Account Executive, Select, Austin",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4248001007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Select, New York City (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4248006007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Select, Phoenix",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4247993007",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Phoenix, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Select, Salt Lake City (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4247996007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Select, San Mateo",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4388198007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory, Chicago",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5041521007",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4087046007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135236007",
+      "location_ids": [
+        "tempe_office"
+      ],
+      "location_display": "Tempe, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4087051007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4134175007",
+      "location_ids": [
+        "st_petersburg_office"
+      ],
+      "location_display": "St. Petersburg, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4103493007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4103490007",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Philadelphia, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5027198007",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5026955007",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5161632007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Territory (Mid-Market)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5170485007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140679007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Development Representative, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4431168007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative (AAE), Bay Area",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4086535007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative (AAE), Phoenix",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135267007",
+      "location_ids": [
+        "tempe_office"
+      ],
+      "location_display": "Tempe, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative (AAE), Salt Lake City",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4087170007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative (AAE), Tampa",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135271007",
+      "location_ids": [
+        "st_petersburg_office"
+      ],
+      "location_display": "St. Petersburg, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Associate Solutions Engineer, San Mateo",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135277007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5188795007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineer, Bay Area CORP",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5205276007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineering Manager, Central SLED",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5136810007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineer, NorthCentral Corp",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4669998007",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineer - Swedish Speaking",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5202907007",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140713007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Solutions Engineer, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5190957007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Growth Marketing Manager, Channel Technical Programs",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4970811007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineer, Auckland",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5207764007",
+      "location_ids": [
+        "auckland_office",
+        "wellington_office",
+        "christchurch_office"
+      ],
+      "location_display": "Remote, New Zealand",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineering Director, Associate Program",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5124829007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineering Manager, EMEA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5019825007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
+      "location_ids": [
+        "tempe_office"
+      ],
+      "location_display": "Tempe, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineer, Perth",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5208734007",
+      "location_ids": [
+        "perth_office"
+      ],
+      "location_display": "Perth, Australia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineer, Sydney",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5207756007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Trainer, VCE",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5138344007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "academy-training",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Compensation Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5140198007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy and Operations Associate",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4086576007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy and Operations Associate, EMEA",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5173080007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy and Operations Division Lead",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5186793007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy and Operations Division Lead",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5216322007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy and Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5038150007",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Strategy & Operations Renewals Associate (Sr)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5158264007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Manager, Government Contracts",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5056474007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Analyst Business Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5116424007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Channel Enablement Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5113097007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Go Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4702541007",
+      "location_ids": [
+        "warsaw_office"
+      ],
+      "location_display": "Warsaw, Poland",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engineering Manager, Access Control",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5209693007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Android Engineer - Alarms",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5181838007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer - Virtual Guard",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5119684007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - Alarms",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5119627007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - Native Application",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5148053007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Test Engineer – Alarms",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5082745007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineering Manager - Alarms",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5209473007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Frontend Engineer, Business Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5146916007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer, Business Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4818850007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer, Business Systems - Data Trust",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221364007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer, Business Systems - GTM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210623007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director of Firmware Engineering, Cameras",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5081188007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engineering Manager - Storage Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5145739007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Embedded Engineer - Cameras",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4261270007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - C++",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4128752007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - Command Connector",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5161396007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - Computer Vision",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4128624007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer – Storage Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5066093007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Systems Engineer - Streaming",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5195862007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineer - Imaging Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4134234007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Backend Engineer - Streaming",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4128603007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Embedded Software Engineer - Camera Firmware",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5029602007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Embedded Linux Engineer - Connectivity",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5209588007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engineering Manager, Atlas (Spatial Systems)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5192924007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engineering Manager, Core Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5216393007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Backend Engineer - Licensing & Revenue Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221363007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5215839007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engineering Manager, Agentic Workflows",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5198815007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer, Data Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5215882007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior-Staff Software Engineer, Engineering Productivity",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5074111007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior/Staff Software Engineer, Platform Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5220950007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior-Staff Software Engineer, Tooling",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5198628007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Embedded Linux Engineer - Intercom",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5177232007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer - Intercom",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5215582007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Embedded Linux Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5149616007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineering Manager - Intercom",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5087511007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Linux Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4129347007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineering Manager, Data Protection Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5173902007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Backend Engineer - Device Security",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5154370007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff+ Security Engineer, Core Command",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5167601007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff+ Security Engineer, Developer Tools",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5167607007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff+ Software Engineer, Agentic Software Security",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226046007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer - Detection and Response Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5143766007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Backend Engineer - Connectivity",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5194598007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Backend Software Engineering Intern 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Software Engineer, Access Control",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5194716007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Software Engineering Intern 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Frontend Software Engineering Intern 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Mobile Software Engineering Intern 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Security Software Engineering Intern 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineer - Computer Vision",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineer - Data Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4129304007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Automated Test & Test System Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4134166007",
+      "location_ids": [
+        "warsaw_office"
+      ],
+      "location_display": "Warsaw, Poland",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Linux Embedded Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4134153007",
+      "location_ids": [
+        "warsaw_office"
+      ],
+      "location_display": "Warsaw, Poland",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Software Engineer - Workplace Products",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5120808007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4997665007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5063200007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5223282007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineer - Industrial Placement 2027 (12-months)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5162206007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineering Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5144834007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineer - University Graduate 2026",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Manager, Partner Commerce & Ecosystem",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5228832007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Finance Operations Specialist (6-month contract)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4774206007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr) Associate / Manager, Strategic Finance & Business Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231662007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Sr) Manager, Strategic Finance & Business Operations - GTM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231248007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Hardware Engineer (Winter Co-op)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Design Mechanical Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5230236007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Design Mechanical Engineer (Winter Co-op)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4288829007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Sourcing Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231028007",
+      "location_ids": [
+        "taipei_office"
+      ],
+      "location_display": "Taipei, Taiwan",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Global Sourcing Specialist (Winter C0-Op 2027)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5175755007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Global Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231669007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Supply Chain Manager, Aftermarket Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5234561007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Supply Chain Manager, Data Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5235121007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Designer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5172004007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Marketing Manager, Workplace",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233774007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Recruiter - Product",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233739007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Recruiter, GTM Strategy & Operations",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5234197007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "University Recruiter - Technical Support Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233721007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Channel Sales Manager, Sydney (NSW)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140391007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Mid-Enterprise Corporate Account Executive (Quebec City)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5235085007",
+      "location_ids": [
+        "quebec_office"
+      ],
+      "location_display": "Quebec, Canada",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive (Hawaii - SLED)",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5232847007",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "Hawaii, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Manager, LATAM",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5228046007",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Account Executive, Denmark",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5201944007",
+      "location_ids": [
+        "copenhagen_office"
+      ],
+      "location_display": "Copenhagen, Denmark",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director of Mid-Market Sales, UK",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5229051007",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director of Sales - NYC",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221556007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Manager, Mid-Market, Atlanta",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226852007",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Regional Sales Manager, Mid-Market, Austin",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226851007",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Dec 2026 Grads: Sales Development Representative (AAE), Salt Lake City",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226746007",
+      "location_ids": [
+        "salt_lake_city_office"
+      ],
+      "location_display": "Salt Lake City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Dec 2026 Grads: Sales Development Representative (AAE), Tampa",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226752007",
+      "location_ids": [
+        "st_petersburg_office"
+      ],
+      "location_display": "St. Petersburg, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Sales Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5235345007",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sales Development Representative (AAE), New York City",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Continuous Enablement Architect",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221707007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Demo Enablement Architect",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5221690007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineer - Finnish Speaking",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233268007",
+      "location_ids": [
+        "helsinki_office"
+      ],
+      "location_display": "Helsinki, Finland",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Solutions Engineer, Northeast SLED",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231605007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Federal Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226698007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Instructional Designer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5225597007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Content Delivery Manager - Solutions Engineering",
+      "title_original": "Technical Content Delivery Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:29:59.530Z",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5225570007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Technical Content Delivery Manager focuses primarily on managing and optimizing the Learning Management System (LMS) for the Solutions Engineering organization, which is a key function in training and enablement. The responsibilities include content curation, structuring learning paths, and collaborating with technical teams to enhance educational resources, aligning closely with the Academy & Training category."
+    },
+    {
+      "title": "Project Manager, Data Trust",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226792007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Software Engineer - Access Control",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233102007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded UI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233101007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer - Access Control",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233103007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Frontend Engineer - Access Control",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233094007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Engineering Manager, Business Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5226448007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Embedded Engineer - Streaming",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5230322007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Embedded Engineer - Command Connector",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5161397007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Frontend Engineer - Streaming",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5231632007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer - Camera Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4128785007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineering Manager - Search",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5022552007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233096007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Engineer - Device Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233095007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Frontend Engineer - Web Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233093007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Frontend Engineer - Design Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233100007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Android Engineer - Mobile Platform & Systems",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233097007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "GRC Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5234231007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer, Identity & Access Management Platform",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5227954007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineering Intern - Spring 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5056164007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineering Intern - Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5233011007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Technical Support Engineer - University Graduate 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5121488007",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "posted_date": "2026-09-14"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "200 W Cesar Chavez Street, Suite 350, Austin, TX 78701, United States",
+      "departments": [
+        "legal",
+        "marketing",
+        "other",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "calgary_office",
+      "city": "Calgary",
+      "state": "Alberta",
+      "country": "Canada",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "exact_address": "Calgary, Alberta, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8842,
+      "longitude": -87.6468,
+      "exact_address": "159 N Sangamon St, Suite 200 & 300, Chicago, Illinois, United States - 60607",
+      "departments": [
+        "operations",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "columbus_office",
+      "city": "Columbus",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 39.9612,
+      "longitude": -82.9988,
+      "exact_address": "Columbus, Ohio, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "operations",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "detroit_office",
+      "city": "Detroit",
+      "state": "Michigan",
+      "country": "United States",
+      "latitude": 42.3314,
+      "longitude": -83.0458,
+      "exact_address": "Detroit, Michigan, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "houston_office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "exact_address": "Houston, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "indianapolis_office",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "country": "United States",
+      "latitude": 39.7684,
+      "longitude": -86.1581,
+      "exact_address": "Indianapolis, Indiana, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kansas_city_office",
+      "city": "Kansas City",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 39.0997,
+      "longitude": -94.5786,
+      "exact_address": "Kansas City, Missouri, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kyoto_office",
+      "city": "Kyoto",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "exact_address": "Kyoto, Japan",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5156,
+      "longitude": -0.0919,
+      "exact_address": "6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom",
+      "departments": [
+        "sales",
+        "marketing",
+        "engineering",
+        "hr",
+        "design",
+        "customer-support"
+      ],
+      "employee_count": "2000+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "los angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.9806,
+      "longitude": -118.4445,
+      "exact_address": "4204 Glencoe Ave, Building 3, Suite 220, Marina Del Rey, Los Angeles, California, United States - 90292",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "mexico city",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4305,
+      "longitude": -99.2011,
+      "exact_address": "Montes Urales No. 505, Ground Floor, Colonia Lomas de Chapultepec, III Sección, Mexico City, Mexico City, Mexico - 11000",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "exact_address": "Minneapolis, Minnesota, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7404,
+      "longitude": -73.9868,
+      "exact_address": "250 Park Ave South, Suite 500, New York, NY, United States - 10003",
+      "departments": [
+        "marketing",
+        "other",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "osaka_office",
+      "city": "Osaka",
+      "state": null,
+      "country": "Japan",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "exact_address": "Osaka, Japan",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "philadelphia_office",
+      "city": "philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9522,
+      "longitude": -75.1624,
+      "exact_address": "1218 Chestnut Street, 10th Floor, Philadelphia, Pennsylvania, United States - 19107",
+      "departments": [
+        "marketing",
+        "other",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Tempe",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4942,
+      "longitude": -111.9257,
+      "exact_address": "410 North Scottsdale Road, Suite 1400, Tempe, Arizona, United States - 85288",
+      "departments": [
+        "marketing",
+        "other",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "portland_office",
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States",
+      "latitude": 45.5152,
+      "longitude": -122.6784,
+      "exact_address": "Portland, Oregon, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "sales",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "salt_lake_city_office",
+      "city": "salt lake city",
+      "state": "Utah",
+      "country": "United States",
+      "latitude": 40.7358,
+      "longitude": -111.8615,
+      "exact_address": "1215 Wilmington Avenue, Suite 200, Salt Lake City, UT, United States - 84106",
+      "departments": [
+        "marketing",
+        "other",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_antonio_office",
+      "city": "San Antonio",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.4241,
+      "longitude": -98.4936,
+      "exact_address": "San Antonio, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_mateo_office",
+      "city": "san mateo",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.5658,
+      "longitude": -122.3215,
+      "exact_address": "406 E. 3rd Avenue, San Mateo, CA 94401",
+      "departments": [
+        "other",
+        "engineering",
+        "data",
+        "finance",
+        "operations",
+        "marketing",
+        "it",
+        "legal",
+        "hr",
+        "design",
+        "product",
+        "ai",
+        "sales",
+        "qa",
+        "security",
+        "customer-support"
+      ],
+      "employee_count": "1800+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "seoul",
+      "state": "Seoul",
+      "country": "Republic of Korea",
+      "latitude": 37.5124,
+      "longitude": 127.0598,
+      "exact_address": "12th Floor, 507 Teheran-ro, Gangnam-gu, Seoul, Seoul, Republic of Korea - 06168",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2803,
+      "longitude": 103.8534,
+      "exact_address": "31 Tanjong Pagar Road #04-01, Singapore 088454",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8743,
+      "longitude": 151.2071,
+      "exact_address": "Level 2, 175 Pitt Street, Sydney, NSW, Australia - 2000",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-support"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "taipei_office",
+      "city": "Taipei City",
+      "state": "Taipei City",
+      "country": "Taiwan",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "exact_address": "36F-1, No. 100, Songren Rd, Xinyi District, Taipei City, Taiwan - 110",
+      "departments": [
+        "administration",
+        "design",
+        "product",
+        "engineering",
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.6595,
+      "longitude": 139.7004,
+      "exact_address": "1-17-4 Shibuya, Shibuya-ku, 9th Floor, Tokyo 150-0002, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Kraków",
+      "state": "Małopolskie",
+      "country": "Poland",
+      "latitude": 50.0694,
+      "longitude": 19.9398,
+      "exact_address": "Al. Pokoju 18, 31-564 Kraków, Poland",
+      "departments": [
+        "engineering",
+        "it"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tampa_office",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.7711,
+      "longitude": -82.6403,
+      "exact_address": "200 Central Avenue, Suite 900, St. Petersburg, Florida, United States - 33701",
+      "departments": [
+        "marketing",
+        "other",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "st_petersburg_office",
+      "city": "st petersburg",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.7713,
+      "longitude": -82.6403,
+      "exact_address": "200 Central Avenue, Suite 900, St. Petersburg, FL 33701, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "milwaukee_office",
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "country": "United States",
+      "latitude": 43.0389,
+      "longitude": -87.9065,
+      "exact_address": "Milwaukee, Wisconsin, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tempe_office",
+      "city": "Tempe",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4255,
+      "longitude": -111.94,
+      "exact_address": "410 North Scottsdale Road, Suite 1400, Tempe, Arizona, United States - 85288",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boise_office",
+      "city": "Boise",
+      "state": "Idaho",
+      "country": "United States",
+      "latitude": 43.615,
+      "longitude": -116.2023,
+      "exact_address": "Boise, Idaho, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "perth_office",
+      "city": "Perth",
+      "state": "Western Australia",
+      "country": "Australia",
+      "latitude": -31.9505,
+      "longitude": 115.8605,
+      "exact_address": "Perth, Western Australia, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jacksonville_office",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 30.3322,
+      "longitude": -81.6557,
+      "exact_address": "Jacksonville, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "exact_address": "Nashville, Tennessee, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "turin_office",
+      "city": "Turin",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "exact_address": "Turin, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charleston_office",
+      "city": "Charleston",
+      "state": "South Carolina",
+      "country": "United States",
+      "latitude": 32.7765,
+      "longitude": -79.9311,
+      "exact_address": "Charleston, South Carolina, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "orange_county_office",
+      "city": "Orange County",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.7455,
+      "longitude": -117.8677,
+      "exact_address": "Orange County, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "quebec_office",
+      "city": "Quebec City",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 46.8139,
+      "longitude": -71.2082,
+      "exact_address": "Quebec City, Quebec, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valencia_office",
+      "city": "Valencia",
+      "state": null,
+      "country": "Spain",
+      "latitude": 39.4699,
+      "longitude": -0.3763,
+      "exact_address": "Valencia, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "louisville_office",
+      "city": "Louisville",
+      "state": "Kentucky",
+      "country": "United States",
+      "latitude": 38.2527,
+      "longitude": -85.7585,
+      "exact_address": "Louisville, Kentucky, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "auckland_office",
+      "city": "Auckland",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -36.8485,
+      "longitude": 174.7633,
+      "exact_address": "Auckland, New Zealand",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "christchurch_office",
+      "city": "Christchurch",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -43.5321,
+      "longitude": 172.6362,
+      "exact_address": "Christchurch, New Zealand",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_diego_office",
+      "city": "San Diego",
+      "state": "California",
+      "country": "United States",
+      "latitude": 32.7157,
+      "longitude": -117.1611,
+      "exact_address": "San Diego, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "wellington_office",
+      "city": "Wellington",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -41.2865,
+      "longitude": 174.7762,
+      "exact_address": "Wellington, New Zealand",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lyon_office",
+      "city": "Lyon",
+      "state": null,
+      "country": "France",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "exact_address": "Lyon, France",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "marseille_office",
+      "city": "Marseille",
+      "state": null,
+      "country": "France",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "exact_address": "Marseille, France",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toulouse_office",
+      "city": "Toulouse",
+      "state": null,
+      "country": "France",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "exact_address": "Toulouse, France",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-04-05T20:10:17.779Z",
+    "current_valuation_usd": "$5.8 billion",
+    "current_valuation_usd_last_updated": "2026-04-05T20:10:17.779Z",
+    "total_funding_raised": "$744.64 million",
+    "total_funding_raised_last_updated": "2026-04-05T20:10:17.779Z",
+    "key_investors": [
+      {
+        "name": "Linse Capital",
+        "domain": ""
+      },
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "CapitalG",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Linse Capital",
+        "logo_url": "/investor-logos/linse-capital.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "CapitalG",
+        "logo_url": "/investor-logos/capitalg.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-05T20:10:17.779Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "health-savings-account",
+    "mental-health",
+    "parental-leave",
+    "flexible-hours",
+    "sick-leave",
+    "learning-development",
+    "gym-membership",
+    "meal-allowance",
+    "commute-allowance",
+    "equity-stock",
+    "bonus",
+    "visa-sponsorship",
+    "benefits_scraping_source",
+    "unlimited-pto",
+    "company-recharge-days",
+    "childcare-support"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[50].source": "ai_inference_upsert",
+    "job_data.roles[64].salary_estimated.citations": [
+      "https://www.theladders.com/job/senior-project-engineer-global-services-verkada-new-york-ny_83942934",
+      "https://www.jobleads.com/us/job/senior-project-engineer-global-services--new-york--e9b7e58bcbac51fd9f594a303591c2ac6",
+      "https://www.levels.fyi/companies/verkada/salaries/mechanical-engineer"
+    ],
+    "job_data.roles[64].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-05T20:10:17.779Z",
+    "company_basic_information.website_url_last_updated": "2026-04-05T20:10:17.779Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-05T20:10:17.779Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-05T20:10:17.779Z",
+    "company_basic_information.last_updated": "2026-04-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-06T10:13:43.181Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-04-07T09:26:16.176Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-06T10:14:39.376Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-06T10:15:16.981Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-04-06T10:15:55.135Z",
+    "social_media.x_url_last_verified": "2026-04-06T10:16:10.264Z",
+    "social_media.linkedin_url_last_verified": "2026-04-06T10:16:45.772Z",
+    "social_media.instagram_url_last_verified": "2026-04-06T10:17:08.739Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-04-05T20:10:17.779Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-05T20:10:17.779Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-05T20:10:17.779Z",
+    "financial_information.investor_logos_last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[0].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[1].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[2].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[3].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[4].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[5].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[6].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[7].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[8].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[9].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[10].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[11].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[12].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[13].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[14].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[15].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[16].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[17].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[18].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[19].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[20].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[21].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[22].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[23].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[24].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[25].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[26].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[27].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[28].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[29].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[30].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[31].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[32].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[33].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[34].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[35].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[36].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[37].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[38].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[39].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[40].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[41].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[42].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[43].last_updated": "2026-04-05T20:10:17.779Z",
+    "location_mapping[44].last_updated": "2026-04-07T09:48:12.684Z",
+    "location_mapping[45].last_updated": "2026-04-07T09:48:12.684Z",
+    "location_mapping[50].last_updated": "2026-05-04T13:55:00.000Z",
+    "location_mapping[75].last_updated": "2026-07-06T06:24:39.681Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[1].title_updated_timestamp": "2026-05-23T21:11:37.916Z",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.roles[12].posted_date": "2026-09-14",
+    "job_data.roles[13].posted_date": "2026-09-14",
+    "job_data.roles[14].posted_date": "2026-09-14",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.roles[16].posted_date": "2026-09-14",
+    "job_data.roles[17].posted_date": "2026-09-14",
+    "job_data.roles[18].posted_date": "2026-09-14",
+    "job_data.roles[19].posted_date": "2026-09-14",
+    "job_data.roles[20].posted_date": "2026-09-14",
+    "job_data.roles[21].posted_date": "2026-09-14",
+    "job_data.roles[22].posted_date": "2026-09-14",
+    "job_data.roles[23].posted_date": "2026-09-14",
+    "job_data.roles[24].posted_date": "2026-09-14",
+    "job_data.roles[25].posted_date": "2026-09-14",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.roles[27].posted_date": "2026-09-14",
+    "job_data.roles[28].posted_date": "2026-09-14",
+    "job_data.roles[29].posted_date": "2026-09-14",
+    "job_data.roles[30].posted_date": "2026-09-14",
+    "job_data.roles[31].posted_date": "2026-09-14",
+    "job_data.roles[32].posted_date": "2026-09-14",
+    "job_data.roles[33].posted_date": "2026-09-14",
+    "job_data.roles[34].posted_date": "2026-09-14",
+    "job_data.roles[35].posted_date": "2026-09-14",
+    "job_data.roles[36].posted_date": "2026-09-14",
+    "job_data.roles[37].posted_date": "2026-09-14",
+    "job_data.roles[38].posted_date": "2026-09-14",
+    "job_data.roles[39].posted_date": "2026-09-14",
+    "job_data.roles[40].posted_date": "2026-09-14",
+    "job_data.roles[41].posted_date": "2026-09-14",
+    "job_data.roles[41].title_updated_timestamp": "2026-08-17T09:55:25.093Z",
+    "job_data.roles[42].posted_date": "2026-09-14",
+    "job_data.roles[43].posted_date": "2026-09-14",
+    "job_data.roles[43].title_updated_timestamp": "2026-05-04T12:26:32.985Z",
+    "job_data.roles[44].posted_date": "2026-09-14",
+    "job_data.roles[45].posted_date": "2026-09-14",
+    "job_data.roles[46].posted_date": "2026-09-14",
+    "job_data.roles[47].posted_date": "2026-09-14",
+    "job_data.roles[48].posted_date": "2026-09-14",
+    "job_data.roles[49].posted_date": "2026-09-14",
+    "job_data.roles[50].posted_date": "2026-09-14",
+    "job_data.roles[51].posted_date": "2026-09-14",
+    "job_data.roles[52].posted_date": "2026-09-14",
+    "job_data.roles[53].posted_date": "2026-09-14",
+    "job_data.roles[54].posted_date": "2026-09-14",
+    "job_data.roles[55].posted_date": "2026-09-14",
+    "job_data.roles[56].posted_date": "2026-09-14",
+    "job_data.roles[56].title_updated_timestamp": "2026-08-31T11:56:09.323Z",
+    "job_data.roles[57].posted_date": "2026-09-14",
+    "job_data.roles[58].posted_date": "2026-09-14",
+    "job_data.roles[59].posted_date": "2026-09-14",
+    "job_data.roles[60].posted_date": "2026-09-14",
+    "job_data.roles[61].posted_date": "2026-09-14",
+    "job_data.roles[62].posted_date": "2026-09-14",
+    "job_data.roles[63].posted_date": "2026-09-14",
+    "job_data.roles[64].posted_date": "2026-09-14",
+    "job_data.roles[64].salary_estimated.fetched_at": "2026-07-02T20:05:44.451Z",
+    "job_data.roles[65].posted_date": "2026-09-14",
+    "job_data.roles[66].posted_date": "2026-09-14",
+    "job_data.roles[67].posted_date": "2026-09-14",
+    "job_data.roles[68].posted_date": "2026-09-14",
+    "job_data.roles[69].posted_date": "2026-09-14",
+    "job_data.roles[70].posted_date": "2026-09-14",
+    "job_data.roles[71].posted_date": "2026-09-14",
+    "job_data.roles[72].posted_date": "2026-09-14",
+    "job_data.roles[73].posted_date": "2026-09-14",
+    "job_data.roles[74].posted_date": "2026-09-14",
+    "job_data.roles[75].posted_date": "2026-09-14",
+    "job_data.roles[76].posted_date": "2026-09-14",
+    "job_data.roles[77].posted_date": "2026-09-14",
+    "job_data.roles[78].posted_date": "2026-09-14",
+    "job_data.roles[79].posted_date": "2026-09-14",
+    "job_data.roles[80].posted_date": "2026-09-14",
+    "job_data.roles[81].posted_date": "2026-09-14",
+    "job_data.roles[82].posted_date": "2026-09-14",
+    "job_data.roles[83].posted_date": "2026-09-14",
+    "job_data.roles[84].posted_date": "2026-09-14",
+    "job_data.roles[85].posted_date": "2026-09-14",
+    "job_data.roles[86].posted_date": "2026-09-14",
+    "job_data.roles[87].posted_date": "2026-09-14",
+    "job_data.roles[88].posted_date": "2026-09-14",
+    "job_data.roles[89].posted_date": "2026-09-14",
+    "job_data.roles[90].posted_date": "2026-09-14",
+    "job_data.roles[91].posted_date": "2026-09-14",
+    "job_data.roles[92].posted_date": "2026-09-14",
+    "job_data.roles[93].posted_date": "2026-09-14",
+    "job_data.roles[94].posted_date": "2026-09-14",
+    "job_data.roles[95].posted_date": "2026-09-14",
+    "job_data.roles[96].posted_date": "2026-09-14",
+    "job_data.roles[97].posted_date": "2026-09-14",
+    "job_data.roles[98].posted_date": "2026-09-14",
+    "job_data.roles[99].posted_date": "2026-09-14",
+    "job_data.roles[100].posted_date": "2026-09-14",
+    "job_data.roles[101].posted_date": "2026-09-14",
+    "job_data.roles[102].posted_date": "2026-09-14",
+    "job_data.roles[103].posted_date": "2026-09-14",
+    "job_data.roles[104].posted_date": "2026-09-14",
+    "job_data.roles[105].posted_date": "2026-09-14",
+    "job_data.roles[106].posted_date": "2026-09-14",
+    "job_data.roles[107].posted_date": "2026-09-14",
+    "job_data.roles[108].posted_date": "2026-09-14",
+    "job_data.roles[109].posted_date": "2026-09-14",
+    "job_data.roles[110].posted_date": "2026-09-14",
+    "job_data.roles[111].posted_date": "2026-09-14",
+    "job_data.roles[112].posted_date": "2026-09-14",
+    "job_data.roles[113].posted_date": "2026-09-14",
+    "job_data.roles[114].posted_date": "2026-09-14",
+    "job_data.roles[115].posted_date": "2026-09-14",
+    "job_data.roles[116].posted_date": "2026-09-14",
+    "job_data.roles[117].posted_date": "2026-09-14",
+    "job_data.roles[118].posted_date": "2026-09-14",
+    "job_data.roles[119].posted_date": "2026-09-14",
+    "job_data.roles[120].posted_date": "2026-09-14",
+    "job_data.roles[121].posted_date": "2026-09-14",
+    "job_data.roles[122].posted_date": "2026-09-14",
+    "job_data.roles[123].posted_date": "2026-09-14",
+    "job_data.roles[124].posted_date": "2026-09-14",
+    "job_data.roles[124].title_updated_timestamp": "2026-07-20T08:50:06.217Z",
+    "job_data.roles[125].posted_date": "2026-09-14",
+    "job_data.roles[126].posted_date": "2026-09-14",
+    "job_data.roles[127].posted_date": "2026-09-14",
+    "job_data.roles[128].posted_date": "2026-09-14",
+    "job_data.roles[129].posted_date": "2026-09-14",
+    "job_data.roles[130].posted_date": "2026-09-14",
+    "job_data.roles[131].posted_date": "2026-09-14",
+    "job_data.roles[132].posted_date": "2026-09-14",
+    "job_data.roles[133].posted_date": "2026-09-14",
+    "job_data.roles[134].posted_date": "2026-09-14",
+    "job_data.roles[135].posted_date": "2026-09-14",
+    "job_data.roles[136].posted_date": "2026-09-14",
+    "job_data.roles[137].posted_date": "2026-09-14",
+    "job_data.roles[138].posted_date": "2026-09-14",
+    "job_data.roles[139].posted_date": "2026-09-14",
+    "job_data.roles[140].posted_date": "2026-09-14",
+    "job_data.roles[141].posted_date": "2026-09-14",
+    "job_data.roles[142].posted_date": "2026-09-14",
+    "job_data.roles[143].posted_date": "2026-09-14",
+    "job_data.roles[144].posted_date": "2026-09-14",
+    "job_data.roles[145].posted_date": "2026-09-14",
+    "job_data.roles[146].posted_date": "2026-09-14",
+    "job_data.roles[147].posted_date": "2026-09-14",
+    "job_data.roles[148].posted_date": "2026-09-14",
+    "job_data.roles[149].posted_date": "2026-09-14",
+    "job_data.roles[150].posted_date": "2026-09-14",
+    "job_data.roles[151].posted_date": "2026-09-14",
+    "job_data.roles[152].posted_date": "2026-09-14",
+    "job_data.roles[153].posted_date": "2026-09-14",
+    "job_data.roles[154].posted_date": "2026-09-14",
+    "job_data.roles[155].posted_date": "2026-09-14",
+    "job_data.roles[156].posted_date": "2026-09-14",
+    "job_data.roles[157].posted_date": "2026-09-14",
+    "job_data.roles[158].posted_date": "2026-09-14",
+    "job_data.roles[159].posted_date": "2026-09-14",
+    "job_data.roles[160].posted_date": "2026-09-14",
+    "job_data.roles[161].posted_date": "2026-09-14",
+    "job_data.roles[162].posted_date": "2026-09-14",
+    "job_data.roles[163].posted_date": "2026-09-14",
+    "job_data.roles[164].posted_date": "2026-09-14",
+    "job_data.roles[165].posted_date": "2026-09-14",
+    "job_data.roles[166].posted_date": "2026-09-14",
+    "job_data.roles[167].posted_date": "2026-09-14",
+    "job_data.roles[168].posted_date": "2026-09-14",
+    "job_data.roles[169].posted_date": "2026-09-14",
+    "job_data.roles[170].posted_date": "2026-09-14",
+    "job_data.roles[171].posted_date": "2026-09-14",
+    "job_data.roles[172].posted_date": "2026-09-14",
+    "job_data.roles[173].posted_date": "2026-09-14",
+    "job_data.roles[174].posted_date": "2026-09-14",
+    "job_data.roles[175].posted_date": "2026-09-14",
+    "job_data.roles[176].posted_date": "2026-09-14",
+    "job_data.roles[177].posted_date": "2026-09-14",
+    "job_data.roles[178].posted_date": "2026-09-14",
+    "job_data.roles[179].posted_date": "2026-09-14",
+    "job_data.roles[180].posted_date": "2026-09-14",
+    "job_data.roles[181].posted_date": "2026-09-14",
+    "job_data.roles[182].posted_date": "2026-09-14",
+    "job_data.roles[183].posted_date": "2026-09-14",
+    "job_data.roles[184].posted_date": "2026-09-14",
+    "job_data.roles[185].posted_date": "2026-09-14",
+    "job_data.roles[186].posted_date": "2026-09-14",
+    "job_data.roles[187].posted_date": "2026-09-14",
+    "job_data.roles[188].posted_date": "2026-09-14",
+    "job_data.roles[189].posted_date": "2026-09-14",
+    "job_data.roles[190].posted_date": "2026-09-14",
+    "job_data.roles[191].posted_date": "2026-09-14",
+    "job_data.roles[192].posted_date": "2026-09-14",
+    "job_data.roles[193].posted_date": "2026-09-14",
+    "job_data.roles[194].posted_date": "2026-09-14",
+    "job_data.roles[195].posted_date": "2026-09-14",
+    "job_data.roles[196].posted_date": "2026-09-14",
+    "job_data.roles[197].posted_date": "2026-09-14",
+    "job_data.roles[198].posted_date": "2026-09-14",
+    "job_data.roles[199].posted_date": "2026-09-14",
+    "job_data.roles[200].posted_date": "2026-09-14",
+    "job_data.roles[201].posted_date": "2026-09-14",
+    "job_data.roles[202].posted_date": "2026-09-14",
+    "job_data.roles[203].posted_date": "2026-09-14",
+    "job_data.roles[204].posted_date": "2026-09-14",
+    "job_data.roles[205].posted_date": "2026-09-14",
+    "job_data.roles[206].posted_date": "2026-09-14",
+    "job_data.roles[207].posted_date": "2026-09-14",
+    "job_data.roles[208].posted_date": "2026-09-14",
+    "job_data.roles[209].posted_date": "2026-09-14",
+    "job_data.roles[210].posted_date": "2026-09-14",
+    "job_data.roles[211].posted_date": "2026-09-14",
+    "job_data.roles[212].posted_date": "2026-09-14",
+    "job_data.roles[213].posted_date": "2026-09-14",
+    "job_data.roles[214].posted_date": "2026-09-14",
+    "job_data.roles[215].posted_date": "2026-09-14",
+    "job_data.roles[216].posted_date": "2026-09-14",
+    "job_data.roles[217].posted_date": "2026-09-14",
+    "job_data.roles[218].posted_date": "2026-09-14",
+    "job_data.roles[219].posted_date": "2026-09-14",
+    "job_data.roles[220].posted_date": "2026-09-14",
+    "job_data.roles[221].posted_date": "2026-09-14",
+    "job_data.roles[222].posted_date": "2026-09-14",
+    "job_data.roles[223].posted_date": "2026-09-14",
+    "job_data.roles[224].posted_date": "2026-09-14",
+    "job_data.roles[225].posted_date": "2026-09-14",
+    "job_data.roles[226].posted_date": "2026-09-14",
+    "job_data.roles[227].posted_date": "2026-09-14",
+    "job_data.roles[228].posted_date": "2026-09-14",
+    "job_data.roles[229].posted_date": "2026-09-14",
+    "job_data.roles[230].posted_date": "2026-09-14",
+    "job_data.roles[231].posted_date": "2026-09-14",
+    "job_data.roles[232].posted_date": "2026-09-14",
+    "job_data.roles[233].posted_date": "2026-09-14",
+    "job_data.roles[234].posted_date": "2026-09-14",
+    "job_data.roles[235].posted_date": "2026-09-14",
+    "job_data.roles[236].posted_date": "2026-09-14",
+    "job_data.roles[237].posted_date": "2026-09-14",
+    "job_data.roles[238].posted_date": "2026-09-14",
+    "job_data.roles[239].posted_date": "2026-09-14",
+    "job_data.roles[240].posted_date": "2026-09-14",
+    "job_data.roles[241].posted_date": "2026-09-14",
+    "job_data.roles[242].posted_date": "2026-09-14",
+    "job_data.roles[243].posted_date": "2026-09-14",
+    "job_data.roles[244].posted_date": "2026-09-14",
+    "job_data.roles[245].posted_date": "2026-09-14",
+    "job_data.roles[246].posted_date": "2026-09-14",
+    "job_data.roles[247].posted_date": "2026-09-14",
+    "job_data.roles[248].posted_date": "2026-09-14",
+    "job_data.roles[249].posted_date": "2026-09-14",
+    "job_data.roles[250].posted_date": "2026-09-14",
+    "job_data.roles[251].posted_date": "2026-09-14",
+    "job_data.roles[252].posted_date": "2026-09-14",
+    "job_data.roles[253].posted_date": "2026-09-14",
+    "job_data.roles[254].posted_date": "2026-09-14",
+    "job_data.roles[255].posted_date": "2026-09-14",
+    "job_data.roles[256].posted_date": "2026-09-14",
+    "job_data.roles[257].posted_date": "2026-09-14",
+    "job_data.roles[258].posted_date": "2026-09-14",
+    "job_data.roles[259].posted_date": "2026-09-14",
+    "job_data.roles[260].posted_date": "2026-09-14",
+    "job_data.roles[261].posted_date": "2026-09-14",
+    "job_data.roles[262].posted_date": "2026-09-14",
+    "job_data.roles[263].posted_date": "2026-09-14",
+    "job_data.roles[264].posted_date": "2026-09-14",
+    "job_data.roles[265].posted_date": "2026-09-14",
+    "job_data.roles[266].posted_date": "2026-09-14",
+    "job_data.roles[267].posted_date": "2026-09-14",
+    "job_data.roles[268].posted_date": "2026-09-14",
+    "job_data.roles[269].posted_date": "2026-09-14",
+    "job_data.roles[270].posted_date": "2026-09-14",
+    "job_data.roles[271].posted_date": "2026-09-14",
+    "job_data.roles[271].title_updated_timestamp": "2026-09-14T15:29:59.530Z",
+    "job_data.roles[272].posted_date": "2026-09-14",
+    "job_data.roles[273].posted_date": "2026-09-14",
+    "job_data.roles[274].posted_date": "2026-09-14",
+    "job_data.roles[275].posted_date": "2026-09-14",
+    "job_data.roles[276].posted_date": "2026-09-14",
+    "job_data.roles[277].posted_date": "2026-09-14",
+    "job_data.roles[278].posted_date": "2026-09-14",
+    "job_data.roles[279].posted_date": "2026-09-14",
+    "job_data.roles[280].posted_date": "2026-09-14",
+    "job_data.roles[281].posted_date": "2026-09-14",
+    "job_data.roles[282].posted_date": "2026-09-14",
+    "job_data.roles[283].posted_date": "2026-09-14",
+    "job_data.roles[284].posted_date": "2026-09-14",
+    "job_data.roles[285].posted_date": "2026-09-14",
+    "job_data.roles[286].posted_date": "2026-09-14",
+    "job_data.roles[287].posted_date": "2026-09-14",
+    "job_data.roles[288].posted_date": "2026-09-14",
+    "job_data.roles[289].posted_date": "2026-09-14",
+    "job_data.roles[290].posted_date": "2026-09-14",
+    "job_data.roles[291].posted_date": "2026-09-14",
+    "job_data.roles[292].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T13:00:44.675Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.health-savings-account.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.mental-health.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.parental-leave.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.flexible-hours.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.sick-leave.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.learning-development.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.gym-membership.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.meal-allowance.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.commute-allowance.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.equity-stock.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.bonus.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.visa-sponsorship.last_updated": "2026-04-23T18:41:09.892Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.company-recharge-days.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.childcare-support.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

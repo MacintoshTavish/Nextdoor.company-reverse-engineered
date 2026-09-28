@@ -1,0 +1,705 @@
+{
+  "slug": "reka-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/23695.b1cc116c319e7193.js",
+  "observed_at": "2026-09-28T08:35:56.271192+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 30318,
+    "sha256": "c38790b548a9f0414d735e0da7d109503d1d0b6060c42c200d1cc5f8b2feb2a8",
+    "elapsed_seconds": 0.156,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:56 GMT",
+      "etag": "\"bd09e489bbc43ea1098c0f5fb0136e70\"",
+      "last-modified": "Mon, 28 Sep 2026 08:26:09 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Reka AI",
+    "company_name_legal": "Reka AI, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://reka.ai",
+    "careers_url": "https://jobs.ashbyhq.com/Reka",
+    "investor_portfolio_page": null,
+    "id": 445
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 10,
+    "last_updated": "2026-09-22T15:46:50.938Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 10,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Sales Staff Member - AI Solutions",
+      "title_original": "Member of Sales Staff",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-08T15:59:27.034Z",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/88466713-98d2-4448-9c3e-8d762ae0d5ac",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "88466713-98d2-4448-9c3e-8d762ae0d5ac",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role primarily focuses on managing prospective accounts, conducting sales processes from prospecting to closing deals, and collaborating with other teams to support technical evaluations. The responsibilities and required skills clearly align with sales functions, particularly in a technical context related to AI."
+    },
+    {
+      "title": "Member of Technical Staff - Applied AI",
+      "title_original": "Member of Technical Staff (Applied AI)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-08T15:59:46.815Z",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/e059e019-b7f1-4ccb-a53b-1db4f821621c",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US, UK",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "e059e019-b7f1-4ccb-a53b-1db4f821621c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on productionizing AI models and collaborating on advancements in AI and ML, which aligns closely with the AI department. The job requires experience in machine learning and working with AI products, further solidifying its classification under AI."
+    },
+    {
+      "title": "Member of Technical Staff (Data Intelligence)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/32f1d782-9a49-4a2e-8842-ac90d002bc8d",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "32f1d782-9a49-4a2e-8842-ac90d002bc8d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on ensuring high-quality data for machine learning models, collaborating with model researchers, and building processing pipelines. The emphasis on machine learning fundamentals and data quality assessment aligns this position closely with the AI department."
+    },
+    {
+      "title": "Member of Technical Staff (GPU Performance Engineer)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/6595a48b-8dfc-479d-ba2a-0bf9d188ec4d",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "6595a48b-8dfc-479d-ba2a-0bf9d188ec4d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the GPU Performance Engineer involve designing and implementing improvements to training infrastructure, optimizing model performance, and working with low-level GPU code. These tasks align closely with engineering functions, particularly in software and hardware development for AI applications."
+    },
+    {
+      "title": "Member of Technical Staff (Machine Learning Engineer)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/87ec3e1d-3083-4dc8-9167-89167dc683e1",
+      "location_ids": [
+        "san_francisco_remote"
+      ],
+      "location_display": "Bay Area, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "87ec3e1d-3083-4dc8-9167-89167dc683e1",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on designing, building, and deploying machine learning models and systems, which aligns closely with the AI category. The job requires strong expertise in machine learning techniques and frameworks, indicating that the role is centered around AI development."
+    },
+    {
+      "title": "Member of Technical Staff (ML)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/731e2ebc-2e66-458a-9962-0bc880016941",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US, UK",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "731e2ebc-2e66-458a-9962-0bc880016941",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily focuses on machine learning, specifically on developing large deep learning models, preparing datasets, and implementing machine learning algorithms. This aligns closely with the AI category, as the role emphasizes training and evaluating models, which is a core aspect of artificial intelligence."
+    },
+    {
+      "title": "Member of Technical Staff (Robotics)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/9cdfc4f4-9594-49eb-9eaa-08aff01aa22f#loc-0",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, UK",
+      "role_department": "robotics",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "9cdfc4f4-9594-49eb-9eaa-08aff01aa22f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job description focuses primarily on developing and optimizing robotic systems, including collaboration with machine learning researchers and hardware teams. The role's responsibilities, such as building training platforms for robotics and ensuring real-world performance, align closely with the robotics category."
+    },
+    {
+      "title": "Member of Technical Staff (Robotics)",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/9cdfc4f4-9594-49eb-9eaa-08aff01aa22f#loc-1",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "9cdfc4f4-9594-49eb-9eaa-08aff01aa22f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job description focuses primarily on robotics, including building systems for intelligent robots and ensuring optimal performance in real-world operations. The responsibilities clearly align with the robotics domain, emphasizing collaboration with ML researchers and hardware teams."
+    },
+    {
+      "title": "Program Lead - AI Marketplace Operations",
+      "title_original": "Program Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-08T16:02:15.655Z",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/c888ae2c-60c9-4db4-8ed6-ca93559d4a46",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "c888ae2c-60c9-4db4-8ed6-ca93559d4a46",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Program Lead involve turning research needs into deliverable programs, managing relationships with clients, and building the supply side of the marketplace. These tasks align closely with operations, as they focus on the execution and management of processes rather than product development or direct sales."
+    },
+    {
+      "title": "Supply Lead - Marketplace Operations",
+      "title_original": "Supply Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-08T16:02:29.967Z",
+      "apply_url": "https://jobs.ashbyhq.com/Reka/eb92705f-eef6-48a9-8b92-7fff63139f65",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-08",
+      "ashby_job_id": "eb92705f-eef6-48a9-8b92-7fff63139f65",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Supply Lead involve building and managing a supply chain of partner businesses and contributors, capacity forecasting, and ensuring contributor experience and retention. These tasks align closely with operations, particularly in the context of managing a marketplace and supply side."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Altrincham",
+      "state": "Greater Manchester",
+      "country": "United Kingdom",
+      "latitude": 53.3865,
+      "longitude": -2.347,
+      "exact_address": "3rd Floor, 1 Ashley Road, Altrincham, Cheshire, Greater Manchester, United Kingdom - WA14 2DT",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7381374,
+      "longitude": -73.9823202,
+      "exact_address": "220 E 23rd St, New York, NY 10010",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3829,
+      "longitude": -122.0308,
+      "exact_address": "530 Lawrence Expy PMB 9004, Sunnyvale, California 94085, United States",
+      "departments": [
+        "engineering",
+        "operations",
+        "other",
+        "sales"
+      ],
+      "employee_count": "11-50"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Region",
+      "country": "Singapore",
+      "latitude": 1.2839,
+      "longitude": 103.851,
+      "exact_address": "1 Robinson Road, #17-00, AIA Tower, Singapore - 048542",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sunnyvale_office",
+      "city": "Sunnyvale",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3769,
+      "longitude": -122.0089,
+      "exact_address": "530 Lawrence Expy, PMB 9004, Sunnyvale, California, United States - 94085",
+      "departments": [
+        "ai",
+        "sales",
+        "engineering",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 5,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-09-08T15:24:01.516Z",
+    "current_valuation_usd": "$1B",
+    "current_valuation_usd_last_updated": "2026-09-08T15:24:01.516Z",
+    "total_funding_raised": "$170M",
+    "total_funding_raised_last_updated": "2026-09-08T15:24:01.516Z",
+    "key_investors": [
+      {
+        "name": "DST Global",
+        "domain": "dst-global.com"
+      },
+      {
+        "name": "Radical Ventures",
+        "domain": "radical.vc"
+      },
+      {
+        "name": "Snowflake",
+        "domain": ""
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Bond",
+        "domain": "bond.vc"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "Radical Ventures",
+        "logo_url": "/investor-logos/radical-ventures.png"
+      },
+      {
+        "name": "Snowflake",
+        "logo_url": "/investor-logos/snowflake.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Bond",
+        "logo_url": "/investor-logos/bond.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-08T15:24:01.516Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    },
+    "key_investors_cleaned_reason": "Removed 6 self-evidently-garbage entries that were nav/page-scraping artifacts, not real investors: 'Explore content categories', 'Explore related topics', 'Reka AI's co-founders', 'Sell Reka AI Stock', 'Meta re', 'People'. Remaining investors (DST Global Partners, Radical Ventures, Snowflake, Nvidia, Bond) are all legitimate, independently verifiable names."
+  },
+  "benefits_fields": [
+    "privilege-leave",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "remote-work",
+    "visa-sponsorship",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[4].image_source": "linkedin_profile",
+    "leadership.founders[4].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[11].location_source": "searchapi-maps",
+    "location_mapping[11].location_source_query": "Reka office new york",
+    "location_mapping[12].location_source": "perplexity",
+    "location_mapping[14].location_source": "perplexity",
+    "location_mapping[15].location_source": "perplexity",
+    "location_mapping[16].source": "ai_inference_upsert",
+    "job_data.roles[4].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-08T15:24:01.516Z",
+    "company_basic_information.website_url_last_updated": "2026-09-08T15:24:01.516Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-08T15:24:01.516Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-08T15:24:01.516Z",
+    "company_basic_information.last_updated": "2026-09-08",
+    "leadership.founders[0].image_url_last_updated": "2026-09-08T16:05:24.708Z",
+    "leadership.founders[0].description_last_updated": "2026-09-08T16:07:15.845Z",
+    "leadership.founders[1].image_url_last_updated": "2026-09-08T16:05:45.439Z",
+    "leadership.founders[1].description_last_updated": "2026-09-08T16:07:24.712Z",
+    "leadership.founders[2].image_url_last_updated": "2026-09-08T16:06:03.611Z",
+    "leadership.founders[2].description_last_updated": "2026-09-08T16:07:33.027Z",
+    "leadership.founders[3].image_url_last_updated": "2026-09-08T16:06:22.117Z",
+    "leadership.founders[3].description_last_updated": "2026-09-08T16:07:42.873Z",
+    "leadership.founders[4].image_url_last_updated": "2026-09-08T16:06:40.793Z",
+    "leadership.founders[4].description_last_updated": "2026-09-08T16:07:51.783Z",
+    "social_media.x_url_last_updated": "2026-09-08",
+    "social_media.linkedin_url_last_updated": "2026-09-08",
+    "social_media.instagram_url_last_updated": "2026-09-08",
+    "business_details.industry_domains_last_updated": "2026-09-08",
+    "financial_information.funding_stage_last_updated": "2026-09-08T15:24:01.516Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-08T15:24:01.516Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-08T15:24:01.516Z",
+    "financial_information.investor_logos_last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[0].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[1].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[2].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[3].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[4].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[5].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[6].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[7].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[8].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[9].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[10].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[11].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[12].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[13].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[14].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[15].last_updated": "2026-09-08T15:24:01.516Z",
+    "location_mapping[16].last_updated": "2026-09-08T16:00:54.565Z",
+    "job_data.roles[0].posted_date": "2026-09-08",
+    "job_data.roles[0].title_updated_timestamp": "2026-09-08T15:59:27.034Z",
+    "job_data.roles[1].posted_date": "2026-09-08",
+    "job_data.roles[1].title_updated_timestamp": "2026-09-08T15:59:46.815Z",
+    "job_data.roles[2].posted_date": "2026-09-08",
+    "job_data.roles[3].posted_date": "2026-09-08",
+    "job_data.roles[4].posted_date": "2026-09-08",
+    "job_data.roles[5].posted_date": "2026-09-08",
+    "job_data.roles[6].posted_date": "2026-09-08",
+    "job_data.roles[7].posted_date": "2026-09-08",
+    "job_data.roles[8].posted_date": "2026-09-08",
+    "job_data.roles[8].title_updated_timestamp": "2026-09-08T16:02:15.655Z",
+    "job_data.roles[9].posted_date": "2026-09-08",
+    "job_data.roles[9].title_updated_timestamp": "2026-09-08T16:02:29.967Z",
+    "job_data.last_updated": "2026-09-22T15:46:50.938Z",
+    "benefits.privilege-leave.last_updated": "2026-09-08T16:04:33.598Z",
+    "benefits.health-insurance.last_updated": "2026-09-08T16:04:33.598Z",
+    "benefits.dental-insurance.last_updated": "2026-09-08T16:04:33.598Z",
+    "benefits.vision-insurance.last_updated": "2026-09-08T16:04:33.598Z",
+    "benefits.remote-work.last_updated": "2026-09-08T16:04:33.598Z",
+    "benefits.visa-sponsorship.last_updated": "2026-09-08T16:04:33.598Z"
+  }
+}

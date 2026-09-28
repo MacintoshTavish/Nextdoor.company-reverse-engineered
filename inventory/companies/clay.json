@@ -1,0 +1,1306 @@
+{
+  "slug": "clay",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/36979.786bf30df87fa7b6.js",
+  "observed_at": "2026-09-28T08:30:06.016089+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 40782,
+    "sha256": "8b3ae5802cc977c2ff5543d6fa72013e1ccef3e37cfaa7a717a5ddaffb6d8d90",
+    "elapsed_seconds": 0.471,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:05 GMT",
+      "etag": "\"8709531a0c7d76777c007f2654845d50\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:05 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Clay",
+    "company_name_legal": "Clay Technologies, Inc.",
+    "founded_year": 2019,
+    "website_url": "https://www.clay.com",
+    "careers_url": "https://jobs.ashbyhq.com/claylabs",
+    "investor_portfolio_page": null,
+    "id": 295
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 58,
+    "last_updated": "2026-09-24T09:34:25.648Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 58,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/b78d32ca-01c1-432d-8af9-4c21ec3c005a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": "$120k-150k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-25",
+      "ashby_job_id": "b78d32ca-01c1-432d-8af9-4c21ec3c005a"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/1a19cbf3-916e-4723-8edf-f3e2c12b3494",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": "$250k-350k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-05-23",
+      "ashby_job_id": "1a19cbf3-916e-4723-8edf-f3e2c12b3494"
+    },
+    {
+      "title": "Data Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/84eb158a-b39d-4048-9c9f-66fc55a24224",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": "$130k-200k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-26",
+      "ashby_job_id": "84eb158a-b39d-4048-9c9f-66fc55a24224"
+    },
+    {
+      "title": "Deal Desk Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/1ad2a991-cc6a-4645-a6b8-18ae61737d6d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "$120k-150k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-18",
+      "ashby_job_id": "1ad2a991-cc6a-4645-a6b8-18ae61737d6d"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/2eba1b88-d3d2-4c80-a506-b367d85110bd",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$175k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-06-18",
+      "ashby_job_id": "2eba1b88-d3d2-4c80-a506-b367d85110bd"
+    },
+    {
+      "title": "FP&A",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/11523b92-635e-4865-8ed0-59ef4c91bd53",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": "$150k-200k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-14",
+      "ashby_job_id": "11523b92-635e-4865-8ed0-59ef4c91bd53"
+    },
+    {
+      "title": "Growth Strategist, Enterprise (Customer Success)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/c605042d-1bd4-4e0d-aa82-d92a2abecb59",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": "$150k-210k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-15",
+      "ashby_job_id": "c605042d-1bd4-4e0d-aa82-d92a2abecb59"
+    },
+    {
+      "title": "Growth Strategist, Enterprise (Customer Success)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-16",
+      "ashby_job_id": "9d4828b2-8c23-406d-8225-b916ff9174c0"
+    },
+    {
+      "title": "GTME Ecosystem - GTME & AI Teacher",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/1b1c004f-0e6a-41b6-bac3-971448b63a07",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": "$125k-190k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "1b1c004f-0e6a-41b6-bac3-971448b63a07"
+    },
+    {
+      "title": "Head of GTM Architecture",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/0df88e24-28da-4376-956d-926111832a32",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-10",
+      "ashby_job_id": "0df88e24-28da-4376-956d-926111832a32"
+    },
+    {
+      "title": "Legal Operations",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/7bd9060f-12cf-4e5b-af99-681008be6967",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": "$150k-190k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "7bd9060f-12cf-4e5b-af99-681008be6967"
+    },
+    {
+      "title": "Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/dca9faf7-a118-4237-bcf8-d7562aab3c49",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-24",
+      "ashby_job_id": "dca9faf7-a118-4237-bcf8-d7562aab3c49"
+    },
+    {
+      "title": "Product Design",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/67a53448-184d-48e4-a040-d17fc7f59b37",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": "$160k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2024-08-28",
+      "ashby_job_id": "67a53448-184d-48e4-a040-d17fc7f59b37"
+    },
+    {
+      "title": "Product Designer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/a284a622-0736-4558-be7a-76434f0dd147",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": "$160k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-22",
+      "ashby_job_id": "a284a622-0736-4558-be7a-76434f0dd147"
+    },
+    {
+      "title": "Revenue Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/82ca7670-1083-46e6-9ab4-a722fe535ef3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": "$120k-150k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "82ca7670-1083-46e6-9ab4-a722fe535ef3"
+    },
+    {
+      "title": "Sales Manager (GTME)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/0bfc4016-f5b2-4957-a305-ec5dd96d4fa4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-31",
+      "ashby_job_id": "0bfc4016-f5b2-4957-a305-ec5dd96d4fa4"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/235c38ee-4c08-462d-b9b3-eadc156b1810",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": "$225k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-16",
+      "ashby_job_id": "235c38ee-4c08-462d-b9b3-eadc156b1810"
+    },
+    {
+      "title": "Software Engineer, Developer Experience (AI)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$130k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-16",
+      "ashby_job_id": "9b008b26-189b-45cf-83d8-fee117d32874"
+    },
+    {
+      "title": "Strategic Finance",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/6c65bbb9-8205-400c-b971-cd91897b6d8f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": "$170k-210k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-02-26",
+      "ashby_job_id": "6c65bbb9-8205-400c-b971-cd91897b6d8f"
+    },
+    {
+      "title": "Web Developer (Growth & Conversion Optimization)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/b17bd432-72e4-4f03-b8db-2fd677c2cfe8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$130k-160k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-03",
+      "ashby_job_id": "b17bd432-72e4-4f03-b8db-2fd677c2cfe8"
+    },
+    {
+      "title": "Account Executive (GTME - New Business)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/a6abd176-8afe-4905-a341-15d89f9acd03",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$170k-280k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-26",
+      "ashby_job_id": "a6abd176-8afe-4905-a341-15d89f9acd03"
+    },
+    {
+      "title": "GTM Ops Manager, Quote to Cash",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/0a88196b-f7ab-4340-84fa-ecf80b45705b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$140k-170k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-22",
+      "ashby_job_id": "0a88196b-f7ab-4340-84fa-ecf80b45705b"
+    },
+    {
+      "title": "Manager, Enterprise Growth (Customer Success)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/f8e696cf-55b8-4c0e-80d3-2c03abaa09a4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": "$190k-230k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-28",
+      "ashby_job_id": "f8e696cf-55b8-4c0e-80d3-2c03abaa09a4"
+    },
+    {
+      "title": "Product Support Manager",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/8f734c15-94fe-4925-aeea-0cafa0769514",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-29",
+      "ashby_job_id": "8f734c15-94fe-4925-aeea-0cafa0769514"
+    },
+    {
+      "title": "GTM Engineer - Systems and Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/f90028b7-6c35-4392-824c-105967ccd406",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$140k-200k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-09",
+      "ashby_job_id": "f90028b7-6c35-4392-824c-105967ccd406"
+    },
+    {
+      "title": "Procurement",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/4be52dd6-244b-4e27-bf4a-757a1094a82a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": "$170k-215k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "4be52dd6-244b-4e27-bf4a-757a1094a82a"
+    },
+    {
+      "title": "Sales Architect",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/80dcacfb-0a59-42b0-a38d-49abaf51716c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$160k-210k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "80dcacfb-0a59-42b0-a38d-49abaf51716c"
+    },
+    {
+      "title": "Private Equity Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/08c6786d-0ba5-4799-9259-cfff2d9d0580",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": "$170k-200k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-23",
+      "ashby_job_id": "08c6786d-0ba5-4799-9259-cfff2d9d0580"
+    },
+    {
+      "title": "ClayDR Manager (EMEA SDR Manager)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/80a86e2b-e875-43fb-8b36-8a2c70a0e5b0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "80a86e2b-e875-43fb-8b36-8a2c70a0e5b0"
+    },
+    {
+      "title": "Sales Manager (GTME)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/f64feda8-7231-4c39-be5f-71a192efc6b9",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-02",
+      "ashby_job_id": "f64feda8-7231-4c39-be5f-71a192efc6b9"
+    },
+    {
+      "title": "Manager - Strategic Growth for Customer Success",
+      "title_original": "Manager, Strategic Growth",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-27T19:17:14.015Z",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/73f9d129-1ea8-43cd-b69a-e08015aa057f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "73f9d129-1ea8-43cd-b69a-e08015aa057f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on leading a team that acts as trusted advisors to enterprise customers, driving revenue growth, retention, and building executive relationships. This aligns closely with the Customer Success department, as the role emphasizes customer engagement and strategic account management."
+    },
+    {
+      "title": "Accounting Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/8ad9e4f3-d9f7-4f9d-bebb-b3f0efd22ac7",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "8ad9e4f3-d9f7-4f9d-bebb-b3f0efd22ac7"
+    },
+    {
+      "title": "DACH Partner Manager (German Speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/ada9ebd0-bbae-40a3-9c6e-b9701369daaa",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "ada9ebd0-bbae-40a3-9c6e-b9701369daaa"
+    },
+    {
+      "title": "Growth Strategist, Strategic (Customer Success)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/17e101f5-5d06-46d1-861c-a7edb71f650d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "17e101f5-5d06-46d1-861c-a7edb71f650d"
+    },
+    {
+      "title": "Growth Strategy Enablement",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/234bb7bc-5cb8-4df9-9fdf-6320d01519d4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "234bb7bc-5cb8-4df9-9fdf-6320d01519d4"
+    },
+    {
+      "title": "Marketing Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/ea299008-9502-4ede-96f3-d5cb94627f51",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "ea299008-9502-4ede-96f3-d5cb94627f51"
+    },
+    {
+      "title": "Data Science & Analytics Manager",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/fe6c6fa6-67e0-40e7-bf2c-496134f983d3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "fe6c6fa6-67e0-40e7-bf2c-496134f983d3"
+    },
+    {
+      "title": "Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/f257525f-dfe1-4a88-9bb5-f14891dc37e5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "f257525f-dfe1-4a88-9bb5-f14891dc37e5"
+    },
+    {
+      "title": "Growth and Adoption Marketing Manager",
+      "title_original": "Growth, Adoption",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T20:39:48.697Z",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/771aabc8-f18e-4890-8813-95132972c2ac",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "771aabc8-f18e-4890-8813-95132972c2ac",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on driving product adoption through lifecycle marketing strategies, including email and in-app communications, experimentation, and collaboration with various teams to enhance user engagement. The emphasis on marketing channels and product-led growth clearly aligns this position with the marketing department."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "d04f47c4-aed6-481d-a093-74c2ae4f3432"
+    },
+    {
+      "title": "Software Engineer, Applied AI",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1"
+    },
+    {
+      "title": "Software Engineer, Backend (Infrastructure & Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/29f84bd5-71d5-411f-a3dc-3592949a5240",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "29f84bd5-71d5-411f-a3dc-3592949a5240"
+    },
+    {
+      "title": "Software Engineer, Backend (Product)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/9aeacdb4-2364-40b8-935e-c561af931b5a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "9aeacdb4-2364-40b8-935e-c561af931b5a"
+    },
+    {
+      "title": "Software Engineer, Data Products & Platform",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/046cb127-d5fc-444f-a2a9-fb4029d6a503",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "046cb127-d5fc-444f-a2a9-fb4029d6a503"
+    },
+    {
+      "title": "Software Engineer, Full Stack (Product)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "4b20eb92-c27c-46fb-8d5b-ead32765a7d8"
+    },
+    {
+      "title": "Software Engineer (Prior Staff / Principal Experience)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/c4fbbd86-b329-4a5e-9f08-f09f2d7c868d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "c4fbbd86-b329-4a5e-9f08-f09f2d7c868d"
+    },
+    {
+      "title": "Account Executive (GTME - Strategic)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/a8a6642c-19a9-4d43-ba01-22608fb70e01",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a8a6642c-19a9-4d43-ba01-22608fb70e01"
+    },
+    {
+      "title": "Account Executive (GTME - Top Accounts/Strategic)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/e9c90955-db04-4fc3-b70d-ebc115557e83",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e9c90955-db04-4fc3-b70d-ebc115557e83"
+    },
+    {
+      "title": "GTM Engineer Manager - Seller Efficiency",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/546b27c1-8808-4808-bd98-5c6cad88d88c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "546b27c1-8808-4808-bd98-5c6cad88d88c"
+    },
+    {
+      "title": "IT Operations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/8d842974-0bee-4b13-bad5-dcc34848f69c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "8d842974-0bee-4b13-bad5-dcc34848f69c"
+    },
+    {
+      "title": "IT Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/41246b56-fd7c-4b2c-af73-ce64cbfb3b21",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "41246b56-fd7c-4b2c-af73-ce64cbfb3b21"
+    },
+    {
+      "title": "Technical Partnerships Solutions",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/c9768233-3f8a-431c-b3ad-a3e388fdb85e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c9768233-3f8a-431c-b3ad-a3e388fdb85e"
+    },
+    {
+      "title": "Account Executive (GTME - New Business)",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/b4d7e281-39ff-4d7b-bf16-940eb8b85a90",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "b4d7e281-39ff-4d7b-bf16-940eb8b85a90"
+    },
+    {
+      "title": "ClayDR (Sales Development Representative) - SF",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/c2c47ee2-0e67-410a-8465-8c87ca6a7509",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "c2c47ee2-0e67-410a-8465-8c87ca6a7509"
+    },
+    {
+      "title": "Partner & Marketplace Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/d3bd708c-4b20-45c9-9522-f38abc30ca06",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "d3bd708c-4b20-45c9-9522-f38abc30ca06"
+    },
+    {
+      "title": "Product Marketing, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/6579de6f-b5df-46df-bb73-e8d82955f293",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "6579de6f-b5df-46df-bb73-e8d82955f293"
+    },
+    {
+      "title": "VC Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/1b0b7eeb-2b79-420f-b0e1-6c5134e2c185",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "1b0b7eeb-2b79-420f-b0e1-6c5134e2c185"
+    },
+    {
+      "title": "Workplace Experience Manager",
+      "apply_url": "https://jobs.ashbyhq.com/claylabs/5c842630-800d-4288-977c-d3e6088ebda9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "5c842630-800d-4288-977c-d3e6088ebda9"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.7915303,
+      "longitude": -84.3998049,
+      "exact_address": "271 17th St NW, Suite 610, Atlanta, Georgia, United States - 30363",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.3193383,
+      "longitude": -97.60331719999999,
+      "exact_address": "8707 Lindell Ln, Austin, TX 78724",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3424665,
+      "longitude": -71.0641247,
+      "exact_address": "75 Thayer St, Boston, MA 02118",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8865964,
+      "longitude": -87.6267835,
+      "exact_address": "35 E Wacker Dr Ste 1300, Chicago, IL 60601, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7496,
+      "longitude": -104.9972,
+      "exact_address": "1624 Market St, Ste 226, #30327, Denver, CO 80202, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5189,
+      "longitude": -0.1124,
+      "exact_address": "3 Waterhouse Square, Suite 3040, 138 Holborn, London, England, United Kingdom - EC1N 2SW",
+      "departments": [
+        "marketing",
+        "customer-support",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.06405,
+      "longitude": -118.2364994,
+      "exact_address": "900 N Broadway #1080, Los Angeles, CA 90012",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7271213,
+      "longitude": -80.31749719999999,
+      "exact_address": "4600 SW 75th Ave, Miami, FL 33155",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7403106,
+      "longitude": -73.9941704,
+      "exact_address": "111 W 19th Street, 5th Floor, New York, New York, United States - 10011",
+      "departments": [
+        "finance",
+        "marketing",
+        "academy-training",
+        "sales",
+        "legal",
+        "data",
+        "operations",
+        "engineering",
+        "customer-support",
+        "hr",
+        "customer-success",
+        "design",
+        "product",
+        "security"
+      ],
+      "employee_count": "90+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7984508,
+      "longitude": -122.4050332,
+      "exact_address": "300 Broadway, Suite 23, San Francisco, California, United States - 94133",
+      "departments": [
+        "marketing",
+        "academy-training",
+        "sales",
+        "customer-support"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "brooklyn_office",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7193,
+      "longitude": -73.9553,
+      "exact_address": "119 N 11th St Apt 3C, Brooklyn, New York, United States - 11249",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": "100+"
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-05-17T19:07:01.734Z",
+    "current_valuation_usd": "$3.1 billion",
+    "current_valuation_usd_last_updated": "2026-05-25T11:20:00.000Z",
+    "total_funding_raised": "$210 million",
+    "total_funding_raised_last_updated": "2026-05-17T19:07:01.734Z",
+    "key_investors": [
+      {
+        "name": "CapitalG",
+        "domain": "capitalg.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Meritech Capital",
+        "domain": "meritechcapital.com"
+      },
+      {
+        "name": "First Round Capital",
+        "domain": "firstround.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "CapitalG",
+        "logo_url": "/investor-logos/capitalg.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Meritech Capital",
+        "logo_url": "/investor-logos/meritech-capital.png"
+      },
+      {
+        "name": "First Round Capital",
+        "logo_url": "/investor-logos/first-round-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-17T19:07:01.734Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "flexible-hours",
+    "remote-work",
+    "learning-development",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[2].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[6].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[7].source": "searchapi-maps-backfill-2026-05-24",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-17T19:07:01.734Z",
+    "company_basic_information.website_url_last_updated": "2026-05-17T19:07:01.734Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-17T19:07:01.734Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-17T19:07:01.734Z",
+    "company_basic_information.last_updated": "2026-05-17",
+    "leadership.founders[0].linkedin_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T19:16:10.548Z",
+    "leadership.founders[0].description_last_updated": "2026-06-08T19:22:10.322Z",
+    "leadership.founders[1].linkedin_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T19:16:29.657Z",
+    "leadership.founders[1].description_last_updated": "2026-06-08T19:22:15.673Z",
+    "leadership.founders[2].linkedin_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[2].x_twitter_verified_at": "2026-05-18T00:00:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-06-08T19:16:48.560Z",
+    "leadership.founders[2].description_last_updated": "2026-06-08T19:22:21.550Z",
+    "social_media.x_url_verified_at": "2026-05-18T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-17",
+    "financial_information.funding_stage_last_updated": "2026-05-17T19:07:01.734Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-25T11:20:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-17T19:07:01.734Z",
+    "financial_information.investor_logos_last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[0].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[1].last_updated": "2026-05-24T09:01:26.753Z",
+    "location_mapping[2].last_updated": "2026-05-24T09:01:26.753Z",
+    "location_mapping[3].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[4].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[5].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[6].last_updated": "2026-05-24T09:01:26.753Z",
+    "location_mapping[7].last_updated": "2026-05-24T09:01:26.753Z",
+    "location_mapping[8].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[9].last_updated": "2026-05-17T19:07:01.734Z",
+    "location_mapping[10].last_updated": "2026-05-17T19:07:01.734Z",
+    "job_data.roles[0].posted_date": "2025-07-25",
+    "job_data.roles[1].posted_date": "2025-05-23",
+    "job_data.roles[2].posted_date": "2026-01-26",
+    "job_data.roles[3].posted_date": "2025-12-18",
+    "job_data.roles[4].posted_date": "2025-06-18",
+    "job_data.roles[5].posted_date": "2026-04-14",
+    "job_data.roles[6].posted_date": "2026-04-15",
+    "job_data.roles[7].posted_date": "2025-07-16",
+    "job_data.roles[8].posted_date": "2026-05-05",
+    "job_data.roles[9].posted_date": "2026-04-10",
+    "job_data.roles[10].posted_date": "2026-04-07",
+    "job_data.roles[11].posted_date": "2026-04-24",
+    "job_data.roles[12].posted_date": "2024-08-28",
+    "job_data.roles[13].posted_date": "2026-04-22",
+    "job_data.roles[14].posted_date": "2026-05-05",
+    "job_data.roles[15].posted_date": "2025-10-31",
+    "job_data.roles[16].posted_date": "2026-04-16",
+    "job_data.roles[17].posted_date": "2026-03-16",
+    "job_data.roles[18].posted_date": "2025-02-26",
+    "job_data.roles[19].posted_date": "2026-04-03",
+    "job_data.roles[20].posted_date": "2026-05-26",
+    "job_data.roles[21].posted_date": "2026-05-22",
+    "job_data.roles[22].posted_date": "2026-05-28",
+    "job_data.roles[23].posted_date": "2026-05-29",
+    "job_data.roles[24].posted_date": "2026-06-09",
+    "job_data.roles[25].posted_date": "2026-06-03",
+    "job_data.roles[26].posted_date": "2026-06-04",
+    "job_data.roles[27].posted_date": "2026-06-23",
+    "job_data.roles[28].posted_date": "2026-06-30",
+    "job_data.roles[29].posted_date": "2026-07-02",
+    "job_data.roles[30].posted_date": "2026-07-27",
+    "job_data.roles[30].title_updated_timestamp": "2026-07-27T19:17:14.015Z",
+    "job_data.roles[31].posted_date": "2026-08-11",
+    "job_data.roles[32].posted_date": "2026-08-11",
+    "job_data.roles[33].posted_date": "2026-08-11",
+    "job_data.roles[34].posted_date": "2026-08-11",
+    "job_data.roles[35].posted_date": "2026-08-11",
+    "job_data.roles[36].posted_date": "2026-08-25",
+    "job_data.roles[37].posted_date": "2026-08-25",
+    "job_data.roles[38].posted_date": "2026-08-25",
+    "job_data.roles[38].title_updated_timestamp": "2026-08-25T20:39:48.697Z",
+    "job_data.roles[39].posted_date": "2026-08-25",
+    "job_data.roles[40].posted_date": "2026-08-25",
+    "job_data.roles[41].posted_date": "2026-08-25",
+    "job_data.roles[42].posted_date": "2026-08-25",
+    "job_data.roles[43].posted_date": "2026-08-25",
+    "job_data.roles[44].posted_date": "2026-08-25",
+    "job_data.roles[45].posted_date": "2026-08-25",
+    "job_data.roles[46].posted_date": "2026-09-09",
+    "job_data.roles[47].posted_date": "2026-09-09",
+    "job_data.roles[48].posted_date": "2026-09-09",
+    "job_data.roles[49].posted_date": "2026-09-09",
+    "job_data.roles[50].posted_date": "2026-09-09",
+    "job_data.roles[51].posted_date": "2026-09-09",
+    "job_data.roles[52].posted_date": "2026-09-24",
+    "job_data.roles[53].posted_date": "2026-09-24",
+    "job_data.roles[54].posted_date": "2026-09-24",
+    "job_data.roles[55].posted_date": "2026-09-24",
+    "job_data.roles[56].posted_date": "2026-09-24",
+    "job_data.roles[57].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:34:25.648Z",
+    "benefits.equity-stock.last_updated": "2026-06-07T16:54:12.184Z",
+    "benefits.flexible-hours.last_updated": "2026-06-07T16:54:12.184Z",
+    "benefits.remote-work.last_updated": "2026-06-07T16:54:12.184Z",
+    "benefits.learning-development.last_updated": "2026-06-07T16:54:12.184Z",
+    "benefits.bonus.last_updated": "2026-06-07T16:54:12.184Z"
+  }
+}

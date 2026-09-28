@@ -1,0 +1,1420 @@
+{
+  "slug": "hippocratic-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/8291.708a0334163fd0cb.js",
+  "observed_at": "2026-09-28T08:32:44.318207+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 42835,
+    "sha256": "1ce6b50c142be874f2e34369767d5f7c97b06312297d289e00bf3d61241b82d2",
+    "elapsed_seconds": 0.191,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:44 GMT",
+      "etag": "\"d8a75ebfb2a0bed6ff5e0912d47b7681\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Hippocratic AI",
+    "company_name_legal": "Hippocratic AI",
+    "founded_year": 2023,
+    "website_url": "https://hippocraticai.com",
+    "careers_url": "https://jobs.ashbyhq.com/Hippocratic%20AI",
+    "investor_portfolio_page": null,
+    "id": 199
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 37,
+    "last_updated": "2026-09-26T17:55:01.191Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 37,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Clinical Solutions Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/f5a15da1-726d-462c-97fa-07651e74ca46",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "f5a15da1-726d-462c-97fa-07651e74ca46"
+    },
+    {
+      "title": "AI Engineer (Senior, Staff, Senior Staff, Principal)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/16bc4536-04ae-41c7-94f7-53b66b2572a3",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "16bc4536-04ae-41c7-94f7-53b66b2572a3"
+    },
+    {
+      "title": "Applied Scientist, Reinforcement Learning (Mid, Senior, Staff)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/7f0736ef-49ba-44a8-a734-bf26b643a690",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "7f0736ef-49ba-44a8-a734-bf26b643a690"
+    },
+    {
+      "title": "Associate Chief Medical Officer (East Coast)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/b2753765-a9f5-4e0e-ad74-b2e607cf7c08",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "b2753765-a9f5-4e0e-ad74-b2e607cf7c08"
+    },
+    {
+      "title": "Associate Chief Nursing Officer - AI in Healthcare",
+      "title_original": "Associate Chief Nursing Officer",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-03T08:23:47.270Z",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/79f892bf-9946-4fba-b1de-e61d9ed5af88",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "79f892bf-9946-4fba-b1de-e61d9ed5af88",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Associate Chief Nursing Officer revolve around nursing operations, clinical standards, and patient care, which are clearly aligned with the medical field. The role requires an active RN license and focuses on overseeing nursing practices and ensuring quality care, making 'medical' the most appropriate category."
+    },
+    {
+      "title": "Deployment Strategist (Life Sciences)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/1f9fdd19-3b9e-4b25-a2e7-d2a8c487880c",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "1f9fdd19-3b9e-4b25-a2e7-d2a8c487880c"
+    },
+    {
+      "title": "Deployment Strategist (Payor)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/a87419b3-7f73-48c2-8190-f730d1c4ed65",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "a87419b3-7f73-48c2-8190-f730d1c4ed65"
+    },
+    {
+      "title": "VP of Medical Affairs - AI Healthcare",
+      "title_original": "VP, Medical Affairs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-02-24T11:53:02.213Z",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/c8e7cb17-1934-499d-8f0b-7a5976a8ffd2",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "medical",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "c8e7cb17-1934-499d-8f0b-7a5976a8ffd2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of VP, Medical Affairs primarily focuses on defining and scaling the medical foundation of an AI-powered healthcare platform, overseeing medical strategy, governance, and compliance. The responsibilities clearly align with medical affairs, particularly in a healthcare context, making this the most appropriate category."
+    },
+    {
+      "title": "Forward Deployed Engineer (Mid/Senior)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/378e1797-b92c-4fce-98d2-03481e214bb5",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "378e1797-b92c-4fce-98d2-03481e214bb5"
+    },
+    {
+      "title": "Head of Regulatory Affairs & Quality Control",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/3b0f1de3-2517-4915-b82a-21c392c1dbd0",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "3b0f1de3-2517-4915-b82a-21c392c1dbd0",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Head of Regulatory Affairs involve leading regulatory strategy, compliance activities, and interfacing with legal teams to ensure adherence to FDA regulations. This role is heavily focused on regulatory frameworks and compliance, which aligns closely with the legal department."
+    },
+    {
+      "title": "Integration Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/e35e118e-741e-4273-862e-743131e4ea63",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "e35e118e-741e-4273-862e-743131e4ea63"
+    },
+    {
+      "title": "LLM  Inference Engineer (Mid, Sr, Staff)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "eef8a721-23de-4c20-bff0-56088b39afa0"
+    },
+    {
+      "title": "Principal, Strategic Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/b5107661-242d-403f-8331-5f10f5bf5358",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "b5107661-242d-403f-8331-5f10f5bf5358"
+    },
+    {
+      "title": "Research Scientist, Speech Technologies (Senior, Staff, Senior Staff)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/9e5b54df-7c3e-4f09-9316-dcd58d191119",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9e5b54df-7c3e-4f09-9316-dcd58d191119"
+    },
+    {
+      "title": "AI Agent Evaluator - Clinical Nursing",
+      "title_original": "AI Agent Evaluator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-14T13:37:32.619Z",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/d208bbf2-b175-4f50-b789-c6fbe20eed79",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "d208bbf2-b175-4f50-b789-c6fbe20eed79",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily involves evaluating AI-driven clinical agents in areas such as acute symptom triage and diabetes management, which are directly related to clinical care. The role requires clinical expertise and focuses on ensuring the accuracy and safety of medical recommendations, aligning it closely with the medical field."
+    },
+    {
+      "title": "Social Media and Communications Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/de54f13a-3290-4ba5-8a49-2ecc8f8a4714",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "de54f13a-3290-4ba5-8a49-2ecc8f8a4714"
+    },
+    {
+      "title": "Solutions Architect, Inbound AI Deployments",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/91baeb31-d293-4b92-b65d-66618f1ac449",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "91baeb31-d293-4b92-b65d-66618f1ac449"
+    },
+    {
+      "title": "Vice President, Customer Success (Life Sciences)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/22430150-7a6d-4d96-bf72-0600a1d7993b",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "22430150-7a6d-4d96-bf72-0600a1d7993b"
+    },
+    {
+      "title": "Vice President, Customer Success (Provider)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/2f70a216-4f8b-42cd-80d3-43383e1a0be8",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "2f70a216-4f8b-42cd-80d3-43383e1a0be8"
+    },
+    {
+      "title": "Vice President, Sales (Pharma/BioTech/MedTech)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/0fed168d-b248-4f59-b363-9d02e08e9a64",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "0fed168d-b248-4f59-b363-9d02e08e9a64"
+    },
+    {
+      "title": "VP, Enterprise Sales",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/20a4404e-4356-463a-88a0-bc291844b0ea",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "20a4404e-4356-463a-88a0-bc291844b0ea"
+    },
+    {
+      "title": "VP, Health Plan Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/4ddb6498-74b0-4fca-937a-9bff34623ba6",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "4ddb6498-74b0-4fca-937a-9bff34623ba6"
+    },
+    {
+      "title": "Agent Deployment Architect",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/eb7441fd-043b-42f8-b19e-14a6272d18fe",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "eb7441fd-043b-42f8-b19e-14a6272d18fe"
+    },
+    {
+      "title": "Customer Success Executive",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/8ed3431d-10d2-4b7f-a677-fa29a526e2ca",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "8ed3431d-10d2-4b7f-a677-fa29a526e2ca"
+    },
+    {
+      "title": "Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/32a71060-b389-4339-b52d-93048d718e61",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "32a71060-b389-4339-b52d-93048d718e61"
+    },
+    {
+      "title": "Director, Events Strategy",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/9695108a-81b0-49e0-989c-8a01eb96aa50",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9695108a-81b0-49e0-989c-8a01eb96aa50"
+    },
+    {
+      "title": "Director of Quality",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/fc993da9-fd9c-4c76-9ac2-7a3e056fb9fc",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "fc993da9-fd9c-4c76-9ac2-7a3e056fb9fc"
+    },
+    {
+      "title": "Forward Deployment Engineer (Residency Program)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "af91b9bd-4452-42c0-93d5-e1943070618e"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/9d8a02ed-ba1a-4fc0-b5cd-5fdd832a7b04",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9d8a02ed-ba1a-4fc0-b5cd-5fdd832a7b04"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/b434f69d-459e-4e76-9aa3-41d862d254f5",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "b434f69d-459e-4e76-9aa3-41d862d254f5"
+    },
+    {
+      "title": "Senior Product Data Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/9a03ddb4-5de1-454b-a6d6-42c4268dd8e2",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9a03ddb4-5de1-454b-a6d6-42c4268dd8e2"
+    },
+    {
+      "title": "Senior Recruiter, HealthTech",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/e23874ea-fd3b-4563-8ae8-082f63e5fbee",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "e23874ea-fd3b-4563-8ae8-082f63e5fbee"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/df084f5c-0683-427d-aa8e-72ea34a26de3",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "df084f5c-0683-427d-aa8e-72ea34a26de3"
+    },
+    {
+      "title": "Vice President, Customer Success (Payors)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/d83d548f-4b0d-4989-9433-161aef869845#loc-0",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "d83d548f-4b0d-4989-9433-161aef869845"
+    },
+    {
+      "title": "Vice President, Customer Success (Payors)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/d83d548f-4b0d-4989-9433-161aef869845#loc-1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "d83d548f-4b0d-4989-9433-161aef869845"
+    },
+    {
+      "title": "Vice President, Customer Success (Payors)",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/d83d548f-4b0d-4989-9433-161aef869845#loc-2",
+      "location_ids": [
+        "orange_office"
+      ],
+      "location_display": "Orange, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "d83d548f-4b0d-4989-9433-161aef869845"
+    },
+    {
+      "title": "Vice President, Government Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/Hippocratic%20AI/9a40883b-aaaf-48f1-a189-e9a794ae1053",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9a40883b-aaaf-48f1-a189-e9a794ae1053"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4441,
+      "longitude": -122.1643,
+      "exact_address": "435 Portage Avenue, Palo Alto, California 94306, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "201+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "medical",
+        "customer-success",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "akron_office",
+      "city": "Akron",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 41.0814,
+      "longitude": -81.519,
+      "exact_address": "Akron, Ohio, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_dc_office",
+      "city": "Washington",
+      "state": "D.C.",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, D.C., United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "york_office",
+      "city": "York",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9626,
+      "longitude": -76.7277,
+      "exact_address": "York, Pennsylvania, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "philadelphia_office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "exact_address": "Philadelphia, Pennsylvania, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sioux_falls_office",
+      "city": "Sioux Falls",
+      "state": "South Dakota",
+      "country": "United States",
+      "latitude": 43.5446,
+      "longitude": -96.7311,
+      "exact_address": "Sioux Falls, South Dakota, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cleveland_office",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 41.4993,
+      "longitude": -81.6944,
+      "exact_address": "Cleveland, Ohio, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "exact_address": "Minneapolis, Minnesota, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "philadelphia_remote",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "exact_address": "Philadelphia, Pennsylvania, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "cincinnati_office",
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 39.1031,
+      "longitude": -84.512,
+      "exact_address": "Cincinnati, Ohio, United States",
+      "departments": [
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_remote",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bellevue_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6101,
+      "longitude": -122.2015,
+      "exact_address": "Bellevue, Washington, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "menlo_park_office",
+      "city": "Menlo Park",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.453,
+      "longitude": -122.1817,
+      "exact_address": "Menlo Park, California, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "duarte_office",
+      "city": "Duarte",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.1394,
+      "longitude": -117.9775,
+      "exact_address": "Duarte, California, United States",
+      "departments": [
+        "customer-success",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tampa_bay_office",
+      "city": "Tampa Bay",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "exact_address": "Tampa Bay, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "orange_office",
+      "city": "Orange",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.7879,
+      "longitude": -117.8531,
+      "exact_address": "Orange, California, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-02-23T20:22:52.418Z",
+    "current_valuation_usd": "$3.5 billion",
+    "current_valuation_usd_last_updated": "2026-02-23T20:22:52.418Z",
+    "total_funding_raised": "$404 million",
+    "total_funding_raised_last_updated": "2026-02-23T20:22:52.418Z",
+    "key_investors": [
+      {
+        "name": "Avenir Growth",
+        "domain": null
+      },
+      {
+        "name": "CapitalG",
+        "domain": null
+      },
+      {
+        "name": "General Catalyst",
+        "domain": null
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "domain": null
+      },
+      {
+        "name": "Premji Invest",
+        "domain": null
+      },
+      {
+        "name": "Universal Health Services",
+        "domain": null
+      },
+      {
+        "name": "Cincinnati Children's Hospital Medical Center",
+        "domain": "cincinnatichildrens.org"
+      },
+      {
+        "name": "WellSpan Health",
+        "domain": null
+      },
+      {
+        "name": "John Doerr",
+        "domain": null
+      },
+      {
+        "name": "Rick Klausner",
+        "domain": null
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "SV Angel",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Avenir Growth",
+        "logo_url": "/investor-logos/avenir-growth.png"
+      },
+      {
+        "name": "CapitalG",
+        "logo_url": "/investor-logos/capitalg.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Premji Invest",
+        "logo_url": "/investor-logos/premji-invest.png"
+      },
+      {
+        "name": "Universal Health Services",
+        "logo_url": "/investor-logos/universal-health-services.png"
+      },
+      {
+        "name": "Cincinnati Children's Hospital Medical Center",
+        "logo_url": "/investor-logos/cincinnati-childrens.png"
+      },
+      {
+        "name": "WellSpan Health",
+        "logo_url": "/investor-logos/wellspan-health.png"
+      },
+      {
+        "name": "John Doerr",
+        "logo_url": "/investor-logos/john-doerr.png"
+      },
+      {
+        "name": "Rick Klausner",
+        "logo_url": null
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "SV Angel",
+        "logo_url": "/investor-logos/sv-angel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-23T20:22:52.418Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[19].source": "ai_inference_upsert",
+    "location_mapping[21].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-23T20:22:52.418Z",
+    "company_basic_information.website_url_last_updated": "2026-02-23T20:22:52.418Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-24T11:45:59.131Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-23T20:22:52.418Z",
+    "company_basic_information.last_updated": "2026-02-23",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-24T10:49:08.965Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-24T11:44:48.733Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:39:16.202Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:41:50.405Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-24T10:49:57.082Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-02-24T10:50:15.562Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:39:27.829Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:41:57.432Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-02-24T10:50:48.186Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-02-24T10:51:12.366Z",
+    "leadership.founders[2].image_url_last_updated": "2026-03-11T14:39:39.637Z",
+    "leadership.founders[2].description_last_updated": "2026-03-11T14:42:02.983Z",
+    "social_media.x_url_last_verified": "2026-02-24T10:51:34.835Z",
+    "social_media.linkedin_url_last_verified": "2026-02-24T10:52:19.363Z",
+    "social_media.instagram_url_last_verified": "2026-02-24T11:45:05.112Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-23T20:22:52.418Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-23T20:22:52.418Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-23T20:22:52.418Z",
+    "financial_information.investor_logos_last_updated": "2026-02-23T20:22:52.418Z",
+    "location_mapping[0].last_updated": "2026-02-23T20:22:52.418Z",
+    "location_mapping[19].last_updated": "2026-05-06T14:29:04.223Z",
+    "location_mapping[21].last_updated": "2026-06-03T08:24:03.397Z",
+    "location_mapping[25].last_updated": "2026-07-31T15:28:28.545Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[4].title_updated_timestamp": "2026-06-03T08:23:47.270Z",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[7].title_updated_timestamp": "2026-02-24T11:53:02.213Z",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.roles[14].title_updated_timestamp": "2026-08-14T13:37:32.619Z",
+    "job_data.roles[15].posted_date": "2026-09-26",
+    "job_data.roles[16].posted_date": "2026-09-26",
+    "job_data.roles[17].posted_date": "2026-09-26",
+    "job_data.roles[18].posted_date": "2026-09-26",
+    "job_data.roles[19].posted_date": "2026-09-26",
+    "job_data.roles[20].posted_date": "2026-09-26",
+    "job_data.roles[21].posted_date": "2026-09-26",
+    "job_data.roles[22].posted_date": "2026-09-26",
+    "job_data.roles[23].posted_date": "2026-09-26",
+    "job_data.roles[24].posted_date": "2026-09-26",
+    "job_data.roles[25].posted_date": "2026-09-26",
+    "job_data.roles[26].posted_date": "2026-09-26",
+    "job_data.roles[27].posted_date": "2026-09-26",
+    "job_data.roles[28].posted_date": "2026-09-26",
+    "job_data.roles[29].posted_date": "2026-09-26",
+    "job_data.roles[30].posted_date": "2026-09-26",
+    "job_data.roles[31].posted_date": "2026-09-26",
+    "job_data.roles[32].posted_date": "2026-09-26",
+    "job_data.roles[33].posted_date": "2026-09-26",
+    "job_data.roles[34].posted_date": "2026-09-26",
+    "job_data.roles[35].posted_date": "2026-09-26",
+    "job_data.roles[36].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T17:55:01.191Z"
+  }
+}

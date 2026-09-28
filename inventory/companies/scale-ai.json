@@ -1,0 +1,4184 @@
+{
+  "slug": "scale-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/28023.44d158aac635785c.js",
+  "observed_at": "2026-09-28T08:36:22.427584+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 105902,
+    "sha256": "0ac5b66cca4bc51b2f3c9fafe41d80b2297a0944d89a740c4014013ea7c32934",
+    "elapsed_seconds": 0.492,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:22 GMT",
+      "etag": "\"809c7805f2c5d7cfe03b5e085b7afd99\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:22 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Scale AI",
+    "company_name_legal": "Scale AI, Inc.",
+    "founded_year": 2016,
+    "website_url": "https://scale.com",
+    "careers_url": "https://job-boards.greenhouse.io/scaleai",
+    "investor_portfolio_page": null,
+    "id": 352
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 210,
+    "last_updated": "2026-09-24T10:07:34.613Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 210,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Engineering Manager, Agent Oversight",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4625271005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Infrastructure Software Engineer, Apps Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Infrastructure Software Engineer, Enterprise GenAI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Infrastructure Software Engineer, Enterprise AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4599700005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4658162005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Enterprise AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Network Engineer, App Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730337005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff/Senior Machine Learning Research Engineer, Intelligent Systems",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Enterprise GenAI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4569678005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4703527005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Design Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Design Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Program Manager, Technical Enablement",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager, Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4719479005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Frontier Agents Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4536659005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Frontier Agents Engineer (Applied AI)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720573005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Frontier Agents Engineer (Forward Deployed Engineering)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4694861005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Frontier Agents Engineer (Applied AI)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720478005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Frontier Agents Engineer (Forward Deployed Engineering)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4694863005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Staff Frontier Agents Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4694869005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4536653005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr. Director, (Applied AI) Forward Deployed Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722811005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4712145005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Frontier Agents Engineer (Forward Deployed Engineering)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4694865005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Head of Product Management, Forward Deployed & Strategy",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702890005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Manager, Enterprise Core Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4699779005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Advisory Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4715970005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Advisory Principal",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4715976005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Enterprise Account Executive (Financial Services)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689917005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Enterprise Account Executive (Healthcare & Life Sciences)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689919005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Head of GTM Strategy & Operations, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4662232005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Program Manager, Sales Enablement",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4727138005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Solutions Engineer, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4554440005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Solutions Engineer, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4642876005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Solutions Engineer, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689909005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Enterprise Deal Desk Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4725451005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Global Payroll Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Accountant",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4663533005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Strategic Finance Manager, Corporate",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722944005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Finance Systems Integration Lead",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4688021005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Data Analyst, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Data Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - AI Enablement",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer - Agentic Tooling & Productivity",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4654897005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Lead Counsel, Product and Intellectual Property",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4651614005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Communications Senior Manager, Corporate & Product (Enterprise)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718940005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Marketing Lead, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722998005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Marketing Manager, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4723000005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Workplace Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722941005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "National Security Policy, Senior Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4723002005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Full Stack - Gen AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "seattle_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA / Seattle, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, RL Environments",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Data Acquisition Lead, Frontier Environments",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4725509005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Acquisition Lead involve mapping the supply side, building commercial strategies, and closing deals to acquire data. This aligns closely with business development and sales functions, particularly in establishing partnerships and managing external relationships."
+    },
+    {
+      "title": "Enablement Manager (Support)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4716445005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Management Lead - Generative AI",
+      "title_original": "Engagement Management Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-30T09:28:48.709Z",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Engagement Management Lead revolve around managing strategic customer relationships, ensuring customer success, and driving commercial development. This role is heavily focused on building trust-based relationships with clients and navigating complex customer dynamics, which aligns closely with customer success."
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "GenAI Compliance Operations & Programs Associate",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730306005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Growth Recruiter, High Volume - Contract",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720975005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Growth Strategy & Operations Lead",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4701543005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Program Manager - Growth Operations, Contract",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720969005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "SME, Support Systems Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4684808005",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Strategic Projects Lead, Generative AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4282118005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Support Team Lead",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4716431005",
+      "location_ids": [
+        "buenos_aires_office",
+        "cordoba_office",
+        "rosario_office",
+        "mexico_city_office"
+      ],
+      "location_display": "Remote, Argentina / Mexico City, Mexico",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager, Gen AI Operations Planning",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4693449005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager, Red Team",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702122005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior AI Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720501005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior AI Product Manager, Cybersecurity",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720213005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Manager, Gen AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4675842005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Product Manager (Coding/Multimodal)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior AI Product Manager, Finance Agents",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4611776005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Research Scientist, Evaluations",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+      "location_ids": [
+        "san_francisco_office",
+        "seattle_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / Seattle, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Research Scientist, Post-Training",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+      "location_ids": [
+        "san_francisco_office",
+        "seattle_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / Seattle, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "ML Research Engineer, ML Systems",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
+      "location_ids": [
+        "san_francisco_office",
+        "seattle_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / Seattle, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Scientist, Agent Robustness",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Scientist, AI Controls and Monitoring",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4675694005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Scientist, Frontier Risk Evaluations",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4677657005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Scientist, Safety Post Training",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4696595005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Manager, Research Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718431005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior / Staff Machine Learning Research Scientist, Agents",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4488520005",
+      "location_ids": [
+        "san_francisco_office",
+        "seattle_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / Seattle, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Tech Lead Manager- MLRE, ML Systems",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4618046005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "VP, Research",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4611448005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Technical Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4683446005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Applied AI Engineer, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4413992005",
+      "location_ids": [
+        "doha_office",
+        "london_office"
+      ],
+      "location_display": "Doha, Qatar / London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4595555005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager, Saudi Arabia",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4709132005",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Engineer, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4413274005",
+      "location_ids": [
+        "doha_office",
+        "london_office"
+      ],
+      "location_display": "Doha, Qatar / London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, AI Operations, GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4725133005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Applied AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720050005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff FullStack Software Engineer, (Forward Deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4673314005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4593823005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "location_ids": [
+        "doha_office",
+        "dubai_office"
+      ],
+      "location_display": "Doha, Qatar / Dubai, UAE",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4727252005",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sales Enablement Lead",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717574005",
+      "location_ids": [
+        "dubai_office",
+        "london_office"
+      ],
+      "location_display": "Dubai, UAE / London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Strategist, Qatar",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4607930005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist role focus on growing the Global Public Sector business unit, developing go-to-market strategies, and managing relationships with government stakeholders in Qatar. This aligns closely with sales activities, particularly in terms of customer acquisition and closing deals."
+    },
+    {
+      "title": "Security Engineer, Product Security",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4643029005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA / Seattle, USA / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Infrastructure Engineer, Sandbox Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717105005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Infrastructure Engineer, Serving Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717977005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Head of International Security",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Security Engineer, Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4646888005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA / Seattle, USA / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Data Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717101005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Identity",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730512005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Identity",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4710484005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Data Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4649903005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Engineering, Physical AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718618005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4612282005",
+      "location_ids": [
+        "buenos_aires_office",
+        "cordoba_office",
+        "rosario_office",
+        "uruguay_office"
+      ],
+      "location_display": "Remote, Argentina / Uruguay",
+      "role_department": "robotics",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Operations Associate, Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4655244005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4723290005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Operations Program Manager, Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4655240005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Safety Coordinator - Robotics Lab",
+      "title_original": "Safety Coordinator / Lab Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-30T09:29:03.472Z",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702657005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Safety Coordinator / Lab Lead revolve around ensuring safety in physical testing environments for robotics and AI applications. The role involves conducting safety audits, managing lab operations, and collaborating with engineering teams, all of which are closely aligned with the robotics category."
+    },
+    {
+      "title": "Strategic Projects Lead, Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4658316005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Writer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702795005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Business Development Representative, Partnerships (Physical AI)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4694836005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Deployment Strategist",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4709157005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager (Hawaii), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4687384005",
+      "location_ids": [
+        "honolulu_office"
+      ],
+      "location_display": "Honolulu, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4726264005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
+      "location_ids": [
+        "colorado_springs_office"
+      ],
+      "location_display": "Colorado Springs, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4692188005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager, Public Sector (CO Springs)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4721010005",
+      "location_ids": [
+        "colorado_springs_office"
+      ],
+      "location_display": "Colorado Springs, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engagement Manager, Public Sector (Midwest)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4725926005",
+      "location_ids": [
+        "omaha_office"
+      ],
+      "location_display": "Omaha, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Solutions Engineer (Clearance Required)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4663481005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Subcontracts Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4727162005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4726268005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
+      "location_ids": [
+        "colorado_springs_office"
+      ],
+      "location_display": "Colorado Springs, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4633072005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager, Public Sector (Boston, MA)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730990005",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager, Public Sector (Dayton, OH)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4731017005",
+      "location_ids": [
+        "dayton_office"
+      ],
+      "location_display": "Dayton, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Deployment Strategist - DHS/DOJ",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4727671005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Deployment Strategist, Space Systems Command",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4713532005",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Partner Development Manager",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4725317005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Chief of Staff, Public Sector Engineering & Security",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "DevOps Engineer, Infrastructure & Security",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4674863005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Field Engineer, Data Engine",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
+      "location_ids": [
+        "colorado_springs_office",
+        "omaha_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "Colorado Springs, USA / Omaha, USA / St. Louis, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Field Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005",
+      "location_ids": [
+        "austin_office",
+        "colorado_springs_office",
+        "omaha_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "Austin, USA / Colorado Springs, USA / Omaha, USA / St. Louis, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Software Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
+      "location_ids": [
+        "austin_office",
+        "colorado_springs_office",
+        "honolulu_office",
+        "omaha_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "Austin, USA / Colorado Springs, USA / Honolulu, USA / Omaha, USA / St. Louis, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Infrastructure Security Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718258005",
+      "location_ids": [
+        "new_york_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / St. Louis, USA / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
+      "location_ids": [
+        "denver_office",
+        "honolulu_office",
+        "washington_office"
+      ],
+      "location_display": "Denver, USA / Honolulu, USA / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Principal Architect",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4599202005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Security Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005",
+      "location_ids": [
+        "new_york_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / St. Louis, USA / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Security Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718314005",
+      "location_ids": [
+        "new_york_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / St. Louis, USA / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Mission Software Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4720422005",
+      "location_ids": [
+        "austin_office",
+        "colorado_springs_office",
+        "honolulu_office",
+        "omaha_office",
+        "st_louis_office",
+        "washington_office"
+      ],
+      "location_display": "Austin, USA / Colorado Springs, USA / Honolulu, USA / Omaha, USA / St. Louis, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4674911005",
+      "location_ids": [
+        "san_francisco_office",
+        "st_louis_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / St. Louis, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, ARC Team",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4673771005",
+      "location_ids": [
+        "san_francisco_office",
+        "st_louis_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / St. Louis, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Frontier AI Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
+      "location_ids": [
+        "san_francisco_office",
+        "st_louis_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / St. Louis, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005",
+      "location_ids": [
+        "san_francisco_office",
+        "st_louis_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / St. Louis, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4674913005",
+      "location_ids": [
+        "san_francisco_office",
+        "st_louis_office",
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "San Francisco, USA / St. Louis, USA / New York, USA / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Team Lead, ARC Software Engineering Team",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Team Lead involve designing and implementing backend systems, managing deployment processes, and providing mentorship to engineering team members. The focus on building software and tools for deployment in complex environments aligns closely with engineering functions."
+    },
+    {
+      "title": "Strategic Projects Lead, Public Sector - Cyber",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4722928005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Product Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4713648005",
+      "location_ids": [
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005",
+      "location_ids": [
+        "new_york_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / Washington, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Manager, Agentic Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4612403005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA / Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Strategy Consultant, Frontier Tech",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4472223005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Support Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4648176005",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Subject Matter Expert - Quality Assurance",
+      "title_original": "Subject Matter Expert",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-14T11:34:20.495Z",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4704285005",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, Canada / Remote, USA",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Subject Matter Expert role primarily focuses on quality evaluation, audits, and defining quality standards, which aligns closely with quality assurance responsibilities. The job description emphasizes assessing output quality and recommending improvements, solidifying its classification under QA & Testing."
+    },
+    {
+      "title": "Finance Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4613327005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Finance Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Legal Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4613333005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Legal Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Fellow - Human Frontier Collective (Canada)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4661650005",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4661647005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Machine Learning Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Medical Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4612329005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Medical Fellow involve applying clinical expertise to design and evaluate advanced generative AI systems in healthcare, which aligns closely with the medical field. The role requires a medical degree and focuses on clinical reasoning and safety in patient care decisions, making 'medical' the most appropriate category."
+    },
+    {
+      "title": "Medical Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Medical Fellow involve applying clinical expertise to design and evaluate advanced generative AI systems in healthcare. The role requires a medical degree and focuses on clinical reasoning and decision-making, which aligns closely with the medical category."
+    },
+    {
+      "title": "Research Advisor - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4695042005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Advisor - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4693078005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "STEM Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4620719005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the STEM Fellow involve collaborating on high-impact research projects, designing and evaluating AI systems, and contributing to research publications. This aligns closely with the research and science category, as the role focuses on advanced AI research and collaboration with academic experts."
+    },
+    {
+      "title": "STEM Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the STEM Fellow involve collaborating on high-impact AI research projects, designing complex problems and datasets for evaluating AI models, and contributing to research publications. This aligns closely with the research and scientific focus of the role."
+    },
+    {
+      "title": "SWE Fellow - AI Research",
+      "title_original": "SWE Fellow - Human Frontier Collective (Canada)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-30T09:30:39.232Z",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689954005",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the SWE Fellow involve designing, evaluating, and interpreting advanced generative AI systems, which aligns closely with the AI category. The role emphasizes collaboration on high-impact AI projects and contributions to research publications, indicating a strong focus on applied AI research."
+    },
+    {
+      "title": "SWE Fellow - Human Frontier Collective (UK)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689950005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the SWE Fellow involve designing, evaluating, and interpreting advanced generative AI systems, which aligns closely with the AI category. The role emphasizes collaboration on high-impact AI projects and contributing to research publications, indicating a strong focus on applied AI research."
+    },
+    {
+      "title": "SWE Fellow - Human Frontier Collective (US)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the SWE Fellow involve designing, evaluating, and interpreting advanced generative AI systems, which aligns closely with the AI category. The role emphasizes collaboration on high-impact AI projects and contributions to research publications, indicating a strong focus on applied AI research."
+    },
+    {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - New Grad",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Designer, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Solutions Engineering Lead, Consumer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4735196005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Solutions Engineering Lead, Healthcare & Life Sciences",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4735192005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Product Management, Enterprise Core Platform",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4714727005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Payroll Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4734728005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "IT Systems Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4704551005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Associate General Counsel, Product & IP",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702785005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "washington_office"
+      ],
+      "location_display": "New York, USA / San Francisco, USA / Washington, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager, Customer Platform (GenAI)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Engineer, Gen AI",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Contributor Experience Manager - Community Engagement",
+      "title_original": "Contributor Experience Manager, Community",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:53:00.745Z",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4731928005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Contributor Experience Manager, Community focuses primarily on engaging and managing a large community of contributors, ensuring their satisfaction and participation. This aligns closely with customer success, as it emphasizes building relationships and enhancing the contributor experience through effective communication and strategic initiatives."
+    },
+    {
+      "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Designer, Global Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
+      "location_ids": [
+        "doha_office",
+        "dubai_office",
+        "london_office"
+      ],
+      "location_display": "Doha, Qatar / Dubai, UAE / London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Cloud Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4737102005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office"
+      ],
+      "location_display": "San Francisco, USA / New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Manager, Physical AI Data & Robotics",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4718559005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Lead, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4735208005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Program Manager (Cyber), Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4732222005",
+      "location_ids": [
+        "columbia_office",
+        "washington_office"
+      ],
+      "location_display": "Columbia, USA / Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4732365005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4732798005",
+      "location_ids": [
+        "denver_office",
+        "honolulu_office",
+        "washington_office"
+      ],
+      "location_display": "Denver, USA / Honolulu, USA / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineering Manager, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4715325005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Machine Learning Engineer, Public Sector",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005",
+      "location_ids": [
+        "denver_office",
+        "washington_office"
+      ],
+      "location_display": "Denver, USA / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4717642005",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - New Grad",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - New Grad",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Public Sector - New Grad",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "latitude": 24.352961,
+      "longitude": 54.4740373,
+      "exact_address": "Office 1.3, M45 - Musaffah - Musaffah Industrial - Abu Dhabi - United Arab Emirates",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.906085,
+      "longitude": -84.4787705,
+      "exact_address": "1870 The Exchange SE Ste 220 PMB 47489, Atlanta, GA 30339",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.344548,
+      "longitude": -97.741304,
+      "exact_address": "3307 Northland Drive, Suite 500, Austin, Texas, United States - 78731",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9834591,
+      "longitude": 77.5296291,
+      "exact_address": "Bhadrappa Complex, 61/1, Magadi Main Rd, near BMTC bus stop, Ranganathapura, Kesava Upanagara, Kamakshipalya, Bengaluru, Karnataka 560079, India",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "country": "United States",
+      "latitude": 33.6265179,
+      "longitude": -86.7474489,
+      "exact_address": "2401 Pawnee Village Rd, Birmingham, AL 35217",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3587,
+      "longitude": -71.0573,
+      "exact_address": "c/o Spaces Suite #1006, 75 State Street, Boston, MA 02109, United States",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "budapest_office",
+      "city": "Budapest",
+      "state": "Budapest",
+      "country": "Hungary",
+      "latitude": 47.5133672,
+      "longitude": 19.0574309,
+      "exact_address": "Budapest, Westpoint Business Center, Váci út 18-VII. emelet, 1132 Hungary",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.036641,
+      "longitude": 80.2131763,
+      "exact_address": "7/5 48th Street, 9th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083, India",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.9236636,
+      "longitude": -87.6670743,
+      "exact_address": "2299 N Clybourn Ave, Chicago, IL 60614",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cordoba_office",
+      "city": "Córdoba",
+      "state": "Córdoba",
+      "country": "Argentina",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "exact_address": "Córdoba, Córdoba, Argentina",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dammam_office",
+      "city": "Al Souq",
+      "state": "Dammam",
+      "country": "Saudi Arabia",
+      "latitude": 26.441922,
+      "longitude": 50.0966241,
+      "exact_address": "18th Street, Al Souq, Dammam 32244, Saudi Arabia",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "110042",
+      "country": "India",
+      "latitude": 28.747794,
+      "longitude": 77.13414999999999,
+      "exact_address": "M-27/1, Badli Industrial Area, Phase 1, Delhi, 110042, India",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7588,
+      "longitude": -104.9999,
+      "exact_address": "1786 Platte St, Denver, CO 80202, United States",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "doha_office",
+      "city": "Saeed Bin Al Aas",
+      "state": "Doha",
+      "country": "Qatar",
+      "latitude": 25.2695976,
+      "longitude": 51.5466361,
+      "exact_address": "Abdul Jaleel Abdul Ghani Business Center, Office 206, 2nd floor, Building No:28, Zone - 27, Street 950, Saeed Bin Al Aas, Doha, Qatar",
+      "departments": [
+        "other",
+        "ai",
+        "engineering",
+        "design",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.2891388,
+      "longitude": 55.3899661,
+      "exact_address": "26 19th St - Al Qusais Ind. First - Dubai - United Arab Emirates",
+      "departments": [
+        "other",
+        "legal",
+        "engineering",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9528524,
+      "longitude": -3.1980243,
+      "exact_address": "34/36 Rose St N Ln, Edinburgh EH2 2NP, United Kingdom",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.4238,
+      "longitude": 78.4542,
+      "exact_address": "Flat No. 101 & 102, Dwaraka Apartments, Somajiguda, Hyderabad, Telangana, India - 500082",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "jeddah_office",
+      "city": "As Salamah",
+      "state": "Jeddah",
+      "country": "Saudi Arabia",
+      "latitude": 21.5804568,
+      "longitude": 39.1498607,
+      "exact_address": "6650 Al Yamamah, As Salamah, Jeddah 23436, Saudi Arabia",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5130843,
+      "longitude": -0.2234897,
+      "exact_address": "58 Wood Ln, London W12 7RZ, United Kingdom",
+      "departments": [
+        "engineering",
+        "product",
+        "other",
+        "legal",
+        "research",
+        "ai",
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0253416,
+      "longitude": -118.3598473,
+      "exact_address": "5244 W Jefferson Blvd, Los Angeles, CA 90016",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": "Greater Manchester",
+      "country": "United Kingdom",
+      "latitude": 53.4802355,
+      "longitude": -2.2429661,
+      "exact_address": "chancery place, 50 Brown St, Manchester M2 2JG, United Kingdom",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "other",
+        "operations",
+        "product",
+        "robotics",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.814374,
+      "longitude": -80.1956575,
+      "exact_address": "4100 N Miami Ave Suite 201, Miami, FL 33127",
+      "departments": [
+        "finance",
+        "legal",
+        "ai",
+        "other",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec H2K",
+      "country": "Canada",
+      "latitude": 45.530206,
+      "longitude": -73.55726,
+      "exact_address": "2065 Rue Parthenais Local 288, Montreal, Quebec H2K 3T1, Canada",
+      "departments": [
+        "ai",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.10683,
+      "longitude": 72.86934,
+      "exact_address": "Level 4, A Wing, Dynasty Business Park, Andheri-Kurla Road, Andheri East, Mumbai, Maharashtra, India - 400059",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "product",
+        "operations",
+        "sales",
+        "legal",
+        "marketing",
+        "research",
+        "other",
+        "qa",
+        "academy-training",
+        "security",
+        "robotics",
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5158316,
+      "longitude": 73.86197589999999,
+      "exact_address": "71, Ganesh Peth Dawat Hotel Chowk Near Ganesh Peth Police Chowky, Pune, Maharashtra 411002, India",
+      "departments": [
+        "product",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 24.7789495,
+      "longitude": 46.6322801,
+      "exact_address": "3989، 7022 Qanat As Suwais, Al Aqiq, 3989, Riyadh 11414, Saudi Arabia",
+      "departments": [
+        "engineering",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rosario_office",
+      "city": "Rosario",
+      "state": "Santa Fe",
+      "country": "Argentina",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "exact_address": "Rosario, Santa Fe, Argentina",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7719,
+      "longitude": -122.4032,
+      "exact_address": "650 Townsend Street, San Francisco, California, United States - 94103",
+      "departments": [
+        "engineering",
+        "product",
+        "ai",
+        "operations",
+        "sales",
+        "other",
+        "finance",
+        "marketing",
+        "legal",
+        "hr",
+        "research",
+        "qa",
+        "academy-training",
+        "security",
+        "robotics",
+        "content-production",
+        "consulting"
+      ],
+      "employee_count": "1000+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.531081099999994,
+      "longitude": -122.3688851,
+      "exact_address": "7927 28th Ave SW, Seattle, WA 98126",
+      "departments": [
+        "research",
+        "product",
+        "engineering",
+        "ai",
+        "security",
+        "sales",
+        "finance",
+        "legal",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "st_louis_office",
+      "city": "St. Louis",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 38.6288,
+      "longitude": -90.1997,
+      "exact_address": "120 S. Central Avenue, Suite 1275, St. Louis, Missouri, United States - 63105",
+      "departments": [
+        "ai",
+        "product",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.649556,
+      "longitude": -79.377328,
+      "exact_address": "36 King Street East, Suite 400, Toronto, Ontario, Canada - M5C 3B2",
+      "departments": [
+        "ai",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "ai",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.0854036,
+      "longitude": -122.6538046,
+      "exact_address": "DuPont, WA 98327",
+      "departments": [
+        "security",
+        "engineering",
+        "other",
+        "marketing",
+        "research",
+        "data",
+        "operations",
+        "ai",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "honolulu_office",
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "country": "United States",
+      "latitude": 21.327687,
+      "longitude": -157.882303,
+      "exact_address": "1914 Hau St, Honolulu, HI 96819",
+      "departments": [
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "colorado_springs_office",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 38.921945,
+      "longitude": -104.862315,
+      "exact_address": "5125 Centennial Boulevard, Suite 200, Colorado Springs, Colorado, United States - 80919",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hampton_roads_office",
+      "city": "Hampton Roads",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 36.8508,
+      "longitude": -76.2859,
+      "exact_address": "Hampton Roads, Virginia, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "uruguay_office",
+      "city": "Montevideo",
+      "state": "Montevideo",
+      "country": "Uruguay",
+      "latitude": -34.9011,
+      "longitude": -56.1645,
+      "exact_address": "Montevideo, Montevideo, Uruguay",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "columbia_office",
+      "city": "Columbia",
+      "state": "Maryland",
+      "country": "United States",
+      "latitude": 39.2037,
+      "longitude": -76.861,
+      "exact_address": "Columbia, Maryland, United States",
+      "departments": [
+        "product",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "omaha_office",
+      "city": "Omaha",
+      "state": "Nebraska",
+      "country": "United States",
+      "latitude": 41.2565,
+      "longitude": -95.9345,
+      "exact_address": "Omaha, Nebraska, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dayton_office",
+      "city": "Dayton",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 39.7589,
+      "longitude": -84.1916,
+      "exact_address": "Dayton, Ohio, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-g",
+    "funding_stage_last_updated": "2026-06-30T09:11:38.520Z",
+    "current_valuation_usd": "$29B",
+    "current_valuation_usd_last_updated": "2026-06-30T09:11:38.520Z",
+    "total_funding_raised": "$54 million",
+    "total_funding_raised_last_updated": "2026-06-30T09:11:38.520Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-30T09:11:38.520Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "learning-development",
+    "unlimited-pto",
+    "equity-stock",
+    "commute-allowance",
+    "mental-health",
+    "parental-leave",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "searchapi-maps",
+    "location_mapping[0].location_source_query": "Scale office Abu Dhabi Abu Dhabi",
+    "location_mapping[1].location_source": "searchapi-maps",
+    "location_mapping[1].location_source_query": "Scale office atlanta",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[3].location_source": "searchapi-maps",
+    "location_mapping[3].location_source_query": "Scale office bengaluru",
+    "location_mapping[4].location_source": "searchapi-maps",
+    "location_mapping[4].location_source_query": "Scale office birmingham",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "searchapi-maps",
+    "location_mapping[6].location_source_query": "Scale office Budapest",
+    "location_mapping[8].location_source": "searchapi-maps",
+    "location_mapping[8].location_source_query": "Scale office chennai",
+    "location_mapping[9].location_source": "searchapi-maps",
+    "location_mapping[9].location_source_query": "Scale office chicago",
+    "location_mapping[11].location_source": "searchapi-maps",
+    "location_mapping[11].location_source_query": "Scale dammam",
+    "location_mapping[12].location_source": "searchapi-maps",
+    "location_mapping[12].location_source_query": "Scale office delhi",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[14].location_source": "searchapi-maps",
+    "location_mapping[14].location_source_query": "Scale office doha",
+    "location_mapping[15].location_source": "searchapi-maps",
+    "location_mapping[15].location_source_query": "Scale office dubai",
+    "location_mapping[16].location_source": "searchapi-maps",
+    "location_mapping[16].location_source_query": "Scale office edinburgh",
+    "location_mapping[17].location_source": "perplexity",
+    "location_mapping[18].location_source": "searchapi-maps",
+    "location_mapping[18].location_source_query": "Scale office jeddah",
+    "location_mapping[19].location_source": "searchapi-maps",
+    "location_mapping[19].location_source_query": "Scale office london",
+    "location_mapping[20].location_source": "searchapi-maps",
+    "location_mapping[20].location_source_query": "Scale office los angeles",
+    "location_mapping[21].location_source": "searchapi-maps",
+    "location_mapping[21].location_source_query": "Scale office Manchester Greater Manchester",
+    "location_mapping[23].location_source": "searchapi-maps",
+    "location_mapping[23].location_source_query": "Scale miami",
+    "location_mapping[24].location_source": "searchapi-maps",
+    "location_mapping[24].location_source_query": "Scale office montreal",
+    "location_mapping[25].location_source": "perplexity",
+    "location_mapping[27].location_source": "searchapi-maps",
+    "location_mapping[27].location_source_query": "Scale office pune",
+    "location_mapping[28].location_source": "searchapi-maps",
+    "location_mapping[28].location_source_query": "Scale office riyadh",
+    "location_mapping[30].location_source": "perplexity",
+    "location_mapping[31].location_source": "searchapi-maps",
+    "location_mapping[31].location_source_query": "Scale office seattle",
+    "location_mapping[32].location_source": "perplexity",
+    "location_mapping[33].location_source": "perplexity",
+    "location_mapping[34].location_source": "city-default-fallback",
+    "location_mapping[35].location_source": "searchapi-maps",
+    "location_mapping[35].location_source_query": "Scale office Washington Washington",
+    "location_mapping[36].location_source": "searchapi-maps",
+    "location_mapping[36].location_source_query": "Scale office honolulu",
+    "location_mapping[37].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description + careers_page"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-30T09:11:38.520Z",
+    "company_basic_information.website_url_last_updated": "2026-06-30T09:11:38.520Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-30T09:11:38.520Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-30T09:11:38.520Z",
+    "company_basic_information.last_updated": "2026-06-30",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-30T09:50:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-30T09:50:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-30T09:39:33.980Z",
+    "social_media.x_url_last_updated": "2026-06-30T09:23:10.216Z",
+    "social_media.linkedin_url_last_updated": "2026-06-30T09:23:10.216Z",
+    "social_media.instagram_url_last_updated": "2026-06-30T09:23:10.216Z",
+    "social_media.x_url_last_verified": "2026-06-30T09:23:10.216Z",
+    "social_media.linkedin_url_last_verified": "2026-06-30T09:23:10.216Z",
+    "social_media.instagram_url_last_verified": "2026-06-30T09:23:10.216Z",
+    "business_details.industry_domains_last_updated": "2026-06-30",
+    "financial_information.funding_stage_last_updated": "2026-06-30T09:11:38.520Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-30T09:11:38.520Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-30T09:11:38.520Z",
+    "financial_information.investor_logos_last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[0].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[1].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[2].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[3].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[4].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[5].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[6].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[7].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[8].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[9].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[10].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[11].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[12].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[13].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[14].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[15].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[16].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[17].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[18].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[19].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[20].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[21].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[22].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[23].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[24].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[25].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[26].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[27].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[28].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[29].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[30].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[31].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[32].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[33].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[34].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[35].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[36].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[37].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[38].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[39].last_updated": "2026-06-30T09:11:38.520Z",
+    "location_mapping[40].last_updated": "2026-07-14T12:15:21.741Z",
+    "location_mapping[42].last_updated": "2026-09-09T16:39:28.145Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.roles[26].posted_date": "2026-09-24",
+    "job_data.roles[27].posted_date": "2026-09-24",
+    "job_data.roles[28].posted_date": "2026-09-24",
+    "job_data.roles[29].posted_date": "2026-09-24",
+    "job_data.roles[30].posted_date": "2026-09-24",
+    "job_data.roles[31].posted_date": "2026-09-24",
+    "job_data.roles[32].posted_date": "2026-09-24",
+    "job_data.roles[33].posted_date": "2026-09-24",
+    "job_data.roles[34].posted_date": "2026-09-24",
+    "job_data.roles[35].posted_date": "2026-09-24",
+    "job_data.roles[36].posted_date": "2026-09-24",
+    "job_data.roles[37].posted_date": "2026-09-24",
+    "job_data.roles[38].posted_date": "2026-09-24",
+    "job_data.roles[39].posted_date": "2026-09-24",
+    "job_data.roles[40].posted_date": "2026-09-24",
+    "job_data.roles[41].posted_date": "2026-09-24",
+    "job_data.roles[42].posted_date": "2026-09-24",
+    "job_data.roles[43].posted_date": "2026-09-24",
+    "job_data.roles[44].posted_date": "2026-09-24",
+    "job_data.roles[45].posted_date": "2026-09-24",
+    "job_data.roles[46].posted_date": "2026-09-24",
+    "job_data.roles[47].posted_date": "2026-09-24",
+    "job_data.roles[48].posted_date": "2026-09-24",
+    "job_data.roles[49].posted_date": "2026-09-24",
+    "job_data.roles[50].posted_date": "2026-09-24",
+    "job_data.roles[51].posted_date": "2026-09-24",
+    "job_data.roles[52].posted_date": "2026-09-24",
+    "job_data.roles[53].posted_date": "2026-09-24",
+    "job_data.roles[54].posted_date": "2026-09-24",
+    "job_data.roles[55].posted_date": "2026-09-24",
+    "job_data.roles[56].posted_date": "2026-09-24",
+    "job_data.roles[57].posted_date": "2026-09-24",
+    "job_data.roles[58].posted_date": "2026-09-24",
+    "job_data.roles[59].posted_date": "2026-09-24",
+    "job_data.roles[60].posted_date": "2026-09-24",
+    "job_data.roles[60].title_updated_timestamp": "2026-06-30T09:28:48.709Z",
+    "job_data.roles[61].posted_date": "2026-09-24",
+    "job_data.roles[62].posted_date": "2026-09-24",
+    "job_data.roles[63].posted_date": "2026-09-24",
+    "job_data.roles[64].posted_date": "2026-09-24",
+    "job_data.roles[65].posted_date": "2026-09-24",
+    "job_data.roles[66].posted_date": "2026-09-24",
+    "job_data.roles[67].posted_date": "2026-09-24",
+    "job_data.roles[68].posted_date": "2026-09-24",
+    "job_data.roles[69].posted_date": "2026-09-24",
+    "job_data.roles[70].posted_date": "2026-09-24",
+    "job_data.roles[71].posted_date": "2026-09-24",
+    "job_data.roles[72].posted_date": "2026-09-24",
+    "job_data.roles[73].posted_date": "2026-09-24",
+    "job_data.roles[74].posted_date": "2026-09-24",
+    "job_data.roles[75].posted_date": "2026-09-24",
+    "job_data.roles[76].posted_date": "2026-09-24",
+    "job_data.roles[77].posted_date": "2026-09-24",
+    "job_data.roles[78].posted_date": "2026-09-24",
+    "job_data.roles[79].posted_date": "2026-09-24",
+    "job_data.roles[80].posted_date": "2026-09-24",
+    "job_data.roles[81].posted_date": "2026-09-24",
+    "job_data.roles[82].posted_date": "2026-09-24",
+    "job_data.roles[83].posted_date": "2026-09-24",
+    "job_data.roles[84].posted_date": "2026-09-24",
+    "job_data.roles[85].posted_date": "2026-09-24",
+    "job_data.roles[86].posted_date": "2026-09-24",
+    "job_data.roles[87].posted_date": "2026-09-24",
+    "job_data.roles[88].posted_date": "2026-09-24",
+    "job_data.roles[89].posted_date": "2026-09-24",
+    "job_data.roles[90].posted_date": "2026-09-24",
+    "job_data.roles[91].posted_date": "2026-09-24",
+    "job_data.roles[92].posted_date": "2026-09-24",
+    "job_data.roles[93].posted_date": "2026-09-24",
+    "job_data.roles[94].posted_date": "2026-09-24",
+    "job_data.roles[95].posted_date": "2026-09-24",
+    "job_data.roles[96].posted_date": "2026-09-24",
+    "job_data.roles[97].posted_date": "2026-09-24",
+    "job_data.roles[98].posted_date": "2026-09-24",
+    "job_data.roles[99].posted_date": "2026-09-24",
+    "job_data.roles[100].posted_date": "2026-09-24",
+    "job_data.roles[101].posted_date": "2026-09-24",
+    "job_data.roles[102].posted_date": "2026-09-24",
+    "job_data.roles[103].posted_date": "2026-09-24",
+    "job_data.roles[104].posted_date": "2026-09-24",
+    "job_data.roles[105].posted_date": "2026-09-24",
+    "job_data.roles[106].posted_date": "2026-09-24",
+    "job_data.roles[107].posted_date": "2026-09-24",
+    "job_data.roles[108].posted_date": "2026-09-24",
+    "job_data.roles[109].posted_date": "2026-09-24",
+    "job_data.roles[110].posted_date": "2026-09-24",
+    "job_data.roles[111].posted_date": "2026-09-24",
+    "job_data.roles[112].posted_date": "2026-09-24",
+    "job_data.roles[113].posted_date": "2026-09-24",
+    "job_data.roles[114].posted_date": "2026-09-24",
+    "job_data.roles[115].posted_date": "2026-09-24",
+    "job_data.roles[116].posted_date": "2026-09-24",
+    "job_data.roles[117].posted_date": "2026-09-24",
+    "job_data.roles[118].posted_date": "2026-09-24",
+    "job_data.roles[119].posted_date": "2026-09-24",
+    "job_data.roles[120].posted_date": "2026-09-24",
+    "job_data.roles[120].title_updated_timestamp": "2026-06-30T09:29:03.472Z",
+    "job_data.roles[121].posted_date": "2026-09-24",
+    "job_data.roles[122].posted_date": "2026-09-24",
+    "job_data.roles[123].posted_date": "2026-09-24",
+    "job_data.roles[124].posted_date": "2026-09-24",
+    "job_data.roles[125].posted_date": "2026-09-24",
+    "job_data.roles[126].posted_date": "2026-09-24",
+    "job_data.roles[127].posted_date": "2026-09-24",
+    "job_data.roles[128].posted_date": "2026-09-24",
+    "job_data.roles[129].posted_date": "2026-09-24",
+    "job_data.roles[130].posted_date": "2026-09-24",
+    "job_data.roles[131].posted_date": "2026-09-24",
+    "job_data.roles[132].posted_date": "2026-09-24",
+    "job_data.roles[133].posted_date": "2026-09-24",
+    "job_data.roles[134].posted_date": "2026-09-24",
+    "job_data.roles[135].posted_date": "2026-09-24",
+    "job_data.roles[136].posted_date": "2026-09-24",
+    "job_data.roles[137].posted_date": "2026-09-24",
+    "job_data.roles[138].posted_date": "2026-09-24",
+    "job_data.roles[139].posted_date": "2026-09-24",
+    "job_data.roles[140].posted_date": "2026-09-24",
+    "job_data.roles[141].posted_date": "2026-09-24",
+    "job_data.roles[142].posted_date": "2026-09-24",
+    "job_data.roles[143].posted_date": "2026-09-24",
+    "job_data.roles[144].posted_date": "2026-09-24",
+    "job_data.roles[145].posted_date": "2026-09-24",
+    "job_data.roles[146].posted_date": "2026-09-24",
+    "job_data.roles[147].posted_date": "2026-09-24",
+    "job_data.roles[148].posted_date": "2026-09-24",
+    "job_data.roles[149].posted_date": "2026-09-24",
+    "job_data.roles[150].posted_date": "2026-09-24",
+    "job_data.roles[151].posted_date": "2026-09-24",
+    "job_data.roles[152].posted_date": "2026-09-24",
+    "job_data.roles[153].posted_date": "2026-09-24",
+    "job_data.roles[154].posted_date": "2026-09-24",
+    "job_data.roles[155].posted_date": "2026-09-24",
+    "job_data.roles[156].posted_date": "2026-09-24",
+    "job_data.roles[157].posted_date": "2026-09-24",
+    "job_data.roles[158].posted_date": "2026-09-24",
+    "job_data.roles[159].posted_date": "2026-09-24",
+    "job_data.roles[160].posted_date": "2026-09-24",
+    "job_data.roles[161].posted_date": "2026-09-24",
+    "job_data.roles[162].posted_date": "2026-09-24",
+    "job_data.roles[163].posted_date": "2026-09-24",
+    "job_data.roles[164].posted_date": "2026-09-24",
+    "job_data.roles[164].title_updated_timestamp": "2026-07-14T11:34:20.495Z",
+    "job_data.roles[165].posted_date": "2026-09-24",
+    "job_data.roles[166].posted_date": "2026-09-24",
+    "job_data.roles[167].posted_date": "2026-09-24",
+    "job_data.roles[168].posted_date": "2026-09-24",
+    "job_data.roles[169].posted_date": "2026-09-24",
+    "job_data.roles[170].posted_date": "2026-09-24",
+    "job_data.roles[171].posted_date": "2026-09-24",
+    "job_data.roles[172].posted_date": "2026-09-24",
+    "job_data.roles[173].posted_date": "2026-09-24",
+    "job_data.roles[174].posted_date": "2026-09-24",
+    "job_data.roles[175].posted_date": "2026-09-24",
+    "job_data.roles[176].posted_date": "2026-09-24",
+    "job_data.roles[177].posted_date": "2026-09-24",
+    "job_data.roles[178].posted_date": "2026-09-24",
+    "job_data.roles[178].title_updated_timestamp": "2026-06-30T09:30:39.232Z",
+    "job_data.roles[179].posted_date": "2026-09-24",
+    "job_data.roles[180].posted_date": "2026-09-24",
+    "job_data.roles[181].posted_date": "2026-09-24",
+    "job_data.roles[182].posted_date": "2026-09-24",
+    "job_data.roles[183].posted_date": "2026-09-24",
+    "job_data.roles[184].posted_date": "2026-09-24",
+    "job_data.roles[185].posted_date": "2026-09-24",
+    "job_data.roles[186].posted_date": "2026-09-24",
+    "job_data.roles[187].posted_date": "2026-09-24",
+    "job_data.roles[188].posted_date": "2026-09-24",
+    "job_data.roles[189].posted_date": "2026-09-24",
+    "job_data.roles[190].posted_date": "2026-09-24",
+    "job_data.roles[191].posted_date": "2026-09-24",
+    "job_data.roles[192].posted_date": "2026-09-24",
+    "job_data.roles[192].title_updated_timestamp": "2026-09-24T10:53:00.745Z",
+    "job_data.roles[193].posted_date": "2026-09-24",
+    "job_data.roles[194].posted_date": "2026-09-24",
+    "job_data.roles[195].posted_date": "2026-09-24",
+    "job_data.roles[196].posted_date": "2026-09-24",
+    "job_data.roles[197].posted_date": "2026-09-24",
+    "job_data.roles[198].posted_date": "2026-09-24",
+    "job_data.roles[199].posted_date": "2026-09-24",
+    "job_data.roles[200].posted_date": "2026-09-24",
+    "job_data.roles[201].posted_date": "2026-09-24",
+    "job_data.roles[202].posted_date": "2026-09-24",
+    "job_data.roles[203].posted_date": "2026-09-24",
+    "job_data.roles[204].posted_date": "2026-09-24",
+    "job_data.roles[205].posted_date": "2026-09-24",
+    "job_data.roles[206].posted_date": "2026-09-24",
+    "job_data.roles[207].posted_date": "2026-09-24",
+    "job_data.roles[208].posted_date": "2026-09-24",
+    "job_data.roles[209].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:07:34.613Z",
+    "benefits.health-insurance.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.dental-insurance.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.vision-insurance.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.retirement-401k.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.learning-development.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.equity-stock.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.commute-allowance.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.mental-health.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.parental-leave.last_updated": "2026-06-30T09:35:24.074Z",
+    "benefits.team-events.last_updated": "2026-06-30T09:35:24.074Z"
+  }
+}

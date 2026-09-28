@@ -1,0 +1,205 @@
+{
+  "slug": "imt-care",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/19973.1cc67a193b116929.js",
+  "observed_at": "2026-09-28T08:32:52.745595+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7614,
+    "sha256": "830b79dae5320c9fef27dfce85a4d57dc35386a7d691df88ff92c89a70b8a3ea",
+    "elapsed_seconds": 0.167,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:52 GMT",
+      "etag": "\"e3f84936286edaff19150cd377a8f8ea\"",
+      "last-modified": "Mon, 28 Sep 2026 08:13:35 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "IMT Care",
+    "company_name_legal": "IMT Care",
+    "founded_year": 2021,
+    "website_url": "https://www.imt.care",
+    "careers_url": "https://www.ycombinator.com/companies/imt-care/jobs",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/imt-care",
+    "id": 41
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-18T15:58:37.660Z",
+    "crawl_status": "success",
+    "source": "Y Combinator Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "skills",
+    "title",
+    "visa_sponsorship",
+    "work_mode",
+    "yc_job_id",
+    "yc_role_type"
+  ],
+  "jobs": [
+    {
+      "title": "Key Account Manager : Employee Benefit Insurance",
+      "apply_url": "https://www.ycombinator.com/companies/imt-care/jobs/BXj7KQm-key-account-manager-employee-benefit-insurance",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "₹600K - ₹1.2M INR",
+      "experience": "3+ years",
+      "commitment": "Full-time",
+      "posted_date": "2025-01-18",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title matched pattern for sales"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.062664,
+      "longitude": 72.900146,
+      "exact_address": "1001, 10th Floor, Glamcent, Central Avenue Road, Chembur, Mumbai, Maharashtra 400071, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "50+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2025-10-07T14:05:33.866Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-07T14:05:33.866Z",
+    "total_funding_raised": "$500K",
+    "total_funding_raised_last_updated": "2025-10-07T14:05:33.866Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Goodwater Capital",
+        "domain": "goodwatercap.com"
+      },
+      {
+        "name": "Nurture Ventures",
+        "domain": null
+      },
+      {
+        "name": "Justin Hamilton",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Goodwater Capital",
+        "logo_url": "/investor-logos/goodwater-capital.png"
+      },
+      {
+        "name": "Nurture Ventures",
+        "logo_url": "/investor-logos/nurture.png"
+      },
+      {
+        "name": "Justin Hamilton",
+        "logo_url": "/investor-logos/justin-hamilton.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-07T14:05:33.866Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Y Combinator Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T10:08:06.412Z",
+    "company_basic_information.last_updated": "2025-10-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T08:24:19.711Z",
+    "leadership.founders[0].description_last_updated": "2026-01-29T08:32:39.731Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T08:24:28.418Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:32:45.489Z",
+    "social_media.x_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:02:52.211Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-10-07T14:05:33.866Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-07T14:05:33.866Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-07T14:05:33.866Z",
+    "financial_information.investor_logos_last_updated": "2025-10-07T14:05:33.866Z",
+    "location_mapping[0].last_updated": "2025-10-02T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2025-01-18",
+    "job_data.last_updated": "2026-09-18T15:58:37.660Z",
+    "benefits.bonus.last_updated": "2026-01-07T14:15:02.532Z",
+    "benefits.learning-development.last_updated": "2026-01-07T14:15:02.532Z"
+  }
+}

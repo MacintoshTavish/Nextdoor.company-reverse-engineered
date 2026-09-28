@@ -1,0 +1,2873 @@
+{
+  "slug": "temporal",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/79817.ed6d647d81568ecb.js",
+  "observed_at": "2026-09-28T08:37:19.910094+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 81799,
+    "sha256": "72dd4af92167b84c06b834a60a37860a76903b8eb5995e391fdbe13463faaeb6",
+    "elapsed_seconds": 0.584,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:19 GMT",
+      "etag": "\"d8d7efa5477b8f0a4a30afd08d4d0898\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:19 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "social_media",
+    "leadership",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Temporal",
+    "company_name_legal": "Temporal Technologies Inc.",
+    "founded_year": 2019,
+    "website_url": "https://temporal.io",
+    "careers_url": "https://jobs.ashbyhq.com/temporal",
+    "investor_portfolio_page": null,
+    "id": 122
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 103,
+    "last_updated": "2026-09-24T09:52:44.297Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 103,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/8d36eacb-61cf-466d-ba9a-d5849d3312eb",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "8d36eacb-61cf-466d-ba9a-d5849d3312eb"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "1aa528e5-5076-4d98-8b07-92444c692ade"
+    },
+    {
+      "title": "Business Development Representative, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/99b2768c-0ce0-425b-84a4-de0fa400c18b",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "99b2768c-0ce0-425b-84a4-de0fa400c18b"
+    },
+    {
+      "title": "Director, Global Developer Success",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "25568018-4545-448c-acef-1ac481e67d5d"
+    },
+    {
+      "title": "Director of Sales, New Logo",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/1647a4bf-f7fd-4c7f-9135-953d022c03ad#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "1647a4bf-f7fd-4c7f-9135-953d022c03ad"
+    },
+    {
+      "title": "Director of Sales, New Logo",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/1647a4bf-f7fd-4c7f-9135-953d022c03ad#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "1647a4bf-f7fd-4c7f-9135-953d022c03ad"
+    },
+    {
+      "title": "Field Marketing Manager, Sponsorship & Experiential",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/9a2e32f5-2f85-49ea-b1af-855178bb0af8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "9a2e32f5-2f85-49ea-b1af-855178bb0af8"
+    },
+    {
+      "title": "Finance Director, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/5fb4393c-d16e-47ac-b4ae-52bb0e63cd8b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5fb4393c-d16e-47ac-b4ae-52bb0e63cd8b"
+    },
+    {
+      "title": "Head of Corporate Development",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/d9a78583-cca6-4d76-96f9-846693a37815",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "d9a78583-cca6-4d76-96f9-846693a37815"
+    },
+    {
+      "title": "Head of Engineering, Compute",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/8a65908d-4f38-4b19-a0ed-453904180469",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "8a65908d-4f38-4b19-a0ed-453904180469"
+    },
+    {
+      "title": "Manager, GSI Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/9f55b2c9-9066-44b2-bb1d-4dc66d5e2c01",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "9f55b2c9-9066-44b2-bb1d-4dc66d5e2c01"
+    },
+    {
+      "title": "Manager, India Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/956e8190-8493-485d-93a8-0b84a9daec9b",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "956e8190-8493-485d-93a8-0b84a9daec9b"
+    },
+    {
+      "title": "Sales Manager (India)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/59a58e6a-d082-4b85-98f6-8dd069e26ae4",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "59a58e6a-d082-4b85-98f6-8dd069e26ae4"
+    },
+    {
+      "title": "Senior Account Executive, Majors (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/fea5e385-1ad8-47f1-8042-3c0760bb060e",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "fea5e385-1ad8-47f1-8042-3c0760bb060e"
+    },
+    {
+      "title": "Senior Account Executive, Majors - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/5858d6cf-1445-4a03-b057-a9c8526f6d48#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5858d6cf-1445-4a03-b057-a9c8526f6d48"
+    },
+    {
+      "title": "Senior Account Executive, Majors - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/5858d6cf-1445-4a03-b057-a9c8526f6d48#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5858d6cf-1445-4a03-b057-a9c8526f6d48"
+    },
+    {
+      "title": "Senior Account Executive, Majors - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/5858d6cf-1445-4a03-b057-a9c8526f6d48#loc-2",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5858d6cf-1445-4a03-b057-a9c8526f6d48"
+    },
+    {
+      "title": "Senior Account Executive, Majors (West)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/756726af-0461-4c08-98cc-6f83909e0fe1",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "756726af-0461-4c08-98cc-6f83909e0fe1"
+    },
+    {
+      "title": "Senior Account Executive, New Logo",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/2ebca428-89c2-4cd9-9b30-92bb6d20ad45",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "2ebca428-89c2-4cd9-9b30-92bb6d20ad45"
+    },
+    {
+      "title": "Senior Account Executive, New Logo - Chicago",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/7a8a7ed9-b569-450a-a649-a80db834a8f3",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7a8a7ed9-b569-450a-a649-a80db834a8f3"
+    },
+    {
+      "title": "Senior Application Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/c22959f0-eadf-4860-808b-a7c2c4e25712",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c22959f0-eadf-4860-808b-a7c2c4e25712"
+    },
+    {
+      "title": "Senior Developer Advocate, Developer Education",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/87dd32bc-a4e1-49db-9d44-f4f9702519ee",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "87dd32bc-a4e1-49db-9d44-f4f9702519ee"
+    },
+    {
+      "title": "Senior Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "915faccb-5bf1-4a1c-9a2d-ccad28fd48f7"
+    },
+    {
+      "title": "Senior Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "915faccb-5bf1-4a1c-9a2d-ccad28fd48f7"
+    },
+    {
+      "title": "Senior Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7#loc-2",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "915faccb-5bf1-4a1c-9a2d-ccad28fd48f7"
+    },
+    {
+      "title": "Senior Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7#loc-3",
+      "location_ids": [
+        "portland_office"
+      ],
+      "location_display": "Portland, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "915faccb-5bf1-4a1c-9a2d-ccad28fd48f7"
+    },
+    {
+      "title": "Senior Engineering Manager - Test Systems & Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/b656400a-bc30-4fc3-a117-b803ef42634f",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b656400a-bc30-4fc3-a117-b803ef42634f"
+    },
+    {
+      "title": "Senior Finance Analyst, Corporate",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cc464a18-0431-42ff-acc3-25ddc644d798",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cc464a18-0431-42ff-acc3-25ddc644d798"
+    },
+    {
+      "title": "Senior Manager, Solutions Architecture - New Logo",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/b4817f72-9afc-431b-919d-aea70f6cbf4c",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b4817f72-9afc-431b-919d-aea70f6cbf4c"
+    },
+    {
+      "title": "Senior Platform Architect",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/e75ff82a-19e2-470e-ac4b-49f0a87acd76",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e75ff82a-19e2-470e-ac4b-49f0a87acd76"
+    },
+    {
+      "title": "Senior Platform Architect - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/053cfe55-570a-425f-b44e-e64b2c9b28f9",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "053cfe55-570a-425f-b44e-e64b2c9b28f9"
+    },
+    {
+      "title": "Senior Product Manager, Self-Hosting and Hybrid",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/01e59346-2cf2-4123-8df1-c8a486eced72",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "01e59346-2cf2-4123-8df1-c8a486eced72"
+    },
+    {
+      "title": "Senior Professional Services Engineer - East",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/7a1e439c-c349-4cd4-8490-6e22a62005bf",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7a1e439c-c349-4cd4-8490-6e22a62005bf"
+    },
+    {
+      "title": "Senior Professional Services Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/29fbbb7e-f8d3-4424-a301-cb32b704ae16",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "29fbbb7e-f8d3-4424-a301-cb32b704ae16"
+    },
+    {
+      "title": "Senior Software Engineer, Cloud Data Storage",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3"
+    },
+    {
+      "title": "Senior Software Engineer, Cloud Growth",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a04c4545-b34e-40d4-b1ac-17f17976e93e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a04c4545-b34e-40d4-b1ac-17f17976e93e"
+    },
+    {
+      "title": "Senior Software Engineer, Cloud Platform Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ddbc1916-39a0-47ff-b868-c9e8b90569f1#loc-0",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ddbc1916-39a0-47ff-b868-c9e8b90569f1"
+    },
+    {
+      "title": "Senior Software Engineer, Cloud Platform Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ddbc1916-39a0-47ff-b868-c9e8b90569f1#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ddbc1916-39a0-47ff-b868-c9e8b90569f1"
+    },
+    {
+      "title": "Senior Software Engineer, Cloud Platform Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ddbc1916-39a0-47ff-b868-c9e8b90569f1#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ddbc1916-39a0-47ff-b868-c9e8b90569f1"
+    },
+    {
+      "title": "Senior Software Engineer, Compute (Temporal Cloud)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a"
+    },
+    {
+      "title": "Senior Software Engineer, Infrastructure Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/1929137d-1aef-4eae-9490-b934a90bc2ab",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "1929137d-1aef-4eae-9490-b934a90bc2ab"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-1",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-2",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-3",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-4",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-5",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-6",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade#loc-7",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Ontario",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade"
+    },
+    {
+      "title": "Senior Software Engineer, Open Source Server",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a6db83c0-46c3-415c-8161-621a77781d38",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a6db83c0-46c3-415c-8161-621a77781d38"
+    },
+    {
+      "title": "Senior Solutions Architect, Growth (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/c07bba44-5506-4b5b-a0e0-5367a18afe29",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c07bba44-5506-4b5b-a0e0-5367a18afe29"
+    },
+    {
+      "title": "Senior Solutions Architect, Majors (West)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/0b03268c-92ba-4092-9eec-05eb16e41b95#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0b03268c-92ba-4092-9eec-05eb16e41b95"
+    },
+    {
+      "title": "Senior Solutions Architect, Majors (West)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/0b03268c-92ba-4092-9eec-05eb16e41b95#loc-1",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0b03268c-92ba-4092-9eec-05eb16e41b95"
+    },
+    {
+      "title": "Senior Solutions Architect, Majors (West)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/0b03268c-92ba-4092-9eec-05eb16e41b95#loc-2",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0b03268c-92ba-4092-9eec-05eb16e41b95"
+    },
+    {
+      "title": "Senior Solutions Architect - Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/d9b9d44f-0a87-4237-b101-360052373643#loc-0",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "d9b9d44f-0a87-4237-b101-360052373643"
+    },
+    {
+      "title": "Senior Solutions Architect - Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/d9b9d44f-0a87-4237-b101-360052373643#loc-1",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "d9b9d44f-0a87-4237-b101-360052373643"
+    },
+    {
+      "title": "Senior Staff Engineer, Open Source Server",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/b3ba030c-dcbb-4131-9edb-90a8e03849e8",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b3ba030c-dcbb-4131-9edb-90a8e03849e8"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/4782f8ba-7b56-4fba-934b-4d691174130e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4782f8ba-7b56-4fba-934b-4d691174130e"
+    },
+    {
+      "title": "Staff Cloud Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a"
+    },
+    {
+      "title": "Staff Developer Advocate, Enterprise - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/84e898c9-621a-445f-80a2-43819d4d3a0e",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "84e898c9-621a-445f-80a2-43819d4d3a0e"
+    },
+    {
+      "title": "Staff Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    },
+    {
+      "title": "Staff Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    },
+    {
+      "title": "Staff Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65#loc-2",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    },
+    {
+      "title": "Staff Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    },
+    {
+      "title": "Staff Developer Success Engineer - West",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65#loc-4",
+      "location_ids": [
+        "portland_office"
+      ],
+      "location_display": "Portland, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    },
+    {
+      "title": "Staff Product Manager, AI Ecosystem",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ea7a9e97-de00-4603-bf85-4da5b3749270",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ea7a9e97-de00-4603-bf85-4da5b3749270"
+    },
+    {
+      "title": "Staff Product Manager,  Cloud Namespace & Capacity",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/5d4ee2f8-8ff0-4271-9292-c78df24735aa",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5d4ee2f8-8ff0-4271-9292-c78df24735aa"
+    },
+    {
+      "title": "Staff Product Manager, Core Primitives",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/7592248c-719a-485c-a1a9-9285f99ed56b",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7592248c-719a-485c-a1a9-9285f99ed56b"
+    },
+    {
+      "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4ee99986-77ad-4113-8058-891d5cc7284a"
+    },
+    {
+      "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4ee99986-77ad-4113-8058-891d5cc7284a"
+    },
+    {
+      "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a#loc-2",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4ee99986-77ad-4113-8058-891d5cc7284a"
+    },
+    {
+      "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4ee99986-77ad-4113-8058-891d5cc7284a"
+    },
+    {
+      "title": "Staff Software Engineer, Cloud Data Storage",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ceb3ae3d-3a72-4067-b13d-44350a143195",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ceb3ae3d-3a72-4067-b13d-44350a143195"
+    },
+    {
+      "title": "Staff Software Engineer, Compute (Temporal Cloud)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cfc85072-6669-4671-afd4-e860f7072668",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cfc85072-6669-4671-afd4-e860f7072668"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-2",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-3",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-4",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-5",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Observability",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66#loc-6",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66"
+    },
+    {
+      "title": "Staff Software Engineer, Open Source Server",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/f40a7b70-71c0-49f6-ba9f-1df2de9b46d9",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f40a7b70-71c0-49f6-ba9f-1df2de9b46d9"
+    },
+    {
+      "title": "Staff Software Engineer - Test Systems & Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/7365a59d-554e-41f4-9163-2fdd528a42ca",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7365a59d-554e-41f4-9163-2fdd528a42ca"
+    },
+    {
+      "title": "Staff Software Engineer, Traffic",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/05507d71-51c9-455c-80b4-2da9699a0e77",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "05507d71-51c9-455c-80b4-2da9699a0e77"
+    },
+    {
+      "title": "Staff Solutions Architect, Banking",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/db6c81bf-1af3-4792-9473-1a8ee4518a06",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "db6c81bf-1af3-4792-9473-1a8ee4518a06"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/e8dc6efc-67da-4a5d-859c-85865d6ed21d#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e8dc6efc-67da-4a5d-859c-85865d6ed21d"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/e8dc6efc-67da-4a5d-859c-85865d6ed21d#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e8dc6efc-67da-4a5d-859c-85865d6ed21d"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/e8dc6efc-67da-4a5d-859c-85865d6ed21d#loc-2",
+      "location_ids": [
+        "saint_paul_office"
+      ],
+      "location_display": "Saint Paul, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e8dc6efc-67da-4a5d-859c-85865d6ed21d"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors - East",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cdabd368-1989-4ea8-801d-2be138c16523#loc-0",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cdabd368-1989-4ea8-801d-2be138c16523"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors - East",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cdabd368-1989-4ea8-801d-2be138c16523#loc-1",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "Raleigh, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cdabd368-1989-4ea8-801d-2be138c16523"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors - East",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cdabd368-1989-4ea8-801d-2be138c16523#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cdabd368-1989-4ea8-801d-2be138c16523"
+    },
+    {
+      "title": "Staff Solutions Architect, Majors - East",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/cdabd368-1989-4ea8-801d-2be138c16523#loc-3",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cdabd368-1989-4ea8-801d-2be138c16523"
+    },
+    {
+      "title": "Staff Solutions Architect, New Logo - Central",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/de4ea341-0921-4ab0-878e-bf936021118d",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "de4ea341-0921-4ab0-878e-bf936021118d"
+    },
+    {
+      "title": "Technical Executive Communications, Senior Manager",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/30600762-62fe-4ffb-9b6e-98f145329ea3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "30600762-62fe-4ffb-9b6e-98f145329ea3"
+    },
+    {
+      "title": "Vice President, Global Corporate Controller",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/e015924f-bbf4-4401-97c3-56a179cf498e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e015924f-bbf4-4401-97c3-56a179cf498e"
+    },
+    {
+      "title": "Account Executive, Growth -Scale (East)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/3314f805-4651-47af-a8c8-e67aac2c23c7#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3314f805-4651-47af-a8c8-e67aac2c23c7"
+    },
+    {
+      "title": "Account Executive, Growth -Scale (East)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/3314f805-4651-47af-a8c8-e67aac2c23c7#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3314f805-4651-47af-a8c8-e67aac2c23c7"
+    },
+    {
+      "title": "Account Executive, Growth - Scale (West)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ce519860-6e31-49c2-a4b4-f6e9a92c3f4b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ce519860-6e31-49c2-a4b4-f6e9a92c3f4b"
+    },
+    {
+      "title": "Business Development Intern (Fall 2026)",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/70cee4cb-ce31-43b7-89a1-c7067822317a",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "70cee4cb-ce31-43b7-89a1-c7067822317a"
+    },
+    {
+      "title": "Senior Staff Product Marketing Engineer, Core and SDKs",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/66b66d5b-0aaa-4e4a-979f-96e43d846d4a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "66b66d5b-0aaa-4e4a-979f-96e43d846d4a"
+    },
+    {
+      "title": "Software Engineer, Cloud Enablement",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/7b63cf37-2bdb-462c-858c-473167563623",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "7b63cf37-2bdb-462c-858c-473167563623"
+    },
+    {
+      "title": "Staff Product Manager, Nexus",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/73279908-77f8-4488-8151-4c40f49a230d#loc-0",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "73279908-77f8-4488-8151-4c40f49a230d"
+    },
+    {
+      "title": "Staff Product Manager, Nexus",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/73279908-77f8-4488-8151-4c40f49a230d#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "73279908-77f8-4488-8151-4c40f49a230d"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Boulder",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 40.015708,
+      "longitude": -105.279739,
+      "exact_address": "1035 Pearl Street, Suite 200, Boulder, Boulder County, Colorado, United States - 80302",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.5272707,
+      "longitude": -0.0887809,
+      "exact_address": "124-128 City Road, London, United Kingdom - EC1V 2NX",
+      "departments": [
+        "engineering",
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.764743,
+      "longitude": -80.194702,
+      "exact_address": "40 SW 13th Street, Suite 802, Miami, Florida, United States - 33130",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "engineering",
+        "ai",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.74971,
+      "longitude": -73.97328,
+      "exact_address": "622 3rd Avenue, 39th Floor, New York, New York, United States - 10017",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7901454,
+      "longitude": -122.4036074,
+      "exact_address": "88 Kearny Street, Floor 19, San Francisco, California, United States - 94108",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "content-production",
+        "marketing",
+        "design",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "marketing",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering",
+        "ai",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering",
+        "ai",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bellevue_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6101,
+      "longitude": -122.2015,
+      "exact_address": "Bellevue, Washington, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "las_vegas_office",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "country": "United States",
+      "latitude": 36.1699,
+      "longitude": -115.1398,
+      "exact_address": "Las Vegas, Nevada, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ottawa_office",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "exact_address": "Ottawa, Ontario, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "exact_address": "Phoenix, Arizona, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "portland_office",
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States",
+      "latitude": 45.5152,
+      "longitude": -122.6784,
+      "exact_address": "Portland, Oregon, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_diego_office",
+      "city": "San Diego",
+      "state": "California",
+      "country": "United States",
+      "latitude": 32.7157,
+      "longitude": -117.1611,
+      "exact_address": "San Diego, California, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "saint_paul_office",
+      "city": "Saint Paul",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9537,
+      "longitude": -93.09,
+      "exact_address": "Saint Paul, Minnesota, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2025-12-09T21:03:57.770Z",
+    "current_valuation_usd": "$2.5 billion",
+    "current_valuation_usd_last_updated": "2025-12-09T21:03:57.770Z",
+    "total_funding_raised": "$426 million+",
+    "total_funding_raised_last_updated": "2025-12-09T21:03:57.770Z",
+    "key_investors": [
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "GIC",
+        "domain": "gic.com.sg"
+      },
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Greenoaks",
+        "domain": "greenoaks.com"
+      },
+      {
+        "name": "Amplify Partners",
+        "domain": "amplifypartners.com"
+      },
+      {
+        "name": "Madrona Venture Group",
+        "domain": "madrona.com"
+      },
+      {
+        "name": "Addition",
+        "domain": "addition.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "GIC",
+        "logo_url": "/investor-logos/gic.png"
+      },
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Greenoaks",
+        "logo_url": "/investor-logos/greenoaks.png"
+      },
+      {
+        "name": "Amplify Partners",
+        "logo_url": "/investor-logos/amplify.png"
+      },
+      {
+        "name": "Madrona Venture Group",
+        "logo_url": "/investor-logos/madrona-venture-group.png"
+      },
+      {
+        "name": "Addition",
+        "logo_url": "/investor-logos/addition.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-09T21:03:57.770Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "unlimited-pto",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "retirement-401k",
+    "equity-stock",
+    "learning-development",
+    "meal-allowance",
+    "wfh-setup",
+    "phone-reimbursement",
+    "mental-health",
+    "lifestyle-spending-account",
+    "professional-memberships",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-09T21:03:57.770Z",
+    "company_basic_information.website_url_last_updated": "2025-12-09T21:03:57.770Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-09T21:03:57.770Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-09T21:03:57.770Z",
+    "company_basic_information.last_updated": "2025-12-09",
+    "social_media.x_url_last_verified": "2025-12-10T12:41:05.514Z",
+    "social_media.linkedin_url_last_verified": "2025-12-10T12:43:43.480Z",
+    "social_media.instagram_url_last_verified": "2025-12-10T12:44:07.653Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-10T12:39:47.705Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-10T12:40:06.861Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:28:23.752Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:35:59.112Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-10T12:40:25.097Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-10T12:40:45.564Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:28:34.368Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:36:04.065Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:50.119Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-09T21:03:57.770Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-09T21:03:57.770Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-09T21:03:57.770Z",
+    "financial_information.investor_logos_last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[0].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[1].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[2].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[3].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[4].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[5].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[6].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[7].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[8].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[9].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[10].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[11].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[12].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[13].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[14].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[15].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[16].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[17].last_updated": "2025-12-09T21:03:57.770Z",
+    "location_mapping[50].last_updated": "2026-09-09T17:18:11.913Z",
+    "job_data.roles[0].posted_date": "2026-09-09",
+    "job_data.roles[1].posted_date": "2026-09-09",
+    "job_data.roles[2].posted_date": "2026-09-09",
+    "job_data.roles[3].posted_date": "2026-09-09",
+    "job_data.roles[4].posted_date": "2026-09-09",
+    "job_data.roles[5].posted_date": "2026-09-09",
+    "job_data.roles[6].posted_date": "2026-09-09",
+    "job_data.roles[7].posted_date": "2026-09-09",
+    "job_data.roles[8].posted_date": "2026-09-09",
+    "job_data.roles[9].posted_date": "2026-09-09",
+    "job_data.roles[10].posted_date": "2026-09-09",
+    "job_data.roles[11].posted_date": "2026-09-09",
+    "job_data.roles[12].posted_date": "2026-09-09",
+    "job_data.roles[13].posted_date": "2026-09-09",
+    "job_data.roles[14].posted_date": "2026-09-09",
+    "job_data.roles[15].posted_date": "2026-09-09",
+    "job_data.roles[16].posted_date": "2026-09-09",
+    "job_data.roles[17].posted_date": "2026-09-09",
+    "job_data.roles[18].posted_date": "2026-09-09",
+    "job_data.roles[19].posted_date": "2026-09-09",
+    "job_data.roles[20].posted_date": "2026-09-09",
+    "job_data.roles[21].posted_date": "2026-09-09",
+    "job_data.roles[22].posted_date": "2026-09-09",
+    "job_data.roles[23].posted_date": "2026-09-09",
+    "job_data.roles[24].posted_date": "2026-09-09",
+    "job_data.roles[25].posted_date": "2026-09-09",
+    "job_data.roles[26].posted_date": "2026-09-09",
+    "job_data.roles[27].posted_date": "2026-09-09",
+    "job_data.roles[28].posted_date": "2026-09-09",
+    "job_data.roles[29].posted_date": "2026-09-09",
+    "job_data.roles[30].posted_date": "2026-09-09",
+    "job_data.roles[31].posted_date": "2026-09-09",
+    "job_data.roles[32].posted_date": "2026-09-09",
+    "job_data.roles[33].posted_date": "2026-09-09",
+    "job_data.roles[34].posted_date": "2026-09-09",
+    "job_data.roles[35].posted_date": "2026-09-09",
+    "job_data.roles[36].posted_date": "2026-09-09",
+    "job_data.roles[37].posted_date": "2026-09-09",
+    "job_data.roles[38].posted_date": "2026-09-09",
+    "job_data.roles[39].posted_date": "2026-09-09",
+    "job_data.roles[40].posted_date": "2026-09-09",
+    "job_data.roles[41].posted_date": "2026-09-09",
+    "job_data.roles[42].posted_date": "2026-09-09",
+    "job_data.roles[43].posted_date": "2026-09-09",
+    "job_data.roles[44].posted_date": "2026-09-09",
+    "job_data.roles[45].posted_date": "2026-09-09",
+    "job_data.roles[46].posted_date": "2026-09-09",
+    "job_data.roles[47].posted_date": "2026-09-09",
+    "job_data.roles[48].posted_date": "2026-09-09",
+    "job_data.roles[49].posted_date": "2026-09-09",
+    "job_data.roles[50].posted_date": "2026-09-09",
+    "job_data.roles[51].posted_date": "2026-09-09",
+    "job_data.roles[52].posted_date": "2026-09-09",
+    "job_data.roles[53].posted_date": "2026-09-09",
+    "job_data.roles[54].posted_date": "2026-09-09",
+    "job_data.roles[55].posted_date": "2026-09-09",
+    "job_data.roles[56].posted_date": "2026-09-09",
+    "job_data.roles[57].posted_date": "2026-09-09",
+    "job_data.roles[58].posted_date": "2026-09-09",
+    "job_data.roles[59].posted_date": "2026-09-09",
+    "job_data.roles[60].posted_date": "2026-09-09",
+    "job_data.roles[61].posted_date": "2026-09-09",
+    "job_data.roles[62].posted_date": "2026-09-09",
+    "job_data.roles[63].posted_date": "2026-09-09",
+    "job_data.roles[64].posted_date": "2026-09-09",
+    "job_data.roles[65].posted_date": "2026-09-09",
+    "job_data.roles[66].posted_date": "2026-09-09",
+    "job_data.roles[67].posted_date": "2026-09-09",
+    "job_data.roles[68].posted_date": "2026-09-09",
+    "job_data.roles[69].posted_date": "2026-09-09",
+    "job_data.roles[70].posted_date": "2026-09-09",
+    "job_data.roles[71].posted_date": "2026-09-09",
+    "job_data.roles[72].posted_date": "2026-09-09",
+    "job_data.roles[73].posted_date": "2026-09-09",
+    "job_data.roles[74].posted_date": "2026-09-09",
+    "job_data.roles[75].posted_date": "2026-09-09",
+    "job_data.roles[76].posted_date": "2026-09-09",
+    "job_data.roles[77].posted_date": "2026-09-09",
+    "job_data.roles[78].posted_date": "2026-09-09",
+    "job_data.roles[79].posted_date": "2026-09-09",
+    "job_data.roles[80].posted_date": "2026-09-09",
+    "job_data.roles[81].posted_date": "2026-09-09",
+    "job_data.roles[82].posted_date": "2026-09-09",
+    "job_data.roles[83].posted_date": "2026-09-09",
+    "job_data.roles[84].posted_date": "2026-09-09",
+    "job_data.roles[85].posted_date": "2026-09-09",
+    "job_data.roles[86].posted_date": "2026-09-09",
+    "job_data.roles[87].posted_date": "2026-09-09",
+    "job_data.roles[88].posted_date": "2026-09-09",
+    "job_data.roles[89].posted_date": "2026-09-09",
+    "job_data.roles[90].posted_date": "2026-09-09",
+    "job_data.roles[91].posted_date": "2026-09-09",
+    "job_data.roles[92].posted_date": "2026-09-09",
+    "job_data.roles[93].posted_date": "2026-09-09",
+    "job_data.roles[94].posted_date": "2026-09-09",
+    "job_data.roles[95].posted_date": "2026-09-24",
+    "job_data.roles[96].posted_date": "2026-09-24",
+    "job_data.roles[97].posted_date": "2026-09-24",
+    "job_data.roles[98].posted_date": "2026-09-24",
+    "job_data.roles[99].posted_date": "2026-09-24",
+    "job_data.roles[100].posted_date": "2026-09-24",
+    "job_data.roles[101].posted_date": "2026-09-24",
+    "job_data.roles[102].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:52:44.297Z",
+    "benefits.unlimited-pto.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.health-insurance.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.dental-insurance.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.vision-insurance.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.life-insurance.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.retirement-401k.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.equity-stock.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.learning-development.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.meal-allowance.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.wfh-setup.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.mental-health.last_updated": "2025-12-17T19:40:23.243Z",
+    "benefits.lifestyle-spending-account.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.professional-memberships.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.remote-work.last_updated": "2025-12-17T19:40:23.243Z"
+  }
+}

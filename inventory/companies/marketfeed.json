@@ -1,0 +1,162 @@
+{
+  "slug": "marketfeed",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/3289.6b1c06bf4767b62c.js",
+  "observed_at": "2026-09-28T08:33:49.807361+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 13520,
+    "sha256": "aa94874b32e197fc9b4439e4efb4a070063c2b1aabdc9b4d224ac055ce690687",
+    "elapsed_seconds": 0.446,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:49 GMT",
+      "etag": "\"e3a8b2f37ff5b54765cb10f348006a06\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:49 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Marketfeed",
+    "company_name_legal": "Marketfeed",
+    "founded_year": "2020",
+    "website_url": "https://www.marketfeed.com",
+    "careers_url": "https://jobs.reczee.com/marketfeed",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/marketfeed",
+    "id": 120
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-21T07:41:44.115Z",
+    "crawl_status": "success",
+    "source": "Reczee",
+    "crawl_method": "api"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9103,
+      "longitude": 77.6408,
+      "exact_address": "Honeykomb by BHIVE, 19th Main Road, HSR Sector 3, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "design",
+        "sales",
+        "other",
+        "marketing",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "pre-seed",
+    "funding_stage_last_updated": "2025-12-05T17:47:00.000Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-05T17:47:00.000Z",
+    "total_funding_raised": null,
+    "total_funding_raised_last_updated": "2025-12-05T17:47:00.000Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-05T17:47:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "health-insurance",
+    "dental-insurance",
+    "equity-stock",
+    "team-events",
+    "pet-friendly",
+    "privilege-leave",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Reczee",
+    "job_data.crawl_method": "api",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-05T17:28:03.261Z",
+    "company_basic_information.website_url_last_updated": "2025-12-05T17:28:03.261Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-05T17:28:03.261Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-05T17:42:27.941Z",
+    "company_basic_information.last_updated": "2025-12-05",
+    "company_basic_information.founded_year_last_updated": "2025-12-05T17:40:20.896Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-05T17:42:14.990Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-05T17:42:36.510Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:03:12.065Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:07:26.454Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-05T17:43:12.475Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-05T17:46:00.097Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:03:22.844Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:07:32.494Z",
+    "leadership.last_updated": "2025-12-05T17:38:43.300Z",
+    "social_media.x_url_last_verified": "2025-12-05T17:44:01.696Z",
+    "social_media.instagram_url_last_verified": "2025-12-05T17:44:57.750Z",
+    "social_media.linkedin_url_last_verified": "2025-12-05T17:45:30.869Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:39.971Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-05T17:47:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-05T17:47:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-05T17:47:00.000Z",
+    "financial_information.investor_logos_last_updated": "2025-12-05T17:47:00.000Z",
+    "location_mapping[0].last_updated": "2025-12-05T17:28:03.261Z",
+    "job_data.last_updated": "2026-09-21T07:41:44.115Z",
+    "benefits.flexible-hours.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.remote-work.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.health-insurance.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.dental-insurance.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.equity-stock.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.team-events.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.pet-friendly.last_updated": "2026-01-11T21:25:56.683Z",
+    "benefits.privilege-leave.last_updated": "2026-01-11T21:25:56.683Z"
+  }
+}

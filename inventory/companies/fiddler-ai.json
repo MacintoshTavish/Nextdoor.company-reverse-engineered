@@ -1,0 +1,530 @@
+{
+  "slug": "fiddler-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/90003.4baca3ad57461d2a.js",
+  "observed_at": "2026-09-28T08:31:44.942187+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 17001,
+    "sha256": "09384cfb2587a73e0dc149f16dc53525dc58eaaf0215dbd09838ab7a44d8e405",
+    "elapsed_seconds": 0.461,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:44 GMT",
+      "etag": "\"cbd53318fd867c10f100973f86623934\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:44 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Fiddler AI",
+    "company_name_legal": "Fiddler Labs Inc.",
+    "founded_year": 2018,
+    "website_url": "https://www.fiddler.ai",
+    "careers_url": "https://jobs.ashbyhq.com/fiddler-ai",
+    "investor_portfolio_page": null,
+    "id": 372
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 7,
+    "last_updated": "2026-09-21T16:21:40.745Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 7,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Technical Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/699eb7b5-8cd9-4528-a59e-6fa91d9046ab",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "699eb7b5-8cd9-4528-a59e-6fa91d9046ab"
+    },
+    {
+      "title": "Senior AI Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/affbd5a5-0262-4da6-8c28-0ed1faef15b6",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, Us -",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "affbd5a5-0262-4da6-8c28-0ed1faef15b6"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/be95a315-4560-498b-babd-af245f201280",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "be95a315-4560-498b-babd-af245f201280"
+    },
+    {
+      "title": "Staff AI Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/819f8925-b249-4b1a-b735-aec792624f68",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-23",
+      "ashby_job_id": "819f8925-b249-4b1a-b735-aec792624f68"
+    },
+    {
+      "title": "Senior Sales Development Representative (US)",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/af12bcaa-a63f-4278-9303-25fe3e4cba00",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "af12bcaa-a63f-4278-9303-25fe3e4cba00"
+    },
+    {
+      "title": "Solutions Architect, Customer Success - US (Remote)",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "640c12b9-6a07-4be1-a542-d76e4240e2ff"
+    },
+    {
+      "title": "Senior Manager ABM & Campaigns",
+      "apply_url": "https://jobs.ashbyhq.com/fiddler-ai/52901a48-bb03-485a-a31a-c3f078508a33",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "52901a48-bb03-485a-a31a-c3f078508a33"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.9123,
+      "longitude": -84.4665,
+      "exact_address": "1870 The Exchange Suite 200 #44, Atlanta, GA, 30339, USA",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4419,
+      "longitude": -122.143,
+      "exact_address": "Palo Alto, California, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6235,
+      "longitude": -122.3382,
+      "exact_address": "2100 Ginkgo Street, Suite 100, South Lake Union, Seattle, Washington, United States - 98109",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-07-11T11:21:13.458Z",
+    "current_valuation_usd": "$126.95 million",
+    "current_valuation_usd_last_updated": "2026-07-11T11:21:13.458Z",
+    "total_funding_raised": "$100 million",
+    "total_funding_raised_last_updated": "2026-07-11T11:21:13.458Z",
+    "key_investors": [
+      {
+        "name": "Abstract Ventures",
+        "domain": "abstractvc.com"
+      },
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "RPS Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Lux Capital",
+        "domain": ""
+      },
+      {
+        "name": "Co-founder",
+        "domain": ""
+      },
+      {
+        "name": "BoxGroup",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Abstract Ventures",
+        "logo_url": "/investor-logos/abstract-ventures.png"
+      },
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "RPS Ventures",
+        "logo_url": "/investor-logos/rps-ventures.png"
+      },
+      {
+        "name": "Lux Capital",
+        "logo_url": "/investor-logos/lux-capital.png"
+      },
+      {
+        "name": "Co-founder",
+        "logo_url": "/investor-logos/cofounder.png"
+      },
+      {
+        "name": "BoxGroup",
+        "logo_url": "/investor-logos/boxgroup.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-11T11:21:13.458Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "unlimited-pto",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "gym-membership",
+    "parental-leave",
+    "commute-allowance",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[10].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-11T11:21:13.458Z",
+    "company_basic_information.website_url_last_updated": "2026-07-11T11:21:13.458Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-11T11:21:13.458Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-11T11:21:13.458Z",
+    "company_basic_information.last_updated": "2026-07-11",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-11T12:57:34.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-11T12:57:34.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-11T13:02:52.503Z",
+    "leadership.founders[0].description_last_updated": "2026-07-11T13:04:29.224Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-11T12:57:34.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-11T12:57:34.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-11T13:03:11.781Z",
+    "leadership.founders[1].description_last_updated": "2026-07-11T13:04:34.834Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-07-11T12:57:34.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-07-11T13:03:32.219Z",
+    "leadership.founders[2].description_last_updated": "2026-07-11T13:04:40.182Z",
+    "social_media.x_url_last_updated": "2026-07-11T11:21:13.458Z",
+    "social_media.linkedin_url_last_updated": "2026-07-11T11:21:13.458Z",
+    "social_media.instagram_url_last_updated": "2026-07-11T12:58:14.000Z",
+    "social_media.x_url_last_verified": "2026-07-11T12:57:34.000Z",
+    "social_media.linkedin_url_last_verified": "2026-07-11T12:57:34.000Z",
+    "social_media.instagram_url_last_verified": "2026-07-11T12:58:14.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-11",
+    "financial_information.funding_stage_last_updated": "2026-07-11T11:21:13.458Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-11T11:21:13.458Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-11T11:21:13.458Z",
+    "financial_information.investor_logos_last_updated": "2026-07-11T11:21:13.458Z",
+    "location_mapping[0].last_updated": "2026-07-11T11:21:13.458Z",
+    "location_mapping[1].last_updated": "2026-07-11T13:07:52.709Z",
+    "location_mapping[2].last_updated": "2026-07-11T13:07:16.948Z",
+    "location_mapping[3].last_updated": "2026-07-11T11:21:13.458Z",
+    "location_mapping[4].last_updated": "2026-07-11T13:07:57.129Z",
+    "location_mapping[5].last_updated": "2026-07-11T13:08:00.311Z",
+    "location_mapping[6].last_updated": "2026-07-11T11:21:13.458Z",
+    "location_mapping[7].last_updated": "2026-07-11T13:08:01.987Z",
+    "location_mapping[8].last_updated": "2026-07-11T11:21:13.458Z",
+    "location_mapping[9].last_updated": "2026-07-11T13:08:02.416Z",
+    "location_mapping[10].last_updated": "2026-07-11T11:21:13.458Z",
+    "job_data.roles[0].posted_date": "2026-06-30",
+    "job_data.roles[1].posted_date": "2026-07-26",
+    "job_data.roles[2].posted_date": "2026-07-26",
+    "job_data.roles[3].posted_date": "2026-08-23",
+    "job_data.roles[4].posted_date": "2026-09-07",
+    "job_data.roles[5].posted_date": "2026-09-07",
+    "job_data.roles[6].posted_date": "2026-09-21",
+    "job_data.last_updated": "2026-09-21T16:21:40.745Z",
+    "benefits.equity-stock.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.unlimited-pto.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.health-insurance.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.dental-insurance.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.vision-insurance.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.retirement-401k.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.gym-membership.last_updated": "2026-08-28T17:51:08Z",
+    "benefits.parental-leave.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.commute-allowance.last_updated": "2026-07-11T13:01:07.857Z",
+    "benefits.meal-allowance.last_updated": "2026-07-11T13:01:07.857Z"
+  }
+}

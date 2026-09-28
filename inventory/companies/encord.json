@@ -1,0 +1,1075 @@
+{
+  "slug": "encord",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/63983.94e05839c7bd7d8b.js",
+  "observed_at": "2026-09-28T08:31:19.030018+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 38513,
+    "sha256": "55d204d43912193219db7cc3379b4c68e6db9da61895d391bb638ea980cdf821",
+    "elapsed_seconds": 0.531,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:18 GMT",
+      "etag": "\"13f2427e564c48b9c77da9a3e37f490d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:18 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits",
+    "location_mapping_corrected_reason"
+  ],
+  "company": {
+    "company_name_brand": "Encord",
+    "company_name_legal": "Cord Technologies Inc.",
+    "founded_year": 2021,
+    "website_url": "https://encord.com",
+    "careers_url": "https://jobs.ashbyhq.com/encord",
+    "investor_portfolio_page": null,
+    "id": 437
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 48,
+    "last_updated": "2026-09-25T09:32:42.968Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 48,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a#loc-0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8a88f55e-ae21-4a3f-b2ba-a72fa196007a"
+    },
+    {
+      "title": "Account Executive, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8a88f55e-ae21-4a3f-b2ba-a72fa196007a"
+    },
+    {
+      "title": "Account Executive, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8a88f55e-ae21-4a3f-b2ba-a72fa196007a"
+    },
+    {
+      "title": "Account Manager, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/ca841c12-38c9-4558-aa59-b60ef55a8948",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ca841c12-38c9-4558-aa59-b60ef55a8948"
+    },
+    {
+      "title": "Commercial Associate, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "fa922dac-6219-4379-be99-29c8ea59b813",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Associate role focus on identifying and engaging potential customers, executing outreach strategies, and collaborating with Account Executives to progress sales opportunities. This aligns closely with sales functions, particularly in outbound prospecting and pipeline generation."
+    },
+    {
+      "title": "Commercial Associate, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "fa922dac-6219-4379-be99-29c8ea59b813",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Associate role focus on identifying and engaging potential customers, executing outreach strategies, and partnering with Account Executives to progress sales opportunities. This aligns closely with sales functions, particularly in outbound prospecting and pipeline generation."
+    },
+    {
+      "title": "Commercial Associate, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813#loc-2",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "fa922dac-6219-4379-be99-29c8ea59b813",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Associate role focus on identifying and engaging potential customers, executing outreach strategies, and collaborating with Account Executives to progress sales opportunities. This aligns closely with sales functions, particularly in the areas of outbound prospecting and pipeline generation."
+    },
+    {
+      "title": "Customer Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/e85d5fb9-9efb-482b-813e-4d9c8c5f7c00#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e85d5fb9-9efb-482b-813e-4d9c8c5f7c00"
+    },
+    {
+      "title": "Customer Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/e85d5fb9-9efb-482b-813e-4d9c8c5f7c00#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e85d5fb9-9efb-482b-813e-4d9c8c5f7c00"
+    },
+    {
+      "title": "Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/encord/97ff1ae9-b6b0-4d4b-95b0-be6c4ea0fee9#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "97ff1ae9-b6b0-4d4b-95b0-be6c4ea0fee9"
+    },
+    {
+      "title": "Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/encord/97ff1ae9-b6b0-4d4b-95b0-be6c4ea0fee9#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "97ff1ae9-b6b0-4d4b-95b0-be6c4ea0fee9"
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/312b9d04-ea38-4872-96d4-22e14ca7fdf1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "312b9d04-ea38-4872-96d4-22e14ca7fdf1"
+    },
+    {
+      "title": "Former Technical Founders",
+      "apply_url": "https://jobs.ashbyhq.com/encord/37c87819-1f4a-4f57-91e2-310209c573ca",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "37c87819-1f4a-4f57-91e2-310209c573ca",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job posting is specifically looking for former technical founders who have experience in building and scaling products or companies. The primary responsibilities involve working closely with the founding team to drive high-leverage opportunities and take ownership of ambitious projects, which aligns closely with the entrepreneurs category."
+    },
+    {
+      "title": "Technical Founder - AI Startup",
+      "title_original": "Technical Founder - AI Startup",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-26T19:33:36.422Z",
+      "apply_url": "https://jobs.ashbyhq.com/encord/8dd186f0-5049-4b81-aa77-8956442fede6",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8dd186f0-5049-4b81-aa77-8956442fede6",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role is specifically aimed at former technical founders who will work closely with the founding team to drive high-leverage opportunities across various functions. The emphasis on entrepreneurial mindset, ownership of problems, and building from the ground up aligns closely with the entrepreneurs category."
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/2b1c10d4-cde7-422b-9f52-2739865d95cb",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2b1c10d4-cde7-422b-9f52-2739865d95cb"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2eedc8eb-00c2-4cbe-862e-5e22960f0dbf"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/9f97576a-5381-4839-a7cf-ebfa82089a63",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9f97576a-5381-4839-a7cf-ebfa82089a63"
+    },
+    {
+      "title": "Founder's Office",
+      "apply_url": "https://jobs.ashbyhq.com/encord/3bda21f0-70ee-437b-8601-96ebb0dac6f1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3bda21f0-70ee-437b-8601-96ebb0dac6f1"
+    },
+    {
+      "title": "Founding NYC Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/encord/19442357-ef2c-4286-a59b-113e84c1f026",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "19442357-ef2c-4286-a59b-113e84c1f026"
+    },
+    {
+      "title": "General Manager - India Operations",
+      "title_original": "General Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-26T19:33:52.853Z",
+      "apply_url": "https://jobs.ashbyhq.com/encord/682b4047-2744-4a69-b756-413ed1192da5",
+      "location_ids": [
+        "india_office"
+      ],
+      "location_display": "India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "682b4047-2744-4a69-b756-413ed1192da5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The General Manager role focuses on building and scaling the India delivery hub, establishing operational processes, and ensuring high standards for talent and project delivery. The primary responsibilities revolve around organizational structure, execution of strategy, and operational discipline, which aligns closely with operations."
+    },
+    {
+      "title": "Principal Engineer - Backend",
+      "apply_url": "https://jobs.ashbyhq.com/encord/e8289feb-d6f6-46c4-a890-de8ebc3b7bc9",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e8289feb-d6f6-46c4-a890-de8ebc3b7bc9"
+    },
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/345ab5c6-68ed-407f-8623-fc296f69f6c7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "345ab5c6-68ed-407f-8623-fc296f69f6c7"
+    },
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/48e61550-e427-4048-a1b1-b1e1b483a6bf",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "48e61550-e427-4048-a1b1-b1e1b483a6bf"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/f87bd177-aabd-4380-b701-d270f2f982ce",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f87bd177-aabd-4380-b701-d270f2f982ce"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/0bdd6260-d8e1-41bd-82de-591ee98e5260",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "0bdd6260-d8e1-41bd-82de-591ee98e5260"
+    },
+    {
+      "title": "Senior Product Engineer, Physical AI",
+      "apply_url": "https://jobs.ashbyhq.com/encord/e93dca3d-7a84-4d0a-b482-81cb3be328df",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e93dca3d-7a84-4d0a-b482-81cb3be328df"
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/encord/b8cfae81-6e9f-4f3e-a03a-2d03e7d115f3",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b8cfae81-6e9f-4f3e-a03a-2d03e7d115f3"
+    },
+    {
+      "title": "Senior Software Engineer - Backend",
+      "apply_url": "https://jobs.ashbyhq.com/encord/70ff84bd-9cb5-47a9-856f-5110f5b25d61",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "70ff84bd-9cb5-47a9-856f-5110f5b25d61"
+    },
+    {
+      "title": "Senior Software Engineer, Front-End Leaning",
+      "apply_url": "https://jobs.ashbyhq.com/encord/3ba24b4e-82bd-404e-9dfc-f8f8867a237b",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3ba24b4e-82bd-404e-9dfc-f8f8867a237b"
+    },
+    {
+      "title": "Senior Software Engineer, Full-Stack",
+      "apply_url": "https://jobs.ashbyhq.com/encord/ef90e270-cbc0-49b9-a5d1-0887bb96795d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ef90e270-cbc0-49b9-a5d1-0887bb96795d"
+    },
+    {
+      "title": "Software Engineer, Front-End Leaning",
+      "apply_url": "https://jobs.ashbyhq.com/encord/61b5882e-5496-4119-841a-63dd8d42cf14",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "61b5882e-5496-4119-841a-63dd8d42cf14"
+    },
+    {
+      "title": "Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/ee007dcc-6ef6-4f4b-b247-cd1762e5d355#loc-0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ee007dcc-6ef6-4f4b-b247-cd1762e5d355"
+    },
+    {
+      "title": "Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/ee007dcc-6ef6-4f4b-b247-cd1762e5d355#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ee007dcc-6ef6-4f4b-b247-cd1762e5d355"
+    },
+    {
+      "title": "Special Projects, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/encord/49d6db4e-ddf1-4635-8f5b-3eabe4735ea9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "49d6db4e-ddf1-4635-8f5b-3eabe4735ea9"
+    },
+    {
+      "title": "Special Projects, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/encord/286eb8b3-b0e9-45fd-b9ea-af0681ea9af8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "286eb8b3-b0e9-45fd-b9ea-af0681ea9af8"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/encord/84bafd3e-a33a-410e-806b-3497faa36114#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "84bafd3e-a33a-410e-806b-3497faa36114"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/encord/84bafd3e-a33a-410e-806b-3497faa36114#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "84bafd3e-a33a-410e-806b-3497faa36114"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/encord/84bafd3e-a33a-410e-806b-3497faa36114#loc-2",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "84bafd3e-a33a-410e-806b-3497faa36114"
+    },
+    {
+      "title": "Financial Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/encord/60e9fe72-a087-493e-b74a-bf4add586e9a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "60e9fe72-a087-493e-b74a-bf4add586e9a"
+    },
+    {
+      "title": "Learning & Development Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/encord/f9cbd066-deba-4ca2-826b-286c2a00bf1e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "f9cbd066-deba-4ca2-826b-286c2a00bf1e"
+    },
+    {
+      "title": "Quality Systems Lead",
+      "apply_url": "https://jobs.ashbyhq.com/encord/9e66e805-3536-4d36-b2ac-d9d61392e65d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "9e66e805-3536-4d36-b2ac-d9d61392e65d"
+    },
+    {
+      "title": "Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/encord/5f1dfd31-e74e-44c0-be06-4ed363f56317",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "5f1dfd31-e74e-44c0-be06-4ed363f56317"
+    },
+    {
+      "title": "Senior GTM Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/encord/1080c689-4b98-46ad-93b8-123bdf493ee4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "1080c689-4b98-46ad-93b8-123bdf493ee4"
+    },
+    {
+      "title": "Technical Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/encord/ff43717b-e788-40d7-9ee0-ba44a79c3139",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-10",
+      "ashby_job_id": "ff43717b-e788-40d7-9ee0-ba44a79c3139"
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/1845476b-63ac-414d-9eac-74b353cfdd36",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-25",
+      "ashby_job_id": "1845476b-63ac-414d-9eac-74b353cfdd36"
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/encord/1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-25",
+      "ashby_job_id": "1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c"
+    },
+    {
+      "title": "Revenue Associate",
+      "apply_url": "https://jobs.ashbyhq.com/encord/f2601b44-42ee-4403-a9a6-b29b8937f4b6",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-25",
+      "ashby_job_id": "f2601b44-42ee-4403-a9a6-b29b8937f4b6"
+    },
+    {
+      "title": "Workplace Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/encord/bc4e3eee-bfd7-48bd-9de3-ecce699e4fc8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-25",
+      "ashby_job_id": "bc4e3eee-bfd7-48bd-9de3-ecce699e4fc8"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.52453,
+      "longitude": -0.08476,
+      "exact_address": "Office 86, 3rd Floor, 86-90 Paul Street, London, England, United Kingdom - EC2A 4NE",
+      "departments": [
+        "sales",
+        "other",
+        "marketing",
+        "engineering",
+        "ai",
+        "product"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "other",
+        "engineering",
+        "data",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7655,
+      "longitude": -122.4346,
+      "exact_address": "2261 Market St, #4217, San Francisco, California, United States - 94114",
+      "departments": [
+        "sales",
+        "other",
+        "engineering",
+        "data",
+        "entrepreneurs",
+        "marketing",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "india_office",
+      "city": null,
+      "state": null,
+      "country": "India",
+      "latitude": 20.5937,
+      "longitude": 78.9629,
+      "exact_address": "India",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-08-26T19:17:24.098Z",
+    "current_valuation_usd": "$550M",
+    "current_valuation_usd_last_updated": "2026-08-26T19:17:24.098Z",
+    "total_funding_raised": "$107.13M",
+    "total_funding_raised_last_updated": "2026-08-26T19:17:24.098Z",
+    "key_investors": [
+      {
+        "name": "Wellington Management",
+        "domain": "wellington.com"
+      },
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "CRV",
+        "domain": "crv.com"
+      },
+      {
+        "name": "Next47",
+        "domain": ""
+      },
+      {
+        "name": "Crane Venture Partners",
+        "domain": "crane.vc"
+      },
+      {
+        "name": "Bright Pixel Capital",
+        "domain": "brpx.com"
+      },
+      {
+        "name": "Isomer Capital",
+        "domain": "isomercapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Wellington Management",
+        "logo_url": "/investor-logos/wellington-management.png"
+      },
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "CRV",
+        "logo_url": "/investor-logos/crv.png"
+      },
+      {
+        "name": "Next47",
+        "logo_url": "/investor-logos/next47.png"
+      },
+      {
+        "name": "Crane Venture Partners",
+        "logo_url": "/investor-logos/crane-venture-partners.png"
+      },
+      {
+        "name": "Bright Pixel Capital",
+        "logo_url": "/investor-logos/bright-pixel-capital.png"
+      },
+      {
+        "name": "Isomer Capital",
+        "logo_url": "/investor-logos/isomer-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-27T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    },
+    "key_investors_corrected_reason": "Key investors were empty. Added all investors from Encord's February 2026 Series C announcement (60 million dollars, led by Wellington Management, bringing total funding to 110 million dollars): Wellington Management, Y Combinator, CRV, Next47, Crane Venture Partners, Bright Pixel Capital, and Isomer Capital. The last 3 were not yet in the shared investor registry, so they were added there first (with verified domains: crane.vc, brpx.com, isomercapital.com) before being referenced here. Added 2026-08-27."
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "unlimited-pto",
+    "learning-development",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "team-events",
+    "flexible-hours",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "direct_navigation",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[3].location_source": "direct_job_posting_inspection",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-26T19:17:24.098Z",
+    "company_basic_information.website_url_last_updated": "2026-08-26T19:17:24.098Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-26T19:17:24.098Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-26T19:17:24.098Z",
+    "company_basic_information.last_updated": "2026-08-26",
+    "leadership.founders[0].image_url_last_updated": "2026-08-26T19:37:39.588Z",
+    "leadership.founders[0].description_last_updated": "2026-08-26T19:38:42.758Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-26T19:38:12.248Z",
+    "leadership.founders[1].description_last_updated": "2026-08-26T19:38:49.481Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-27",
+    "social_media.x_url_last_updated": "2026-08-26T19:17:24.098Z",
+    "social_media.linkedin_url_last_updated": "2026-08-26T19:17:24.098Z",
+    "social_media.instagram_url_last_updated": "2026-08-26T19:17:24.098Z",
+    "business_details.industry_domains_last_updated": "2026-08-26",
+    "financial_information.funding_stage_last_updated": "2026-08-26T19:17:24.098Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-26T19:17:24.098Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-26T19:17:24.098Z",
+    "financial_information.investor_logos_last_updated": "2026-08-27T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2026-08-26T19:17:24.098Z",
+    "location_mapping[1].last_updated": "2026-08-26T19:17:24.098Z",
+    "location_mapping[2].last_updated": "2026-08-26T19:17:24.098Z",
+    "location_mapping[3].last_updated": "2026-08-27T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-08-26",
+    "job_data.roles[1].posted_date": "2026-08-26",
+    "job_data.roles[2].posted_date": "2026-08-26",
+    "job_data.roles[3].posted_date": "2026-08-26",
+    "job_data.roles[4].posted_date": "2026-08-26",
+    "job_data.roles[5].posted_date": "2026-08-26",
+    "job_data.roles[6].posted_date": "2026-08-26",
+    "job_data.roles[7].posted_date": "2026-08-26",
+    "job_data.roles[8].posted_date": "2026-08-26",
+    "job_data.roles[9].posted_date": "2026-08-26",
+    "job_data.roles[10].posted_date": "2026-08-26",
+    "job_data.roles[11].posted_date": "2026-08-26",
+    "job_data.roles[12].posted_date": "2026-08-26",
+    "job_data.roles[13].posted_date": "2026-08-26",
+    "job_data.roles[13].title_updated_timestamp": "2026-08-26T19:33:36.422Z",
+    "job_data.roles[14].posted_date": "2026-08-26",
+    "job_data.roles[15].posted_date": "2026-08-26",
+    "job_data.roles[16].posted_date": "2026-08-26",
+    "job_data.roles[17].posted_date": "2026-08-26",
+    "job_data.roles[18].posted_date": "2026-08-26",
+    "job_data.roles[19].posted_date": "2026-08-26",
+    "job_data.roles[19].title_updated_timestamp": "2026-08-26T19:33:52.853Z",
+    "job_data.roles[20].posted_date": "2026-08-26",
+    "job_data.roles[21].posted_date": "2026-08-26",
+    "job_data.roles[22].posted_date": "2026-08-26",
+    "job_data.roles[23].posted_date": "2026-08-26",
+    "job_data.roles[24].posted_date": "2026-08-26",
+    "job_data.roles[25].posted_date": "2026-08-26",
+    "job_data.roles[26].posted_date": "2026-08-26",
+    "job_data.roles[27].posted_date": "2026-08-26",
+    "job_data.roles[28].posted_date": "2026-08-26",
+    "job_data.roles[29].posted_date": "2026-08-26",
+    "job_data.roles[30].posted_date": "2026-08-26",
+    "job_data.roles[31].posted_date": "2026-08-26",
+    "job_data.roles[32].posted_date": "2026-08-26",
+    "job_data.roles[33].posted_date": "2026-08-26",
+    "job_data.roles[34].posted_date": "2026-08-26",
+    "job_data.roles[35].posted_date": "2026-08-26",
+    "job_data.roles[36].posted_date": "2026-08-26",
+    "job_data.roles[37].posted_date": "2026-08-26",
+    "job_data.roles[38].posted_date": "2026-09-10",
+    "job_data.roles[39].posted_date": "2026-09-10",
+    "job_data.roles[40].posted_date": "2026-09-10",
+    "job_data.roles[41].posted_date": "2026-09-10",
+    "job_data.roles[42].posted_date": "2026-09-10",
+    "job_data.roles[43].posted_date": "2026-09-10",
+    "job_data.roles[44].posted_date": "2026-09-25",
+    "job_data.roles[45].posted_date": "2026-09-25",
+    "job_data.roles[46].posted_date": "2026-09-25",
+    "job_data.roles[47].posted_date": "2026-09-25",
+    "job_data.last_updated": "2026-09-25T09:32:42.968Z",
+    "benefits.equity-stock.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.bonus.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.learning-development.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.health-insurance.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.dental-insurance.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.vision-insurance.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.team-events.last_updated": "2026-08-26T19:36:32.446Z",
+    "benefits.flexible-hours.last_updated": "2026-08-26T19:36:32.446Z"
+  }
+}

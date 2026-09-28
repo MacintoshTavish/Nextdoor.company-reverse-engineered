@@ -1,0 +1,1072 @@
+{
+  "slug": "workos",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/62415.ebc3069ff5c6c70c.js",
+  "observed_at": "2026-09-28T08:38:25.128216+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28177,
+    "sha256": "2edcc9e82cd8ec2472842c94707513a86c2eafa7ff7999cd87aff2057d593dcc",
+    "elapsed_seconds": 0.367,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:25 GMT",
+      "etag": "\"6cd83e8c2b5597f5faeb52e83dddd616\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:25 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "WorkOS",
+    "company_name_legal": "WorkOS",
+    "founded_year": 2018,
+    "website_url": "https://workos.com",
+    "careers_url": "https://jobs.ashbyhq.com/workos",
+    "investor_portfolio_page": null,
+    "id": 270
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 31,
+    "last_updated": "2026-09-19T16:49:42.329Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 31,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/workos/821bcec6-7149-47fb-93a4-49cee4aaae74",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": "$160k-200k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-30",
+      "ashby_job_id": "821bcec6-7149-47fb-93a4-49cee4aaae74"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/workos/0b8ebc20-37a2-484a-9220-ce1679764b08",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$80k-100k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "0b8ebc20-37a2-484a-9220-ce1679764b08"
+    },
+    {
+      "title": "Developer Experience Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-22",
+      "ashby_job_id": "b6c03b24-b4ee-4ee3-ac62-5e5718c502d4"
+    },
+    {
+      "title": "Developer Relations",
+      "apply_url": "https://jobs.ashbyhq.com/workos/bb4e927b-5bbd-4704-954d-5b716c3ff1f3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-13",
+      "ashby_job_id": "bb4e927b-5bbd-4704-954d-5b716c3ff1f3"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/workos/96a03aa5-c2da-4f10-a0d1-951160188f9b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$250k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "96a03aa5-c2da-4f10-a0d1-951160188f9b"
+    },
+    {
+      "title": "GTM - AI Native Sales",
+      "apply_url": "https://jobs.ashbyhq.com/workos/afdd651f-c97a-4ba2-88af-c790eb9e1a1d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "afdd651f-c97a-4ba2-88af-c790eb9e1a1d"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/990c41b1-e3c3-4a75-83c2-ca916899c110",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-10",
+      "ashby_job_id": "990c41b1-e3c3-4a75-83c2-ca916899c110"
+    },
+    {
+      "title": "GTM - Enterprise Sales",
+      "apply_url": "https://jobs.ashbyhq.com/workos/70cedfd9-1ed8-4e4e-bc6a-9f0bbcc4756d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$250k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "70cedfd9-1ed8-4e4e-bc6a-9f0bbcc4756d"
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/26a54ffa-9465-4d13-bc5f-db41a2bbe505",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "26a54ffa-9465-4d13-bc5f-db41a2bbe505"
+    },
+    {
+      "title": "Product Design",
+      "apply_url": "https://jobs.ashbyhq.com/workos/bd5dab2b-fa93-4441-9ca0-558593f02b9a",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": "$150k-225k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-01",
+      "ashby_job_id": "bd5dab2b-fa93-4441-9ca0-558593f02b9a"
+    },
+    {
+      "title": "Product Engineer - AuthKit",
+      "apply_url": "https://jobs.ashbyhq.com/workos/8317f6f4-3d85-4a9f-bec3-753e4b646fc2",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "8317f6f4-3d85-4a9f-bec3-753e4b646fc2"
+    },
+    {
+      "title": "Product Engineer - Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/workos/d76843a8-2a45-444a-b187-3336b45a7934",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "d76843a8-2a45-444a-b187-3336b45a7934"
+    },
+    {
+      "title": "Product Engineer - Feature Flags",
+      "apply_url": "https://jobs.ashbyhq.com/workos/639bcb50-f1dd-4756-aa45-ce176494b4b1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-22",
+      "ashby_job_id": "639bcb50-f1dd-4756-aa45-ce176494b4b1"
+    },
+    {
+      "title": "Product Engineer - Pipes & Vault",
+      "apply_url": "https://jobs.ashbyhq.com/workos/1269a212-2b49-4e99-a379-fc47f1d76e46",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "1269a212-2b49-4e99-a379-fc47f1d76e46"
+    },
+    {
+      "title": "Product Engineer - Radar",
+      "apply_url": "https://jobs.ashbyhq.com/workos/10d184bd-7b94-4205-8dc5-d3e3ede9bdc2",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "10d184bd-7b94-4205-8dc5-d3e3ede9bdc2"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/workos/5550ddd5-c3eb-459a-aa4d-8b1216346d88",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": "$175k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-13",
+      "ashby_job_id": "5550ddd5-c3eb-459a-aa4d-8b1216346d88"
+    },
+    {
+      "title": "Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/workos/6b10b885-395d-458f-9739-ff04f7a0d15e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": "$140k-170k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-28",
+      "ashby_job_id": "6b10b885-395d-458f-9739-ff04f7a0d15e"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/cff5a16f-fd1c-4b64-9b66-8a8321122375",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "cff5a16f-fd1c-4b64-9b66-8a8321122375"
+    },
+    {
+      "title": "Software Engineer - Applied AI",
+      "apply_url": "https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-27",
+      "ashby_job_id": "5e650527-d8dd-413a-9cfb-d7d68143274b"
+    },
+    {
+      "title": "Software Engineer - Productivity",
+      "apply_url": "https://jobs.ashbyhq.com/workos/07a7d732-ac5d-4aab-b4bf-ee89951660c2",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$175k-275k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "07a7d732-ac5d-4aab-b4bf-ee89951660c2"
+    },
+    {
+      "title": "Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-225k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "dc23fd7b-ee4c-4e6a-959a-209b2eab8b17"
+    },
+    {
+      "title": "Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/workos/f87390b8-199c-4d1d-8c0c-bc87572c8636",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "f87390b8-199c-4d1d-8c0c-bc87572c8636"
+    },
+    {
+      "title": "Employee Programs Manager - Onboarding and Training",
+      "title_original": "Employee Programs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-21T19:14:30.522Z",
+      "apply_url": "https://jobs.ashbyhq.com/workos/40b1102c-4bc2-4aa0-a558-d64bab7e0b6d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "40b1102c-4bc2-4aa0-a558-d64bab7e0b6d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on employee onboarding, training, and development programs, which are key functions of Human Resources. The emphasis on creating memorable employee experiences and facilitating training programs aligns closely with HR & Talent functions."
+    },
+    {
+      "title": "Brand Design | Web",
+      "apply_url": "https://jobs.ashbyhq.com/workos/aff2e0f3-c5e7-47ff-b7c6-50baa9c822aa#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "aff2e0f3-c5e7-47ff-b7c6-50baa9c822aa"
+    },
+    {
+      "title": "Brand Design | Web",
+      "apply_url": "https://jobs.ashbyhq.com/workos/aff2e0f3-c5e7-47ff-b7c6-50baa9c822aa#loc-1",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "aff2e0f3-c5e7-47ff-b7c6-50baa9c822aa"
+    },
+    {
+      "title": "Design Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/dbc4f497-fbb5-415e-b2b0-69321150424e#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "dbc4f497-fbb5-415e-b2b0-69321150424e"
+    },
+    {
+      "title": "Design Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/dbc4f497-fbb5-415e-b2b0-69321150424e#loc-1",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "dbc4f497-fbb5-415e-b2b0-69321150424e"
+    },
+    {
+      "title": "Product Manager - Growth",
+      "apply_url": "https://jobs.ashbyhq.com/workos/257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a"
+    },
+    {
+      "title": "Product Manager - Growth",
+      "apply_url": "https://jobs.ashbyhq.com/workos/257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a#loc-1",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a"
+    },
+    {
+      "title": "Systems Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/3e8fb2cb-de91-4221-bfdc-37d81057cc0f#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3e8fb2cb-de91-4221-bfdc-37d81057cc0f"
+    },
+    {
+      "title": "Systems Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/workos/3e8fb2cb-de91-4221-bfdc-37d81057cc0f#loc-1",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3e8fb2cb-de91-4221-bfdc-37d81057cc0f"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product",
+        "hr",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "design",
+        "engineering",
+        "security",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-04-30T10:31:10.662Z",
+    "current_valuation_usd": "$2B",
+    "current_valuation_usd_last_updated": "2026-04-30T10:31:10.662Z",
+    "total_funding_raised": "$198 million",
+    "total_funding_raised_last_updated": "2026-04-30T10:31:10.662Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Meritech Capital",
+        "domain": "meritechcapital.com"
+      },
+      {
+        "name": "Greenoaks",
+        "domain": "greenoaks.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Meritech Capital",
+        "logo_url": "/investor-logos/meritech-capital.png"
+      },
+      {
+        "name": "Greenoaks",
+        "logo_url": "/investor-logos/greenoaks.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-30T10:31:10.662Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "equity-stock",
+    "retirement-401k",
+    "parental-leave",
+    "privilege-leave",
+    "unlimited-pto",
+    "remote-work",
+    "gym-membership",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-30T10:31:10.662Z",
+    "company_basic_information.website_url_last_updated": "2026-04-30T10:31:10.662Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-30T10:31:10.662Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-30T10:31:10.662Z",
+    "company_basic_information.last_updated": "2026-04-30",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:33:18.626Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T06:39:26.069Z",
+    "social_media.x_url_last_updated": "2026-04-30T10:31:10.662Z",
+    "social_media.linkedin_url_last_updated": "2026-04-30T10:31:10.662Z",
+    "social_media.instagram_url_last_updated": "2026-04-30T10:31:10.662Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T19:17:41.758Z",
+    "financial_information.funding_stage_last_updated": "2026-04-30T10:31:10.662Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-30T10:31:10.662Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-30T10:31:10.662Z",
+    "financial_information.investor_logos_last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[0].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[1].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[2].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[3].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[4].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[5].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[6].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[7].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[8].last_updated": "2026-04-30T10:31:10.662Z",
+    "location_mapping[9].last_updated": "2026-04-30T10:31:10.662Z",
+    "job_data.roles[0].posted_date": "2026-03-30",
+    "job_data.roles[1].posted_date": "2026-01-14",
+    "job_data.roles[2].posted_date": "2026-01-22",
+    "job_data.roles[3].posted_date": "2026-01-13",
+    "job_data.roles[4].posted_date": "2026-01-14",
+    "job_data.roles[5].posted_date": "2026-01-14",
+    "job_data.roles[6].posted_date": "2026-04-10",
+    "job_data.roles[7].posted_date": "2026-01-14",
+    "job_data.roles[8].posted_date": "2026-01-14",
+    "job_data.roles[9].posted_date": "2026-04-01",
+    "job_data.roles[10].posted_date": "2026-01-14",
+    "job_data.roles[11].posted_date": "2026-01-14",
+    "job_data.roles[12].posted_date": "2026-01-22",
+    "job_data.roles[13].posted_date": "2026-01-14",
+    "job_data.roles[14].posted_date": "2026-01-14",
+    "job_data.roles[15].posted_date": "2026-04-13",
+    "job_data.roles[16].posted_date": "2026-04-28",
+    "job_data.roles[17].posted_date": "2026-01-14",
+    "job_data.roles[18].posted_date": "2026-02-27",
+    "job_data.roles[19].posted_date": "2026-01-14",
+    "job_data.roles[20].posted_date": "2026-01-14",
+    "job_data.roles[21].posted_date": "2026-08-07",
+    "job_data.roles[22].posted_date": "2026-08-21",
+    "job_data.roles[22].title_updated_timestamp": "2026-08-21T19:14:30.522Z",
+    "job_data.roles[23].posted_date": "2026-09-05",
+    "job_data.roles[24].posted_date": "2026-09-05",
+    "job_data.roles[25].posted_date": "2026-09-05",
+    "job_data.roles[26].posted_date": "2026-09-05",
+    "job_data.roles[27].posted_date": "2026-09-05",
+    "job_data.roles[28].posted_date": "2026-09-05",
+    "job_data.roles[29].posted_date": "2026-09-05",
+    "job_data.roles[30].posted_date": "2026-09-05",
+    "job_data.last_updated": "2026-09-19T16:49:42.329Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.dental-insurance.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.vision-insurance.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.retirement-401k.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.privilege-leave.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.remote-work.last_updated": "2026-06-06T18:07:22.633Z",
+    "benefits.gym-membership.last_updated": "2026-06-06T18:07:22.633Z"
+  }
+}

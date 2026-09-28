@@ -1,0 +1,1055 @@
+{
+  "slug": "phantom",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/81019.475b70315130a39f.js",
+  "observed_at": "2026-09-28T08:35:14.861557+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 27564,
+    "sha256": "182b2d971956278aac68c473aea62b5bfc1a784fd50bcbcc15a6617725df8f0e",
+    "elapsed_seconds": 0.401,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:14 GMT",
+      "etag": "\"626f7d1bdab17da939c866fdb225112f\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Phantom",
+    "company_name_legal": "Phantom Technologies, Incorporated",
+    "founded_year": 2021,
+    "website_url": "https://phantom.app",
+    "careers_url": "https://jobs.ashbyhq.com/phantom",
+    "investor_portfolio_page": null,
+    "id": 258
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 11,
+    "last_updated": "2026-09-14T10:03:44.909Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 11,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Software Engineer, Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/e7b83c02-55c2-4037-9209-93deb3b7492c",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-11-12",
+      "ashby_job_id": "e7b83c02-55c2-4037-9209-93deb3b7492c"
+    },
+    {
+      "title": "Software Engineer, Frontend / Full Stack (Identity Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/be5a838e-a6f4-4d99-be08-e6419a857289",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-05",
+      "ashby_job_id": "be5a838e-a6f4-4d99-be08-e6419a857289"
+    },
+    {
+      "title": "Staff Software Engineer (SRE)",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/d480082b-a446-40fb-be24-f364c07ef8a9",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-06-25",
+      "ashby_job_id": "d480082b-a446-40fb-be24-f364c07ef8a9"
+    },
+    {
+      "title": "Head of Brand Creative",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/815cacde-243b-4e59-87b1-d8536374a125",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "815cacde-243b-4e59-87b1-d8536374a125"
+    },
+    {
+      "title": "Senior Brand Designer",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/0e208910-a03b-4807-9c47-bf9e495a8839",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-14",
+      "ashby_job_id": "0e208910-a03b-4807-9c47-bf9e495a8839"
+    },
+    {
+      "title": "Head of Business and Corporate Development",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/a5248174-f846-49ce-924b-403a12914914",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-01",
+      "ashby_job_id": "a5248174-f846-49ce-924b-403a12914914"
+    },
+    {
+      "title": "Staff DevOps Engineer (Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/1ddd1eb8-9b2d-4f2a-9e70-4f76bb764e7f",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1ddd1eb8-9b2d-4f2a-9e70-4f76bb764e7f"
+    },
+    {
+      "title": "Senior Copywriter",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/7ac2190c-cefb-495d-aa3f-92cbb6d165ca",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "content-production",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7ac2190c-cefb-495d-aa3f-92cbb6d165ca"
+    },
+    {
+      "title": "Growth Partnerships Lead",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/d1c4fabe-d012-4a5d-845c-986a1e5ea976",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d1c4fabe-d012-4a5d-845c-986a1e5ea976"
+    },
+    {
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/01acfd54-49c2-4913-a968-fc70fcf61e12",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "01acfd54-49c2-4913-a968-fc70fcf61e12"
+    },
+    {
+      "title": "VIP Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/phantom/84bfcb1e-74a6-4cd7-b1d4-01b7b5d59d2e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "84bfcb1e-74a6-4cd7-b1d4-01b7b5d59d2e"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7889,
+      "longitude": -122.4075,
+      "exact_address": "447 Sutter Street, Suite 405, San Francisco, California, United States - 94108",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": "255+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "507 South Park Drive, Unit 1, Austin, Texas, United States - 78704",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.8708,
+      "longitude": 2.3142,
+      "exact_address": "49 rue de Ponthieu, 75008 Paris, Île-de-France, France - 75008",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "tel aviv",
+      "state": "Tel Aviv District",
+      "country": "Israel",
+      "latitude": 32.0905,
+      "longitude": 34.7845,
+      "exact_address": "29 HaMered St., Tel Aviv, Tel Aviv District, Israel - 6812511",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "design",
+        "operations",
+        "engineering",
+        "content-production",
+        "data",
+        "marketing"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-04-20T21:43:06.749Z",
+    "current_valuation_usd": "$3 billion",
+    "current_valuation_usd_last_updated": "2026-04-20T21:43:06.749Z",
+    "total_funding_raised": "$268 million",
+    "total_funding_raised_last_updated": "2026-04-20T21:43:06.749Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Paradigm",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Paradigm",
+        "logo_url": "/investor-logos/paradigm.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-20T21:43:06.749Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "wfh-setup",
+    "flexible-hours",
+    "remote-work",
+    "unlimited-pto",
+    "retirement-401k",
+    "mental-health",
+    "meal-allowance",
+    "team-events",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "sankalp",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-20T21:43:06.749Z",
+    "company_basic_information.website_url_last_updated": "2026-04-20T21:43:06.749Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-20T21:43:06.749Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-20T21:43:06.749Z",
+    "company_basic_information.last_updated": "2026-04-20",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-21T07:25:04.552Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T13:02:32.152Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:07:28.693Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-21T07:25:04.654Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T13:02:43.245Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:07:34.064Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-04-24T13:02:53.661Z",
+    "leadership.founders[2].description_last_updated": "2026-04-25T10:07:39.761Z",
+    "social_media.x_url_last_verified": "2026-04-21T07:27:45.461Z",
+    "social_media.linkedin_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-04-21T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T19:17:41.758Z",
+    "financial_information.funding_stage_last_updated": "2026-04-20T21:43:06.749Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-20T21:43:06.749Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-20T21:43:06.749Z",
+    "financial_information.investor_logos_last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[0].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[1].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[2].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[3].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[10].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[11].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[12].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[13].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[14].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[15].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[16].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[17].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[18].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[19].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[20].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[21].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[22].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[23].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[24].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[25].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[26].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[27].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[28].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[29].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[30].last_updated": "2026-04-20T21:43:06.749Z",
+    "location_mapping[31].last_updated": "2026-04-20T21:43:06.749Z",
+    "job_data.roles[0].posted_date": "2025-11-12",
+    "job_data.roles[1].posted_date": "2025-09-05",
+    "job_data.roles[2].posted_date": "2025-06-25",
+    "job_data.roles[3].posted_date": "2026-07-01",
+    "job_data.roles[4].posted_date": "2026-07-14",
+    "job_data.roles[5].posted_date": "2026-08-01",
+    "job_data.roles[6].posted_date": "2026-08-16",
+    "job_data.roles[7].posted_date": "2026-08-31",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T10:03:44.909Z",
+    "benefits.equity-stock.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.wfh-setup.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.flexible-hours.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.remote-work.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.unlimited-pto.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.mental-health.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.meal-allowance.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.team-events.last_updated": "2026-04-23T19:00:14.979Z",
+    "benefits.bonus.last_updated": "2026-04-23T19:00:14.979Z"
+  }
+}

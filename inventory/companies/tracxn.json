@@ -1,0 +1,168 @@
+{
+  "slug": "tracxn",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/75129.d6ab8554d463a732.js",
+  "observed_at": "2026-09-28T08:37:41.220069+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7857,
+    "sha256": "2cf7b789800fd8cd20d6de54e9ecdeaed42b8ccd8b64f607e2d8262c3a5fe94b",
+    "elapsed_seconds": 0.369,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:41 GMT",
+      "etag": "\"82a8e25a0b0d60c88dfc9fbfef0ee71e\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:41 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Tracxn",
+    "company_name_legal": "Tracxn Technologies Limited",
+    "founded_year": 2012,
+    "website_url": "https://tracxn.com",
+    "careers_url": "https://tracxn.hire.trakstar.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 377
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-24T10:29:25.592Z",
+    "crawl_status": "success",
+    "source": "Trakstar",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "trakstar_job_id",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Analyst",
+      "apply_url": "https://tracxn.hire.trakstar.com/jobs/jobs/fk0ijy/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job title 'Analyst' typically involves responsibilities related to data analysis, interpretation, and reporting. Given that the role is categorized under 'Analyst', it strongly aligns with the Data & Analytics department, which focuses on analyzing data to inform business decisions."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "No. L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "other"
+      ],
+      "employee_count": "200+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "ipo",
+    "funding_stage_last_updated": "2026-07-14T12:29:22.140Z",
+    "current_valuation_usd": "$40 million",
+    "current_valuation_usd_last_updated": "2026-07-14T12:29:22.140Z",
+    "total_funding_raised": "$17 million",
+    "total_funding_raised_last_updated": "2026-07-14T12:29:22.140Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-07-14T12:29:22.140Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Trakstar",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-14T12:29:22.140Z",
+    "company_basic_information.website_url_last_updated": "2026-07-14T12:29:22.140Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-14T12:29:22.140Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-14T12:29:22.140Z",
+    "company_basic_information.last_updated": "2026-07-14",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-14T12:39:21.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-14T12:39:21.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-14T12:45:35.532Z",
+    "leadership.founders[0].description_last_updated": "2026-07-14T12:46:03.288Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-14T12:39:21.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-14T12:39:21.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-14T12:45:54.224Z",
+    "leadership.founders[1].description_last_updated": "2026-07-14T12:46:10.011Z",
+    "social_media.x_url_last_updated": "2026-07-14T12:29:22.140Z",
+    "social_media.x_url_last_verified": "2026-07-14T12:39:21.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-14T12:29:22.140Z",
+    "social_media.linkedin_url_last_verified": "2026-07-14T12:39:21.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-14T12:29:22.140Z",
+    "social_media.instagram_url_last_verified": "2026-07-14T12:39:21.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-14",
+    "financial_information.funding_stage_last_updated": "2026-07-14T12:29:22.140Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-14T12:29:22.140Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-14T12:29:22.140Z",
+    "financial_information.investor_logos_last_updated": "2026-07-14T12:29:22.140Z",
+    "location_mapping[0].last_updated": "2026-07-14T12:29:22.140Z",
+    "job_data.last_updated": "2026-09-24T10:29:25.592Z"
+  }
+}

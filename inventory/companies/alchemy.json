@@ -1,0 +1,556 @@
+{
+  "slug": "alchemy",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/55787.722adeccbe5427ff.js",
+  "observed_at": "2026-09-28T08:28:34.602689+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 18590,
+    "sha256": "511eadfcb1da1f98c4661c1bebf92eb242e6eab4e6601e099c0407996a1e98db",
+    "elapsed_seconds": 0.15,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:28:34 GMT",
+      "etag": "\"8b2f960def823fd59119068e1f09ec55\"",
+      "last-modified": "Mon, 28 Sep 2026 07:55:49 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Alchemy",
+    "company_name_legal": "Alchemy, Inc.",
+    "founded_year": 2017,
+    "website_url": "https://www.alchemy.com",
+    "careers_url": "https://jobs.ashbyhq.com/alchemy",
+    "investor_portfolio_page": null,
+    "id": 413
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 20,
+    "last_updated": "2026-09-19T16:38:01.520Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 20,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/cae1f5bc-5963-42a6-8983-f4bc8e5f33c7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "cae1f5bc-5963-42a6-8983-f4bc8e5f33c7"
+    },
+    {
+      "title": "Account Executive, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/58a2980c-01b5-4fed-95db-a51975b57d71",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "58a2980c-01b5-4fed-95db-a51975b57d71"
+    },
+    {
+      "title": "Account Executive, Solana",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/4c23158a-79f9-4025-a4de-a4d3b5f200e7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "4c23158a-79f9-4025-a4de-a4d3b5f200e7"
+    },
+    {
+      "title": "Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/e9114029-c645-44f8-8f7e-9b718c10ad94",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "e9114029-c645-44f8-8f7e-9b718c10ad94"
+    },
+    {
+      "title": "Cloud Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/42c849ce-8a9b-4015-92fb-b8dfad5c5d0d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "42c849ce-8a9b-4015-92fb-b8dfad5c5d0d"
+    },
+    {
+      "title": "Controller",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/63676da5-b3e8-4b43-928e-8cd2fde05246",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "63676da5-b3e8-4b43-928e-8cd2fde05246"
+    },
+    {
+      "title": "Customer Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/8f61f190-33a2-454e-a030-e8e5b041bf3b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "8f61f190-33a2-454e-a030-e8e5b041bf3b"
+    },
+    {
+      "title": "Head of GTM",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/a21dafd1-efe9-46ce-bd16-42d38b2efc8b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "a21dafd1-efe9-46ce-bd16-42d38b2efc8b"
+    },
+    {
+      "title": "Principal Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/a0fff2e5-6470-4755-b1a5-a80202ac7489",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "a0fff2e5-6470-4755-b1a5-a80202ac7489"
+    },
+    {
+      "title": "Revenue Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/fde19ec2-f227-4611-acba-dc5192101b79",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "fde19ec2-f227-4611-acba-dc5192101b79"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/8438fa3b-258d-4da1-9af1-3e1f5b71b931",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "8438fa3b-258d-4da1-9af1-3e1f5b71b931"
+    },
+    {
+      "title": "Senior Product Manager, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/e25f2923-33ce-45cb-a967-0cdb53b2c8b8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "e25f2923-33ce-45cb-a967-0cdb53b2c8b8"
+    },
+    {
+      "title": "Software Engineer - Solutions",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/bb82379e-47be-42ef-b7e6-fef50d2a7682",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "bb82379e-47be-42ef-b7e6-fef50d2a7682"
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/e7a61a12-87f6-4c7f-96a1-289df03e3996",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "e7a61a12-87f6-4c7f-96a1-289df03e3996"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/07f23db8-28b1-4916-8209-0cb0e1de3fad",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-08",
+      "ashby_job_id": "07f23db8-28b1-4916-8209-0cb0e1de3fad"
+    },
+    {
+      "title": "Product Lead, Developer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/b6b29a64-508c-4712-9b0f-08a5ff0ddb2d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b6b29a64-508c-4712-9b0f-08a5ff0ddb2d"
+    },
+    {
+      "title": "Senior Ecosystem Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/e7a4d35f-93b9-44f9-85a2-3d5b3ee05fe1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e7a4d35f-93b9-44f9-85a2-3d5b3ee05fe1"
+    },
+    {
+      "title": "Senior Product Manager - Developer Platform",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/94dead82-dffe-43e9-a2d5-3bcc656e19fd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "94dead82-dffe-43e9-a2d5-3bcc656e19fd"
+    },
+    {
+      "title": "Senior Product Manager - Ecosystem",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/fc162906-baf9-4eba-a684-a9bbff2b5cd8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "fc162906-baf9-4eba-a684-a9bbff2b5cd8"
+    },
+    {
+      "title": "Social & Technical Content Manager",
+      "apply_url": "https://jobs.ashbyhq.com/alchemy/bf5d849a-d0da-41a9-be66-eac9d0a416af",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bf5d849a-d0da-41a9-be66-eac9d0a416af"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bucharest_office",
+      "city": "Bucharest",
+      "state": null,
+      "country": "Romania",
+      "latitude": 44.4268,
+      "longitude": 26.1025,
+      "exact_address": "Bucharest, Romania",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7143,
+      "longitude": -74.0087,
+      "exact_address": "222 Broadway, 19th Floor, New York, NY 10007, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "engineering",
+        "marketing",
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7803,
+      "longitude": -122.3976,
+      "exact_address": "542 Brannan Street, San Francisco, CA 94107, United States",
+      "departments": [
+        "sales",
+        "hr",
+        "engineering",
+        "data",
+        "design",
+        "product"
+      ],
+      "employee_count": "51-200"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-g",
+    "funding_stage_last_updated": "2026-08-08T08:33:41.510Z",
+    "current_valuation_usd": "$10.2B",
+    "current_valuation_usd_last_updated": "2026-08-08T08:33:41.510Z",
+    "total_funding_raised": "$500M",
+    "total_funding_raised_last_updated": "2026-08-08T08:33:41.510Z",
+    "key_investors": [
+      {
+        "name": "Pantera Capital",
+        "domain": "panteracapital.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Pantera Capital",
+        "logo_url": null
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-08T08:33:41.510Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "gym-membership",
+    "wfh-setup",
+    "meal-allowance",
+    "mental-health",
+    "learning-development",
+    "conference-budget",
+    "health-savings-account",
+    "equity-stock",
+    "bonus",
+    "commute-allowance",
+    "unlimited-pto",
+    "childcare-support",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-08T08:33:41.510Z",
+    "company_basic_information.website_url_last_updated": "2026-08-08T08:33:41.510Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-08T08:33:41.510Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-08T08:33:41.510Z",
+    "company_basic_information.last_updated": "2026-08-08",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-08T09:05:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-08T09:05:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-08T08:50:13.884Z",
+    "leadership.founders[0].description_last_updated": "2026-08-08T08:52:11.765Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-08T09:05:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-08T09:05:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-08T08:50:34.188Z",
+    "leadership.founders[1].description_last_updated": "2026-08-08T08:52:17.722Z",
+    "social_media.x_url_last_updated": "2026-08-08T08:33:41.510Z",
+    "social_media.x_url_last_verified": "2026-08-08T09:05:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-08-08T08:33:41.510Z",
+    "social_media.linkedin_url_last_verified": "2026-08-08T09:05:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-08-08T08:33:41.510Z",
+    "social_media.instagram_url_last_verified": "2026-08-08T09:10:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-08-08",
+    "financial_information.funding_stage_last_updated": "2026-08-08T08:33:41.510Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-08T08:33:41.510Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-08T08:33:41.510Z",
+    "financial_information.investor_logos_last_updated": "2026-08-08T08:33:41.510Z",
+    "location_mapping[0].last_updated": "2026-08-08T08:33:41.510Z",
+    "location_mapping[1].last_updated": "2026-08-08T08:33:41.510Z",
+    "location_mapping[2].last_updated": "2026-08-08T08:33:41.510Z",
+    "job_data.roles[0].posted_date": "2026-08-08",
+    "job_data.roles[1].posted_date": "2026-08-08",
+    "job_data.roles[2].posted_date": "2026-08-08",
+    "job_data.roles[3].posted_date": "2026-08-08",
+    "job_data.roles[4].posted_date": "2026-08-08",
+    "job_data.roles[5].posted_date": "2026-08-08",
+    "job_data.roles[6].posted_date": "2026-08-08",
+    "job_data.roles[7].posted_date": "2026-08-08",
+    "job_data.roles[8].posted_date": "2026-08-08",
+    "job_data.roles[9].posted_date": "2026-08-08",
+    "job_data.roles[10].posted_date": "2026-08-08",
+    "job_data.roles[11].posted_date": "2026-08-08",
+    "job_data.roles[12].posted_date": "2026-08-08",
+    "job_data.roles[13].posted_date": "2026-08-08",
+    "job_data.roles[14].posted_date": "2026-08-08",
+    "job_data.roles[15].posted_date": "2026-09-05",
+    "job_data.roles[16].posted_date": "2026-09-05",
+    "job_data.roles[17].posted_date": "2026-09-05",
+    "job_data.roles[18].posted_date": "2026-09-05",
+    "job_data.roles[19].posted_date": "2026-09-05",
+    "job_data.last_updated": "2026-09-19T16:38:01.520Z",
+    "benefits.health-insurance.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.dental-insurance.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.vision-insurance.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.gym-membership.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.wfh-setup.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.meal-allowance.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.mental-health.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.learning-development.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.conference-budget.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.health-savings-account.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.equity-stock.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.bonus.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.commute-allowance.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.childcare-support.last_updated": "2026-08-08T08:48:28.495Z",
+    "benefits.team-events.last_updated": "2026-08-08T08:48:28.495Z"
+  }
+}

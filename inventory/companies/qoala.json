@@ -1,0 +1,1278 @@
+{
+  "slug": "qoala",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/46019.a3b355cf3a5658e4.js",
+  "observed_at": "2026-09-28T08:35:42.457506+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 41685,
+    "sha256": "abbb6435d1ac51f6e044ce13a2d281c049c596e393df04f9e85f2bf54aa36b74",
+    "elapsed_seconds": 0.458,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:42 GMT",
+      "etag": "\"0c8945248e0723b3079a67878b514e7f\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:42 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Qoala",
+    "company_name_legal": "Qoala Technology Pte Ltd",
+    "founded_year": 2018,
+    "website_url": "https://qoala.id",
+    "careers_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/allJobs",
+    "investor_portfolio_page": null,
+    "id": 460
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 64,
+    "last_updated": "2026-09-24T10:10:33.947Z",
+    "crawl_status": "success",
+    "source": "Darwinbox",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 64,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "darwinbox_job_id",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inference_ai_response",
+    "location_inference_attempted",
+    "location_inference_attempted_timestamp",
+    "location_inference_note",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Offline Partnerships Associate (Davao City)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a67773529e3663",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Finance Operations Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a964f025cac9",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Data Analyst Intern",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6916d4af17e5c",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Internship",
+      "posted_date": null
+    },
+    {
+      "title": "Software Engineer Intern",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a7d5724dab02",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Internship",
+      "posted_date": null
+    },
+    {
+      "title": "Partnerships Manager (Mandarin Speaker)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a7d750eaac04",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Claim Associate - Insurance Finance",
+      "title_original": "Claim Associate (Gadget)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T15:31:55.197Z",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a67c18cc21b820",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Claim Associate involve managing claims, insurance operations, and finance-related tasks, which are closely aligned with finance functions. The role also includes handling invoices and accounts receivable, further emphasizing its financial nature."
+    },
+    {
+      "title": "Operational Excellence Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a71c75a6b0bb",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Finance Operations Associate Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a7058281c117",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Project Data Analyst",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a6859a77ef40",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Freelance",
+      "posted_date": null
+    },
+    {
+      "title": "Customer Success Junior Associate",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a688f19a37ee",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Digital Partnerships Associate Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a6306c396997",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Accounting Associate Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a633b53ca893",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Partnerships Associate Manager (Mandarin Speaker)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a5dcd82ad3b4",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Claim Associate - Gadget Protection",
+      "title_original": "Claim Associate [Gadget] - Contract 6 Months",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T15:32:21.938Z",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a58b0618672c",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Direct Contract",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Claim Associate role primarily involves managing Total Loss claims, coordinating replacement units, and handling invoicing and payments, which aligns closely with operational functions. The responsibilities include vendor coordination and salvage management, which are key aspects of operations."
+    },
+    {
+      "title": "Partnerships Senior Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a4f5a995f4f6",
+      "location_ids": [
+        "ho_chi_minh_office",
+        "ho_chi_minh_office"
+      ],
+      "location_display": "Ho Chi Minh, Vietnam / Ho Chi Minh, Vietnam",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer (Backend)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a3e29aa98222",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Business Enablement Admin - Insurance Products",
+      "title_original": "Business Enablement Admin (Contract)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T15:32:44.227Z",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a3cef3dc3ed4",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Direct Contract",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Business Enablement Admin revolve around managing administrative processes, supporting tender submissions, and coordinating post-sales activities. These tasks align closely with the functions typically found in an administration role, focusing on ensuring smooth business operations."
+    },
+    {
+      "title": "Software Engineer (Backend)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a68f1ed60d4844",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Growth Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6a0ec9c108edf",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Claim Senior Manager - Healthcare Operations",
+      "title_original": "Claim Senior Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T15:33:09.454Z",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69fc584c211ce",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "healthcare-operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Claim Senior Manager involve establishing standards, monitoring performance, and ensuring timely resolution of claims, which aligns closely with the operations within the healthcare claims process. The focus on customer satisfaction and collaboration with insurance partners further supports this classification."
+    },
+    {
+      "title": "Procurement Associate",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69e8b2858a0b0",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer (Front End)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69d867512d3c2",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Offline Partnerships Senior Associate - Sulawesi Tengah",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69d8b28c77414",
+      "location_ids": [
+        "palu_office"
+      ],
+      "location_display": "Palu, Sulawesi Tengah, Indonesia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Partnership Associate involve acquiring and maintaining partnerships with retailers, which aligns closely with sales activities. The role focuses on generating revenue through partnerships and enhancing brand awareness, indicating a strong emphasis on sales functions."
+    },
+    {
+      "title": "QA Engineer (Manual)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69d768b86bd3a",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer (Backend)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69d797aa5cd50",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Offline Partnerships Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6762749fa35c5",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Account Payable and Treasury",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a68ccf8e8045f3",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Territory Sales Executive",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a696f6437defeb",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Finance Operations Associate (Philippines)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a694a77810806f",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Offline Partnerships Senior Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a68dbaa5b4725a",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Offline Partnerships Associate",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a68bd73857862c",
+      "location_ids": [
+        "bandung_office"
+      ],
+      "location_display": "Bandung, Jawa Barat, Indonesia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Outsourced",
+      "posted_date": null
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6687a3bea69d7",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "People Operations (Philippines)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a682bfea34fe7a",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Data Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a685a456046f3a",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Accounting Associate",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6810b30fd1af6",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Finance & Accounting Specialist",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a67c829dd5639a",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Direct Contract",
+      "posted_date": null
+    },
+    {
+      "title": "Digital Partnerships Associate Manager (Philippines)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a679365e064b92",
+      "location_ids": [
+        "manila_office",
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines / Manila, Philippines",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (FT)",
+      "posted_date": null
+    },
+    {
+      "title": "Virtual Business Associate (Tele Sales)",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6763827ddc356",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Outsourced",
+      "posted_date": null
+    },
+    {
+      "title": "Employee Benefit Operations Admin",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a674009fe92c99",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Direct Contract",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Data Analyst",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66fe65814f1e5",
+      "location_ids": [
+        "bangkok_office"
+      ],
+      "location_display": "Bangkok, Thailand",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Business Analyst",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66ebeffc2d025",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "DevOps Engineer Part Time",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66daab03a1baf",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Consultant (PT)",
+      "posted_date": null
+    },
+    {
+      "title": "Data Analyst",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66c2e84a4f5ae",
+      "location_ids": [
+        "bangkok_office"
+      ],
+      "location_display": "Bangkok, Thailand",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior DevOps Engineer Part-Time",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66a321cc788c0",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Consultant (PT)",
+      "posted_date": null
+    },
+    {
+      "title": "SDET",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66a0d3bc9eb70",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66a22816dbeaf",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Data Warehouse Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6695f2e022603",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6687a2934e2b0",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6687a31f98836",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6687a49f265f7",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6687a60c267db",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Data Warehouse Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66822abb9e01d",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66790838049e5",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "SDET",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6673cad18e24b",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer 2",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6662dcba6e0dd",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66346fb3de0e3",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior SDET",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a663485a95c241",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior SDET",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66348a543a360",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66348de01eb63",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Staff Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66348eb24aed3",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6634af4337de5",
+      "location_ids": [
+        "jakarta_office"
+      ],
+      "location_display": "Jakarta, Indonesia",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Staff Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a66307bfec3454",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Software Engineer - ERPNext Expert",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a660fa3e2bef52",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://qoala.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6603aaa5705bc",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Permanent",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bandung_office",
+      "city": "Bandung",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "exact_address": "Bandung, Indonesia",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bangkok_office",
+      "city": "Bangkok",
+      "state": null,
+      "country": "Thailand",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "exact_address": "Bangkok, Thailand",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "engineering",
+        "product",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ho_chi_minh_office",
+      "city": "Ho Chi Minh City",
+      "state": null,
+      "country": "Vietnam",
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "exact_address": "Ho Chi Minh City, Vietnam",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jakarta_office",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [
+        "operations",
+        "data",
+        "engineering",
+        "finance",
+        "customer-success",
+        "other",
+        "marketing",
+        "sales",
+        "it",
+        "qa",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "operations",
+        "other",
+        "sales",
+        "finance",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "palu_office",
+      "city": "Palu",
+      "state": "Central Sulawesi",
+      "country": "Indonesia",
+      "latitude": -0.8917,
+      "longitude": 119.8707,
+      "exact_address": "Palu, Central Sulawesi, Indonesia",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-09-24T14:32:38.879Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-09-24T14:32:38.879Z",
+    "total_funding_raised": "$134M",
+    "total_funding_raised_last_updated": "2026-09-24T14:32:38.879Z",
+    "key_investors": [
+      {
+        "name": "PayPal Ventures",
+        "domain": "paypal.com"
+      },
+      {
+        "name": "MassMutual Ventures",
+        "domain": "massmutualventures.com"
+      },
+      {
+        "name": "MUFG Innovation Partners",
+        "domain": "ip.mufg.jp"
+      },
+      {
+        "name": "KB Investment",
+        "domain": ""
+      },
+      {
+        "name": "AppWorks",
+        "domain": "appworks.tw"
+      },
+      {
+        "name": "Eurazeo",
+        "domain": "eurazeo.com"
+      },
+      {
+        "name": "Flourish Ventures",
+        "domain": "flourishventures.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "sequoiacap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "PayPal Ventures",
+        "logo_url": "/investor-logos/paypal-ventures.png"
+      },
+      {
+        "name": "MassMutual Ventures",
+        "logo_url": "/investor-logos/massmutual-ventures.png"
+      },
+      {
+        "name": "MUFG Innovation Partners",
+        "logo_url": "/investor-logos/mufg-innovation-partners.png"
+      },
+      {
+        "name": "KB Investment",
+        "logo_url": "/investor-logos/kb-investment.png"
+      },
+      {
+        "name": "AppWorks",
+        "logo_url": "/investor-logos/appworks.png"
+      },
+      {
+        "name": "Eurazeo",
+        "logo_url": "/investor-logos/eurazeo.png"
+      },
+      {
+        "name": "Flourish Ventures",
+        "logo_url": "/investor-logos/flourish-ventures.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-24T14:32:38.879Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "claude-co-work-research",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Darwinbox",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-24T14:32:38.879Z",
+    "company_basic_information.website_url_last_updated": "2026-09-24T14:32:38.879Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-24T14:32:38.879Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-24T14:32:38.879Z",
+    "company_basic_information.last_updated": "2026-09-24",
+    "leadership.founders[0].linkedin_last_verified": "2026-09-24T15:31:09.000Z",
+    "leadership.founders[0].description_last_updated": "2026-09-24T15:31:37.678Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-09-24T15:31:09.000Z",
+    "leadership.founders[1].description_last_updated": "2026-09-24T15:31:45.460Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-09-24T15:31:09.000Z",
+    "leadership.founders[2].description_last_updated": "2026-09-24T15:31:53.382Z",
+    "leadership.last_updated": "2026-09-24T15:24:18.776Z",
+    "social_media.x_url_last_updated": "2026-09-24T14:32:38.879Z",
+    "social_media.linkedin_url_last_updated": "2026-09-24T14:32:38.879Z",
+    "social_media.instagram_url_last_updated": "2026-09-24T14:32:38.879Z",
+    "social_media.linkedin_url_last_verified": "2026-09-24T14:58:52.000Z",
+    "social_media.instagram_url_last_verified": "2026-09-24T14:58:52.000Z",
+    "social_media.x_url_last_verified": "2026-09-24T15:31:09.000Z",
+    "business_details.industry_domains_last_updated": "2026-09-24T15:31:09.000Z",
+    "financial_information.funding_stage_last_updated": "2026-09-24T14:32:38.879Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-24T14:32:38.879Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-24T14:32:38.879Z",
+    "financial_information.investor_logos_last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[0].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[1].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[2].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[3].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[4].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[5].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[6].last_updated": "2026-09-24T14:32:38.879Z",
+    "location_mapping[7].last_updated": "2026-09-24T15:36:09.771Z",
+    "job_data.roles[5].title_updated_timestamp": "2026-09-24T15:31:55.197Z",
+    "job_data.roles[13].title_updated_timestamp": "2026-09-24T15:32:21.938Z",
+    "job_data.roles[16].title_updated_timestamp": "2026-09-24T15:32:44.227Z",
+    "job_data.roles[19].title_updated_timestamp": "2026-09-24T15:33:09.454Z",
+    "job_data.last_updated": "2026-09-24T10:10:33.947Z"
+  }
+}

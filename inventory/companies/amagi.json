@@ -1,0 +1,732 @@
+{
+  "slug": "amagi",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/74223.f9da06eed733d56b.js",
+  "observed_at": "2026-09-28T08:28:40.075849+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 24945,
+    "sha256": "ec354d6598d4e42debecdc58aee4653f09a04247ff5ab6e88aa1c984b6114791",
+    "elapsed_seconds": 0.437,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:28:40 GMT",
+      "etag": "\"25f38c1031413d4cb240eeee84800c29\"",
+      "last-modified": "Mon, 28 Sep 2026 08:28:40 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Amagi",
+    "company_name_legal": "Amagi Corporation",
+    "founded_year": 2016,
+    "website_url": "https://www.amagi.com",
+    "careers_url": "https://amagi.mynexthire.com/employer/jobs",
+    "investor_portfolio_page": null,
+    "id": 182
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 15,
+    "last_updated": "2026-09-14T13:13:17.049Z",
+    "crawl_status": "success",
+    "source": "MyNextHire ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 15,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "mynexthire_job_id",
+    "portal_name",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Manager - Ad Operations",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjQyMCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8-12 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDET II",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjQwNCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjQwMSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8-12 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Software Development Engineer II",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjM4MywicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Business Development Representative",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjM3MiwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-10 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Manager - Procurement",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjMzNywicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8-12 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "EMEA Field Marketing Manager",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjMyNCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "6-10 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjMxMCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-15 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Manager – Sales Operations",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI5NiwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-10 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Solution QA Engineer - II",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI3NCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-4 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Platform Engineer II",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI3MCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Manager - Program Management",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI1MSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-10 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Sales Manager",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI1NCwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5-10 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Technical Project Lead - Engineering",
+      "title_original": "Technical Project Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:20:14.376Z",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjQzNiwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8-15 years",
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Technical Project Lead primarily involves overseeing technical projects, which aligns closely with engineering responsibilities. This position likely requires technical expertise and project management skills, indicating a strong focus on engineering tasks."
+    },
+    {
+      "title": "Manager - RevOps & GTM Engineering",
+      "apply_url": "https://amagi.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjM3MSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6e319",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-4 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.8667,
+      "longitude": 77.6167,
+      "exact_address": "Raj Alkaa Park, Sy. No. 29/3 & 32/2, 4th Floor, Kalena Agrahara Village, Begur Hobli, Bengaluru, Karnataka, India - 560076",
+      "departments": [
+        "sales",
+        "engineering",
+        "other",
+        "finance"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7505,
+      "longitude": -73.9934,
+      "exact_address": "1 Pennsylvania Plaza, Suite 1401, New York, New York, United States - 10119",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-02-09T15:56:42.578Z",
+    "current_valuation_usd": "$1.4 billion",
+    "current_valuation_usd_last_updated": "2026-02-09T15:56:42.578Z",
+    "total_funding_raised": "$395 million",
+    "total_funding_raised_last_updated": "2026-02-09T15:56:42.578Z",
+    "key_investors": [
+      {
+        "name": "General Atlantic",
+        "domain": "generalatlantic.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Norwest Venture Partners",
+        "domain": "norwestventures.com"
+      },
+      {
+        "name": "Avataar Ventures",
+        "domain": "avataarventures.com"
+      },
+      {
+        "name": "Premji Invest",
+        "domain": "premjiinvest.com"
+      },
+      {
+        "name": "Nadathur Holdings",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "General Atlantic",
+        "logo_url": "/investor-logos/general-atlantic.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Norwest Venture Partners",
+        "logo_url": "/investor-logos/norwest-venture.png"
+      },
+      {
+        "name": "Avataar Ventures",
+        "logo_url": "/investor-logos/avataar-ventures.png"
+      },
+      {
+        "name": "Premji Invest",
+        "logo_url": "/investor-logos/premji-invest.png"
+      },
+      {
+        "name": "Nadathur Holdings",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-09T15:56:42.578Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$100 million",
+      "revenue_growth_rate": 136
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "MyNextHire ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-09T15:56:42.578Z",
+    "company_basic_information.website_url_last_updated": "2026-02-09T15:56:42.578Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-09T15:56:42.578Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-09T15:56:42.578Z",
+    "company_basic_information.last_updated": "2026-02-09",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-09T16:23:09.652Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-09T19:29:53.580Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:27:33.334Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:31:56.991Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-09T16:23:33.355Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:27:45.681Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:32:02.450Z",
+    "social_media.x_url_last_verified": "2026-02-09T16:24:08.752Z",
+    "social_media.instagram_url_last_verified": "2026-02-09T16:24:45.278Z",
+    "social_media.linkedin_url_last_verified": "2026-02-09T19:30:54.359Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-09T15:56:42.578Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-09T15:56:42.578Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-09T15:56:42.578Z",
+    "financial_information.investor_logos_last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[0].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[1].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[2].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[3].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[4].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[5].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[6].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[7].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[8].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[9].last_updated": "2026-02-09T15:56:42.578Z",
+    "location_mapping[10].last_updated": "2026-02-09T15:56:42.578Z",
+    "job_data.roles[13].title_updated_timestamp": "2026-09-14T15:20:14.376Z",
+    "job_data.last_updated": "2026-09-14T13:13:17.049Z",
+    "benefits.bonus.last_updated": "2026-03-11T12:01:36.071Z"
+  }
+}

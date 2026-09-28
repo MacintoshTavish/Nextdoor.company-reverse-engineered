@@ -1,0 +1,1842 @@
+{
+  "slug": "onetrust",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/32153.d5b2dd49f4b9b596.js",
+  "observed_at": "2026-09-28T08:34:54.899285+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 46187,
+    "sha256": "f803b22a6680469a4027487c4cf570bc2bfb96963ba41f4bdfde9c67513b62e5",
+    "elapsed_seconds": 0.471,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:34:54 GMT",
+      "etag": "\"da6781bff1b0e3261a741c9872a5b44b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:34:54 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "OneTrust",
+    "company_name_legal": "OneTrust, LLC",
+    "founded_year": 2016,
+    "website_url": "https://www.onetrust.com",
+    "careers_url": "https://job-boards.greenhouse.io/onetrust",
+    "investor_portfolio_page": null,
+    "id": 302
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 93,
+    "last_updated": "2026-09-14T12:58:14.555Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 93,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Manager, Data Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8141518",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Customer Success Manager - Nordics & Benelux",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8113152",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Digital CX Developer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7961330",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Enterprise Corporate Sales Manager II",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8065295",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Implementation Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8053771",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Technical Implementation Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8065293",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7961309",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8126114",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scaled Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8077862",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scaled Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8077878",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scaled Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8077882",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scales Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8077880",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Project Coordinator - Customer Onboarding",
+      "title_original": "Project Coordinator - Customer Onboarding",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-17T12:36:00.533Z",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8053779",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Project Coordinator involve managing customer onboarding and ensuring customer satisfaction throughout the implementation process. This role focuses on building relationships with customers and coordinating across various departments to advocate for customer needs, which aligns closely with customer success."
+    },
+    {
+      "title": "Senior Support Analyst (API & Cloud)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8141613",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Technical Architect (GRC)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8113154",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Technical Architect (Privacy)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8113157",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Quality Engineer - SDET",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7656977",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Software Engineer - Enterprise Customer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067479",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Software Engineer - Java Backend",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7668173",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Manager, Software Development",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067452",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Manager, Software Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7695456",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Manager, Software Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7958146",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff DevOps Engineer — Data Discovery & AI Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8083605",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067469",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Software Engineer (Full Stack)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7958152",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Software Engineer-SRE",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7825603",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7948281",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067456",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8109041",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer- BE",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067454",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer - Developer Experience",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8107189",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Solution Architect",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067460",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Team Lead, Software Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8107187",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Commercial Advisory Director",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8130025",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Advisory Director involve localizing commercial strategies, advising sales leadership, and building and negotiating deals, which aligns closely with consulting roles. The emphasis on strategic thinking and consultative customer-facing experience further solidifies this classification."
+    },
+    {
+      "title": "Lead Corporate Counsel, Commercial",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8081488",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Lead Corporate Counsel, Commercial",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8103818",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Digital Marketing Manager, Paid Search",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8083642",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Digital Marketing Manager, Paid Search",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8109553",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Marketing Manager, AI Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8083378",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Marketing Manager, AI Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8107800",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Product Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067449",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Product Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8092361",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff UX Designer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8121683",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7939882",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Enterprise",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8114145",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Enterprise - Denver, CO (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067220",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Enterprise - Texas (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7927220",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director, Sales Strategy and Operations",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7996577",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Head of Sales Enablement",
+      "title_original": "Head of Enablement",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-17T12:35:35.639Z",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8066294",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Head of Sales Enablement focus on leading the global go-to-market (GTM) enablement strategy, onboarding, and performance optimization for customer-facing sales roles. This role is centered around enhancing sales productivity and effectiveness, which aligns closely with the sales department."
+    },
+    {
+      "title": "Leader Enablement Manager - Sales",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8010340",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Partner Sales Manager - West US",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8048444",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Field Enablement Manager, Global CBU & ECS",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8155071",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7988999",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Onboarding Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8155092",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "(Senior) Principal Solutions Engineer-AI and Data Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7706025",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Sales Strategy Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8072577",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7745662",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8053411",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8013206",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineer/Solutions Consultant ( Full Time Internship)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/5988933",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Solutions Engineer/Solutions Consultant(Internship)",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/5988934",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8191389",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scaled Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8091879",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Customer Success Manager, Scaled Accounts",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8091912",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Support Analyst - Consent & Preference",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/7942653",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "CloudOps Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8168202",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Product Manager, AI Build Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Information Security GRC Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8159165",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Manager- Backend",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8171190",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Quality Engineer - SDET",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8138830",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Software Engineer - AI Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8171201",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Staff Solution Architect",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8067458",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8167257",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Sr. Identity and Access Management Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8173574",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8138822",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8171197",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8171205",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer - AI Governance",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8138824",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Workplace Associate - Fixed Term",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8188415",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Accountant",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8173576",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Director, Web & Digital Growth",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8167614",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Marketing Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8171207",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Marketing Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8197625",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Marketing Manager, Go-to-Market",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8192396",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Marketing Manager, Go-to-Market",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8197621",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Human Resources Generalist",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8148200",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Principal Country HR Partner - Fixed Term",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8147356",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8138828",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Staff Software Engineer - Consent & Preferences",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8144829",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Enterprise NYC or Boston, MA",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/6348012",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Account Executive, Mid-Market - France",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8178586",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Principal Solution Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8138963",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Renewals Associate - Customer Success",
+      "title_original": "Senior Renewals Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:25:34.216Z",
+      "apply_url": "https://job-boards.greenhouse.io/onetrust/jobs/8185735",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Senior Renewals Associate focuses primarily on customer retention, renewal strategy, and managing relationships with high-value accounts, which aligns closely with the responsibilities typically found in customer success roles. The emphasis on collaboration with Customer Success and Sales teams further supports this classification."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.7726,
+      "longitude": -84.3689,
+      "exact_address": "505 North Angier Avenue, Atlanta, Georgia 30308, United States",
+      "departments": [
+        "legal",
+        "design",
+        "data",
+        "engineering",
+        "qa",
+        "ai",
+        "operations",
+        "finance",
+        "marketing",
+        "product",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9919,
+      "longitude": 77.6505,
+      "exact_address": "Godrej Centre Indiranagar, Building No 1-15, 3rd Floor, Old Madras Road, Old Baiyappanahalli, Indiranagar, Bengaluru, Karnataka, India - 560038",
+      "departments": [
+        "ai",
+        "engineering",
+        "qa",
+        "product",
+        "operations",
+        "design",
+        "sales"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.50543,
+      "longitude": -0.10146,
+      "exact_address": "110 Southwark Street, London, United Kingdom - SE1 0TA",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain",
+      "latitude": 40.44834,
+      "longitude": -3.69463,
+      "exact_address": "Plaza de Pablo Ruiz Picasso 11, Planta 18, Azca, 28020 Madrid, Spain",
+      "departments": [
+        "sales",
+        "legal",
+        "finance",
+        "data",
+        "security",
+        "hr",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "latitude": 48.12955,
+      "longitude": 11.60134,
+      "exact_address": "Friedenstraße 22B, 81671 München, Germany",
+      "departments": [
+        "customer-success",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.711494,
+      "longitude": -74.012318,
+      "exact_address": "4 World Trade Center, 150 Greenwich Street, Suite 4750, New York, New York, United States - 10007",
+      "departments": [
+        "engineering",
+        "finance",
+        "legal",
+        "sales"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.87565,
+      "longitude": 2.33484,
+      "exact_address": "24 Rue de Mogador, 75009 Paris, France",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7896,
+      "longitude": -122.3967,
+      "exact_address": "50 Fremont Street, San Francisco, California 94105, United States",
+      "departments": [
+        "customer-success",
+        "customer-support",
+        "engineering",
+        "ai",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_city_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2838,
+      "longitude": 103.8506,
+      "exact_address": "88 Market Street, Singapore 048948",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "remote_usa_office",
+      "city": null,
+      "state": null,
+      "country": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "exact_address": "Remote, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-05-24T16:15:54.236Z",
+    "current_valuation_usd": "$4.5 billion",
+    "current_valuation_usd_last_updated": "2026-05-25T11:15:00.000Z",
+    "total_funding_raised": "$150 million",
+    "total_funding_raised_last_updated": "2026-05-24T19:52:54.402Z",
+    "key_investors": [
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "500 Global",
+        "domain": "500.co"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      },
+      {
+        "name": "TCV",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "500 Global",
+        "logo_url": "/investor-logos/500-startups.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      },
+      {
+        "name": "TCV",
+        "logo_url": "/investor-logos/tcv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-24T16:15:54.236Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "unlimited-pto",
+    "equity-stock",
+    "bonus",
+    "retirement-401k",
+    "parental-leave",
+    "learning-development",
+    "professional-memberships",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "manual-normalisation",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-24T16:15:54.236Z",
+    "company_basic_information.website_url_last_updated": "2026-05-24T16:15:54.236Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-24T16:15:54.236Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-24T16:15:54.236Z",
+    "company_basic_information.last_updated": "2026-05-24",
+    "leadership.founders[0].linkedin_last_verified": "2026-05-25T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-05-25T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:06:50.952Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:13:54.232Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-05-25T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:07:11.504Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T09:13:59.865Z",
+    "leadership.last_updated": "2026-05-24T19:53:49.640Z",
+    "social_media.x_url_last_updated": "2026-05-24T16:15:54.236Z",
+    "social_media.x_url_last_verified": "2026-05-24T19:45:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-05-24T16:15:54.236Z",
+    "social_media.linkedin_url_last_verified": "2026-05-24T19:45:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-05-24T16:15:54.236Z",
+    "social_media.instagram_url_last_verified": "2026-05-24T19:45:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-24",
+    "financial_information.funding_stage_last_updated": "2026-05-24T16:15:54.236Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-25T11:15:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-24T19:52:54.402Z",
+    "financial_information.investor_logos_last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[0].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[1].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[2].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[3].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[4].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[5].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[6].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[7].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[8].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[9].last_updated": "2026-05-24T16:15:54.236Z",
+    "location_mapping[10].last_updated": "2026-05-24T19:50:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.roles[12].posted_date": "2026-09-14",
+    "job_data.roles[12].title_updated_timestamp": "2026-08-17T12:36:00.533Z",
+    "job_data.roles[13].posted_date": "2026-09-14",
+    "job_data.roles[14].posted_date": "2026-09-14",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.roles[16].posted_date": "2026-09-14",
+    "job_data.roles[17].posted_date": "2026-09-14",
+    "job_data.roles[18].posted_date": "2026-09-14",
+    "job_data.roles[19].posted_date": "2026-09-14",
+    "job_data.roles[20].posted_date": "2026-09-14",
+    "job_data.roles[21].posted_date": "2026-09-14",
+    "job_data.roles[22].posted_date": "2026-09-14",
+    "job_data.roles[23].posted_date": "2026-09-14",
+    "job_data.roles[24].posted_date": "2026-09-14",
+    "job_data.roles[25].posted_date": "2026-09-14",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.roles[27].posted_date": "2026-09-14",
+    "job_data.roles[28].posted_date": "2026-09-14",
+    "job_data.roles[29].posted_date": "2026-09-14",
+    "job_data.roles[30].posted_date": "2026-09-14",
+    "job_data.roles[31].posted_date": "2026-09-14",
+    "job_data.roles[32].posted_date": "2026-09-14",
+    "job_data.roles[33].posted_date": "2026-09-14",
+    "job_data.roles[34].posted_date": "2026-09-14",
+    "job_data.roles[35].posted_date": "2026-09-14",
+    "job_data.roles[36].posted_date": "2026-09-14",
+    "job_data.roles[37].posted_date": "2026-09-14",
+    "job_data.roles[38].posted_date": "2026-09-14",
+    "job_data.roles[39].posted_date": "2026-09-14",
+    "job_data.roles[40].posted_date": "2026-09-14",
+    "job_data.roles[41].posted_date": "2026-09-14",
+    "job_data.roles[42].posted_date": "2026-09-14",
+    "job_data.roles[43].posted_date": "2026-09-14",
+    "job_data.roles[44].posted_date": "2026-09-14",
+    "job_data.roles[45].posted_date": "2026-09-14",
+    "job_data.roles[46].posted_date": "2026-09-14",
+    "job_data.roles[47].posted_date": "2026-09-14",
+    "job_data.roles[48].posted_date": "2026-09-14",
+    "job_data.roles[48].title_updated_timestamp": "2026-08-17T12:35:35.639Z",
+    "job_data.roles[49].posted_date": "2026-09-14",
+    "job_data.roles[50].posted_date": "2026-09-14",
+    "job_data.roles[51].posted_date": "2026-09-14",
+    "job_data.roles[52].posted_date": "2026-09-14",
+    "job_data.roles[53].posted_date": "2026-09-14",
+    "job_data.roles[54].posted_date": "2026-09-14",
+    "job_data.roles[55].posted_date": "2026-09-14",
+    "job_data.roles[56].posted_date": "2026-09-14",
+    "job_data.roles[57].posted_date": "2026-09-14",
+    "job_data.roles[58].posted_date": "2026-09-14",
+    "job_data.roles[59].posted_date": "2026-09-14",
+    "job_data.roles[60].posted_date": "2026-09-14",
+    "job_data.roles[61].posted_date": "2026-09-14",
+    "job_data.roles[62].posted_date": "2026-09-14",
+    "job_data.roles[63].posted_date": "2026-09-14",
+    "job_data.roles[64].posted_date": "2026-09-14",
+    "job_data.roles[65].posted_date": "2026-09-14",
+    "job_data.roles[66].posted_date": "2026-09-14",
+    "job_data.roles[67].posted_date": "2026-09-14",
+    "job_data.roles[68].posted_date": "2026-09-14",
+    "job_data.roles[69].posted_date": "2026-09-14",
+    "job_data.roles[70].posted_date": "2026-09-14",
+    "job_data.roles[71].posted_date": "2026-09-14",
+    "job_data.roles[72].posted_date": "2026-09-14",
+    "job_data.roles[73].posted_date": "2026-09-14",
+    "job_data.roles[74].posted_date": "2026-09-14",
+    "job_data.roles[75].posted_date": "2026-09-14",
+    "job_data.roles[76].posted_date": "2026-09-14",
+    "job_data.roles[77].posted_date": "2026-09-14",
+    "job_data.roles[78].posted_date": "2026-09-14",
+    "job_data.roles[79].posted_date": "2026-09-14",
+    "job_data.roles[80].posted_date": "2026-09-14",
+    "job_data.roles[81].posted_date": "2026-09-14",
+    "job_data.roles[82].posted_date": "2026-09-14",
+    "job_data.roles[83].posted_date": "2026-09-14",
+    "job_data.roles[84].posted_date": "2026-09-14",
+    "job_data.roles[85].posted_date": "2026-09-14",
+    "job_data.roles[86].posted_date": "2026-09-14",
+    "job_data.roles[87].posted_date": "2026-09-14",
+    "job_data.roles[88].posted_date": "2026-09-14",
+    "job_data.roles[89].posted_date": "2026-09-14",
+    "job_data.roles[90].posted_date": "2026-09-14",
+    "job_data.roles[91].posted_date": "2026-09-14",
+    "job_data.roles[92].posted_date": "2026-09-14",
+    "job_data.roles[92].title_updated_timestamp": "2026-09-14T15:25:34.216Z",
+    "job_data.last_updated": "2026-09-14T12:58:14.555Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.equity-stock.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.bonus.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.retirement-401k.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.parental-leave.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.learning-development.last_updated": "2026-06-07T16:59:42.049Z",
+    "benefits.professional-memberships.last_updated": "2026-06-07T16:59:42.049Z"
+  }
+}

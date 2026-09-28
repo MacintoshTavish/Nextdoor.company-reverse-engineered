@@ -1,0 +1,1484 @@
+{
+  "slug": "kodiak-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/95807.79031a092031266e.js",
+  "observed_at": "2026-09-28T08:33:20.753374+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 41645,
+    "sha256": "72dee7f0d99e8697d07246aa71533837b8b1ed53c30296f089de9c2bffd98302",
+    "elapsed_seconds": 0.477,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:20 GMT",
+      "etag": "\"9ec14d70a93d1539614ce13a99096251\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:20 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Kodiak AI",
+    "company_name_legal": "Kodiak AI, Inc.",
+    "founded_year": 2018,
+    "website_url": "https://kodiak.ai",
+    "careers_url": "https://job-boards.greenhouse.io/kodiak",
+    "investor_portfolio_page": null,
+    "id": 251
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 68,
+    "last_updated": "2026-09-24T10:04:47.202Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 68,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior AI Infrastructure Engineer - Model Training",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4310775009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Machine Learning Engineer - Deployment",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4226655009",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Technical Lead, Multimodal Transformers",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4363440009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "World Model Research Scientist- Physical AI",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4203253009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Probabilistic Risk Assessment Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4203236009",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Autonomy Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4204664009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Controls (MATLAB)",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4246360009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Controls (Simulation)",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4337363009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Controls (C++)",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4312761009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Controls",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4005126009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Electrical Engineering Technician",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4335993009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff, Hardware Electrical Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4328677009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff, Harness Engineering Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4388120009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Embedded",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4005123009",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Technician",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4335998009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Vehicle Integration Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4342588009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Vehicle Electrical Integration Technician",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4313137009",
+      "location_ids": [
+        "odessa_office"
+      ],
+      "location_display": "Odessa, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Vehicle Electrical Integration Technician involve troubleshooting, debugging, and maintaining complex mechanical, electrical, and software systems. This role requires a strong technical background and hands-on work with engineering practices, which aligns closely with the engineering department."
+    },
+    {
+      "title": "Vehicle Integration Technician - Autonomous Vehicles",
+      "title_original": "Vehicle Integration Technician",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-09T16:34:47.185Z",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4336008009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Vehicle Integration Technician involve building, maintaining, and troubleshooting mechanical, electrical, and software systems on autonomous vehicles, which aligns closely with engineering functions. The role requires strong technical skills and collaboration with engineers, further emphasizing its engineering focus."
+    },
+    {
+      "title": "Hardware Quality Industrialization Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378057009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, Localization",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4297363009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Mechanical Harness Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4308079009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Behavior & Motion Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4173361009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Behavior Prediction- Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4288973009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Planning Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4297189009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Behavior Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4292556009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Learned & Hybrid Behavior Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4294898009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Mission Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4183788009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Autonomy Engineer, Perception",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4154988009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Cloud Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4194732009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Functional Safety Engineer, Software",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4062289009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Systems Engineer, Fault Management",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4375085009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Supply Chain",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4302898009",
+      "location_ids": [
+        "mountain_view_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Mountain View, USA / California",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Finance Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4383890009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "DevOps Engineer - Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4090717009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Helpdesk",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4139797009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified"
+    },
+    {
+      "title": "Winter 2027 Intern, Artificial Intelligence/Machine Learning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Controls Intern - Autonomous Vehicles",
+      "title_original": "Winter 2027 Intern, Controls",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T20:51:46.953Z",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this internship involve developing algorithms for mission planning, routing, and fault management for autonomous trucks, which directly relates to the field of robotics. The role also emphasizes hands-on experience with robotics problems and software deployment in real-world scenarios, further solidifying its classification under robotics."
+    },
+    {
+      "title": "Winter 2027 Intern, Data Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4396622009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Winter 2027 Intern, Electrical Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Mission Planning Intern - Autonomous Vehicles",
+      "title_original": "Winter 2027 Intern, Mission Planning",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T20:48:52.348Z",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378548009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the intern involve developing mission planning algorithms and working on routing and fault management for autonomous trucks, which aligns closely with the robotics field. The focus on coding, robotics problems, and collaboration with engineering teams further supports this classification."
+    },
+    {
+      "title": "Winter 2027 Intern, Motion Planning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Simulation Intern - Autonomous Trucks",
+      "title_original": "Winter 2027 Intern, Simulation",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T20:49:47.196Z",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378662009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the intern involve working on simulation for autonomous trucks, which directly relates to robotics. The job description emphasizes solving real-world robotics problems and developing skills in high-fidelity simulation frameworks, indicating a strong focus on robotics engineering."
+    },
+    {
+      "title": "Fleet Technician",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4304173009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Operations Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4362418009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Field Truck Technician",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4304139009",
+      "location_ids": [
+        "kermit_office"
+      ],
+      "location_display": "Kermit, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Field Truck Technician involve maintaining and repairing autonomous vehicle platforms, which aligns closely with operations related to vehicle maintenance and logistics. The role requires hands-on technical skills and collaboration with engineers, emphasizing operational efficiency and safety."
+    },
+    {
+      "title": "Class A CDL Driver",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4252011009",
+      "location_ids": [
+        "kermit_office",
+        "odessa_office"
+      ],
+      "location_display": "Kermit, USA / Odessa, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Class A CDL Driver",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4304089009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Safety Driver involve operating and managing autonomous vehicles in real-world conditions, which aligns closely with operational functions in the transportation sector. The role requires a Class A CDL license and emphasizes safety and flexibility in driving, which are critical aspects of operations in a logistics and transportation context."
+    },
+    {
+      "title": "Class A CDL Driver",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4304299009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Class A Safety Driver",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4304148009",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Class A Safety Driver involve operating self-driving semi trucks and providing feedback to the engineering team, which aligns closely with the operations of the company. The role is focused on the practical application of autonomous technology in commercial trucking, making operations the most appropriate category."
+    },
+    {
+      "title": "Class A Safety Driver",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4380113009",
+      "location_ids": [
+        "kermit_office",
+        "odessa_office"
+      ],
+      "location_display": "Kermit, USA / Odessa, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Class A Safety Driver involve operating commercial vehicles and ensuring safety while deploying autonomous technology in real-world conditions. This aligns closely with the operations category, as it focuses on the practical execution of transportation logistics."
+    },
+    {
+      "title": "Safety Driver - Commercial Freight Operations",
+      "title_original": "Safety Driver, Commercial",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T09:09:39.861Z",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4360216009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Safety Driver involve operating autonomous-enabled trucks on commercial freight routes, ensuring safety and regulatory compliance, and collaborating with various teams to support live commercial operations. This aligns closely with the operations department, which focuses on the execution of business processes and logistics."
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4305450009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr Product Manager, Assisted Autonomy",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4305442009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr Product Manager, Command and Field Operations",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4305446009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4308530009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Product Manager - Autonomy Hardware",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4330290009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Vice President of Commercialization",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4012631009",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Social Media Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4239251009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior, Electrical Harness Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4409345009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer, UI Tools Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4320932009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior, Vehicle Integration Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4409581009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Manufacturing Test Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4417923009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Autonomy Software Engineer, Localization",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4412485009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Mechanical Engineer - FEA Analysis & Test",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4409377009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Accounting Manager",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4399694009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "IT Systems Engineer (Networking)",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4405441009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Autonomous Vehicle Test Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4415255009",
+      "location_ids": [
+        "lancaster_office"
+      ],
+      "location_display": "Lancaster, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Strategy & Operations Associate",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4418166009",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Lancaster",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.5932,
+      "longitude": -96.763,
+      "exact_address": "Lot 3, Block 1, Southpointe Corporate Center, Lancaster, Dallas County, Texas, United States - 75134",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "detroit_office",
+      "city": "Detroit",
+      "state": "Michigan",
+      "country": "United States",
+      "latitude": 42.3314,
+      "longitude": -83.0458,
+      "exact_address": "Detroit, Michigan, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mountain_view_office",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3861,
+      "longitude": -122.0839,
+      "exact_address": "1045 Terra Bella Ave, Mountain View, California 94043, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "qa",
+        "security",
+        "legal",
+        "finance",
+        "other",
+        "data",
+        "product",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "276"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "qa",
+        "engineering",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lancaster_office",
+      "city": "lancaster",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.6182,
+      "longitude": -96.7727,
+      "exact_address": "3901 Corporate Dr Ste 300, Lancaster, Texas, United States - 75134",
+      "departments": [
+        "qa",
+        "operations",
+        "other",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "kermit_office",
+      "city": "Kermit",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 31.8474,
+      "longitude": -103.0844,
+      "exact_address": "Kermit, Winkler County, Texas, United States",
+      "departments": [
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "odessa_office",
+      "city": "Odessa",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 31.8457,
+      "longitude": -102.3677,
+      "exact_address": "Odessa, Texas, United States",
+      "departments": [
+        "other",
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "ipo",
+    "funding_stage_last_updated": "2026-04-18T11:16:31.027Z",
+    "current_valuation_usd": "$2.5 billion",
+    "current_valuation_usd_last_updated": "2026-04-18T11:16:31.027Z",
+    "total_funding_raised": "$195 million",
+    "total_funding_raised_last_updated": "2026-04-18T11:16:31.027Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "StepStone Group",
+        "domain": "stepstonegroup.com"
+      },
+      {
+        "name": "BMW i Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Tusk Ventures",
+        "domain": ""
+      },
+      {
+        "name": "CRV",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "StepStone Group",
+        "logo_url": "/investor-logos/stepstone-group.png"
+      },
+      {
+        "name": "BMW i Ventures",
+        "logo_url": "/investor-logos/bmw-i.png"
+      },
+      {
+        "name": "Tusk Ventures",
+        "logo_url": "/investor-logos/tusk-ventures.png"
+      },
+      {
+        "name": "CRV",
+        "logo_url": "/investor-logos/crv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-18T11:16:31.027Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "flexible-hours",
+    "parental-leave",
+    "meal-allowance",
+    "mental-health",
+    "gym-membership",
+    "retirement-401k",
+    "commute-allowance",
+    "health-savings-account",
+    "pet-friendly",
+    "visa-sponsorship",
+    "benefits_scraping_source",
+    "unlimited-pto",
+    "disability-insurance",
+    "childcare-support"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "agent_manual",
+    "leadership.founders[0].x_twitter_verified_by": "agent_manual",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "agent_manual",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "agent_manual",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "agent_manual",
+    "social_media.linkedin_url_verified_by": "agent_manual",
+    "social_media.instagram_url_verified_by": "agent_manual",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-18T11:16:31.027Z",
+    "company_basic_information.website_url_last_updated": "2026-04-18T11:16:31.027Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-18T11:16:31.027Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-18T11:16:31.027Z",
+    "company_basic_information.last_updated": "2026-04-18",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-18T17:45:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T12:58:21.914Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:05:29.798Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T12:58:32.746Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:05:35.628Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-04-24T12:58:45.049Z",
+    "leadership.founders[2].description_last_updated": "2026-04-25T10:05:41.599Z",
+    "social_media.x_url_last_updated": "2026-04-18T17:00:00.000Z",
+    "social_media.x_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-04-18T11:16:31.027Z",
+    "social_media.linkedin_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-04-18T17:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-04-18T17:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T19:17:41.758Z",
+    "financial_information.funding_stage_last_updated": "2026-04-18T11:16:31.027Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-18T11:16:31.027Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-18T11:16:31.027Z",
+    "financial_information.investor_logos_last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[0].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[1].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[2].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[3].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[4].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[5].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[6].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[7].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[8].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[9].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[10].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[11].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[12].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[13].last_updated": "2026-04-18T11:16:31.027Z",
+    "location_mapping[14].last_updated": "2026-04-18T17:00:00.000Z",
+    "location_mapping[15].last_updated": "2026-05-02T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[17].title_updated_timestamp": "2026-09-09T16:34:47.185Z",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.roles[26].posted_date": "2026-09-24",
+    "job_data.roles[27].posted_date": "2026-09-24",
+    "job_data.roles[28].posted_date": "2026-09-24",
+    "job_data.roles[29].posted_date": "2026-09-24",
+    "job_data.roles[30].posted_date": "2026-09-24",
+    "job_data.roles[31].posted_date": "2026-09-24",
+    "job_data.roles[32].posted_date": "2026-09-24",
+    "job_data.roles[33].posted_date": "2026-09-24",
+    "job_data.roles[34].posted_date": "2026-09-24",
+    "job_data.roles[35].posted_date": "2026-09-24",
+    "job_data.roles[36].posted_date": "2026-09-24",
+    "job_data.roles[36].title_updated_timestamp": "2026-08-25T20:51:46.953Z",
+    "job_data.roles[37].posted_date": "2026-09-24",
+    "job_data.roles[38].posted_date": "2026-09-24",
+    "job_data.roles[39].posted_date": "2026-09-24",
+    "job_data.roles[39].title_updated_timestamp": "2026-08-25T20:48:52.348Z",
+    "job_data.roles[40].posted_date": "2026-09-24",
+    "job_data.roles[41].posted_date": "2026-09-24",
+    "job_data.roles[41].title_updated_timestamp": "2026-08-25T20:49:47.196Z",
+    "job_data.roles[42].posted_date": "2026-09-24",
+    "job_data.roles[43].posted_date": "2026-09-24",
+    "job_data.roles[44].posted_date": "2026-09-24",
+    "job_data.roles[45].posted_date": "2026-09-24",
+    "job_data.roles[46].posted_date": "2026-09-24",
+    "job_data.roles[47].posted_date": "2026-09-24",
+    "job_data.roles[48].posted_date": "2026-09-24",
+    "job_data.roles[49].posted_date": "2026-09-24",
+    "job_data.roles[50].posted_date": "2026-09-24",
+    "job_data.roles[50].title_updated_timestamp": "2026-08-11T09:09:39.861Z",
+    "job_data.roles[51].posted_date": "2026-09-24",
+    "job_data.roles[52].posted_date": "2026-09-24",
+    "job_data.roles[53].posted_date": "2026-09-24",
+    "job_data.roles[54].posted_date": "2026-09-24",
+    "job_data.roles[55].posted_date": "2026-09-24",
+    "job_data.roles[56].posted_date": "2026-09-24",
+    "job_data.roles[57].posted_date": "2026-09-24",
+    "job_data.roles[58].posted_date": "2026-09-24",
+    "job_data.roles[59].posted_date": "2026-09-24",
+    "job_data.roles[60].posted_date": "2026-09-24",
+    "job_data.roles[61].posted_date": "2026-09-24",
+    "job_data.roles[62].posted_date": "2026-09-24",
+    "job_data.roles[63].posted_date": "2026-09-24",
+    "job_data.roles[64].posted_date": "2026-09-24",
+    "job_data.roles[65].posted_date": "2026-09-24",
+    "job_data.roles[66].posted_date": "2026-09-24",
+    "job_data.roles[67].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:04:47.202Z",
+    "benefits.equity-stock.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.bonus.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.life-insurance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.flexible-hours.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.parental-leave.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.meal-allowance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.mental-health.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.gym-membership.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.commute-allowance.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.health-savings-account.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.pet-friendly.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.visa-sponsorship.last_updated": "2026-04-23T14:01:20.836Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.disability-insurance.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.childcare-support.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

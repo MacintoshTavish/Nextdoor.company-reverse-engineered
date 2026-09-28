@@ -1,0 +1,188 @@
+{
+  "slug": "uniqode",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/86851.9936e599856f1a4b.js",
+  "observed_at": "2026-09-28T08:37:56.023569+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 13358,
+    "sha256": "ec7d1a12d049d93572b853689e75e8d9bde211e3f8a5f3013ce7d3b8f0939863",
+    "elapsed_seconds": 0.447,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:56 GMT",
+      "etag": "\"7aa2d97bda165f3018acc0e3b95dac36\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:55 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Uniqode",
+    "company_name_legal": "MobStac Inc.",
+    "founded_year": 2012,
+    "website_url": "https://www.uniqode.com",
+    "careers_url": "https://careers.kula.ai/uniqode",
+    "investor_portfolio_page": null,
+    "id": 123
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-24T10:19:59.000Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9554,
+      "longitude": 77.6487,
+      "exact_address": "WeWork Princeville, Embassy Golf Links Business Park, Off Intermediate Ring Road, Domlur, Bengaluru, Karnataka, India - 560071",
+      "departments": [
+        "engineering",
+        "marketing",
+        "design"
+      ],
+      "employee_count": "50+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-09T21:08:16.345Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-09T21:08:16.345Z",
+    "total_funding_raised": "$28 million",
+    "total_funding_raised_last_updated": "2025-12-09T21:08:16.345Z",
+    "key_investors": [
+      {
+        "name": "Telescope Partners",
+        "domain": "telescopepartners.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Cisco Investments",
+        "domain": "cisco.com"
+      },
+      {
+        "name": "Axle Equity Partners",
+        "domain": null
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Telescope Partners",
+        "logo_url": "/investor-logos/telescope-partners.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Cisco Investments",
+        "logo_url": "/investor-logos/cisco-investments.png"
+      },
+      {
+        "name": "Axle Equity Partners",
+        "logo_url": "/investor-logos/axle-equity-partners.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-09T21:08:16.345Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": 200,
+      "growth_period": "2022",
+      "qr_codes_created": "1.8 million",
+      "qr_codes_scanned": "150 million",
+      "monthly_active_users": "5 million"
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "flexible-hours",
+    "remote-work",
+    "health-insurance",
+    "mental-health",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-09T21:08:16.345Z",
+    "company_basic_information.website_url_last_updated": "2025-12-09T21:08:16.345Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-09T21:08:16.345Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-09T21:08:16.345Z",
+    "company_basic_information.last_updated": "2025-12-09",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-10T11:17:28.016Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-10T11:17:46.198Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:28:45.957Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:36:10.432Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-10T11:18:04.255Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-10T11:33:56.704Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:28:56.478Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:36:16.045Z",
+    "social_media.x_url_last_verified": "2025-12-10T11:18:45.857Z",
+    "social_media.linkedin_url_last_verified": "2025-12-10T12:41:33.332Z",
+    "social_media.instagram_url_last_verified": "2025-12-10T12:41:58.122Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:18:01.938Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-09T21:08:16.345Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-09T21:08:16.345Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-09T21:08:16.345Z",
+    "financial_information.investor_logos_last_updated": "2025-12-09T21:08:16.345Z",
+    "location_mapping[0].last_updated": "2025-12-09T21:08:16.345Z",
+    "job_data.last_updated": "2026-09-24T10:19:59.000Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T08:05:09.606Z",
+    "benefits.flexible-hours.last_updated": "2026-01-07T08:05:09.606Z",
+    "benefits.remote-work.last_updated": "2026-01-07T08:05:09.606Z",
+    "benefits.health-insurance.last_updated": "2026-01-07T08:05:09.606Z",
+    "benefits.mental-health.last_updated": "2026-01-07T08:05:09.606Z"
+  }
+}

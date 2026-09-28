@@ -1,0 +1,1722 @@
+{
+  "slug": "abridge",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/93367.b29feabc3311fea0.js",
+  "observed_at": "2026-09-28T08:28:24.299924+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 50872,
+    "sha256": "736a369ddb4d58fe7cdb66f37f63ad7dd1cb421064292c24b5a58b4b547fe318",
+    "elapsed_seconds": 0.189,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:28:24 GMT",
+      "etag": "\"43ae57d2c726520cae9e9046357c5468\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:36 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Abridge",
+    "company_name_legal": "Abridge",
+    "founded_year": 2018,
+    "website_url": "https://www.abridge.com",
+    "careers_url": "https://jobs.ashbyhq.com/abridge",
+    "investor_portfolio_page": null,
+    "id": 25
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 47,
+    "last_updated": "2026-09-24T09:31:47.935Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 47,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Clinician Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/89db9a1b-a590-4f17-be65-ac21507945c0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "89db9a1b-a590-4f17-be65-ac21507945c0"
+    },
+    {
+      "title": "Design Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/5697e743-b697-4c1e-a9cc-88a942533b79",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "5697e743-b697-4c1e-a9cc-88a942533b79"
+    },
+    {
+      "title": "Director - Payer Sales",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/a07ba724-2044-482e-b817-eecde7ef85ae",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "a07ba724-2044-482e-b817-eecde7ef85ae"
+    },
+    {
+      "title": "Forward Deployed Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "aef83f6a-0bc8-4d6a-b310-24415918ee3c"
+    },
+    {
+      "title": "Machine Learning Infrastructure Engineer, Model Inference",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "c7f09dee-07ca-444f-803d-961e7f88056b"
+    },
+    {
+      "title": "Machine Learning Scientist (All Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "097490e8-48c6-46e3-a0ce-882151fb4fa2"
+    },
+    {
+      "title": "Physician Executive",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/af0c155f-d2da-4a0d-a63a-196937028dc4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "af0c155f-d2da-4a0d-a63a-196937028dc4"
+    },
+    {
+      "title": "Product Lead, AI/ML (Evals)",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3"
+    },
+    {
+      "title": "Product Lead, CDS",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/5acb269b-6ca0-4890-ae3f-ffb46e99d2ba",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "5acb269b-6ca0-4890-ae3f-ffb46e99d2ba"
+    },
+    {
+      "title": "Product Lead - Core Product Experiences",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/c45524b6-96b2-49f0-9cd5-176b998d6ba7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "c45524b6-96b2-49f0-9cd5-176b998d6ba7"
+    },
+    {
+      "title": "Product Operations and Strategy Manager",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "bdbe64c1-cb3e-4ba6-a0fe-0bf76372a673"
+    },
+    {
+      "title": "Research Scientist (Measurement and Evaluation)",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/03a3231f-8361-405e-87a6-192d710ca912",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "03a3231f-8361-405e-87a6-192d710ca912"
+    },
+    {
+      "title": "Senior Application Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/57967034-08cb-4cfe-8243-4e9564acc32e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "57967034-08cb-4cfe-8243-4e9564acc32e"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/c3837e7e-2d59-49b6-95dc-0f670494fb31",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "c3837e7e-2d59-49b6-95dc-0f670494fb31"
+    },
+    {
+      "title": "Senior Enterprise Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/fe4bb4c9-9834-48a6-8f02-8f0ce03db78c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "fe4bb4c9-9834-48a6-8f02-8f0ce03db78c"
+    },
+    {
+      "title": "Senior Event Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/f180b849-6ccd-48e7-921e-eaec5556b196",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "f180b849-6ccd-48e7-921e-eaec5556b196"
+    },
+    {
+      "title": "Senior Full Stack Engineer, Integrations Cerner",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/3897d978-77c0-4132-ae33-1bf9356be630",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "3897d978-77c0-4132-ae33-1bf9356be630"
+    },
+    {
+      "title": "Senior Full Stack Engineer, Integrations Epic",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/44814e98-7791-45c6-a474-f841d969fa08",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "44814e98-7791-45c6-a474-f841d969fa08"
+    },
+    {
+      "title": "Senior Full Stack Engineer, Integrations VistA",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/7a28a84b-6756-4fe6-8af9-501fc8772a62",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "7a28a84b-6756-4fe6-8af9-501fc8772a62"
+    },
+    {
+      "title": "Senior Mobile Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/9e4579cb-90a6-475d-9293-598791debca3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "9e4579cb-90a6-475d-9293-598791debca3"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/6aab826b-a60a-434e-889d-e4648f289305",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "6aab826b-a60a-434e-889d-e4648f289305"
+    },
+    {
+      "title": "Senior Social Media Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/3c7662fb-6b41-4652-96da-282461e21f1f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "3c7662fb-6b41-4652-96da-282461e21f1f"
+    },
+    {
+      "title": "Senior Software Engineer, Data",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95"
+    },
+    {
+      "title": "Staff Application Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69"
+    },
+    {
+      "title": "Staff Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/d48553c1-a360-4509-a1e0-9df6d8b480f6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "d48553c1-a360-4509-a1e0-9df6d8b480f6"
+    },
+    {
+      "title": "Associate General Counsel - Privacy",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/33020695-50ca-451f-93c1-893a4985b3a4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "33020695-50ca-451f-93c1-893a4985b3a4"
+    },
+    {
+      "title": "Associate General Counsel, Product  (Data Products, Machine Learning & Artificial Intelligence)",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/c709786d-5d36-4c8a-b973-e4cd0c2a16cd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "c709786d-5d36-4c8a-b973-e4cd0c2a16cd"
+    },
+    {
+      "title": "Compensation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/b9caefcc-8482-4059-b959-d3d6694f8721",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "b9caefcc-8482-4059-b959-d3d6694f8721"
+    },
+    {
+      "title": "Senior Product Counsel - Data Products, Machine Learning & Artificial Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/789a6426-0256-4f42-9382-5267733ddf14",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "789a6426-0256-4f42-9382-5267733ddf14"
+    },
+    {
+      "title": "Senior/Staff Software Engineer, Front End",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/983ea248-e6c9-43bc-a27d-914091173337",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "983ea248-e6c9-43bc-a27d-914091173337"
+    },
+    {
+      "title": "Partner Success Director",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/ae42350e-242a-4ed2-817d-ac0059956ca9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ae42350e-242a-4ed2-817d-ac0059956ca9"
+    },
+    {
+      "title": "Product Lead, Foundational Models and Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5b66aac3-cb7a-4bbc-a28c-9fb38cf16656"
+    },
+    {
+      "title": "Staff IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/228d2bfe-cada-406a-a4c0-99c4ec13a242",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "228d2bfe-cada-406a-a4c0-99c4ec13a242"
+    },
+    {
+      "title": "Art Director, Part Time (Temporary)",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/ebb03b3f-e870-4cb0-ba23-43197118d492",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "PartTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ebb03b3f-e870-4cb0-ba23-43197118d492"
+    },
+    {
+      "title": "Director of Customer Success - Value Attainment",
+      "title_original": "Director, Value Attainment & Analysis",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:33:48.777Z",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/237d7464-e331-4a2c-8465-9df3d339c3ee",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "237d7464-e331-4a2c-8465-9df3d339c3ee",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on building value attainment foundations, leading value for strategic partners, and enabling partner success through measurable outcomes. This aligns closely with customer success, as it involves working directly with partners to ensure they realize the value of the company's products."
+    },
+    {
+      "title": "Engineering Leadership, NY Site Lead",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/6cc498cb-7235-4300-a3a9-4b2f178678cb",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "6cc498cb-7235-4300-a3a9-4b2f178678cb"
+    },
+    {
+      "title": "Finance & Strategy Lead",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/076d288f-4636-4a05-8520-d5c257f39b51",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "076d288f-4636-4a05-8520-d5c257f39b51"
+    },
+    {
+      "title": "Head of Workplace Operations",
+      "title_original": "Head of Workplaces",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:38:33.221Z",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/1a61daf7-45cf-46a0-b030-cf9617741e23",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "1a61daf7-45cf-46a0-b030-cf9617741e23",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Head of Workplaces is primarily responsible for overseeing the strategy, standards, and long-term vision for physical workplaces, which includes real estate strategy, facilities management, and workplace operations. The role involves significant responsibilities related to operational efficiency, employee experience, and facility management, aligning closely with the operations category."
+    },
+    {
+      "title": "Junior Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "7d6ae2be-cd53-466c-8151-2dae2e87aace"
+    },
+    {
+      "title": "Product Lead, Nursing Product",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/99db1c40-ace4-4f39-a9a6-7da985fa91b5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "99db1c40-ace4-4f39-a9a6-7da985fa91b5"
+    },
+    {
+      "title": "Program Director - Federal Healthcare Operations",
+      "title_original": "Program Director, Federal",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:38:47.743Z",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/aa9b28ba-0cda-4f48-8fd4-dedf53e776db",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "aa9b28ba-0cda-4f48-8fd4-dedf53e776db",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Program Director involve overseeing complex, multi-stakeholder programs, ensuring cross-functional alignment, and driving operational success within the federal program. This role focuses on program management, operational infrastructure, and stakeholder coordination, which aligns closely with the operations category."
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/ef57eeb3-de5a-497d-9b96-2ecd414fffec",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ef57eeb3-de5a-497d-9b96-2ecd414fffec"
+    },
+    {
+      "title": "Revenue Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/1bff8d14-d779-4e7b-9e11-01a57e0979c4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "1bff8d14-d779-4e7b-9e11-01a57e0979c4"
+    },
+    {
+      "title": "Senior Nursing Executive - Healthcare Solutions",
+      "title_original": "Senior Nursing Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:39:02.220Z",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/921ab403-86d3-4b44-8042-376a3b13efc3",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "921ab403-86d3-4b44-8042-376a3b13efc3",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Senior Nursing Executive primarily involves providing clinical expertise and advocacy, engaging with customers to articulate clinical value, and supporting nursing solutions, which aligns closely with medical responsibilities. The job requires significant clinical experience as a Registered Nurse, emphasizing its focus on medical and clinical aspects."
+    },
+    {
+      "title": "Senior Privacy Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/c0903c7c-f505-4e30-82c2-47d80736d05d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "c0903c7c-f505-4e30-82c2-47d80736d05d"
+    },
+    {
+      "title": "Software Engineering Intern, Fall",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3f07a457-dc14-4238-bf4e-5c33b5c1f883"
+    },
+    {
+      "title": "Software Engineering Intern, Spring",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Marietta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.9992,
+      "longitude": -84.4661,
+      "exact_address": "3834 Rockhaven Ct., Marietta, GA, 30066, USA",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "content-production",
+        "sales",
+        "engineering",
+        "customer-success",
+        "legal",
+        "marketing",
+        "product",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.76,
+      "longitude": -122.4216,
+      "exact_address": "San Francisco Mission District, San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "content-production",
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pittsburgh_office",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 40.4406,
+      "longitude": -79.9959,
+      "exact_address": "Pittsburgh, Pennsylvania, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "remote_usa_office",
+      "city": null,
+      "state": null,
+      "country": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "exact_address": "Remote, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "pittsburgh_remote",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 40.4406,
+      "longitude": -79.9959,
+      "exact_address": "Pittsburgh, Pennsylvania, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-01-07T10:28:10.882Z",
+    "current_valuation_usd": "$5.3 billion",
+    "current_valuation_usd_last_updated": "2026-01-07T10:28:10.882Z",
+    "total_funding_raised": "$757.5 million",
+    "total_funding_raised_last_updated": "2026-01-07T10:28:10.882Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lspv.com"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "domain": "redpoint.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "Spark Capital",
+        "domain": "sparkcapital.com"
+      },
+      {
+        "name": "Union Square Ventures",
+        "domain": "unionsquareventures.com"
+      },
+      {
+        "name": "Bessemer Venture Partners",
+        "domain": "bvp.com"
+      },
+      {
+        "name": "Wittington Ventures",
+        "domain": "wittingtonventures.com"
+      },
+      {
+        "name": "Mass General Brigham Artificial Intelligence and Digital Innovation Fund",
+        "domain": null
+      },
+      {
+        "name": "Kaiser Permanente Ventures",
+        "domain": "kpventures.com"
+      },
+      {
+        "name": "CVS Health Ventures",
+        "domain": "cvshealthventures.com"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Khosla Ventures",
+        "domain": "khoslaventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "logo_url": "/investor-logos/redpoint.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "Spark Capital",
+        "logo_url": "/investor-logos/spark-capital.png"
+      },
+      {
+        "name": "Union Square Ventures",
+        "logo_url": "/investor-logos/union-square-ventures.png"
+      },
+      {
+        "name": "Bessemer Venture Partners",
+        "logo_url": "/investor-logos/bessemer-venture-partners.png"
+      },
+      {
+        "name": "Wittington Ventures",
+        "logo_url": "/investor-logos/wittington-ventures.png"
+      },
+      {
+        "name": "Mass General Brigham Artificial Intelligence and Digital Innovation Fund",
+        "logo_url": "/investor-logos/mass-general-brigham-artificial-intelligence-and-digital-innovation-fund.png"
+      },
+      {
+        "name": "Kaiser Permanente Ventures",
+        "logo_url": "/investor-logos/kaiser-permanente-ventures.png"
+      },
+      {
+        "name": "CVS Health Ventures",
+        "logo_url": "/investor-logos/cvs-health-ventures.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Khosla Ventures",
+        "logo_url": "/investor-logos/khosla.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-07T10:28:10.882Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "privilege-leave",
+    "flexible-hours",
+    "unlimited-pto",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "health-savings-account",
+    "parental-leave",
+    "childcare-support",
+    "retirement-401k",
+    "phone-reimbursement",
+    "commute-allowance",
+    "lifestyle-spending-account",
+    "mental-health",
+    "sabbatical",
+    "equity-stock",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[8].location_source": "agent-6",
+    "location_mapping[33].source": "ai_inference_upsert",
+    "location_mapping[34].source": "ai_inference_upsert",
+    "location_mapping[35].source": "ai_inference_upsert",
+    "location_mapping[36].source": "ai_inference_upsert",
+    "location_mapping[37].source": "ai_inference_upsert",
+    "location_mapping[38].source": "ai_inference_upsert",
+    "location_mapping[39].source": "ai_inference_upsert",
+    "location_mapping[40].source": "ai_inference_upsert",
+    "location_mapping[41].source": "ai_inference_upsert",
+    "location_mapping[42].source": "ai_inference_upsert",
+    "location_mapping[44].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-07T10:28:10.882Z",
+    "company_basic_information.website_url_last_updated": "2026-01-07T10:28:10.882Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-07T10:28:10.882Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-07T10:28:10.882Z",
+    "company_basic_information.last_updated": "2026-01-07",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-07T10:35:55.704Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-07T10:36:15.896Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-28T20:00:37.776Z",
+    "leadership.founders[0].description_last_updated": "2026-01-28T20:19:53.786Z",
+    "social_media.x_url_last_verified": "2026-01-07T10:36:36.765Z",
+    "social_media.linkedin_url_last_verified": "2026-01-07T10:37:08.315Z",
+    "social_media.instagram_url_last_verified": "2026-01-07T14:19:50.221Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:10.678Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-01-07T10:28:10.882Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-07T10:28:10.882Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-07T10:28:10.882Z",
+    "financial_information.investor_logos_last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[0].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[1].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[2].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[3].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[4].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[5].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[6].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[7].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[8].last_updated": "2026-05-29T19:36:51.861Z",
+    "location_mapping[9].last_updated": "2026-01-07T10:28:10.882Z",
+    "location_mapping[33].last_updated": "2026-06-14T19:47:40.187Z",
+    "location_mapping[34].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[35].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[36].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[37].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[38].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[39].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[40].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[41].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[42].last_updated": "2026-06-14T19:48:50.569Z",
+    "location_mapping[44].last_updated": "2026-07-27T19:53:23.908Z",
+    "job_data.roles[0].posted_date": "2026-08-11",
+    "job_data.roles[1].posted_date": "2026-08-11",
+    "job_data.roles[2].posted_date": "2026-08-11",
+    "job_data.roles[3].posted_date": "2026-08-11",
+    "job_data.roles[4].posted_date": "2026-08-11",
+    "job_data.roles[5].posted_date": "2026-08-11",
+    "job_data.roles[6].posted_date": "2026-08-11",
+    "job_data.roles[7].posted_date": "2026-08-11",
+    "job_data.roles[8].posted_date": "2026-08-11",
+    "job_data.roles[9].posted_date": "2026-08-11",
+    "job_data.roles[10].posted_date": "2026-08-11",
+    "job_data.roles[11].posted_date": "2026-08-11",
+    "job_data.roles[12].posted_date": "2026-08-11",
+    "job_data.roles[13].posted_date": "2026-08-11",
+    "job_data.roles[14].posted_date": "2026-08-11",
+    "job_data.roles[15].posted_date": "2026-08-11",
+    "job_data.roles[16].posted_date": "2026-08-11",
+    "job_data.roles[17].posted_date": "2026-08-11",
+    "job_data.roles[18].posted_date": "2026-08-11",
+    "job_data.roles[19].posted_date": "2026-08-11",
+    "job_data.roles[20].posted_date": "2026-08-11",
+    "job_data.roles[21].posted_date": "2026-08-11",
+    "job_data.roles[22].posted_date": "2026-08-11",
+    "job_data.roles[23].posted_date": "2026-08-11",
+    "job_data.roles[24].posted_date": "2026-08-11",
+    "job_data.roles[25].posted_date": "2026-08-25",
+    "job_data.roles[26].posted_date": "2026-08-25",
+    "job_data.roles[27].posted_date": "2026-08-25",
+    "job_data.roles[28].posted_date": "2026-08-25",
+    "job_data.roles[29].posted_date": "2026-08-25",
+    "job_data.roles[30].posted_date": "2026-09-09",
+    "job_data.roles[31].posted_date": "2026-09-09",
+    "job_data.roles[32].posted_date": "2026-09-09",
+    "job_data.roles[33].posted_date": "2026-09-24",
+    "job_data.roles[34].posted_date": "2026-09-24",
+    "job_data.roles[34].title_updated_timestamp": "2026-09-24T10:33:48.777Z",
+    "job_data.roles[35].posted_date": "2026-09-24",
+    "job_data.roles[36].posted_date": "2026-09-24",
+    "job_data.roles[37].posted_date": "2026-09-24",
+    "job_data.roles[37].title_updated_timestamp": "2026-09-24T10:38:33.221Z",
+    "job_data.roles[38].posted_date": "2026-09-24",
+    "job_data.roles[39].posted_date": "2026-09-24",
+    "job_data.roles[40].posted_date": "2026-09-24",
+    "job_data.roles[40].title_updated_timestamp": "2026-09-24T10:38:47.743Z",
+    "job_data.roles[41].posted_date": "2026-09-24",
+    "job_data.roles[42].posted_date": "2026-09-24",
+    "job_data.roles[43].posted_date": "2026-09-24",
+    "job_data.roles[43].title_updated_timestamp": "2026-09-24T10:39:02.220Z",
+    "job_data.roles[44].posted_date": "2026-09-24",
+    "job_data.roles[45].posted_date": "2026-09-24",
+    "job_data.roles[46].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:31:47.935Z",
+    "benefits.privilege-leave.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.flexible-hours.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.unlimited-pto.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.health-insurance.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.dental-insurance.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.vision-insurance.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.health-savings-account.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.parental-leave.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.childcare-support.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.retirement-401k.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.commute-allowance.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.lifestyle-spending-account.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.mental-health.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.sabbatical.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.equity-stock.last_updated": "2026-01-13T07:41:39.971Z",
+    "benefits.remote-work.last_updated": "2026-01-13T07:41:39.971Z"
+  }
+}

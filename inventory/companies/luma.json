@@ -1,0 +1,1002 @@
+{
+  "slug": "luma",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/66243.6cea382c4f355c62.js",
+  "observed_at": "2026-09-28T08:33:44.477984+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 31725,
+    "sha256": "dfe8c4e23c79ce50565ddd854e8bd3117e232334e9a6bd7f6e8e20ed5796188d",
+    "elapsed_seconds": 0.156,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:44 GMT",
+      "etag": "\"02b1e30fda6de44b1e03a726d2c5e059\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Luma",
+    "company_name_legal": "Luma AI Inc",
+    "founded_year": 2021,
+    "website_url": "https://lumalabs.ai",
+    "careers_url": "https://jobs.ashbyhq.com/lumaai/",
+    "investor_portfolio_page": null,
+    "id": 391
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 40,
+    "last_updated": "2026-09-19T16:45:31.913Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 40,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Commercial and IP Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/dd3953ed-0231-4950-88f6-1cc42f18fc26",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "dd3953ed-0231-4950-88f6-1cc42f18fc26"
+    },
+    {
+      "title": "Creative Technologist",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/3dcb1269-cc80-418c-b650-b1ad7dd4e188",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3dcb1269-cc80-418c-b650-b1ad7dd4e188"
+    },
+    {
+      "title": "Forward Deployed Creative [KSA]",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/c043972d-3653-4006-862d-648c9b56a55a",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "c043972d-3653-4006-862d-648c9b56a55a"
+    },
+    {
+      "title": "Forward Deployed Creative [US]",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/cb69274a-7161-44e5-abda-4a12cca6e057",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "cb69274a-7161-44e5-abda-4a12cca6e057"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/26e49911-b49d-4248-90df-a9768a39b389",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "26e49911-b49d-4248-90df-a9768a39b389"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/4c842e7b-c07b-4d48-b677-2aa68b489852",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4c842e7b-c07b-4d48-b677-2aa68b489852"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/6133d955-1d26-4f3a-abf8-f9383ccbe19a",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, UK",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6133d955-1d26-4f3a-abf8-f9383ccbe19a"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483"
+    },
+    {
+      "title": "Product Manager, Applied Research",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/ceb93091-10f4-46e7-9c91-650e743739ca",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ceb93091-10f4-46e7-9c91-650e743739ca"
+    },
+    {
+      "title": "Product Manager, Core Product",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/93541b21-86d4-438d-bc16-ff173084b305",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "93541b21-86d4-438d-bc16-ff173084b305"
+    },
+    {
+      "title": "Product Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/1736d68e-539e-44af-8e8d-023d6e76403e",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1736d68e-539e-44af-8e8d-023d6e76403e"
+    },
+    {
+      "title": "Product Manager, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/914520a1-9e93-44a0-8e35-4c3a84df39c0",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "914520a1-9e93-44a0-8e35-4c3a84df39c0"
+    },
+    {
+      "title": "Research Scientist / Engineer — Foundation Model (Agent)",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/96f947a0-ddbf-44fa-9e44-fc08ff2bd4e9",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "96f947a0-ddbf-44fa-9e44-fc08ff2bd4e9"
+    },
+    {
+      "title": "Research Scientist / Engineer – Performance Optimization",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/278788c5-a288-41d8-92ca-f07a82310173",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "278788c5-a288-41d8-92ca-f07a82310173"
+    },
+    {
+      "title": "Research Scientist / Engineer – Reinforcement Learning Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/90734653-886d-4f6f-8af8-fb130d5400ab",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "90734653-886d-4f6f-8af8-fb130d5400ab"
+    },
+    {
+      "title": "Research Scientist / Engineer – Training Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d"
+    },
+    {
+      "title": "Research Scientist - World Model",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/ed5b169b-7aef-4f84-993b-42a5aabd1bd4",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ed5b169b-7aef-4f84-993b-42a5aabd1bd4"
+    },
+    {
+      "title": "Robotics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/e58e1043-5dd1-4695-9f7b-8c59389f617f",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "robotics",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e58e1043-5dd1-4695-9f7b-8c59389f617f"
+    },
+    {
+      "title": "Sales Executive",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/3db9d994-7a92-450b-ad15-5aa8d592953c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3db9d994-7a92-450b-ad15-5aa8d592953c"
+    },
+    {
+      "title": "Sales Executive",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/b9848c48-f829-42c6-9636-304fc394d2be",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b9848c48-f829-42c6-9636-304fc394d2be"
+    },
+    {
+      "title": "Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/a304b339-24fa-4865-b333-a9c424e28841",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a304b339-24fa-4865-b333-a9c424e28841"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/24df5b38-37e4-400b-946a-8dbfb6f2c2da",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "24df5b38-37e4-400b-946a-8dbfb6f2c2da"
+    },
+    {
+      "title": "Senior Customer Success Manager (German speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/f7928709-02bf-48b3-b39c-58b38dfe40dd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "f7928709-02bf-48b3-b39c-58b38dfe40dd"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/75cdb0eb-3cfe-4808-b15e-938e0fbf3bee",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "75cdb0eb-3cfe-4808-b15e-938e0fbf3bee"
+    },
+    {
+      "title": "Simulation Researcher/Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/df7a7dc2-3093-432b-88c3-3d39efc9a24f",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "df7a7dc2-3093-432b-88c3-3d39efc9a24f"
+    },
+    {
+      "title": "Social Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/8209b1d1-3ce6-4acb-afed-6717fdc60910",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8209b1d1-3ce6-4acb-afed-6717fdc60910"
+    },
+    {
+      "title": "Software Engineer, Inference",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860"
+    },
+    {
+      "title": "Software Engineer - Product",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/93802d6a-cdad-49e1-8154-9cf005d7e3b8",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "93802d6a-cdad-49e1-8154-9cf005d7e3b8"
+    },
+    {
+      "title": "Staff AI Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/ee0a18bc-8f7a-4c9f-b99b-7c99a37ce529",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ee0a18bc-8f7a-4c9f-b99b-7c99a37ce529"
+    },
+    {
+      "title": "Staff Product Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/4ecde75b-511b-4006-9cdc-ba31132dbc7b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4ecde75b-511b-4006-9cdc-ba31132dbc7b"
+    },
+    {
+      "title": "Staff Security Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/3b478f3d-248f-40ae-a35a-1130f16a45b8",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3b478f3d-248f-40ae-a35a-1130f16a45b8"
+    },
+    {
+      "title": "Visual Designer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/6fc4e509-9639-4307-a741-001e0e5feb8c",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6fc4e509-9639-4307-a741-001e0e5feb8c"
+    },
+    {
+      "title": "GTM Delivery Lead, North America",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/5566e1f4-927c-4af7-8190-d1f806d2d0b3",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "5566e1f4-927c-4af7-8190-d1f806d2d0b3"
+    },
+    {
+      "title": "Lifecycle & Growth Marketing Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/bc29ab04-630e-4acf-bc84-1100ca68f235",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "bc29ab04-630e-4acf-bc84-1100ca68f235"
+    },
+    {
+      "title": "Software Engineer - Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/d424c5fd-3135-460e-a50d-ed941f51e80b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "d424c5fd-3135-460e-a50d-ed941f51e80b"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/688a38a5-a43e-4e4d-8e79-3beb0d1a28bd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "688a38a5-a43e-4e4d-8e79-3beb0d1a28bd"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/d40e0435-4b51-4168-988e-afc32afc0232",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d40e0435-4b51-4168-988e-afc32afc0232"
+    },
+    {
+      "title": "Sales Executive",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/52ef877e-ee09-48fa-8b04-9de93272b696",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "52ef877e-ee09-48fa-8b04-9de93272b696"
+    },
+    {
+      "title": "Editor + Motion Graphics",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/6e7d4b86-b359-43a7-bd75-c9efce10d5ad",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "6e7d4b86-b359-43a7-bd75-c9efce10d5ad"
+    },
+    {
+      "title": "Forward Deployed Creative [Germany]",
+      "apply_url": "https://jobs.ashbyhq.com/lumaai/261f3ac9-592e-41a6-b978-d17d8291845c",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "261f3ac9-592e-41a6-b978-d17d8291845c"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.5204,
+      "longitude": -0.1439,
+      "exact_address": "85 Great Portland Street, London, United Kingdom - W1W 7LT",
+      "departments": [
+        "engineering",
+        "data",
+        "design",
+        "customer-success",
+        "sales",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Santa Monica",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0136,
+      "longitude": -118.4944,
+      "exact_address": "1424 2nd Street, 3rd Floor, Santa Monica, Los Angeles County, California, United States - 90401",
+      "departments": [
+        "design",
+        "content-production",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "design",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "country": "Saudi Arabia",
+      "latitude": 24.7896,
+      "longitude": 46.624,
+      "exact_address": "3141 Anas Ibn Malik Road, Al Malqa District, Riyadh, Kingdom of Saudi Arabia - 13521",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.761414,
+      "longitude": -122.435936,
+      "exact_address": "265 Castro Street, San Francisco, California, United States - 94114",
+      "departments": [
+        "design",
+        "finance",
+        "engineering",
+        "legal",
+        "marketing",
+        "administration",
+        "product",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Region",
+      "country": "Singapore",
+      "latitude": 1.32755,
+      "longitude": 103.88455,
+      "exact_address": "#04-04A, Aljunied Industrial Complex, 623 Aljunied Road, Singapore - 389835",
+      "departments": [
+        "research",
+        "robotics",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "redwood_city_office",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4852,
+      "longitude": -122.2364,
+      "exact_address": "Redwood City, California, United States",
+      "departments": [
+        "legal",
+        "design",
+        "engineering",
+        "operations",
+        "product",
+        "marketing",
+        "research",
+        "robotics",
+        "sales",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-07-22T05:31:09.765Z",
+    "current_valuation_usd": "$4 billion",
+    "current_valuation_usd_last_updated": "2026-07-22T05:31:09.765Z",
+    "total_funding_raised": "$1.07 billion",
+    "total_funding_raised_last_updated": "2026-07-22T05:31:09.765Z",
+    "key_investors": [
+      {
+        "name": "AMD Ventures",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "AMD Ventures",
+        "logo_url": "/investor-logos/amd-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-22T05:31:09.765Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-22T05:31:09.765Z",
+    "company_basic_information.website_url_last_updated": "2026-07-22T05:31:09.765Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-07T09:09:19.441Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-22T05:31:09.765Z",
+    "company_basic_information.last_updated": "2026-07-22",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-22T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-22T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-22T13:17:05.226Z",
+    "leadership.founders[0].description_last_updated": "2026-07-22T06:33:16.913Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-22T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-22T00:00:00.000Z",
+    "leadership.founders[1].description_last_updated": "2026-07-22T06:33:29.978Z",
+    "leadership.last_updated": "2026-07-22T00:00:00.000Z",
+    "social_media.x_url_last_updated": "2026-07-22T05:31:09.765Z",
+    "social_media.x_url_last_verified": "2026-07-22T00:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-22T05:31:09.765Z",
+    "social_media.linkedin_url_last_verified": "2026-07-22T00:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-22T05:31:09.765Z",
+    "social_media.instagram_url_last_verified": "2026-07-22T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-22",
+    "financial_information.funding_stage_last_updated": "2026-07-22T05:31:09.765Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-22T05:31:09.765Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-22T05:31:09.765Z",
+    "financial_information.investor_logos_last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[0].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[1].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[2].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[3].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[4].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[5].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[6].last_updated": "2026-07-22T05:31:09.765Z",
+    "location_mapping[7].last_updated": "2026-07-22T05:31:09.765Z",
+    "job_data.roles[0].posted_date": "2026-08-07",
+    "job_data.roles[1].posted_date": "2026-08-07",
+    "job_data.roles[2].posted_date": "2026-08-07",
+    "job_data.roles[3].posted_date": "2026-08-07",
+    "job_data.roles[4].posted_date": "2026-08-07",
+    "job_data.roles[5].posted_date": "2026-08-07",
+    "job_data.roles[6].posted_date": "2026-08-07",
+    "job_data.roles[7].posted_date": "2026-08-07",
+    "job_data.roles[8].posted_date": "2026-08-07",
+    "job_data.roles[9].posted_date": "2026-08-07",
+    "job_data.roles[10].posted_date": "2026-08-07",
+    "job_data.roles[11].posted_date": "2026-08-07",
+    "job_data.roles[12].posted_date": "2026-08-07",
+    "job_data.roles[13].posted_date": "2026-08-07",
+    "job_data.roles[14].posted_date": "2026-08-07",
+    "job_data.roles[15].posted_date": "2026-08-07",
+    "job_data.roles[16].posted_date": "2026-08-07",
+    "job_data.roles[17].posted_date": "2026-08-07",
+    "job_data.roles[18].posted_date": "2026-08-07",
+    "job_data.roles[19].posted_date": "2026-08-07",
+    "job_data.roles[20].posted_date": "2026-08-07",
+    "job_data.roles[21].posted_date": "2026-08-07",
+    "job_data.roles[22].posted_date": "2026-08-07",
+    "job_data.roles[23].posted_date": "2026-08-07",
+    "job_data.roles[24].posted_date": "2026-08-07",
+    "job_data.roles[25].posted_date": "2026-08-07",
+    "job_data.roles[26].posted_date": "2026-08-07",
+    "job_data.roles[27].posted_date": "2026-08-07",
+    "job_data.roles[28].posted_date": "2026-08-07",
+    "job_data.roles[29].posted_date": "2026-08-07",
+    "job_data.roles[30].posted_date": "2026-08-07",
+    "job_data.roles[31].posted_date": "2026-08-07",
+    "job_data.roles[32].posted_date": "2026-08-21",
+    "job_data.roles[33].posted_date": "2026-08-21",
+    "job_data.roles[34].posted_date": "2026-08-21",
+    "job_data.roles[35].posted_date": "2026-09-05",
+    "job_data.roles[36].posted_date": "2026-09-05",
+    "job_data.roles[37].posted_date": "2026-09-05",
+    "job_data.roles[38].posted_date": "2026-09-19",
+    "job_data.roles[39].posted_date": "2026-09-19",
+    "job_data.last_updated": "2026-09-19T16:45:31.913Z"
+  }
+}

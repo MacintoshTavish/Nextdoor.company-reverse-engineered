@@ -1,0 +1,1154 @@
+{
+  "slug": "snorkel-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/72083.3b51694916000957.js",
+  "observed_at": "2026-09-28T08:36:43.908241+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 35680,
+    "sha256": "e536a0818f402eb9c6c6ac0d8bb5818158131adc1cda0c4ab9071c8f077fcf56",
+    "elapsed_seconds": 0.176,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:43 GMT",
+      "etag": "\"66c58baa0a1627e725a5fcce76b32f3e\"",
+      "last-modified": "Mon, 28 Sep 2026 07:55:49 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Snorkel AI",
+    "company_name_legal": "Snorkel AI, Inc",
+    "founded_year": 2019,
+    "website_url": "https://snorkel.ai",
+    "careers_url": "https://job-boards.greenhouse.io/snorkelai",
+    "investor_portfolio_page": null,
+    "id": 248
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 39,
+    "last_updated": "2026-09-18T15:52:25.790Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 39,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Applied AI Engineer, Federal - Top Secret Clearance",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5721276004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA / Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Engagement Manager, AI Solutions - Federal",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6132492004",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Head of Forward Deployed Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5828338004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Manager, Forward Deployed Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5830807004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior/Staff FDE - CUA",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6167049004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role involve leading technical execution, designing task environments, and building evaluation workflows for computer-using agents, which are all centered around engineering practices. The focus on developing production software and technical solutions aligns closely with engineering functions."
+    },
+    {
+      "title": "Senior/Staff FDE - Synthetic Data Generation",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6167063004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior/Staff Forward Deployed Engineer - Data as a Service",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5689470004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior IT Platform and Automation Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6150440004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior / Staff Software Engineer — Platform",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6148958004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Technical Compliance Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6150444004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Software Engineer — Product",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6148803004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Software Engineer — Security",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6148995004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Software Engineer — Test",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6149003004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Product Manager - Data & Quality",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5821400004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Staff Product Manager - Infrastructure, Data & Security",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6001496004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Director, Research - Evaluation & Training",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6020877004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA / Remote, USA",
+      "role_department": "academy-training",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Research Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5690608004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA / Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Research Scientist - Frontier Benchmarks",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6009489004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA / Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Director, Forward Deployed Researcher - Data as a Service",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5837448004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA / Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Product Marketing Manager - Frontier Labs",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6004711004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Engagement Manager - Data as a Service",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5986019004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Strategy & Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5822681004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Accounting Manager, Technical Accounting & Financial Reporting",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6135754004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Director, Corporate Legal (AGC)",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6143275004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Business Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/5990079004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Head of Talent Sourcing, Data-as-a-Service",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6122801004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Head of TA Operations & Insights",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6122605004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Head of Technical Recruiting",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6122805004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Technical Recruiter - Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6149132004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior Technical Recruiter - Product",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6149138004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Staff HR Business Partner",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6008612004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Technical Project Manager - Enterprise AI Solutions",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6132370004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "New York City, USA / Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Head of Security",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6193568004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Senior / Staff AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6185944004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Staff Product Manager - Data Products",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6192187004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Strategic Delivery Lead - AI Operations",
+      "title_original": "Strategic Delivery Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-18T16:27:08.754Z",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6192349004",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-18",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Strategic Delivery Lead role primarily focuses on managing the performance of a portfolio, ensuring high-quality project delivery, and optimizing operational processes. The responsibilities include financial oversight, cross-functional team coordination, and improving operational efficiencies, which align closely with the operations category."
+    },
+    {
+      "title": "Communications Manager",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6192360004",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Counsel, Commercial",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6193309004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    },
+    {
+      "title": "Director, GTM Systems & AI Transformation",
+      "apply_url": "https://job-boards.greenhouse.io/snorkelai/jobs/6190745004",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-18"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7406,
+      "longitude": -73.9893,
+      "exact_address": "1178 Broadway #301, New York, New York, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "sales",
+        "customer-success",
+        "marketing",
+        "data",
+        "customer-support",
+        "it"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "redwood_city_office",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4852,
+      "longitude": -122.2364,
+      "exact_address": "55 Perry Street, Redwood City, California, 94063, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "security",
+        "marketing",
+        "product",
+        "research",
+        "other",
+        "sales",
+        "customer-success",
+        "data",
+        "customer-support",
+        "it"
+      ],
+      "employee_count": "98"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "security",
+        "marketing",
+        "product",
+        "research",
+        "other",
+        "sales",
+        "customer-success",
+        "data",
+        "customer-support",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "ai",
+        "operations",
+        "engineering",
+        "research",
+        "other",
+        "customer-success",
+        "sales",
+        "marketing",
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-04-14T08:47:38.046Z",
+    "current_valuation_usd": "$1 billion",
+    "current_valuation_usd_last_updated": "2026-04-14T08:47:38.046Z",
+    "total_funding_raised": "$238 million",
+    "total_funding_raised_last_updated": "2026-04-14T08:47:38.046Z",
+    "key_investors": [
+      {
+        "name": "BlackRock",
+        "domain": "blackrock.com"
+      },
+      {
+        "name": "Addition",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "BlackRock",
+        "logo_url": "/investor-logos/blackrock.png"
+      },
+      {
+        "name": "Addition",
+        "logo_url": "/investor-logos/addition.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-14T08:47:38.046Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "claude-cowork",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "claude-cowork",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].x_twitter_verified_by": "ai",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-14T08:47:38.046Z",
+    "company_basic_information.website_url_last_updated": "2026-04-14T08:47:38.046Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-14T08:47:38.046Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-14T08:47:38.046Z",
+    "company_basic_information.last_updated": "2026-04-14",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-14T09:24:54.016Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-14T09:35:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T12:56:39.463Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:04:36.414Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-14T09:35:00.000Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-14T09:25:57.735Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T12:56:50.054Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:04:42.144Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-14T09:26:43.330Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-04-14T09:29:26.042Z",
+    "leadership.founders[2].image_url_last_updated": "2026-04-24T12:57:01.410Z",
+    "leadership.founders[2].description_last_updated": "2026-04-25T10:04:47.742Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-04-14T09:27:58.843Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2026-04-14T09:30:13.548Z",
+    "leadership.founders[3].image_url_last_updated": "2026-04-24T12:57:12.798Z",
+    "leadership.founders[3].description_last_updated": "2026-04-25T10:04:54.174Z",
+    "social_media.x_url_last_verified": "2026-04-14T09:30:53.458Z",
+    "social_media.linkedin_url_last_verified": "2026-04-14T09:31:55.828Z",
+    "social_media.instagram_url_last_verified": "2026-04-14T09:32:33.696Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-04-14T08:47:38.046Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-14T08:47:38.046Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-14T08:47:38.046Z",
+    "financial_information.investor_logos_last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[0].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[1].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[2].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[3].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[4].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[5].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[6].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[7].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[8].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[9].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[10].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[11].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[12].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[13].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[14].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[15].last_updated": "2026-04-14T08:47:38.046Z",
+    "location_mapping[16].last_updated": "2026-04-14T08:47:38.046Z",
+    "job_data.roles[0].posted_date": "2026-09-18",
+    "job_data.roles[1].posted_date": "2026-09-18",
+    "job_data.roles[2].posted_date": "2026-09-18",
+    "job_data.roles[3].posted_date": "2026-09-18",
+    "job_data.roles[4].posted_date": "2026-09-18",
+    "job_data.roles[5].posted_date": "2026-09-18",
+    "job_data.roles[6].posted_date": "2026-09-18",
+    "job_data.roles[7].posted_date": "2026-09-18",
+    "job_data.roles[8].posted_date": "2026-09-18",
+    "job_data.roles[9].posted_date": "2026-09-18",
+    "job_data.roles[10].posted_date": "2026-09-18",
+    "job_data.roles[11].posted_date": "2026-09-18",
+    "job_data.roles[12].posted_date": "2026-09-18",
+    "job_data.roles[13].posted_date": "2026-09-18",
+    "job_data.roles[14].posted_date": "2026-09-18",
+    "job_data.roles[15].posted_date": "2026-09-18",
+    "job_data.roles[16].posted_date": "2026-09-18",
+    "job_data.roles[17].posted_date": "2026-09-18",
+    "job_data.roles[18].posted_date": "2026-09-18",
+    "job_data.roles[19].posted_date": "2026-09-18",
+    "job_data.roles[20].posted_date": "2026-09-18",
+    "job_data.roles[21].posted_date": "2026-09-18",
+    "job_data.roles[22].posted_date": "2026-09-18",
+    "job_data.roles[23].posted_date": "2026-09-18",
+    "job_data.roles[24].posted_date": "2026-09-18",
+    "job_data.roles[25].posted_date": "2026-09-18",
+    "job_data.roles[26].posted_date": "2026-09-18",
+    "job_data.roles[27].posted_date": "2026-09-18",
+    "job_data.roles[28].posted_date": "2026-09-18",
+    "job_data.roles[29].posted_date": "2026-09-18",
+    "job_data.roles[30].posted_date": "2026-09-18",
+    "job_data.roles[31].posted_date": "2026-09-18",
+    "job_data.roles[32].posted_date": "2026-09-18",
+    "job_data.roles[33].posted_date": "2026-09-18",
+    "job_data.roles[34].posted_date": "2026-09-18",
+    "job_data.roles[35].posted_date": "2026-09-18",
+    "job_data.roles[35].title_updated_timestamp": "2026-09-18T16:27:08.754Z",
+    "job_data.roles[36].posted_date": "2026-09-18",
+    "job_data.roles[37].posted_date": "2026-09-18",
+    "job_data.roles[38].posted_date": "2026-09-18",
+    "job_data.last_updated": "2026-09-18T15:52:25.790Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T13:59:07.280Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T13:59:07.280Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T13:59:07.280Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T13:59:07.280Z",
+    "benefits.remote-work.last_updated": "2026-04-23T13:59:07.280Z"
+  }
+}

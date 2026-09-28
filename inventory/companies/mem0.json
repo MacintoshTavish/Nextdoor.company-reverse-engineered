@@ -1,0 +1,263 @@
+{
+  "slug": "mem0",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/71695.ae1727e5fd5417f4.js",
+  "observed_at": "2026-09-28T08:33:53.901385+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7795,
+    "sha256": "d528d7efce71809db0728d6c94e61949aff00673b3df66174ff296c03ed35bd9",
+    "elapsed_seconds": 0.441,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:53 GMT",
+      "etag": "\"de91f4a575d514e52d2cbde41beeca48\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:53 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Mem0",
+    "company_name_legal": "Mem0",
+    "founded_year": 2023,
+    "website_url": "https://mem0.ai",
+    "careers_url": "https://jobs.ashbyhq.com/mem0",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/mem0",
+    "id": 48
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 2,
+    "last_updated": "2026-09-24T09:45:41.706Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 2,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Full Stack Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mem0/642f00ec-c220-48a5-9a4d-4af67875032c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "642f00ec-c220-48a5-9a4d-4af67875032c"
+    },
+    {
+      "title": "Research Engineer - Agent Memory",
+      "apply_url": "https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "55ef65b7-b9ad-4953-9892-430642281a23"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.786553,
+      "longitude": -122.398079,
+      "exact_address": "156 2nd Street, San Francisco, California 94105, United States",
+      "departments": [
+        "engineering",
+        "operations",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "pre-seed",
+    "funding_stage_last_updated": "2025-10-07T18:17:16.585Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-07T18:17:16.585Z",
+    "total_funding_raised": "$1.8 million",
+    "total_funding_raised_last_updated": "2025-10-07T18:17:16.585Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-07T18:17:16.585Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-19T05:57:10.908Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T10:08:06.424Z",
+    "company_basic_information.last_updated": "2025-10-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T09:50:50.083Z",
+    "leadership.founders[0].description_last_updated": "2026-01-29T08:34:02.586Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T09:51:08.926Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:34:08.628Z",
+    "social_media.x_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:04:11.630Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-10-07T18:17:16.585Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-07T18:17:16.585Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-07T18:17:16.585Z",
+    "financial_information.investor_logos_last_updated": "2025-10-07T18:17:16.585Z",
+    "location_mapping[0].last_updated": "2025-10-02T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-07-27",
+    "job_data.roles[1].posted_date": "2026-08-25",
+    "job_data.last_updated": "2026-09-24T09:45:41.706Z"
+  }
+}

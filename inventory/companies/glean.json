@@ -1,0 +1,3014 @@
+{
+  "slug": "glean",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/77035.348607703d87a950.js",
+  "observed_at": "2026-09-28T08:32:07.282119+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 69333,
+    "sha256": "cfd4d548b9126fe74ae3b3ac6cd4b5a146cf966f4a947f0f62ce69897ff196da",
+    "elapsed_seconds": 0.467,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:07 GMT",
+      "etag": "\"5d7e765a617eed719f06123bda284a24\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:07 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Glean",
+    "company_name_legal": "Glean Technologies, Inc.",
+    "founded_year": 2019,
+    "website_url": "https://glean.com",
+    "careers_url": "https://job-boards.greenhouse.io/gleanwork",
+    "investor_portfolio_page": null,
+    "id": 218
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 120,
+    "last_updated": "2026-09-16T18:22:17.856Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 120,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Success Manager, Central",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661886005",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Delivery Excellence Manager include leading customer deployments, ensuring successful implementations, and providing strategic guidance to enhance customer engagement and satisfaction. This aligns closely with the customer-success category, as the role focuses on making customers successful with the company's AI solutions."
+    },
+    {
+      "title": "AI Success Manager (US East Customer Hours)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4705011005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Success Manager (US West Customer Hours)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4705017005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Success Manager, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694339005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Success Manager, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694340005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Success Manager, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695059005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Founding Forward Deployed Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651991005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Data Scientist, Growth",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723427005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Data Scientist, Growth",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723663005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Application Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4728513005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States,",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Lead Site Reliability Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4654833005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Machine Learning Engineer, Assistant Quality",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4711484005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Machine Learning Engineer, Search Quality",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006735005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Platform Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4728507005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States,",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Agents",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4712442005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Agents Governance",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4712434005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, AI/ML Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4501783005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, AI & Security",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4605446005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, APIs & Context Platform",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696752005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Billing & Revenue Platform",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4656281005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Cloud Deployment Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4711861005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Cloud Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4709327005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Data Foundations",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4637208005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Developer Productivity",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4614706005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Evals",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4712438005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006733005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Fullstack",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006734005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Machine Learning",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4012745005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Software Engineer, Storage",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4610281005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Supply Chain Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4612849005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Tech Lead Manager, Admin Console",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4686315005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Tech Lead Manager, Admin Console",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694759005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Tech Lead Manager, Connectors",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4388073005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729357005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "HR Business Partner",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696105005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Finance Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702832005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Sales Recruiter",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4725515005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior IT Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4720634005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Manager, Technical Accounting",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4732667005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Finance Associate, Product Finance",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718767005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Talent Sourcer, GTM (Contract)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4730545005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Recruiter, Early Talent",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4732991005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Content Marketing Manager, Japan",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4724225005",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Product Marketing Manager (Glean Agents)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4731850005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Product Marketing Manager (Glean Agents)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4732997005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Product Marketing Manager (Glean Intelligence)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729392005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Product Marketing Manager (Glean Intelligence)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729400005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Demand Generation Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4533468005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain view, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Demand Generation Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4730945005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Field Marketing Manager, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4727092005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Field Marketing Manager, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4727100005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "VP, Growth Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4720549005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Cost Operations Lead",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723754005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Management Lead, Core Experience",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4559476005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726336005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Agent Security & Governance",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525297005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Agent Security & Governance",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, AI Quality",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525518005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, AI Quality",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, API Platform",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4731372005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, API Platform",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4731388005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Connectors",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4629292005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Enterprise Intelligence",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4701912005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Enterprise Intelligence",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702369005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Glean Protect (Security & Governance)",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Growth",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702151005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Manager, Growth",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702367005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4628879005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695590005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Program Manager, Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4628714005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Program Manager, Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694770005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Data Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4724189005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4012824005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Quality Assurance Lead",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4464005005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Commercial Account Executive, East",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4689938005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Boston",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4725414005",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Chicago",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723644005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Denver",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4726168005",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Japan",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4672064005",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Mid-Atlantic",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4724264005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - Mountain View",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695585005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, NYC",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615117005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Ohio Valley",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615635005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - Oregon",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4707231005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - Sacramento",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693862005",
+      "location_ids": [
+        "sacramento_office"
+      ],
+      "location_display": "Sacramento, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4619072005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, SoCal",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4724979005",
+      "location_ids": [
+        "orange_county_office"
+      ],
+      "location_display": "Orange County, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, SoCal",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4725055005",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Southeast",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4719454005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Texas",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4725320005",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - Washington",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694661005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "GTM Enablement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696203005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "GTM Enablement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718547005",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "GTM Enablement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "GTM Enablement Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Sales Manager, Bay Area",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4721382005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Sales Manager, Southern California",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4721644005",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Solutions Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729343005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Private Equity Partnerships Manager",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4673788005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Vice President, New York City",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4669911005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Engineering Manager, APAC",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4676087005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Engineer, UK",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729652005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4673995005",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, Dallas",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4588653005",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, Japan",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4721393005",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, Nashville",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4730794005",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, North Central",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4681664005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4706212005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, Southern California",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4725753005",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Account Executive, UKI",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702767005",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Solutions Engineer, SF Bay Area",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4614349005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Strategic Solutions Engineer, West",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4722386005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Designated Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4520700005",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Designated Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4520713005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Designated Technical Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4663648005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Delivery Excellence Manager - Customer Success",
+      "title_original": "Delivery Excellence Manager, Central",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-11T13:10:40.136Z",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661884005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Delivery Excellence Manager involve leading customer deployments, ensuring successful implementations, and providing strategic guidance to enhance customer engagement and satisfaction. This aligns closely with the customer success category, as the role focuses on making customers successful with the company's AI solutions."
+    },
+    {
+      "title": "Delivery Excellence Manager - Customer Success",
+      "title_original": "Delivery Excellence Manager, East",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-11T13:11:24.095Z",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661878005",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Delivery Excellence Manager include leading customer deployments, ensuring customer success through strategic guidance, and managing customer relationships. This aligns closely with the customer success category, as the role focuses on maximizing customer satisfaction and achieving business outcomes."
+    },
+    {
+      "title": "Delivery Excellence Manager - Customer Implementations",
+      "title_original": "Delivery Excellence Manager, East",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-11T13:11:42.036Z",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661879005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Delivery Excellence Manager involve leading customer implementations, ensuring successful deployments, and driving customer engagement and satisfaction. This aligns closely with the customer success category, as the role focuses on making customers successful through strategic guidance and support."
+    },
+    {
+      "title": "Strategic Account Executive, STL/KC",
+      "apply_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4733352005",
+      "location_ids": [
+        "st_louis_office"
+      ],
+      "location_display": "St. Louis, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "design",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9225,
+      "longitude": 77.6198,
+      "exact_address": "30, Seventh Floor, Indiqube Tech Point, 100 Feet Road, Srinivagilu, Ward No.68, Kathalipalya, Ejipura, Begur Hobli, Bangalore South, Bengaluru, Karnataka, India - 560068",
+      "departments": [
+        "other",
+        "engineering",
+        "data",
+        "design",
+        "security",
+        "ai",
+        "hr",
+        "marketing",
+        "product",
+        "content-production",
+        "qa",
+        "sales",
+        "customer-support"
+      ],
+      "employee_count": "68"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4679,
+      "longitude": 153.0281,
+      "exact_address": "140 Alice Street, Unit 502, Brisbane City, QLD 4000, Australia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "london",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.5184,
+      "longitude": -0.1435,
+      "exact_address": "C/O Simmons Gainsford Professional Services Limited, 14th Floor, 33 Cavendish Square, London, England, W1G 0PW",
+      "departments": [
+        "other",
+        "marketing",
+        "sales",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": "1-10"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0899,
+      "longitude": -118.3851,
+      "exact_address": "8285 W Sunset Blvd, Suite 7A, Los Angeles, California, United States - 90046",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "other",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "exact_address": "Nashville, Tennessee, United States",
+      "departments": [
+        "other",
+        "hr",
+        "sales",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york city",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7406,
+      "longitude": -73.991,
+      "exact_address": "43 W 23rd St Fl 4, New York City, New York, United States - 10010",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "sales",
+        "marketing",
+        "consulting",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4419,
+      "longitude": -122.143,
+      "exact_address": "Palo Alto, California, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "ai",
+        "hr",
+        "academy-training",
+        "product",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7802,
+      "longitude": -122.3935,
+      "exact_address": "634 2nd Street, San Francisco, California, United States - 94107",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "data",
+        "design",
+        "ai",
+        "security",
+        "sales",
+        "operations",
+        "hr",
+        "academy-training",
+        "finance",
+        "marketing",
+        "consulting",
+        "customer-support"
+      ],
+      "employee_count": "300+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.4445,
+      "longitude": -122.2698,
+      "exact_address": "4403 S 166th St, Seattle, WA 98188, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "marketing",
+        "sales",
+        "operations",
+        "customer-support"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": "Seongdong-gu",
+      "country": "South Korea",
+      "latitude": 37.5447,
+      "longitude": 127.0556,
+      "exact_address": "B119, 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Republic of Korea",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "1"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "other",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "other",
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "tel aviv",
+      "state": "Tel Aviv District",
+      "country": "Israel",
+      "latitude": 32.0635,
+      "longitude": 34.7758,
+      "exact_address": "Sad' Hashula 17, Tel Aviv - Jaffa, Tel Aviv District, Israel",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "turin_office",
+      "city": "Turin",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "exact_address": "Turin, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kyoto_office",
+      "city": "Kyoto",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "exact_address": "Kyoto, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "osaka_office",
+      "city": "Osaka",
+      "state": null,
+      "country": "Japan",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "exact_address": "Osaka, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mountain_view_office",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3861,
+      "longitude": -122.0839,
+      "exact_address": "Mountain View, California, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "other",
+        "customer-success",
+        "engineering",
+        "security",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "other",
+        "customer-success",
+        "engineering",
+        "security",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sacramento_office",
+      "city": "Sacramento",
+      "state": "California",
+      "country": "United States",
+      "latitude": 38.5816,
+      "longitude": -121.4944,
+      "exact_address": "Sacramento, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "orange_county_office",
+      "city": "Orange County",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.7455,
+      "longitude": -117.8677,
+      "exact_address": "Orange County, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "st_louis_office",
+      "city": "St. Louis",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 38.627,
+      "longitude": -90.1994,
+      "exact_address": "St. Louis, Missouri, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2026-03-16T07:44:58.127Z",
+    "current_valuation_usd": "$7.2 billion",
+    "current_valuation_usd_last_updated": "2026-03-16T07:44:58.127Z",
+    "total_funding_raised": "$770 million",
+    "total_funding_raised_last_updated": "2026-03-16T07:44:58.127Z",
+    "key_investors": [
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kleinerperkins.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      },
+      {
+        "name": "ICONIQ Growth",
+        "domain": "iconiqcapital.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "Capital One Ventures",
+        "domain": "capitaloneventures.com"
+      },
+      {
+        "name": "Citi Ventures",
+        "domain": "citiventures.com"
+      },
+      {
+        "name": "Databricks Ventures",
+        "domain": "databricks.com"
+      },
+      {
+        "name": "Workday Ventures",
+        "domain": "workday.com"
+      },
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "Wellington Management",
+        "domain": "wellington.com"
+      },
+      {
+        "name": "Khosla Ventures",
+        "domain": "khoslaventures.com"
+      },
+      {
+        "name": "Bicycle Capital",
+        "domain": "bicyclecapital.com"
+      },
+      {
+        "name": "Geodesic Capital",
+        "domain": "geodesiccapital.com"
+      },
+      {
+        "name": "Archerman Capital",
+        "domain": "archermancapital.com"
+      },
+      {
+        "name": "Altimeter Capital",
+        "domain": "altimeter.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      },
+      {
+        "name": "ICONIQ Growth",
+        "logo_url": "/investor-logos/iconiq-growth.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "Capital One Ventures",
+        "logo_url": "/investor-logos/capital-one-ventures.png"
+      },
+      {
+        "name": "Citi Ventures",
+        "logo_url": "/investor-logos/citi-ventures.png"
+      },
+      {
+        "name": "Databricks Ventures",
+        "logo_url": "/investor-logos/databricks-ventures.png"
+      },
+      {
+        "name": "Workday Ventures",
+        "logo_url": "/investor-logos/workday-ventures.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Wellington Management",
+        "logo_url": "/investor-logos/wellington-management.png"
+      },
+      {
+        "name": "Khosla Ventures",
+        "logo_url": "/investor-logos/khosla.png"
+      },
+      {
+        "name": "Bicycle Capital",
+        "logo_url": "/investor-logos/bicycle-capital.png"
+      },
+      {
+        "name": "Geodesic Capital",
+        "logo_url": "/investor-logos/geodesic-capital.png"
+      },
+      {
+        "name": "Archerman Capital",
+        "logo_url": "/investor-logos/archerman-capital.png"
+      },
+      {
+        "name": "Altimeter Capital",
+        "logo_url": "/investor-logos/altimeter-capital.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-16T07:44:58.127Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$100 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "remote-work",
+    "benefits_scraping_source",
+    "equity-stock",
+    "bonus"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description_gemini"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-16T07:44:58.127Z",
+    "company_basic_information.website_url_last_updated": "2026-03-16T07:44:58.127Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-16T07:44:58.127Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-16T07:44:58.127Z",
+    "company_basic_information.last_updated": "2026-03-16",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-18T08:32:35.966Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-18T08:40:48.490Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T11:45:55.917Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T09:33:34.320Z",
+    "leadership.last_updated": "2026-03-18T08:31:30.241Z",
+    "social_media.x_url_last_verified": "2026-03-16T15:05:00.225Z",
+    "social_media.linkedin_url_last_verified": "2026-03-16T15:06:13.692Z",
+    "social_media.instagram_url_last_verified": "2026-03-18T08:41:10.403Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-16T07:44:58.127Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-16T07:44:58.127Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-16T07:44:58.127Z",
+    "financial_information.investor_logos_last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[0].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[1].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[2].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[3].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[4].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[5].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[6].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[7].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[8].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[9].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[10].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[11].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[12].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[13].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[14].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[15].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[16].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[17].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[18].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[19].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[20].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[21].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[22].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[23].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[24].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[25].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[26].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[27].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[28].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[29].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[30].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[31].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[32].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[33].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[34].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[35].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[36].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[37].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[38].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[39].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[40].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[41].last_updated": "2026-03-16T07:44:58.127Z",
+    "location_mapping[53].last_updated": "2026-07-22T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-16",
+    "job_data.roles[1].posted_date": "2026-09-16",
+    "job_data.roles[2].posted_date": "2026-09-16",
+    "job_data.roles[3].posted_date": "2026-09-16",
+    "job_data.roles[4].posted_date": "2026-09-16",
+    "job_data.roles[5].posted_date": "2026-09-16",
+    "job_data.roles[6].posted_date": "2026-09-16",
+    "job_data.roles[7].posted_date": "2026-09-16",
+    "job_data.roles[8].posted_date": "2026-09-16",
+    "job_data.roles[9].posted_date": "2026-09-16",
+    "job_data.roles[10].posted_date": "2026-09-16",
+    "job_data.roles[11].posted_date": "2026-09-16",
+    "job_data.roles[12].posted_date": "2026-09-16",
+    "job_data.roles[13].posted_date": "2026-09-16",
+    "job_data.roles[14].posted_date": "2026-09-16",
+    "job_data.roles[15].posted_date": "2026-09-16",
+    "job_data.roles[16].posted_date": "2026-09-16",
+    "job_data.roles[17].posted_date": "2026-09-16",
+    "job_data.roles[18].posted_date": "2026-09-16",
+    "job_data.roles[19].posted_date": "2026-09-16",
+    "job_data.roles[20].posted_date": "2026-09-16",
+    "job_data.roles[21].posted_date": "2026-09-16",
+    "job_data.roles[22].posted_date": "2026-09-16",
+    "job_data.roles[23].posted_date": "2026-09-16",
+    "job_data.roles[24].posted_date": "2026-09-16",
+    "job_data.roles[25].posted_date": "2026-09-16",
+    "job_data.roles[26].posted_date": "2026-09-16",
+    "job_data.roles[27].posted_date": "2026-09-16",
+    "job_data.roles[28].posted_date": "2026-09-16",
+    "job_data.roles[29].posted_date": "2026-09-16",
+    "job_data.roles[30].posted_date": "2026-09-16",
+    "job_data.roles[31].posted_date": "2026-09-16",
+    "job_data.roles[32].posted_date": "2026-09-16",
+    "job_data.roles[33].posted_date": "2026-09-16",
+    "job_data.roles[34].posted_date": "2026-09-16",
+    "job_data.roles[35].posted_date": "2026-09-16",
+    "job_data.roles[36].posted_date": "2026-09-16",
+    "job_data.roles[37].posted_date": "2026-09-16",
+    "job_data.roles[38].posted_date": "2026-09-16",
+    "job_data.roles[39].posted_date": "2026-09-16",
+    "job_data.roles[40].posted_date": "2026-09-16",
+    "job_data.roles[41].posted_date": "2026-09-16",
+    "job_data.roles[42].posted_date": "2026-09-16",
+    "job_data.roles[43].posted_date": "2026-09-16",
+    "job_data.roles[44].posted_date": "2026-09-16",
+    "job_data.roles[45].posted_date": "2026-09-16",
+    "job_data.roles[46].posted_date": "2026-09-16",
+    "job_data.roles[47].posted_date": "2026-09-16",
+    "job_data.roles[48].posted_date": "2026-09-16",
+    "job_data.roles[49].posted_date": "2026-09-16",
+    "job_data.roles[50].posted_date": "2026-09-16",
+    "job_data.roles[51].posted_date": "2026-09-16",
+    "job_data.roles[52].posted_date": "2026-09-16",
+    "job_data.roles[53].posted_date": "2026-09-16",
+    "job_data.roles[54].posted_date": "2026-09-16",
+    "job_data.roles[55].posted_date": "2026-09-16",
+    "job_data.roles[56].posted_date": "2026-09-16",
+    "job_data.roles[57].posted_date": "2026-09-16",
+    "job_data.roles[58].posted_date": "2026-09-16",
+    "job_data.roles[59].posted_date": "2026-09-16",
+    "job_data.roles[60].posted_date": "2026-09-16",
+    "job_data.roles[61].posted_date": "2026-09-16",
+    "job_data.roles[62].posted_date": "2026-09-16",
+    "job_data.roles[63].posted_date": "2026-09-16",
+    "job_data.roles[64].posted_date": "2026-09-16",
+    "job_data.roles[65].posted_date": "2026-09-16",
+    "job_data.roles[66].posted_date": "2026-09-16",
+    "job_data.roles[67].posted_date": "2026-09-16",
+    "job_data.roles[68].posted_date": "2026-09-16",
+    "job_data.roles[69].posted_date": "2026-09-16",
+    "job_data.roles[70].posted_date": "2026-09-16",
+    "job_data.roles[71].posted_date": "2026-09-16",
+    "job_data.roles[72].posted_date": "2026-09-16",
+    "job_data.roles[73].posted_date": "2026-09-16",
+    "job_data.roles[74].posted_date": "2026-09-16",
+    "job_data.roles[75].posted_date": "2026-09-16",
+    "job_data.roles[76].posted_date": "2026-09-16",
+    "job_data.roles[77].posted_date": "2026-09-16",
+    "job_data.roles[78].posted_date": "2026-09-16",
+    "job_data.roles[79].posted_date": "2026-09-16",
+    "job_data.roles[80].posted_date": "2026-09-16",
+    "job_data.roles[81].posted_date": "2026-09-16",
+    "job_data.roles[82].posted_date": "2026-09-16",
+    "job_data.roles[83].posted_date": "2026-09-16",
+    "job_data.roles[84].posted_date": "2026-09-16",
+    "job_data.roles[85].posted_date": "2026-09-16",
+    "job_data.roles[86].posted_date": "2026-09-16",
+    "job_data.roles[87].posted_date": "2026-09-16",
+    "job_data.roles[88].posted_date": "2026-09-16",
+    "job_data.roles[89].posted_date": "2026-09-16",
+    "job_data.roles[90].posted_date": "2026-09-16",
+    "job_data.roles[91].posted_date": "2026-09-16",
+    "job_data.roles[92].posted_date": "2026-09-16",
+    "job_data.roles[93].posted_date": "2026-09-16",
+    "job_data.roles[94].posted_date": "2026-09-16",
+    "job_data.roles[95].posted_date": "2026-09-16",
+    "job_data.roles[96].posted_date": "2026-09-16",
+    "job_data.roles[97].posted_date": "2026-09-16",
+    "job_data.roles[98].posted_date": "2026-09-16",
+    "job_data.roles[99].posted_date": "2026-09-16",
+    "job_data.roles[100].posted_date": "2026-09-16",
+    "job_data.roles[101].posted_date": "2026-09-16",
+    "job_data.roles[102].posted_date": "2026-09-16",
+    "job_data.roles[103].posted_date": "2026-09-16",
+    "job_data.roles[104].posted_date": "2026-09-16",
+    "job_data.roles[105].posted_date": "2026-09-16",
+    "job_data.roles[106].posted_date": "2026-09-16",
+    "job_data.roles[107].posted_date": "2026-09-16",
+    "job_data.roles[108].posted_date": "2026-09-16",
+    "job_data.roles[109].posted_date": "2026-09-16",
+    "job_data.roles[110].posted_date": "2026-09-16",
+    "job_data.roles[111].posted_date": "2026-09-16",
+    "job_data.roles[112].posted_date": "2026-09-16",
+    "job_data.roles[113].posted_date": "2026-09-16",
+    "job_data.roles[114].posted_date": "2026-09-16",
+    "job_data.roles[115].posted_date": "2026-09-16",
+    "job_data.roles[116].posted_date": "2026-09-16",
+    "job_data.roles[116].title_updated_timestamp": "2026-05-11T13:10:40.136Z",
+    "job_data.roles[117].posted_date": "2026-09-16",
+    "job_data.roles[117].title_updated_timestamp": "2026-05-11T13:11:24.095Z",
+    "job_data.roles[118].posted_date": "2026-09-16",
+    "job_data.roles[118].title_updated_timestamp": "2026-05-11T13:11:42.036Z",
+    "job_data.roles[119].posted_date": "2026-09-16",
+    "job_data.last_updated": "2026-09-16T18:22:17.856Z",
+    "benefits.remote-work.last_updated": "2026-04-23T12:16:40.113Z",
+    "benefits.equity-stock.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.bonus.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

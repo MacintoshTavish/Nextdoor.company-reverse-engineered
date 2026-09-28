@@ -1,0 +1,1354 @@
+{
+  "slug": "reflection",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/68771.fd5364b1521ce980.js",
+  "observed_at": "2026-09-28T08:35:53.694694+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 41708,
+    "sha256": "d61a9d524da314cd12e05cca74d3d313954fa59dc841ab02e99fb2651a6bc29b",
+    "elapsed_seconds": 0.183,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:53 GMT",
+      "etag": "\"7df6ad633f86d7c613588e040d2b988f\"",
+      "last-modified": "Mon, 28 Sep 2026 08:14:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Reflection",
+    "company_name_legal": "Reflection",
+    "founded_year": 2024,
+    "website_url": "https://reflection.ai",
+    "careers_url": "https://jobs.ashbyhq.com/reflectionai",
+    "investor_portfolio_page": null,
+    "id": 271
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 49,
+    "last_updated": "2026-09-14T12:29:50.585Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 49,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Compute and Infrastructure Counsel (Legal)",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/4dfa52c0-8b11-4d6f-82ec-7d1fc0b4b982",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-28",
+      "ashby_job_id": "4dfa52c0-8b11-4d6f-82ec-7d1fc0b4b982"
+    },
+    {
+      "title": "Data Partnerships & Initiatives",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/f5b95a9f-4ecf-42b2-8932-f01d48d051c0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-18",
+      "ashby_job_id": "f5b95a9f-4ecf-42b2-8932-f01d48d051c0"
+    },
+    {
+      "title": "Forward Deployed Engineer - AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-17",
+      "ashby_job_id": "8b97b583-3cc6-4834-ae2c-d5aecf22ed7d"
+    },
+    {
+      "title": "Forward Deployed Engineer, Lead - LLM Post-training",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/1d029ec2-a842-4dff-b784-1328422c03e8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-10-29",
+      "ashby_job_id": "1d029ec2-a842-4dff-b784-1328422c03e8"
+    },
+    {
+      "title": "Forward Deployed Engineer - LLM Post-training",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-22",
+      "ashby_job_id": "9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7"
+    },
+    {
+      "title": "Member of Technical Staff - Applications",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/62c12b7c-781a-4178-bc8a-7b43c7ec2338",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-12",
+      "ashby_job_id": "62c12b7c-781a-4178-bc8a-7b43c7ec2338"
+    },
+    {
+      "title": "Member of Technical Staff - Compute Platform",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/d9ead368-c050-40ef-a9dc-34a84a2df829",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-20",
+      "ashby_job_id": "d9ead368-c050-40ef-a9dc-34a84a2df829"
+    },
+    {
+      "title": "Member of Technical Staff - Data Ingestion Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/d85b167c-10cb-4ae6-b792-09afe8a6d3c2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-14",
+      "ashby_job_id": "d85b167c-10cb-4ae6-b792-09afe8a6d3c2"
+    },
+    {
+      "title": "Member of Technical Staff - Data Quality Engineer (Post-training)",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/c567de5a-a599-42f7-8f74-602fab95fd17",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-08",
+      "ashby_job_id": "c567de5a-a599-42f7-8f74-602fab95fd17"
+    },
+    {
+      "title": "Member of Technical Staff - Data Quality Engineer (Pre-training)",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/3f496904-537e-47fd-8af8-a9b7bc490a0f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-08",
+      "ashby_job_id": "3f496904-537e-47fd-8af8-a9b7bc490a0f"
+    },
+    {
+      "title": "Member of Technical Staff - Distributed Systems Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-12",
+      "ashby_job_id": "8b05b1e6-0286-464b-9fff-c6ac44c35b8c"
+    },
+    {
+      "title": "Member of Technical Staff - Evaluations",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/075f746b-df26-4738-a44a-82e6d1d615dc",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-12-17",
+      "ashby_job_id": "075f746b-df26-4738-a44a-82e6d1d615dc"
+    },
+    {
+      "title": "Member of Technical Staff - Infrastructure Security",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/f3374b9a-459c-48d2-81c6-72cc5d750050",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-16",
+      "ashby_job_id": "f3374b9a-459c-48d2-81c6-72cc5d750050"
+    },
+    {
+      "title": "Member of Technical Staff - IT Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/e6499a5e-7936-4a67-ad17-49c5a4e50d1e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-16",
+      "ashby_job_id": "e6499a5e-7936-4a67-ad17-49c5a4e50d1e"
+    },
+    {
+      "title": "Member of Technical Staff - Mid-Training Infra",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/d8c898c0-83d9-4d1c-b098-a98c4c2a64a1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-24",
+      "ashby_job_id": "d8c898c0-83d9-4d1c-b098-a98c4c2a64a1"
+    },
+    {
+      "title": "Member of Technical Staff - Platform Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/99cd3069-dd01-4008-9a0f-a36aee1e45fc",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-12",
+      "ashby_job_id": "99cd3069-dd01-4008-9a0f-a36aee1e45fc"
+    },
+    {
+      "title": "Member of Technical Staff - Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/13e02dca-e042-4ad0-bbbe-be6b09a98211",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-10-07",
+      "ashby_job_id": "13e02dca-e042-4ad0-bbbe-be6b09a98211"
+    },
+    {
+      "title": "Member of Technical Staff - Pre-Training",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/2c2b06f0-7897-4d22-9669-ec39e706d17a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-10-07",
+      "ashby_job_id": "2c2b06f0-7897-4d22-9669-ec39e706d17a"
+    },
+    {
+      "title": "Member of Technical Staff - Pre-Training Infra",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/5f773a1e-fee2-427d-88f5-0eee11b76d77",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-24",
+      "ashby_job_id": "5f773a1e-fee2-427d-88f5-0eee11b76d77"
+    },
+    {
+      "title": "Member of Technical Staff - Research Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/bf075674-ad6c-4ab6-aa30-f7c37c59e759",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-12",
+      "ashby_job_id": "bf075674-ad6c-4ab6-aa30-f7c37c59e759"
+    },
+    {
+      "title": "Member of Technical Staff - Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/a38f03ad-770c-4c53-be91-0d04171d8ead",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "a38f03ad-770c-4c53-be91-0d04171d8ead"
+    },
+    {
+      "title": "Research Program Manager - Model Development",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/5455860d-867a-4d3f-a811-34c00090f5b2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "5455860d-867a-4d3f-a811-34c00090f5b2"
+    },
+    {
+      "title": "Research Program Manager - Model Evals and Safety",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/659593ec-6cd2-4ae4-884b-9b31427662c6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "659593ec-6cd2-4ae4-884b-9b31427662c6"
+    },
+    {
+      "title": "Research Program Manager - Research Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/f8e57b72-dafa-4bf3-9aae-e88c66e1e81e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "f8e57b72-dafa-4bf3-9aae-e88c66e1e81e"
+    },
+    {
+      "title": "Member of Technical Staff - Safety",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/5c614820-83b4-49ad-bb6d-0d49f09c078b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-13",
+      "ashby_job_id": "5c614820-83b4-49ad-bb6d-0d49f09c078b"
+    },
+    {
+      "title": "Controller",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/34943540-5e11-48e3-9812-3046b7c6604c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "34943540-5e11-48e3-9812-3046b7c6604c"
+    },
+    {
+      "title": "Forward Deployed Engineer, Lead - AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/56fbaa8a-63c7-44c2-8f29-c70e5a5a662e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-12",
+      "ashby_job_id": "56fbaa8a-63c7-44c2-8f29-c70e5a5a662e"
+    },
+    {
+      "title": "Talent Management",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/dd1d7c8c-69fe-4479-8385-076e5703d7bf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "dd1d7c8c-69fe-4479-8385-076e5703d7bf"
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/fa2ef5b7-7676-4ec4-b8a2-684ed7dfaea2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-15",
+      "ashby_job_id": "fa2ef5b7-7676-4ec4-b8a2-684ed7dfaea2"
+    },
+    {
+      "title": "Forward Deployed Engineer - AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/1bbe2915-d37d-42ea-a7d9-f72adfc21e17",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-09",
+      "ashby_job_id": "1bbe2915-d37d-42ea-a7d9-f72adfc21e17"
+    },
+    {
+      "title": "Forward Deployed Engineer, Lead - AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/55b38a39-7bfb-4052-a4d5-bca3e9626fd9",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-09",
+      "ashby_job_id": "55b38a39-7bfb-4052-a4d5-bca3e9626fd9"
+    },
+    {
+      "title": "Member of Technical Staff - Web Crawl Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/ee258570-a3f9-4276-9bf4-35b2b70dbc61",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-19",
+      "ashby_job_id": "ee258570-a3f9-4276-9bf4-35b2b70dbc61"
+    },
+    {
+      "title": "Technical Community & Programs Lead",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/578cd3af-5805-44f6-b081-e3c1c7109261",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-10",
+      "ashby_job_id": "578cd3af-5805-44f6-b081-e3c1c7109261"
+    },
+    {
+      "title": "Head of Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/bec3d2a4-76e6-497e-9e2e-1c4ad0307125",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-15",
+      "ashby_job_id": "bec3d2a4-76e6-497e-9e2e-1c4ad0307125"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Applications",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/5d2153dc-fe9a-473d-8047-c3b81786844a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-15",
+      "ashby_job_id": "5d2153dc-fe9a-473d-8047-c3b81786844a"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Platform Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/4c20bdab-01ff-4ed8-9a75-d258465ba14f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-15",
+      "ashby_job_id": "4c20bdab-01ff-4ed8-9a75-d258465ba14f"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Shared Services",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/349b9229-a122-4d63-9f9e-835fbef1063a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-15",
+      "ashby_job_id": "349b9229-a122-4d63-9f9e-835fbef1063a"
+    },
+    {
+      "title": "Manager of Identity & Access Management",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/3865d9c3-8cf8-464c-9451-81628427b867",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3865d9c3-8cf8-464c-9451-81628427b867"
+    },
+    {
+      "title": "Manager of Technology & Security Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/a4557506-cc62-4efc-b051-c393067c2740",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a4557506-cc62-4efc-b051-c393067c2740"
+    },
+    {
+      "title": "Member of Technical Staff - Data Platform",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/d5e3d318-79b4-4104-9e72-5a48ddfad114",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d5e3d318-79b4-4104-9e72-5a48ddfad114"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Compute Platform",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Data Ingestion",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/90f44c78-5612-40ca-91b8-71575d774cf9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "90f44c78-5612-40ca-91b8-71575d774cf9"
+    },
+    {
+      "title": "Member of Technical Staff - Research Software Engineer - Safety Evaluations Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/239d357b-806f-4d36-9eb8-9e95ba05a120",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "239d357b-806f-4d36-9eb8-9e95ba05a120"
+    },
+    {
+      "title": "Member of Technical Staff - Engineering Lead, Compute Platform",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "b8aa9e15-39c1-416d-bdca-9f06244ac5af"
+    },
+    {
+      "title": "Subject Matter Expert - Election Integrity and Fraud",
+      "title_original": "Subject Matter Expert - Election Integrity, Violent Extremism, and Fraud",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T14:49:23.457Z",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/909327cb-5142-4ef5-976b-8bba3383d71b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "909327cb-5142-4ef5-976b-8bba3383d71b",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role primarily focuses on election integrity, violent extremism, and fraud, which are key areas of public policy and governance. The responsibilities include defining standards, engaging with external stakeholders, and ensuring compliance with legal frameworks, all of which align closely with public policy functions."
+    },
+    {
+      "title": "Member of Technical Staff, Data Flywheel",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/266c76bf-7353-40e1-a2e6-8dd3187ec52c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "266c76bf-7353-40e1-a2e6-8dd3187ec52c"
+    },
+    {
+      "title": "Sovereign Deal Lead - AI Infrastructure Sales",
+      "title_original": "Sovereign Deal Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:52:09.458Z",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/1d256249-5bae-42de-9238-368e8f2ad864",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1d256249-5bae-42de-9238-368e8f2ad864",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Sovereign Deal Lead involve leading large-scale engagements, structuring complex agreements, and building relationships with C-Suite leaders, which are all key aspects of a sales role. The focus on commercial negotiation and account planning further emphasizes the sales nature of this position."
+    },
+    {
+      "title": "Strategy & Ops Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/895c4836-b6be-462b-91fc-ddf6295903c9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "895c4836-b6be-462b-91fc-ddf6295903c9"
+    },
+    {
+      "title": "Member of Technical Staff - Multilingual Data",
+      "apply_url": "https://jobs.ashbyhq.com/reflectionai/4b11103d-3087-4a95-b31c-64a0357818d7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4b11103d-3087-4a95-b31c-64a0357818d7"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "operations",
+        "ai",
+        "engineering",
+        "legal",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "legal",
+        "hr",
+        "engineering",
+        "qa",
+        "security",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_dc_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, D.C., United States",
+      "departments": [
+        "public-policy",
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "public-policy",
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "marketing",
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-05-04T06:17:20.019Z",
+    "current_valuation_usd": "$8 billion",
+    "current_valuation_usd_last_updated": "2026-05-04T06:17:20.019Z",
+    "total_funding_raised": "$2.13 billion",
+    "total_funding_raised_last_updated": "2026-05-04T06:17:20.019Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Eric Schmidt",
+        "domain": ""
+      },
+      {
+        "name": "B Capital Group",
+        "domain": "b.capital"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "DST Global",
+        "domain": "dst-global.com"
+      },
+      {
+        "name": "CRV",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Eric Schmidt",
+        "logo_url": "/investor-logos/eric-schmidt.png"
+      },
+      {
+        "name": "B Capital Group",
+        "logo_url": "/investor-logos/b-capital-group.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "CRV",
+        "logo_url": "/investor-logos/crv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-04T06:17:20.019Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "parental-leave",
+    "childcare-support",
+    "privilege-leave",
+    "relocation-assistance",
+    "meal-allowance",
+    "team-events",
+    "benefits_scraping_source",
+    "disability-insurance"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "social_media.x_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "location_mapping[14].source": "ai_inference_upsert",
+    "location_mapping[15].source": "ai_inference_upsert",
+    "location_mapping[16].source": "ai_inference_upsert",
+    "location_mapping[17].source": "ai_inference_upsert",
+    "location_mapping[18].source": "ai_inference_upsert",
+    "location_mapping[19].source": "ai_inference_upsert",
+    "location_mapping[20].source": "ai_inference_upsert",
+    "location_mapping[21].source": "ai_inference_upsert",
+    "location_mapping[22].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-04T06:17:20.019Z",
+    "company_basic_information.website_url_last_updated": "2026-05-04T06:17:20.019Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-04T06:17:20.019Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-04T06:17:20.019Z",
+    "company_basic_information.last_updated": "2026-05-04",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-05-04T06:37:35.831Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-05-04T06:39:39.052Z",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:34:45.146Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T07:56:24.581Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-05-04T06:40:01.692Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-05-04T06:42:52.339Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:34:52.289Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T07:56:54.193Z",
+    "social_media.linkedin_url_last_verified": "2026-05-04T06:41:31.168Z",
+    "social_media.instagram_url_last_verified": "2026-05-04T06:53:12.000Z",
+    "social_media.x_url_last_verified": "2026-05-04T06:53:12.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-04",
+    "financial_information.funding_stage_last_updated": "2026-05-04T06:17:20.019Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-04T06:17:20.019Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-04T06:17:20.019Z",
+    "financial_information.investor_logos_last_updated": "2026-05-04T06:17:20.019Z",
+    "location_mapping[0].last_updated": "2026-05-04T06:17:20.019Z",
+    "location_mapping[1].last_updated": "2026-05-04T06:17:20.019Z",
+    "location_mapping[2].last_updated": "2026-05-04T06:17:20.019Z",
+    "location_mapping[3].last_updated": "2026-05-04T06:17:20.019Z",
+    "location_mapping[5].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[6].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[7].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[8].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[9].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[10].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[11].last_updated": "2026-05-10T10:48:02.049Z",
+    "location_mapping[13].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[14].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[15].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[16].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[17].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[18].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[19].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[20].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[21].last_updated": "2026-06-07T11:37:02.271Z",
+    "location_mapping[22].last_updated": "2026-06-07T11:37:02.271Z",
+    "job_data.roles[0].posted_date": "2026-04-28",
+    "job_data.roles[1].posted_date": "2025-12-18",
+    "job_data.roles[2].posted_date": "2025-12-17",
+    "job_data.roles[3].posted_date": "2025-10-29",
+    "job_data.roles[4].posted_date": "2026-04-22",
+    "job_data.roles[5].posted_date": "2026-03-12",
+    "job_data.roles[6].posted_date": "2026-03-20",
+    "job_data.roles[7].posted_date": "2026-01-14",
+    "job_data.roles[8].posted_date": "2026-01-08",
+    "job_data.roles[9].posted_date": "2026-01-08",
+    "job_data.roles[10].posted_date": "2026-03-12",
+    "job_data.roles[11].posted_date": "2025-12-17",
+    "job_data.roles[12].posted_date": "2026-04-16",
+    "job_data.roles[13].posted_date": "2026-04-16",
+    "job_data.roles[14].posted_date": "2026-03-24",
+    "job_data.roles[15].posted_date": "2026-03-12",
+    "job_data.roles[16].posted_date": "2025-10-07",
+    "job_data.roles[17].posted_date": "2025-10-07",
+    "job_data.roles[18].posted_date": "2026-03-24",
+    "job_data.roles[19].posted_date": "2026-03-12",
+    "job_data.roles[20].posted_date": "2026-04-30",
+    "job_data.roles[21].posted_date": "2026-04-30",
+    "job_data.roles[22].posted_date": "2026-04-30",
+    "job_data.roles[23].posted_date": "2026-04-30",
+    "job_data.roles[24].posted_date": "2026-01-13",
+    "job_data.roles[25].posted_date": "2026-06-04",
+    "job_data.roles[26].posted_date": "2026-05-12",
+    "job_data.roles[27].posted_date": "2026-06-04",
+    "job_data.roles[28].posted_date": "2026-06-15",
+    "job_data.roles[29].posted_date": "2026-06-09",
+    "job_data.roles[30].posted_date": "2026-06-09",
+    "job_data.roles[31].posted_date": "2026-06-19",
+    "job_data.roles[32].posted_date": "2026-06-10",
+    "job_data.roles[33].posted_date": "2026-07-15",
+    "job_data.roles[34].posted_date": "2026-07-15",
+    "job_data.roles[35].posted_date": "2026-07-15",
+    "job_data.roles[36].posted_date": "2026-07-15",
+    "job_data.roles[37].posted_date": "2026-08-02",
+    "job_data.roles[38].posted_date": "2026-08-02",
+    "job_data.roles[39].posted_date": "2026-08-02",
+    "job_data.roles[40].posted_date": "2026-08-02",
+    "job_data.roles[41].posted_date": "2026-08-02",
+    "job_data.roles[42].posted_date": "2026-08-02",
+    "job_data.roles[43].posted_date": "2026-08-16",
+    "job_data.roles[44].posted_date": "2026-08-16",
+    "job_data.roles[44].title_updated_timestamp": "2026-08-16T14:49:23.457Z",
+    "job_data.roles[45].posted_date": "2026-08-31",
+    "job_data.roles[46].posted_date": "2026-08-31",
+    "job_data.roles[46].title_updated_timestamp": "2026-08-31T11:52:09.458Z",
+    "job_data.roles[47].posted_date": "2026-08-31",
+    "job_data.roles[48].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:29:50.585Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.dental-insurance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.vision-insurance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.life-insurance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.childcare-support.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.privilege-leave.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.relocation-assistance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.meal-allowance.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.team-events.last_updated": "2026-06-06T18:07:46.030Z",
+    "benefits.disability-insurance.last_updated": "2026-08-28T17:50:39Z"
+  }
+}

@@ -1,0 +1,905 @@
+{
+  "slug": "articul8",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/27753.0d0be585ea8566ac.js",
+  "observed_at": "2026-09-28T08:29:01.981483+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 26493,
+    "sha256": "d2e794af22a2b2bc92b2238e19f3cc2972ca08da88bf2bc74ae57b8d4118080c",
+    "elapsed_seconds": 0.475,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:01 GMT",
+      "etag": "\"eefcc3b4c9929e5f40922cf89609661d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:01 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Articul8",
+    "company_name_legal": "Articul8 AI, Inc.",
+    "founded_year": 2024,
+    "website_url": "https://articul8.ai",
+    "careers_url": "https://jobs.ashbyhq.com/articul8",
+    "investor_portfolio_page": null,
+    "id": 204
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 23,
+    "last_updated": "2026-09-14T09:18:32.031Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 23,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Applied AI Researcher (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/50b4a531-f683-4105-9cca-cad851cdcdcd",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "50b4a531-f683-4105-9cca-cad851cdcdcd"
+    },
+    {
+      "title": "Applied AI Researcher (Dublin, CA)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/3ff51e5b-fc0c-4dcd-929e-4d5463cfe467",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "3ff51e5b-fc0c-4dcd-929e-4d5463cfe467"
+    },
+    {
+      "title": "Director of Finance",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/b4082a9f-65f8-49a6-b1f4-70c569da407c",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-07",
+      "ashby_job_id": "b4082a9f-65f8-49a6-b1f4-70c569da407c"
+    },
+    {
+      "title": "Infrastructure Engineer (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/bcab484a-1557-4656-b464-02cca66a32ed",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-06",
+      "ashby_job_id": "bcab484a-1557-4656-b464-02cca66a32ed"
+    },
+    {
+      "title": "Infrastructure Engineer (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/0092cc6c-3681-4c56-8cdb-53fa637b1f6a",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-06",
+      "ashby_job_id": "0092cc6c-3681-4c56-8cdb-53fa637b1f6a"
+    },
+    {
+      "title": "Principal Applied AI Researcher - Domain- Specific Models (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/12b6cc4e-5fe2-4a47-a898-24a4617bb8de",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "12b6cc4e-5fe2-4a47-a898-24a4617bb8de"
+    },
+    {
+      "title": "Principal Applied AI Researcher - Domain- Specific Models (Dublin, CA)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/9139baf5-acde-4237-b2a2-efcfa75f2bbe",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "9139baf5-acde-4237-b2a2-efcfa75f2bbe"
+    },
+    {
+      "title": "Senior Applied AI Researcher (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/aa885799-445c-49d1-8607-0f3346e8cf15",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "aa885799-445c-49d1-8607-0f3346e8cf15"
+    },
+    {
+      "title": "Senior Applied AI Researcher (Dublin, CA)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/e896b3d6-8130-4bcf-8d0e-5ccf8047d76e",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "e896b3d6-8130-4bcf-8d0e-5ccf8047d76e"
+    },
+    {
+      "title": "Software Engineer (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/d243ba6c-5209-4ade-882f-1388cfc7bd1f",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-06",
+      "ashby_job_id": "d243ba6c-5209-4ade-882f-1388cfc7bd1f"
+    },
+    {
+      "title": "Software Engineer (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/21e643cf-0cf0-48ea-898b-c1b17926d2fb",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil / Remote, Global",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-06",
+      "ashby_job_id": "21e643cf-0cf0-48ea-898b-c1b17926d2fb"
+    },
+    {
+      "title": "Staff Applied AI Researcher - Agentic Reasoning Systems (Brazil)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/b150cc13-18bc-4210-9115-7969a1cf980d",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "b150cc13-18bc-4210-9115-7969a1cf980d"
+    },
+    {
+      "title": "Staff Applied AI Researcher - Agentic Reasoning Systems (Dublin, CA)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/db4ed650-680f-46d8-bec3-dee21c5620dc",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "db4ed650-680f-46d8-bec3-dee21c5620dc"
+    },
+    {
+      "title": "Staff Applied AI Researcher - Agentic Reasoning Systems (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/2a1f0d7b-9122-4b91-97c9-b94b5e19aee3",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, California, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "2a1f0d7b-9122-4b91-97c9-b94b5e19aee3"
+    },
+    {
+      "title": "Sales Lead - Hyperscalers & Commercial",
+      "title_original": "Hyperscalers & Commercial Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-10T10:38:49.998Z",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/a4c89cc7-fb15-499d-98fb-64470e51aed3",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India / Remote, Global",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-15",
+      "ashby_job_id": "a4c89cc7-fb15-499d-98fb-64470e51aed3",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Hyperscalers & Commercial Lead revolve around pre-sales leadership, market growth, revenue generation, and account management, which are all key aspects of sales. The role focuses on driving customer adoption and closing deals, indicating a strong emphasis on sales activities."
+    },
+    {
+      "title": "Machine Learning Engineer - Data Pipeline",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/a6a71ee8-68af-4d33-ab48-2bee47b56ed9",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-16",
+      "ashby_job_id": "a6a71ee8-68af-4d33-ab48-2bee47b56ed9"
+    },
+    {
+      "title": "Builder Product Manager, AI Platform & Agentic Workflows",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/268b3448-3671-4c4c-a75b-c1227865f1c1",
+      "location_ids": [
+        "dublin_ca_office"
+      ],
+      "location_display": "Dublin, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "268b3448-3671-4c4c-a75b-c1227865f1c1"
+    },
+    {
+      "title": "Applied AI Researcher (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/73bff7e6-827a-4a70-b7a9-712d421a8dd8#loc-0",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "73bff7e6-827a-4a70-b7a9-712d421a8dd8"
+    },
+    {
+      "title": "Applied AI Researcher (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/73bff7e6-827a-4a70-b7a9-712d421a8dd8#loc-1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "73bff7e6-827a-4a70-b7a9-712d421a8dd8"
+    },
+    {
+      "title": "Principal Applied AI Researcher - Domain- Specific Models (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/fab35c76-2048-4540-a7ab-118b9b56e434#loc-0",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "fab35c76-2048-4540-a7ab-118b9b56e434"
+    },
+    {
+      "title": "Principal Applied AI Researcher - Domain- Specific Models (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/fab35c76-2048-4540-a7ab-118b9b56e434#loc-1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "fab35c76-2048-4540-a7ab-118b9b56e434"
+    },
+    {
+      "title": "Senior Applied AI Researcher (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/a390b489-5c17-4f62-91a6-97cbd030a652#loc-0",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a390b489-5c17-4f62-91a6-97cbd030a652"
+    },
+    {
+      "title": "Senior Applied AI Researcher (India)",
+      "apply_url": "https://jobs.ashbyhq.com/articul8/a390b489-5c17-4f62-91a6-97cbd030a652#loc-1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a390b489-5c17-4f62-91a6-97cbd030a652"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "McKinney",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 33.1972,
+      "longitude": -96.6397,
+      "exact_address": "7651 Eldorado Parkway, Suite 100, Office T, McKinney, Texas 75070, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_ca_office",
+      "city": "Dublin",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7025,
+      "longitude": -121.8783,
+      "exact_address": "4120 Dublin Boulevard, Suite 250, Dublin, California, United States - 94568",
+      "departments": [
+        "ai",
+        "engineering",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": "43+"
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-02-28T13:59:58.984Z",
+    "current_valuation_usd": "$500 million",
+    "current_valuation_usd_last_updated": "2026-02-28T13:59:58.984Z",
+    "total_funding_raised": null,
+    "total_funding_raised_last_updated": "2026-02-28T13:59:58.984Z",
+    "key_investors": [
+      {
+        "name": "Adara Ventures",
+        "domain": "adara.vc"
+      },
+      {
+        "name": "NXC Corporation",
+        "domain": "null"
+      },
+      {
+        "name": "Aditya Birla Ventures",
+        "domain": "null"
+      },
+      {
+        "name": "DigitalBridge",
+        "domain": "null"
+      },
+      {
+        "name": "Intel Capital",
+        "domain": "intelcapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Adara Ventures",
+        "logo_url": "/investor-logos/adara-ventures.png"
+      },
+      {
+        "name": "NXC Corporation",
+        "logo_url": null
+      },
+      {
+        "name": "Aditya Birla Ventures",
+        "logo_url": "/investor-logos/aditya-birla.png"
+      },
+      {
+        "name": "DigitalBridge",
+        "logo_url": null
+      },
+      {
+        "name": "Intel Capital",
+        "logo_url": "/investor-logos/intel-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-28T13:59:58.984Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$57 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "learning-development",
+    "flexible-hours",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-28T13:59:58.984Z",
+    "company_basic_information.website_url_last_updated": "2026-02-28T13:59:58.984Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-28T13:59:58.984Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-28T13:59:58.984Z",
+    "company_basic_information.last_updated": "2026-02-28",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-28T14:20:58.689Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-28T14:51:22.203Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:55:33.855Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:01:32.340Z",
+    "social_media.x_url_last_verified": "2026-02-28T14:21:27.918Z",
+    "social_media.linkedin_url_last_verified": "2026-02-28T14:51:47.169Z",
+    "social_media.instagram_url_last_verified": "2026-02-28T14:52:13.677Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-02-28T13:59:58.984Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-28T13:59:58.984Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-28T13:59:58.984Z",
+    "financial_information.investor_logos_last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[0].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[1].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[2].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[3].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[4].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[5].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[6].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[7].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[8].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[9].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[10].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[11].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[12].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[13].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[14].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[15].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[16].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[17].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[18].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[19].last_updated": "2026-02-28T13:59:58.984Z",
+    "location_mapping[20].last_updated": "2026-02-28T13:59:58.984Z",
+    "job_data.roles[0].posted_date": "2026-05-05",
+    "job_data.roles[1].posted_date": "2026-05-05",
+    "job_data.roles[2].posted_date": "2026-03-07",
+    "job_data.roles[3].posted_date": "2026-05-06",
+    "job_data.roles[4].posted_date": "2026-05-06",
+    "job_data.roles[5].posted_date": "2026-05-05",
+    "job_data.roles[6].posted_date": "2026-05-05",
+    "job_data.roles[7].posted_date": "2026-05-05",
+    "job_data.roles[8].posted_date": "2026-05-05",
+    "job_data.roles[9].posted_date": "2026-05-06",
+    "job_data.roles[10].posted_date": "2026-05-06",
+    "job_data.roles[11].posted_date": "2026-05-05",
+    "job_data.roles[12].posted_date": "2026-05-05",
+    "job_data.roles[13].posted_date": "2026-05-05",
+    "job_data.roles[14].posted_date": "2026-04-15",
+    "job_data.roles[14].title_updated_timestamp": "2026-05-10T10:38:49.998Z",
+    "job_data.roles[15].posted_date": "2026-06-16",
+    "job_data.roles[16].posted_date": "2026-06-25",
+    "job_data.roles[17].posted_date": "2026-08-31",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-08-31",
+    "job_data.roles[21].posted_date": "2026-08-31",
+    "job_data.roles[22].posted_date": "2026-08-31",
+    "job_data.last_updated": "2026-09-14T09:18:32.031Z",
+    "benefits.equity-stock.last_updated": "2026-03-11T12:32:22.783Z",
+    "benefits.learning-development.last_updated": "2026-03-11T12:32:22.783Z",
+    "benefits.flexible-hours.last_updated": "2026-03-11T12:32:22.783Z"
+  }
+}

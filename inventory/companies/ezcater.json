@@ -1,0 +1,957 @@
+{
+  "slug": "ezcater",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/65195.6b1dd14d59578ced.js",
+  "observed_at": "2026-09-28T08:31:31.268357+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 25507,
+    "sha256": "cb8c401dbe938b5cb05e1751b79f13093d529e0ae686c40c834b1cf2ad0d0e03",
+    "elapsed_seconds": 0.178,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:31 GMT",
+      "etag": "\"81a517a85037fd3a558702885e46a90d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:12:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "slug",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "ezCater",
+    "company_name_legal": "ezCater, Inc.",
+    "founded_year": 2007,
+    "website_url": "https://ezcater.com",
+    "careers_url": "https://job-boards.greenhouse.io/ezcaterinc",
+    "investor_portfolio_page": null,
+    "id": 338
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 28,
+    "last_updated": "2026-09-24T10:01:39.529Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 28,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Analyst II, Product (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5161248007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director, Marketing Operations, Technology, and Analytics (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5213879007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Marketing Manager, Enterprise Marketing (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5190412007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Restaurant Business Partner - Catering Sales",
+      "title_original": "Restaurant Business Partner (Remote)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-09T16:31:28.760Z",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5210558007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Restaurant Business Partner involve engaging and establishing relationships with restaurant partners, creating strategies for success, and driving alignment with internal teams to support partner growth. This aligns closely with sales activities, particularly in account management and business development."
+    },
+    {
+      "title": "Staff Security Engineer, GRC (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5163244007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Finance Technology (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5232311007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Staff Software Engineer, Restaurant Experience (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5218386007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Associate Corporate Counsel (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5202244007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director, Strategic Sales (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5167821007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Key Account Executive (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5198569007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Strategic Account Executive, Education (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5174659007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "academy-training",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Strategic Account Executive (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5186899007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Product, Delivery and Fulfillment Intelligence (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5210594007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Product, Enterprise (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5203003007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Principal Product Designer, Supply (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5163291007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Data Product Manager, Delivery & Fulfillment (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5200934007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Designer, Funnel Conversion (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5203647007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Manager, Data Platform (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5175483007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Manager - Delivery Platform",
+      "title_original": "Senior Product Manager, Delivery (Remote)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-13T19:31:48.229Z",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5069600007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Product Manager involve driving the vision and developing a roadmap for the delivery platform, collaborating with cross-functional teams, and innovating on behalf of customers. This aligns closely with product management functions, which focus on defining and prioritizing product features and user experiences."
+    },
+    {
+      "title": "Senior Product Manager, Discovery & Recommendations (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5193277007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Manager, Reporting & Insights (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5212492007",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Manager, Supplier Platform (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5044326007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director, Sales Operations and Enablement (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5205167007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director, Fulfillment Network Optimization (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5236781007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Events Platform (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5243842007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer, Platform Infrastructure (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5243815007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Restaurant Business Partner - Food Tech Sales",
+      "title_original": "Senior Restaurant Business Partner (Remote)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:45:55.127Z",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5238769007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Restaurant Business Partner involve building strategic partnerships and managing relationships with enterprise restaurant partners, which aligns closely with sales functions. The role emphasizes collaboration with other departments to drive partner-specific goals, indicating a strong focus on account management and business development."
+    },
+    {
+      "title": "Strategic Sales Operations Lead (Remote)",
+      "apply_url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5233384007",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.79178,
+      "longitude": -84.39735,
+      "exact_address": "271 17th Street NW, Suite 1520, Atlanta, Georgia, United States - 30363",
+      "departments": [
+        "data"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.35721,
+      "longitude": -71.05532,
+      "exact_address": "40 Water Street, 5th Floor, Boston, Massachusetts, United States - 02109",
+      "departments": [
+        "product",
+        "marketing",
+        "data",
+        "customer-success",
+        "customer-support",
+        "engineering",
+        "sales",
+        "operations",
+        "design"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.748996,
+      "longitude": -104.992739,
+      "exact_address": "Denver Place, 999 18th Street, Suite 200ST, Denver, Colorado, United States - 80202",
+      "departments": [
+        "data"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.792079,
+      "longitude": -122.404635,
+      "exact_address": "600 California Street, 11th Floor, Financial District, San Francisco, California, United States - 94108",
+      "departments": [
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "remote_usa_office",
+      "city": null,
+      "state": null,
+      "country": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "exact_address": "Remote, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-06-15T13:20:35.950Z",
+    "current_valuation_usd": "$1.6 billion",
+    "current_valuation_usd_last_updated": "2026-06-15T13:20:35.950Z",
+    "total_funding_raised": "$150 million",
+    "total_funding_raised_last_updated": "2026-06-15T13:20:35.950Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "SoftBank Vision Fund",
+        "domain": "softbank.com"
+      },
+      {
+        "name": "ICONIQ Capital",
+        "domain": ""
+      },
+      {
+        "name": "Vision Fund 2",
+        "domain": ""
+      },
+      {
+        "name": "All. Dates",
+        "domain": ""
+      },
+      {
+        "name": "GIC",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "SoftBank Vision Fund",
+        "logo_url": "/investor-logos/softbank-vision-fund.png"
+      },
+      {
+        "name": "ICONIQ Capital",
+        "logo_url": "/investor-logos/iconiq-capital.png"
+      },
+      {
+        "name": "Vision Fund 2",
+        "logo_url": "/investor-logos/vision-fund-2.png"
+      },
+      {
+        "name": "All. Dates",
+        "logo_url": null
+      },
+      {
+        "name": "GIC",
+        "logo_url": "/investor-logos/gic.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-15T13:20:35.950Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "company-recharge-days",
+    "unlimited-pto",
+    "retirement-401k",
+    "health-insurance",
+    "dental-insurance",
+    "health-savings-account",
+    "life-insurance",
+    "mental-health",
+    "parental-leave",
+    "remote-work",
+    "meal-allowance",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[3].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[10].source": "ai_inference_upsert",
+    "location_mapping[11].source": "ai_inference_upsert",
+    "location_mapping[12].source": "ai_inference_upsert",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "location_mapping[14].source": "ai_inference_upsert",
+    "location_mapping[15].source": "ai_inference_upsert",
+    "location_mapping[16].source": "ai_inference_upsert",
+    "location_mapping[17].source": "ai_inference_upsert",
+    "location_mapping[18].source": "ai_inference_upsert",
+    "location_mapping[19].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-15T13:20:35.950Z",
+    "company_basic_information.website_url_last_updated": "2026-06-15T13:20:35.950Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-15T13:20:35.950Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-15T13:20:35.950Z",
+    "company_basic_information.last_updated": "2026-06-15",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-15T18:45:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-15T18:45:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-15T18:33:35.943Z",
+    "leadership.founders[0].description_last_updated": "2026-06-15T18:33:52.349Z",
+    "social_media.x_url_last_updated": "2026-06-15T13:20:35.950Z",
+    "social_media.x_url_last_verified": "2026-06-15T18:45:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-06-15T13:20:35.950Z",
+    "social_media.linkedin_url_last_verified": "2026-06-15T18:45:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-06-15T13:20:35.950Z",
+    "social_media.instagram_url_last_verified": "2026-06-15T18:45:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-06-15",
+    "financial_information.funding_stage_last_updated": "2026-06-15T13:20:35.950Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-15T13:20:35.950Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-15T13:20:35.950Z",
+    "financial_information.investor_logos_last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[0].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[1].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[2].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[3].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[4].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[5].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[6].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[7].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[8].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[9].last_updated": "2026-06-15T13:20:35.950Z",
+    "location_mapping[10].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[11].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[12].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[13].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[14].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[15].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[16].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[17].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[18].last_updated": "2026-07-13T19:31:48.229Z",
+    "location_mapping[19].last_updated": "2026-07-13T19:31:48.229Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[3].title_updated_timestamp": "2026-09-09T16:31:28.760Z",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[18].title_updated_timestamp": "2026-07-13T19:31:48.229Z",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.roles[26].posted_date": "2026-09-24",
+    "job_data.roles[26].title_updated_timestamp": "2026-09-24T10:45:55.127Z",
+    "job_data.roles[27].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:01:39.529Z",
+    "benefits.equity-stock.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.company-recharge-days.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.retirement-401k.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.health-insurance.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.dental-insurance.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.health-savings-account.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.life-insurance.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.mental-health.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.parental-leave.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.remote-work.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.meal-allowance.last_updated": "2026-06-15T18:32:43.262Z",
+    "benefits.bonus.last_updated": "2026-06-15T18:32:43.262Z"
+  }
+}

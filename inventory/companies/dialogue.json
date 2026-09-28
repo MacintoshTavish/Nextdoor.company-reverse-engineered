@@ -1,0 +1,281 @@
+{
+  "slug": "dialogue",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/37729.c0b92fa64a67b9a2.js",
+  "observed_at": "2026-09-28T08:30:52.704137+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 12826,
+    "sha256": "193ccf8fcc257d2be4b09a98bfae8dd2cc9028bc8ccc4ad10cdf9b775c7e106d",
+    "elapsed_seconds": 0.419,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:52 GMT",
+      "etag": "\"ef751d7ba51e989a711fb03bb3088521\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:52 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "slug",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Dialogue",
+    "company_name_legal": "Dialogue AI Inc.",
+    "founded_year": 2025,
+    "website_url": "https://www.dialogueai.com",
+    "careers_url": "https://jobs.ashbyhq.com/dialogueai",
+    "investor_portfolio_page": null,
+    "id": 335
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-19T16:41:38.043Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive - Enterprise SaaS Sales",
+      "title_original": "Account Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-12T09:45:55.972Z",
+      "apply_url": "https://jobs.ashbyhq.com/dialogueai/9082ffba-3649-4255-b52b-116f8df32f0e",
+      "location_ids": [
+        "los_angeles_remote"
+      ],
+      "location_display": "Remote",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": "$250k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-26",
+      "ashby_job_id": "9082ffba-3649-4255-b52b-116f8df32f0e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Account Executive role focus on generating pipeline, closing enterprise-level deals, and refining sales processes, which are all key functions within the sales department. The emphasis on closing deals and account management further solidifies this classification."
+    },
+    {
+      "title": "Founding Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/dialogueai/687b6d39-cf6d-4767-bc83-466a8d111ed2",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-18",
+      "ashby_job_id": "687b6d39-cf6d-4767-bc83-466a8d111ed2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job description emphasizes the role of a founding software engineer who will work across product, infrastructure, and AI, focusing on building software solutions. The primary responsibilities include working on the entire software stack, which aligns closely with engineering tasks."
+    },
+    {
+      "title": "Insights Strategist - Customer Research",
+      "title_original": "Insights Strategist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-12T09:46:31.945Z",
+      "apply_url": "https://jobs.ashbyhq.com/dialogueai/e4491527-492d-41d1-8c04-8f9fa3226c7f",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-15",
+      "ashby_job_id": "e4491527-492d-41d1-8c04-8f9fa3226c7f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Insights Strategist involve acting as a trusted research partner for customers, advising them on study design and translating insights into actionable takeaways. This aligns closely with the customer success function, as the role focuses on ensuring customers derive value from the product and enhancing their overall experience."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0508972,
+      "longitude": -118.2572534,
+      "exact_address": "515 Flower St, Los Angeles, CA 90071",
+      "departments": [
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2026-06-12T09:32:01.727Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-06-12T09:32:01.727Z",
+    "total_funding_raised": "$6 million",
+    "total_funding_raised_last_updated": "2026-06-12T09:32:01.727Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Seven Stars",
+        "domain": "sevenstars.vc"
+      },
+      {
+        "name": "Uncommon Projects",
+        "domain": "uncommon.fyi"
+      },
+      {
+        "name": "Tornante Company",
+        "domain": "tornante.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Seven Stars",
+        "logo_url": "/investor-logos/seven-stars.png"
+      },
+      {
+        "name": "Uncommon Projects",
+        "logo_url": "/investor-logos/uncommon-projects.png"
+      },
+      {
+        "name": "Tornante Company",
+        "logo_url": "/investor-logos/tornante-company.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-12T09:32:01.727Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].image_source": "x-profile",
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "x-profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "x-profile",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "manual-edit",
+    "location_mapping[0].location_source": "searchapi-maps",
+    "location_mapping[0].location_source_query": "Dialogue AI office Los Angeles",
+    "location_mapping[1].source": "ai_inference_upsert",
+    "job_data.roles[0].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-12T09:32:01.727Z",
+    "company_basic_information.website_url_last_updated": "2026-06-15T12:51:11.271Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-12T09:32:01.727Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-12T09:32:01.727Z",
+    "company_basic_information.last_updated": "2026-06-12",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-06-12T12:13:00.840Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-12T10:45:00.000Z",
+    "leadership.founders[0].description_last_updated": "2026-06-12T09:48:56.356Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-12T14:44:14.255Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-06-12T10:45:00.000Z",
+    "leadership.founders[1].description_last_updated": "2026-06-12T09:49:01.446Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-06-12T12:13:33.762Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-12T14:44:14.330Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-06-12T10:45:00.000Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-06-12T10:45:00.000Z",
+    "leadership.founders[2].description_last_updated": "2026-06-12T09:49:06.764Z",
+    "leadership.founders[2].image_url_last_updated": "2026-06-12T14:44:14.451Z",
+    "social_media.x_url_last_updated": "2026-06-12T09:32:01.727Z",
+    "social_media.x_url_last_verified": "2026-06-12T10:45:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-06-12T09:32:01.727Z",
+    "social_media.linkedin_url_last_verified": "2026-06-12T10:45:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-06-12T09:32:01.727Z",
+    "social_media.instagram_url_last_verified": "2026-06-12T10:45:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-06-12",
+    "financial_information.funding_stage_last_updated": "2026-06-12T09:32:01.727Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-12T09:32:01.727Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-12T09:32:01.727Z",
+    "financial_information.investor_logos_last_updated": "2026-06-12T09:32:01.727Z",
+    "location_mapping[0].last_updated": "2026-06-12T09:32:01.727Z",
+    "location_mapping[1].last_updated": "2026-06-12T09:45:55.972Z",
+    "job_data.roles[0].posted_date": "2025-10-26",
+    "job_data.roles[0].title_updated_timestamp": "2026-06-12T09:45:55.972Z",
+    "job_data.roles[1].posted_date": "2025-09-18",
+    "job_data.roles[2].posted_date": "2025-12-15",
+    "job_data.roles[2].title_updated_timestamp": "2026-06-12T09:46:31.945Z",
+    "job_data.last_updated": "2026-09-19T16:41:38.043Z"
+  }
+}

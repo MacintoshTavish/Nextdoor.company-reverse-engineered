@@ -1,0 +1,610 @@
+{
+  "reviewed_at_utc": "2026-09-28T08:32:58.446564+00:00",
+  "target": "https://www.nextdoor.company",
+  "old_deployment": "dpl_H7ZzEn2SQQ8KinUn6moQXkiZxe4v",
+  "current_deployment": "dpl_61q2eRds91tsmLHyLviEXEzLfxWA",
+  "coverage": "All literal first-party /api references in retained public bundle corpus were searched; relevant flows directly inspected. Not full server source or authenticated application coverage.",
+  "artifacts": {
+    "layout": {
+      "local_path": "nextdoor-layout.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/app/layout-b58855f6677e7945.js",
+      "sha256_local": "e6f3a91755fbddd29b2bbf7864ad2e7ebb1c91f62ea58f986300438c7adf8f3a",
+      "bytes_local": 14936,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Earlier redacted retained bundle; hash identifies local evidence only."
+    },
+    "listing": {
+      "local_path": "nextdoor-shared-51563.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/51563-d17f6911d2f6dfdf.js",
+      "sha256_local": "c4cb1889a430c2a6f4bbd17e84f1a62a8e45588c7678c79b9d6eb6aa1b16b461",
+      "bytes_local": 25074,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Earlier redacted retained bundle; hash identifies local evidence only."
+    },
+    "details": {
+      "local_path": "nextdoor-root-62808.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/62808-1c07dc489b21b8df.js",
+      "sha256_local": "b35fa264ecae7643e1dc67ef45cd6e59632158d0cb438a797f3ff610727118bb",
+      "bytes_local": 80730,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "cache": {
+      "local_path": "nextdoor-root-18067.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/18067-c3c16e46a0af0f3d.js",
+      "sha256_local": "d89328a73fc488e5df0f038b9831ebb8d4eab0683b72104b9b409c871eaee613",
+      "bytes_local": 46024,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "free_access": {
+      "local_path": "nextdoor-root-4912.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/4912-edbf6e96c82a61e2.js",
+      "sha256_local": "6c1987118dcf102e62437aee713322b76033a39a13ee3b87e263de80c2eba68d",
+      "bytes_local": 16676,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "root": {
+      "local_path": "nextdoor-audit-current-36340.js",
+      "url": "https://www.nextdoor.company/_next/static/chunks/36340-b746d71e2b4461c9.js",
+      "sha256_local": "42a93478b8fcdc70c7358c4967a2755251ad4f33f358fe3a30ebd44368ffff86",
+      "bytes_local": 308155,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "framework": {
+      "local_path": "nextdoor-audit-framework-81348.js",
+      "url": "https://www.nextdoor.company/_next/static/chunks/81348-125864d88bdda329.js",
+      "sha256_local": "10a3b1abb18b107f7de1df02ecb10f9a6d090bb6916025a757e8063d3118b8f5",
+      "bytes_local": 173547,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "features": {
+      "local_path": "nextdoor-audit-current-80969.js",
+      "url": "https://www.nextdoor.company/_next/static/chunks/80969-8c5a7d175ae647ca.js",
+      "sha256_local": "1064cb536b664ae05946a9ba29bebd3fe82ac39a63dc761b59399a49aefc476e",
+      "bytes_local": 20355,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "job_leads": {
+      "local_path": "nextdoor-audit-current-71727.js",
+      "url": "https://www.nextdoor.company/_next/static/chunks/71727-c70de6767316cd1a.js",
+      "sha256_local": "805591d7e266b8498430654cd165add7e384cfa21210685fade9082a52d3af27",
+      "bytes_local": 82068,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "mobile_intro": {
+      "local_path": "nextdoor-audit-current-70620.js",
+      "url": "https://www.nextdoor.company/_next/static/chunks/70620-72be7103c512f0ac.js",
+      "sha256_local": "5fbfa89ffc0b471e37ed79998d5550c6926ae46cbdcdd0249d6e1651733f610c",
+      "bytes_local": 24646,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    },
+    "job_redirect": {
+      "local_path": "nextdoor-job-page.txt",
+      "url": "https://www.nextdoor.company/_next/static/chunks/app/is/%5Bslug%5D/%5BroleSlug%5D/page-48554bc8ca4df463.js",
+      "sha256_local": "50d19eb84c6c3669054b0727d5c6c04cf2fe88fbe4523c08c18e727ec5188657",
+      "bytes_local": 3936,
+      "original_capture_date": "2026-09-28",
+      "retention_note": "Current pathname confirmed in refreshed root HTML or page-specific earlier capture."
+    }
+  },
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/api/company/{slug}",
+      "purpose": "company redirect metadata",
+      "observed": "200 for superk"
+    },
+    {
+      "method": "POST",
+      "path": "/api/job-leads-companies",
+      "purpose": "company details for supplied slugs",
+      "observed": "200 for known public superk"
+    },
+    {
+      "method": "GET",
+      "path": "/api/auth/check",
+      "purpose": "authentication status",
+      "observed": "200; authenticated false"
+    },
+    {
+      "method": "GET",
+      "path": "/api/user/profile",
+      "purpose": "current profile",
+      "observed": "401 anonymous"
+    },
+    {
+      "method": "GET",
+      "path": "/api/app-version",
+      "purpose": "data/code version identifiers",
+      "observed": "200"
+    },
+    {
+      "method": "GET",
+      "path": "/api/detect-location",
+      "purpose": "location and currency selection",
+      "observed": "200; requester IP omitted"
+    },
+    {
+      "method": "POST",
+      "path": "/api/auth/sign-in",
+      "purpose": "Google/LinkedIn OAuth initiation",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "POST",
+      "path": "/api/job-leads-accessed",
+      "purpose": "record lead access",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "GET",
+      "path": "/api/white-glove-jd?slug={slug}",
+      "purpose": "advertised job description",
+      "observed": "200 for construction-ai-fullstack"
+    },
+    {
+      "method": "POST",
+      "path": "/api/apply-to-hvt",
+      "purpose": "resume/application upload",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "POST",
+      "path": "/api/send-company-listing-notification",
+      "purpose": "listing notification",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "GET",
+      "path": "/api/discover-map-data",
+      "purpose": "directory plus subscription response headers",
+      "observed": "401 anonymous"
+    },
+    {
+      "method": "GET",
+      "path": "/api/company-leadership?id={id}&slug={slug}",
+      "purpose": "founder details",
+      "observed": "401 anonymous for known public company"
+    },
+    {
+      "method": "GET",
+      "path": "/api/company/{slug}/role/{roleSlug}",
+      "purpose": "job redirect metadata",
+      "observed": "404 for old Atlan role example"
+    },
+    {
+      "method": "GET",
+      "path": "/api/get-user-country",
+      "purpose": "country selection",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "GET",
+      "path": "/api/ph-upvotes",
+      "purpose": "Product Hunt count",
+      "observed": "referenced only; not invoked"
+    },
+    {
+      "method": "POST",
+      "path": "/api/email-signup",
+      "purpose": "job alert subscription",
+      "observed": "referenced only; not invoked"
+    }
+  ],
+  "endpoint_observation_note": "Live statuses inherited from dated earlier verified-responses and followup-api-responses; this worker did not invoke mutations.",
+  "new_live_reads": [
+    {
+      "url": "https://www.nextdoor.company/",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/81348-a7f886a831f75d0e.js",
+      "status": 404,
+      "classification": "old deployment hash"
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/81348-125864d88bdda329.js",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/36340-b746d71e2b4461c9.js",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/80969-8c5a7d175ae647ca.js",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/71727-c70de6767316cd1a.js",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/70620-72be7103c512f0ac.js",
+      "status": 200
+    },
+    {
+      "url": "https://www.nextdoor.company/_next/static/chunks/81348-a7f886a831f75d0e.js?dpl=dpl_H7ZzEn2SQQ8KinUn6moQXkiZxe4v",
+      "status": 404,
+      "classification": "original full old deployment URL; actual stale-session failure not tested"
+    }
+  ],
+  "snippets": [
+    {
+      "id": "weekly_promise",
+      "source": "features",
+      "character_offset": 14441,
+      "excerpt": "pin\",text:\"\".concat(i.P4,\"+ hand-curated startups hiring on a map\")},{icon:\"ph-briefcase\",text:\"\".concat(i.D9.toLocaleString(),\"+ live job openings (updated weekly)\")},{icon:\"ph-house\",text:\"Roles in Engineering, Product, Design, AI, Marketing, Customer Success, Data & Analytics, HR & Talent, "
+    },
+    {
+      "id": "10_day_promise",
+      "source": "cache",
+      "character_offset": 18777,
+      "excerpt": "284);let c=[{icon:\"ph-calendar-check\",iconClass:\"kanban-tip-icon--green\",title:\"Jobs updated every 10 days\",description:\"We refresh job listings regularly. Check back frequently for the latest opportunities at your favorite companies.\"},{icon:\"ph-warning-circle\",iconClass:\"kanban-tip-icon--amber\",title:\"Expired? Still reach out!\",description:\"E"
+    },
+    {
+      "id": "version_polling",
+      "source": "layout",
+      "character_offset": 7785,
+      "excerpt": "{return console.error(\"Version check failed:\",e),u(e=>({...e,isChecking:!1})),!1}},[]);(0,o.useEffect)(()=>{if(!t)return;f();let e=()=>{\"visible\"===document.visibilityState&&f()},n=()=>{f()};document.addEventListener(\"visibilitychange\",e),window.addEventListener(\"focus\",n);let o=setInterval(f,9e5);return window.__forceAppUpdateCheck=f,()=>{document.removeEventListener(\"visibilitychange\",e),window.removeEventListener(\"focus\",n),clearInterval(o)}},[f,t]);let h=(0,o.useCallback)(()=>{{localStorage.removeItem(s),localStorage.removeItem(l),localStorage.removeItem(i);let e=new URL(window.location.href);e.searchParams.set(\"_ref"
+    },
+    {
+      "id": "version_routes",
+      "source": "layout",
+      "character_offset": 11849,
+      "excerpt": "function d(e){return a().map(e=>s(e.id)).some(t=>e===t||e.startsWith(t+\"/\"))}},62891:(e,t,n)=>{\"use strict\";n.d(t,{PostHogIdentifier:()=>i});var o=n(31271),r=n(64996),a=n(33122),s=n(36969)"
+    },
+    {
+      "id": "leadership_cache",
+      "source": "cache",
+      "character_offset": 41512,
+      "excerpt": "let i=new Map,r=new Map;function l(e){return i.get(e)}function c(e,t){let a=i.get(e);if(a)return Promise.resolve(a);let n=r.get(e);if(n)return n;let s=fetch(t?\"/api/company-leadership?id=\".concat(e,\"&slug=\").concat(encodeURIComponent(t)):\"/api/company-leadership?id=\".concat(e),{cache:\"no-store\"}).then(e=>e.ok?e.json():{founders:[]}).then(t=>{let a=Array.isArray(null==t?void 0:t.founders)?t.founders:[];return i.set(e,a),r.delete(e),a}).catch(()=>(r.delete(e),[]));return r.set(e,s),s}},61856:(e,t,a)=>{\"use strict\";a.d(t,{Vh:()=>s,Ff:()=>l,T1:()=>o,pk:()=>d,wY:()=>c,SK:()=>i,KP:()=>m,lY:()=>r});var n=a(3052);let s=\"discovery\";function o(){let e=[{id:\"discovery\",label:\"Discover\""
+    },
+    {
+      "id": "preview_chunk_errors",
+      "source": "root",
+      "character_offset": 225033,
+      "excerpt": "9*Math.random())+1;while(i.has(o));i.add(o),l.set(e.id,o)}}),P(l);let r=new Map;if(await Promise.all(a.map(async e=>{try{let o=j.q[e];if(!o)return;let a=(await o()).default;r.set(e,{...a,id:e,_fileName:e})}catch(e){}})),E(r),r.size>0&&!R){let e=r.values().next().value;if(e){var s;let o=null===(s=e.location_mapping)||void 0===s?void 0:s[0],a=(null==o?void 0:o.location_id)||(null==o?void 0:o.office_id)||void 0;F(e),O(a)}}})()},[H,U,R]);let ex=(e,o,a,n)=>{let t=(a-e)*Math.PI/180,l=(n-o)*Math.PI/180,i=Math.sin(t/2)*Math.sin("
+    },
+    {
+      "id": "inner_html_sink",
+      "source": "cache",
+      "character_offset": 14533,
+      "excerpt": "ompany:t,filters:l,clickedLocationId:c,onCopyAddress:v.current,isSidebar:!0,onClose:g.current,searchHighlightKeyword:u,foundersLoading:S,otherRowsLoading:w,showSectionNavPill:!0});h.current.innerHTML=n,(0,r.p)(h.current),requestAnimationFrame(()=>{h.current&&(h.current.s"
+    },
+    {
+      "id": "replay_config",
+      "source": "layout",
+      "character_offset": 2146,
+      "excerpt": "ocapture:!0,defaults:\"2025-05-24\",disable_session_recording:!0,session_recording:{recordCrossOriginIframes:!0,maskAllInputs:!1,maskInputOptions:{password:!0,color:!1,date:!1,\"datetime-local\":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1},maskTextSelector:\"[data-posthog-mask]\",blockSelector:\"[data-posthog-block]\"}}),console.log(\"✅ PostHog initialized (session recording disabled by default - controlled by PostHogSessionRecorder)\")},[]),(0,o.jsx)(a.so"
+    },
+    {
+      "id": "replay_auth",
+      "source": "layout",
+      "character_offset": 14051,
+      "excerpt": "calhost\"!==window.location.hostname){n.current=!0;try{let n=await (0,s.a5)();if(null==n?void 0:n.user){t.current||(e.startSessionRecording(),t.current=!0,console.log(\"\\uD83C\\uDFA5 Session recording started: Authenticated user (100%)\"));return}e.onFeatureFlags(()=>{e.isFeatureEnabled(\"session-recording-anonymous-sample\")?t.current||(e.startSessionRecording(),t.current=!0,console.log(\"\\uD83C\\uDFA5 Session recording started: Anonymous user (sampled)\")):console.log(\"⏸️ Session recording skipped: Anonymous user (not in sample)\")})}cat"
+    },
+    {
+      "id": "identity_traits",
+      "source": "layout",
+      "character_offset": 12399,
+      "excerpt": "wait (0,a.QY)(n.id),r={email:n.email,provider:(null===(e=n.app_metadata)||void 0===e?void 0:e.provider)||\"unknown\",created_at:n.created_at,last_sign_in:n.last_sign_in_at,email_verified:!!n.email_confirmed_at};o&&(o.full_name&&(r.name=o.full_name),o.account_status&&(r.account_status=o.account_status),o.phone_number&&(r.phone_number=o.phone_number)),n.user_metadata&&(n.user_metadata.full_name&&(r.linkedin_name=n.user_metadata.full_name),n.user_metadata.avatar_url&&(r.avatar_url=n.user_metadata.avatar_url),n.user_metadata.linkedin_url&&(r.linkedin_profile_url=n.user_metadata.linkedin_url)),null===s.default||void 0===s.default||s.default.identify(n.id,r),l.A.identify(n.id,void 0,void 0,n.email||void 0),(null==o?void 0:o.account_status)&&l.A.setTag(\"account_status\",o.account_status)}}catch(e){\"localhost\"!==window.location.hostname&&console.error(\"Error in PostHog identification:\",e)}},{data:{subscription:t}}=(0,r.createClient)"
+    },
+    {
+      "id": "geolocation_timeout",
+      "source": "root",
+      "character_offset": 223784,
+      "excerpt": "==C?void 0:C.account_status)===\"freemium\",eb=!m;(0,t.useEffect)(()=>{W(!0)},[]),(0,t.useEffect)(()=>{let e=!1,o=()=>{e||(e=!0,V({countryCode:\"DEFAULT\",city:void 0}),G(_.DEFAULT))},a=setTimeout(o,3e3);return(async()=>{try{let n=await fetch(\"/api/detect-location\");if(n.ok){let o=await n.json();if(o.success&&o.location){if(!e){e=!0,clearTimeout(a);let n=o.location.countryCode||\"DEFAULT\";V({countryCode:n,city:o.location.city});let t=_[n]||_.DEFAULT;G(t)}return}}o()}catch(e){o()}})(),()=>clearTimeout(a)},[]),(0,t.useEffect)(()=>(document.body.classList.add(\"pulse-animation-disabled\"),document.body.classList.remove(\"pulse-animation-enabled\"),()=>{document.body.classList.remove(\"pulse-an"
+    },
+    {
+      "id": "last_updated_fallback",
+      "source": "details",
+      "character_offset": 52269,
+      "excerpt": "</div>\\n            <div class=\"popup-content-right\">\\n              <span class=\"popup-info-label\">Last updated:</span>\\n              <span class=\"popup-info-text\">').concat((n=>{if(!n)return\"Not available\";try{let e=new Date(n);if(isNaN(e.getTime()))return n;let a=e.getDate(),i=e.toLocaleDateString(\"en-US\",{month:\"long\"}),o=e.getFullYear(),t=new Date().getTime()-e.getTime(),s=Math.floor(t/864e5),l=\"\";if(0===s)l=\"today\";else if(1===s)l=\"1 day ago\";else if(s<30)l=\"\".concat(s,\" days ago\");else if(s<365){let n=Math.floor(s/30);l=1===n?\"1 month ago\":\"\".concat(n,\" months ago\")}else{let n=Math.floor(s/365);l=1===n?\"1 year ago\":\"\".concat(n,\" years ago\")}return\"\".concat(a).concat((n=>{if(n>3&&n<21)return\"th\";switch(n%10){case 1:return\"st\";case 2:return\"nd\";case 3:return\"rd\";default:return\"th\"}})(a),\" \").concat(i,\" \").concat(o,\" (\").concat(l,\")\")}catch(e){return n}})((null===(d=u.job_data)||void 0===d?void 0:d.last_updated)||u.company_basic_information.last_updated),'</span>\\n            </div>\\n          </div>\\n          <div class=\"popup-beta-disclaimer\">\\n            <i class=\"ph-bold ph-info popup-"
+    },
+    {
+      "id": "not_hiring_logic",
+      "source": "details",
+      "character_offset": 13722,
+      "excerpt": " </button>\\n    ':\"\",'\\n    <div class=\"popup-container\">\\n      ').concat(D?'<div class=\"hiring-banner hiring-shimmer\">HIRING ACTIVELY</div>':'<div class=\"not-hiring-banner\">NOT HIRING</div>','\\n      <div class=\"popup-scrollable-content\">\\n        <div class=\"popup-header\">\\n          <div class"
+    },
+    {
+      "id": "job_redirect_failure",
+      "source": "job_redirect",
+      "character_offset": 697,
+      "excerpt": "(0,n.useEffect)(()=>{(async()=>{try{let e=await fetch(\"/api/company/\".concat(c,\"/role/\").concat(r));if(!e.ok){y(!0);return}let a=await e.json();p(a)}catch(e){y(!0)}})()},[c,r]),(0,n.useEffect)(()=>{if(m&&!u&&!h)if(l>0){let e=setTimeout(()=>d(l-1),1e3);return()=>clearTimeout(e)}else window.location.href=m.app"
+    },
+    {
+      "id": "hardcoded_counters",
+      "source": "features",
+      "character_offset": 134,
+      "excerpt": "kChunk_N_E||[]).push([[80969],{13951:()=>{},15644:(e,a,t)=>{\"use strict\";t.d(a,{D9:()=>l,P4:()=>i});let l=22579,i=460},25044:(e,a,t)=>{\"use strict\";t.d(a,{W:()=>o});var l=t(81551);t(31271);var i=t(80733);t(34886);let "
+    },
+    {
+      "id": "hero_counter_use",
+      "source": "root",
+      "character_offset": 223129,
+      "excerpt": ",ep=(0,t.useRef)(!1),eg=(0,t.useRef)(s);(0,t.useEffect)(()=>{eg.current=s},[s]);let eu=f.P4,ey=f.D9,eh=()=>{var e,o,a,n;if(!m)return null;let t=(null===(e=m.user_metadata)||void 0===e?void 0:e.avatar"
+    },
+    {
+      "id": "other_counter_use",
+      "source": "root",
+      "character_offset": 280722,
+      "excerpt": "pany-count-button\",children:[(0,n.jsx)(\"i\",{className:\"ph-bold ph-garage\",style:{fontSize:\"16px\"}}),f.P4,\" total companies\"]})}),(0,n.jsx)(\"div\",{className:\"jobs-count-container\",children:(0,n.jsxs)(\"div\",{className:\"jobs-count-button\",children:[(0,n.jsx)(\"i\",{className:\"ph-bold ph-briefcase\",style:{fontSize:\"16px\"}}),f.D9.toLocaleString(),\" Jobs\"]})})]})]})}a(52422);let er={center:[103.85354131,1.28018497],zoom:14.46,bearing:23.98},es={lngMin:103.78,lngMax:103.93,latM"
+    },
+    {
+      "id": "normalization_fields",
+      "source": "details",
+      "character_offset": 243,
+      "excerpt": "function p(n){let e=new Map,a=new Map,p=new Map,d=new Map,u=new Map,h=new Map;for(let i of n||[]){var v,m,b;for(let n of Array.isArray(null==i?void 0:i.location_mapping)?i.location_mapping:[]){if(!n)continue;n.city&&\"string\"==typeof n.city_canonical&&!e.has(n.city)&&e.set(n.city,n.city_canonical),n.country&&\"string\"==typeof n.country_canonical&&!a.has(n.country)&&a.set(n.country,n.country_canonical);let i=Array.isArray(n.departments)?n.departments:[],o=Array.isArray(n.department_categories)?n.department_categories:[];i.forEach((n,e)=>{var a,i,t;p.has(n)||(a=p,i=n,t=o[e],i&&t&&a.set(i,t))})}for(let n of Array.isArray(null==i?void 0:null===(v=i.job_data)||void 0===v?void 0:v.roles)?i.job_data.roles:[]){if(!n)continue;n.role_department&&\"string\"==typeof n.department_category&&!p.has(n.role_department)&&p.set(n.role_department,n.department_category);let e=n.location_display||n.location||\"\";e&&\"string\"==typeof n.location_display_normalized&&!d.has(e)&&d.set(e,n.location_display_normalized)}for(let n of Array.isArray(null==i?void 0:null===(m=i.business_details)||void 0===m?void 0:m.industry_domains_classified)?i.business_details.industry_domains_classified:[])n&&n.raw&&!u.has(n.raw)&&u.set(n.raw,n.bucketId);for(let n of Array.isArray(null==i?void 0:null===(b=i.business_details)||void 0===b?void 0:b.industry_domain_buckets)?i.business_details.industry_domain_buckets:[])(null==n?void 0:n.id)&&!h.has(n.id)&&h.set(n.id,n)}i=e,o=a,t=p,s=d,l=u,c=h,r=Array.from(h.values()).sort((n,e)=>n.label.localeCo"
+    },
+    {
+      "id": "office_network_label",
+      "source": "details",
+      "character_offset": 41950,
+      "excerpt": "bold ph-buildings popup-info-icon\"></i>\\n                            <span class=\"popup-info-label\">Office network (i.e. hiring in '.concat(a.length,' locations):</span>\\n                          </div>\\n                          <div class=\"popup-office-network-content\">\\n                            ').concat(e.map((n,e)=>'\\n                              <div class=\"popup-office-network-item\">\\n                                <span class=\"popup-office-network-number\">'.conc"
+    },
+    {
+      "id": "job_leads_office_label",
+      "source": "job_leads",
+      "character_offset": 62044,
+      "excerpt": "ce(/\\b\\w/g,a=>a.toUpperCase())}),(0,i.jsxs)(\"span\",{className:\"job-leads-company-link-offices\",children:[(0,i.jsx)(\"i\",{className:\"ph ph-buildings\"}),\"Hiring in \",(null==n?void 0:n.officeCount)||0,\" office location\",1!==((null==n?void 0:n.officeCount)||0)?\"s\":\"\"]}),o.length>0&&(0,i.jsxs)(\"span\",{className:\"job-leads-company-link-departments\",children:[(0,i.jsx)(\"i\",{className:\"ph ph-briefcase\"}),o.join(\", \")]"
+    },
+    {
+      "id": "benefit_provenance_omitted",
+      "source": "details",
+      "character_offset": 37160,
+      "excerpt": "iv>\\n                ';let n=Object.entries(u.benefits).filter(n=>{let[e,a]=n;if(e.startsWith(\"_\")||\"benefits_scraping_source\"===e||null===a.value||!1===a.value||\"none\"===a.value||\"None\"===a.value)return!1;let i=(0,o.lB)(e);return!!i&&void 0!==i||(console.warn(\"Invalid benefit ID found: \".concat(e,\" - skipping\")),!1)}).map(n"
+    }
+  ],
+  "offline_results": {
+    "date": "2026-09-28",
+    "mode": "offline-only",
+    "results": [
+      {
+        "id": "checkout-missing-product-id",
+        "observed": {
+          "environment_keys": [],
+          "one_time_url": "https://checkout.dodopayments.com/buy/undefined?quantity=1",
+          "growth_url": "https://checkout.dodopayments.com/buy/undefined?quantity=1"
+        },
+        "external_requests": 0
+      },
+      {
+        "id": "free-company-false-success",
+        "scenario": "network-rejection",
+        "observed": [
+          [
+            "loading",
+            true
+          ],
+          [
+            "analytics",
+            "company_listing_free_submitted"
+          ],
+          [
+            "mock-fetch",
+            "network-rejection"
+          ],
+          [
+            "mock-fetch",
+            "network-rejection"
+          ],
+          [
+            "success",
+            true
+          ],
+          [
+            "loading",
+            false
+          ],
+          [
+            "onSubmitted",
+            true
+          ]
+        ],
+        "external_requests": 0
+      },
+      {
+        "id": "free-company-false-success",
+        "scenario": "http-503",
+        "observed": [
+          [
+            "loading",
+            true
+          ],
+          [
+            "analytics",
+            "company_listing_free_submitted"
+          ],
+          [
+            "mock-fetch",
+            "http-503"
+          ],
+          [
+            "mock-fetch",
+            "http-503"
+          ],
+          [
+            "success",
+            true
+          ],
+          [
+            "loading",
+            false
+          ],
+          [
+            "onSubmitted",
+            true
+          ]
+        ],
+        "external_requests": 0
+      },
+      {
+        "id": "leadership-http-error-cached-as-empty",
+        "observed": {
+          "first": [],
+          "second": [],
+          "fetch_calls": 1
+        },
+        "external_requests": 0
+      },
+      {
+        "id": "job-alert-false-success",
+        "scenario": "http-500",
+        "observed": [
+          [
+            "mock-fetch",
+            "http-500"
+          ],
+          [
+            "child-analytics",
+            "job_alert_signup_submitted"
+          ],
+          [
+            "success",
+            true
+          ]
+        ],
+        "external_requests": 0
+      },
+      {
+        "id": "job-alert-false-success",
+        "scenario": "network-rejection",
+        "observed": [
+          [
+            "mock-fetch",
+            "network-rejection"
+          ],
+          [
+            "child-analytics",
+            "job_alert_signup_submitted"
+          ],
+          [
+            "success",
+            true
+          ]
+        ],
+        "external_requests": 0
+      },
+      {
+        "id": "job-alert-false-success",
+        "scenario": "http-200-control",
+        "observed": [
+          [
+            "mock-fetch",
+            "http-200-control"
+          ],
+          [
+            "parent-analytics",
+            "job_alert_signup_success"
+          ],
+          [
+            "modal-open",
+            false
+          ],
+          [
+            "child-analytics",
+            "job_alert_signup_submitted"
+          ],
+          [
+            "success",
+            true
+          ]
+        ],
+        "external_requests": 0
+      },
+      {
+        "id": "raw-html-interpolation",
+        "observed": {
+          "raw_inert_markup_count": 2,
+          "escaped_marker_found": false
+        },
+        "external_requests": 0,
+        "limitation": "Inert markup only. No script executed and no persisted attacker-controlled source path demonstrated."
+      },
+      {
+        "id": "free-access-lookalike-host-validation",
+        "observed": [
+          {
+            "url": "https://www.instagram.com/reel/owned-fixture/",
+            "platform": "Instagram",
+            "accepted_as_video": true
+          },
+          {
+            "url": "https://instagram.com.example.invalid/reel/owned-fixture/",
+            "platform": "Instagram",
+            "accepted_as_video": true
+          },
+          {
+            "url": "https://tiktok.com.example.invalid/@owned/video/123",
+            "platform": "TikTok",
+            "accepted_as_video": true
+          }
+        ],
+        "external_requests": 0,
+        "limitation": "Client validation only; no access grant or server acceptance tested."
+      },
+      {
+        "id": "zero-role-failed-crawl-hiring-label",
+        "observed": {
+          "failed_crawl_labelled_not_hiring": true,
+          "crawl_failure_explained": false
+        },
+        "external_requests": 0,
+        "limitation": "Owned fixture proves renderer behavior; whether ingest publishes failed crawls as zero roles is a separate data-pipeline question."
+      },
+      {
+        "id": "representative-geocode-rendered-as-office",
+        "observed": {
+          "office_address_label": true,
+          "representative_address_displayed": true,
+          "office_network_label": true,
+          "representative_provenance_displayed": false
+        },
+        "external_requests": 0,
+        "fixture_provenance": "Synthetic company/role with public Databricks location shape from inventory/companies/databricks.json; no claimed physical office verification."
+      }
+    ]
+  },
+  "upstream_documentation": [
+    "https://nextjs.org/docs/app/guides/environment-variables",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Request/mode",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+    "https://posthog.com/docs/session-replay"
+  ],
+  "unknowns": [
+    "Actual server scheduler/cron expression",
+    "Crawler retry/backoff/last-success state",
+    "Server authorization and RLS policies",
+    "Webhook delivery and persistence logs",
+    "No attacker-controlled production input path for raw HTML renderer proven",
+    "Analytics project remote settings and recorded contents",
+    "Whole backend company count parity"
+  ],
+  "location_semantics_example": {
+    "inventory_path": "inventory/companies/databricks.json",
+    "sha256_local": "51c6797335e2e41ec149f1077ebc6ac4e8cd1daa18df33ab453d81d8c5e39543",
+    "location": {
+      "location_id": "queensland_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    "provenance": "state_capital_representative",
+    "limitation": "Company data says this is a representative point; no independent physical-office verification was made."
+  }
+}

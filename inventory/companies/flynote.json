@@ -1,0 +1,162 @@
+{
+  "slug": "flynote",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/23623.9aad70c58ffa0d86.js",
+  "observed_at": "2026-09-28T08:31:55.814038+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 5619,
+    "sha256": "d4baeff2e764b231810dc2a0cfa50b690003aae7ed39411ec38adaf1fb334496",
+    "elapsed_seconds": 0.147,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:55 GMT",
+      "etag": "\"1a4b979a7059db8f05053840e5655121\"",
+      "last-modified": "Mon, 28 Sep 2026 08:13:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Flynote",
+    "company_name_legal": "Clayo Technologies Private Limited",
+    "founded_year": 2016,
+    "website_url": "https://www.flynote.com",
+    "careers_url": "https://flynote.freshteam.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 456
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-23T17:36:01.680Z",
+    "crawl_status": "success",
+    "source": "Freshteam",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "freshteam_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Sr. Mobile App Developer",
+      "apply_url": "https://flynote.freshteam.com/jobs/TecCctNTIzHM/sr-mobile-app-developer",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2026-09-23T17:38:51.329Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-09-23T17:38:51.329Z",
+    "total_funding_raised": "$5.22M",
+    "total_funding_raised_last_updated": "2026-09-24T00:00:00.000Z",
+    "key_investors": [
+      {
+        "name": "Sushil Mehta",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sushil Mehta",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-24T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Freshteam",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-23T17:38:51.329Z",
+    "company_basic_information.website_url_last_updated": "2026-09-23T17:38:51.329Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-23T17:38:51.329Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-23T17:38:51.329Z",
+    "company_basic_information.last_updated": "2026-09-23",
+    "leadership.founders[0].linkedin_last_verified": "2026-09-24T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-09-23T19:02:35.687Z",
+    "leadership.founders[0].description_last_updated": "2026-09-23T19:03:37.669Z",
+    "social_media.x_url_last_updated": "2026-09-24T00:00:00.000Z",
+    "social_media.x_url_last_verified": "2026-09-24T00:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-09-23T17:38:51.329Z",
+    "social_media.linkedin_url_last_verified": "2026-09-24T00:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-09-24T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-09-24T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-09-23",
+    "financial_information.funding_stage_last_updated": "2026-09-23T17:38:51.329Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-23T17:38:51.329Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-24T00:00:00.000Z",
+    "financial_information.investor_logos_last_updated": "2026-09-24T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2026-09-23T17:38:51.329Z",
+    "job_data.last_updated": "2026-09-23T17:36:01.680Z"
+  }
+}

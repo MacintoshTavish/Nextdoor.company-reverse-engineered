@@ -1,0 +1,4280 @@
+{
+  "slug": "wiz",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/29143.11423f2c272a5cd7.js",
+  "observed_at": "2026-09-28T08:38:23.744726+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 97307,
+    "sha256": "87217e373a4681a5e859ab0e141454ca04389c76ca910deee5de40fddfacabd9",
+    "elapsed_seconds": 0.18,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:23 GMT",
+      "etag": "\"119e6fdbdb139b7d8817516e3002b03b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:23:07 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Wiz",
+    "company_name_legal": "Wiz, Inc.",
+    "founded_year": 2020,
+    "website_url": "https://wiz.io",
+    "careers_url": "https://job-boards.greenhouse.io/wizinc",
+    "investor_portfolio_page": null,
+    "id": 227
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 139,
+    "last_updated": "2026-09-16T18:00:33.843Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 139,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive, SLED Central",
+      "apply_url": "https://www.wiz.io/careers/job/4702745006/:title?gh_jid=4702745006",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Account Executive, SLED West",
+      "apply_url": "https://www.wiz.io/careers/job/4699167006/:title?gh_jid=4699167006",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "AI Security Researcher",
+      "apply_url": "https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Applied Security Researcher",
+      "apply_url": "https://www.wiz.io/careers/job/4692874006/:title?gh_jid=4692874006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Backend Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4615162006/:title?gh_jid=4615162006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Brand & Data Visualization Designer",
+      "apply_url": "https://www.wiz.io/careers/job/4621708006/:title?gh_jid=4621708006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://www.wiz.io/careers/job/4677156006/:title?gh_jid=4677156006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Chief of Staff, Security Customer Engineering",
+      "apply_url": "https://www.wiz.io/careers/job/4710111006/:title?gh_jid=4710111006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Compliance Engineer - US Public Sector",
+      "apply_url": "https://www.wiz.io/careers/job/4707353006/:title?gh_jid=4707353006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "CTO Operations Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4650468006/:title?gh_jid=4650468006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Customer Experience Manager (Central)",
+      "apply_url": "https://www.wiz.io/careers/job/4701591006/:title?gh_jid=4701591006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Cyber Threat Intel Analyst",
+      "apply_url": "https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Data Scientist Expert",
+      "apply_url": "https://www.wiz.io/careers/job/4621534006/:title?gh_jid=4621534006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Deal Desk Analyst, International Downmarket",
+      "apply_url": "https://www.wiz.io/careers/job/4704407006/:title?gh_jid=4704407006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "London, United Kingdom / Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Demo Environment Operations Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4705212006/:title?gh_jid=4705212006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Detection Software Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4650548006/:title?gh_jid=4650548006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4615172006/:title?gh_jid=4615172006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://www.wiz.io/careers/job/4671510006/:title?gh_jid=4671510006",
+      "location_ids": [
+        "stockholm_office",
+        "copenhagen_office",
+        "oslo_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Sweden",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Bay Area",
+      "apply_url": "https://www.wiz.io/careers/job/4705909006/:title?gh_jid=4705909006",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Brazil",
+      "apply_url": "https://www.wiz.io/careers/job/4692215006/:title?gh_jid=4692215006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Central",
+      "apply_url": "https://www.wiz.io/careers/job/4687221006/:title?gh_jid=4687221006",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Mexico",
+      "apply_url": "https://www.wiz.io/careers/job/4692217006/:title?gh_jid=4692217006",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office"
+      ],
+      "location_display": "Remote, Mexico",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - NY/NJ",
+      "apply_url": "https://www.wiz.io/careers/job/4706184006/:title?gh_jid=4706184006",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - South India",
+      "apply_url": "https://www.wiz.io/careers/job/4684253006/:title?gh_jid=4684253006",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive, Sydney",
+      "apply_url": "https://www.wiz.io/careers/job/4705270006/:title?gh_jid=4705270006",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - West India",
+      "apply_url": "https://www.wiz.io/careers/job/4668802006/:title?gh_jid=4668802006",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Expert Backend Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4615211006/:title?gh_jid=4615211006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Expert Backend Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4614638006/:title?gh_jid=4614638006",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Expert Frontend Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4615218006/:title?gh_jid=4615218006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Global Marketing Programs Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4707879006/:title?gh_jid=4707879006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Growth Account Executive - Taiwan & Hong Kong",
+      "apply_url": "https://www.wiz.io/careers/job/4696159006/:title?gh_jid=4696159006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Growth Marketing Manager, Digital Media",
+      "apply_url": "https://www.wiz.io/careers/job/4702980006/:title?gh_jid=4702980006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Incident Responder",
+      "apply_url": "https://www.wiz.io/careers/job/4690856006/:title?gh_jid=4690856006",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Incident Responder",
+      "apply_url": "https://www.wiz.io/careers/job/4690860006/:title?gh_jid=4690860006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Majors Account Executive",
+      "apply_url": "https://www.wiz.io/careers/job/4671758006/:title?gh_jid=4671758006",
+      "location_ids": [
+        "seoul_office",
+        "busan_office"
+      ],
+      "location_display": "Remote, South Korea",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Majors Account Executive, Bay Area",
+      "apply_url": "https://www.wiz.io/careers/job/4687413006/:title?gh_jid=4687413006",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Majors Account Executive, PNW",
+      "apply_url": "https://www.wiz.io/careers/job/4700523006/:title?gh_jid=4700523006",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Manager, Field Marketing",
+      "apply_url": "https://www.wiz.io/careers/job/4700382006/:title?gh_jid=4700382006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Manager, Solution Engineering, Public Sector",
+      "apply_url": "https://www.wiz.io/careers/job/4665968006/:title?gh_jid=4665968006",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Manager, Solutions Engineering",
+      "apply_url": "https://www.wiz.io/careers/job/4627167006/:title?gh_jid=4627167006",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Manager, Solutions Engineering",
+      "apply_url": "https://www.wiz.io/careers/job/4671793006/:title?gh_jid=4671793006",
+      "location_ids": [
+        "seoul_office",
+        "busan_office"
+      ],
+      "location_display": "Remote, South Korea",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Mid-Enterprise Account Executive (Public Sector) - UK",
+      "apply_url": "https://www.wiz.io/careers/job/4701955006/:title?gh_jid=4701955006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Mid-Enterprise Account Executive, Southern California",
+      "apply_url": "https://www.wiz.io/careers/job/4707791006/:title?gh_jid=4707791006",
+      "location_ids": [
+        "irvine_office",
+        "los_angeles_office",
+        "san_diego_office"
+      ],
+      "location_display": "Irvine, USA / Los Angeles, USA / San Diego, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Mid-Enterprise Account Executive - South India",
+      "apply_url": "https://www.wiz.io/careers/job/4684255006/:title?gh_jid=4684255006",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Mid-Enterprise Account Executive - West India",
+      "apply_url": "https://www.wiz.io/careers/job/4685271006/:title?gh_jid=4685271006",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Marketing Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4671637006/:title?gh_jid=4671637006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Solutions Engineer, Israel",
+      "apply_url": "https://www.wiz.io/careers/job/4686011006/:title?gh_jid=4686011006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Pentest Product Associate",
+      "apply_url": "https://www.wiz.io/careers/job/4645081006/:title?gh_jid=4645081006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4691241006/:title?gh_jid=4691241006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4693944006/:title?gh_jid=4693944006",
+      "location_ids": [
+        "stockholm_office",
+        "copenhagen_office",
+        "oslo_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Sweden",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4693220006/:title?gh_jid=4693220006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4693943006/:title?gh_jid=4693943006",
+      "location_ids": [
+        "madrid_office",
+        "barcelona_office",
+        "valencia_office"
+      ],
+      "location_display": "Remote, Spain",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4693945006/:title?gh_jid=4693945006",
+      "location_ids": [
+        "amsterdam_office",
+        "rotterdam_office",
+        "eindhoven_office"
+      ],
+      "location_display": "Remote, Netherlands",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://www.wiz.io/careers/job/4599708006/:title?gh_jid=4599708006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4665810006/:title?gh_jid=4665810006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Public Sector Account Executive - North India",
+      "apply_url": "https://www.wiz.io/careers/job/4668815006/:title?gh_jid=4668815006",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Director, Sales",
+      "apply_url": "https://www.wiz.io/careers/job/4671764006/:title?gh_jid=4671764006",
+      "location_ids": [
+        "seoul_office",
+        "busan_office"
+      ],
+      "location_display": "Remote, South Korea",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4685263006/:title?gh_jid=4685263006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Manager, LATAM",
+      "apply_url": "https://www.wiz.io/careers/job/4703063006/:title?gh_jid=4703063006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Manager, LATAM",
+      "apply_url": "https://www.wiz.io/careers/job/4700604006/:title?gh_jid=4700604006",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office"
+      ],
+      "location_display": "Remote, Mexico",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Manager - SEA",
+      "apply_url": "https://www.wiz.io/careers/job/4665310006/:title?gh_jid=4665310006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Manager, UK",
+      "apply_url": "https://www.wiz.io/careers/job/4705349006/:title?gh_jid=4705349006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "London, United Kingdom / Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Renewals Manager - SaaS Growth",
+      "title_original": "Renewals Manager, Growth (Central)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-02T08:37:54.226Z",
+      "apply_url": "https://www.wiz.io/careers/job/4707863006/:title?gh_jid=4707863006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Renewals Manager involve managing the renewal process for existing customers, achieving revenue goals related to retention and growth, and collaborating closely with sales and customer success teams. This role is fundamentally about securing renewals and driving revenue, which aligns closely with sales functions."
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4422889006/:title?gh_jid=4422889006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4707179006/:title?gh_jid=4707179006",
+      "location_ids": [
+        "madrid_office",
+        "barcelona_office",
+        "valencia_office"
+      ],
+      "location_display": "Madrid, Spain / Remote, Spain",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4707180006/:title?gh_jid=4707180006",
+      "location_ids": [
+        "dublin_office",
+        "cork_office"
+      ],
+      "location_display": "Remote, Ireland",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4704730006/:title?gh_jid=4704730006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "London, United Kingdom / Remote, United Kingdom",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4707178006/:title?gh_jid=4707178006",
+      "location_ids": [
+        "paris_office",
+        "lyon_office",
+        "toulouse_office",
+        "marseille_office"
+      ],
+      "location_display": "Paris, France / Remote, France",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4707176006/:title?gh_jid=4707176006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Berlin, Germany / Remote, Germany",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Security Engineer - Product",
+      "apply_url": "https://www.wiz.io/careers/job/4707177006/:title?gh_jid=4707177006",
+      "location_ids": [
+        "amsterdam_office",
+        "rotterdam_office",
+        "eindhoven_office"
+      ],
+      "location_display": "Amsterdam, Netherlands / Remote, Netherlands",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Business Value Consultant",
+      "apply_url": "https://www.wiz.io/careers/job/4702900006/:title?gh_jid=4702900006",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "consulting",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Customer Experience Manager (West)",
+      "apply_url": "https://www.wiz.io/careers/job/4707004006/:title?gh_jid=4707004006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Deal Desk Analyst, Central Europe",
+      "apply_url": "https://www.wiz.io/careers/job/4704406006/:title?gh_jid=4704406006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "London, United Kingdom / Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Field Events Manager, NAMER",
+      "apply_url": "https://www.wiz.io/careers/job/4707755006/:title?gh_jid=4707755006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Partner Marketing Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4707996006/:title?gh_jid=4707996006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Partner Solutions Architect",
+      "apply_url": "https://www.wiz.io/careers/job/4704510006/:title?gh_jid=4704510006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Partner Solutions Architect - GSI",
+      "apply_url": "https://www.wiz.io/careers/job/4685637006/:title?gh_jid=4685637006",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4561216006/:title?gh_jid=4561216006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Solutions Engineer, Brazil",
+      "apply_url": "https://www.wiz.io/careers/job/4692647006/:title?gh_jid=4692647006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Solutions Engineer, Mexico",
+      "apply_url": "https://www.wiz.io/careers/job/4692645006/:title?gh_jid=4692645006",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office"
+      ],
+      "location_display": "Remote, Mexico",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Solutions Engineer, New England Enterprise",
+      "apply_url": "https://www.wiz.io/careers/job/4709031006/:title?gh_jid=4709031006",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Solutions Engineer, Public Sector",
+      "apply_url": "https://www.wiz.io/careers/job/4701035006/:title?gh_jid=4701035006",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Solutions Engineer, Public Sector",
+      "apply_url": "https://www.wiz.io/careers/job/4686815006/:title?gh_jid=4686815006",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Account Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4694452006/:title?gh_jid=4694452006",
+      "location_ids": [
+        "seoul_office",
+        "busan_office"
+      ],
+      "location_display": "Remote, South Korea",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Account Manager, ANZ",
+      "apply_url": "https://www.wiz.io/careers/job/4694454006/:title?gh_jid=4694454006",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Account Manager, Mexico City",
+      "apply_url": "https://www.wiz.io/careers/job/4707199006/:title?gh_jid=4707199006",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office"
+      ],
+      "location_display": "Remote, Mexico",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Account Manager, São Paulo",
+      "apply_url": "https://www.wiz.io/careers/job/4707221006/:title?gh_jid=4707221006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Product Marketing Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4439983006/:title?gh_jid=4439983006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4665302006/:title?gh_jid=4665302006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Engineer - West Inida",
+      "apply_url": "https://www.wiz.io/careers/job/4694462006/:title?gh_jid=4694462006",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Support Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4698335006/:title?gh_jid=4698335006",
+      "location_ids": [
+        "dublin_office",
+        "cork_office"
+      ],
+      "location_display": "Remote, Ireland",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Support Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4698256006/:title?gh_jid=4698256006",
+      "location_ids": [
+        "dublin_office",
+        "cork_office"
+      ],
+      "location_display": "Remote, Ireland",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Support Engineer, (Cloud Security & AI)",
+      "apply_url": "https://www.wiz.io/careers/job/4665064006/:title?gh_jid=4665064006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Sr. Advanced Delivery Architect – Advanced Services, Japan",
+      "apply_url": "https://www.wiz.io/careers/job/4645539006/:title?gh_jid=4645539006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Sr. Business Systems Analyst",
+      "apply_url": "https://www.wiz.io/careers/job/4706276006/:title?gh_jid=4706276006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "it",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Sr. Solutions Support Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4708012006/:title?gh_jid=4708012006",
+      "location_ids": [
+        "dublin_office",
+        "cork_office"
+      ],
+      "location_display": "Remote, Ireland",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4682671006/:title?gh_jid=4682671006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager (Central)",
+      "apply_url": "https://www.wiz.io/careers/job/4648827006/:title?gh_jid=4648827006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager (Northeast)",
+      "apply_url": "https://www.wiz.io/careers/job/4700894006/:title?gh_jid=4700894006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Product Associate - Cloud Security",
+      "title_original": "Technical Product Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-04T18:21:35.854Z",
+      "apply_url": "https://www.wiz.io/careers/job/4615170006/:title?gh_jid=4615170006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Technical Product Associate is primarily focused on developing and innovating detection mechanisms and algorithms for cloud security, which aligns closely with product management responsibilities. The job description emphasizes collaboration with research and backend teams, as well as implementing customer requests, indicating a strong product development focus."
+    },
+    {
+      "title": "Technical Writer",
+      "apply_url": "https://www.wiz.io/careers/job/4701311006/:title?gh_jid=4701311006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Threat Detection Researcher (Cloud)",
+      "apply_url": "https://www.wiz.io/careers/job/4566780006/:title?gh_jid=4566780006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Threat Detection Researcher (Windows/Linux/MacOS)",
+      "apply_url": "https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Threat Detection Researcher (Windows/Linux/MacOS)",
+      "apply_url": "https://www.wiz.io/careers/job/4670481006/:title?gh_jid=4670481006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Threat Intelligence Researcher (Cloud)",
+      "apply_url": "https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Threat Researcher",
+      "apply_url": "https://www.wiz.io/careers/job/4707600006/:title?gh_jid=4707600006",
+      "location_ids": [
+        "tel_aviv_office"
+      ],
+      "location_display": "Tel Aviv, Israel",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "VP, Sales EMEA",
+      "apply_url": "https://www.wiz.io/careers/job/4707998006/:title?gh_jid=4707998006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office",
+        "amsterdam_office",
+        "rotterdam_office",
+        "eindhoven_office",
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, Germany / Remote, Netherlands / Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://www.wiz.io/careers/job/4712616006/:title?gh_jid=4712616006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://www.wiz.io/careers/job/4712613006/:title?gh_jid=4712613006",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://www.wiz.io/careers/job/4712615006/:title?gh_jid=4712615006",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Director, Regional Partners - SEUR",
+      "apply_url": "https://www.wiz.io/careers/job/4704506006/:title?gh_jid=4704506006",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Director, Regional Partners involve driving strategy for partners, managing partner relationships, and achieving sales targets. The role is heavily focused on channel partner recruitment, onboarding, and collaboration with sales teams, which aligns closely with sales functions."
+    },
+    {
+      "title": "Enterprise Account Executive, Bay Area",
+      "apply_url": "https://www.wiz.io/careers/job/4709064006/:title?gh_jid=4709064006",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - NY/NJ",
+      "apply_url": "https://www.wiz.io/careers/job/4712725006/:title?gh_jid=4712725006",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Enterprise Account Executive - Taiwan & Hong Kong",
+      "apply_url": "https://www.wiz.io/careers/job/4711935006/:title?gh_jid=4711935006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Expert Backend Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4615213006/:title?gh_jid=4615213006",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Majors Account Executive - Conglomerates, West India",
+      "apply_url": "https://www.wiz.io/careers/job/4712673006/:title?gh_jid=4712673006",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Manager, Solutions Support Engineering - São Paulo",
+      "apply_url": "https://www.wiz.io/careers/job/4709330006/:title?gh_jid=4709330006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Mid-Enterprise Account Executive, Mountains",
+      "apply_url": "https://www.wiz.io/careers/job/4713545006/:title?gh_jid=4713545006",
+      "location_ids": [
+        "denver_office",
+        "phoenix_office"
+      ],
+      "location_display": "Denver, USA / Phoenix, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Sales Account Manager – Private Equity",
+      "apply_url": "https://www.wiz.io/careers/job/4712149006/:title?gh_jid=4712149006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Solutions Architect - MSP",
+      "apply_url": "https://www.wiz.io/careers/job/4704423006/:title?gh_jid=4704423006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Solutions Architect - MSP",
+      "apply_url": "https://www.wiz.io/careers/job/4713753006/:title?gh_jid=4713753006",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Partner Solutions Architect - MSP",
+      "apply_url": "https://www.wiz.io/careers/job/4704417006/:title?gh_jid=4704417006",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "People Consultant Business Partner",
+      "apply_url": "https://www.wiz.io/careers/job/4710173006/:title?gh_jid=4710173006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "consulting",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Principal Solutions Engineer",
+      "apply_url": "https://www.wiz.io/careers/job/4712609006/:title?gh_jid=4712609006",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Public Sector Operations Leader",
+      "apply_url": "https://www.wiz.io/careers/job/4712071006/:title?gh_jid=4712071006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Regional Partner Marketing Programs Specialist, SEUR",
+      "apply_url": "https://www.wiz.io/careers/job/4712600006/:title?gh_jid=4712600006",
+      "location_ids": [
+        "madrid_office",
+        "barcelona_office",
+        "valencia_office"
+      ],
+      "location_display": "Madrid, Spain / Remote, Spain",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Renewals Manager - Customer Retention",
+      "title_original": "Renewals Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-16T18:13:31.879Z",
+      "apply_url": "https://www.wiz.io/careers/job/4710815006/:title?gh_jid=4710815006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Renewals Manager role primarily focuses on customer retention and revenue growth through managing the renewal process for existing customers, which aligns closely with sales responsibilities. The job involves achieving revenue goals tied to retention and growth, indicating a strong emphasis on sales activities."
+    },
+    {
+      "title": "Senior Customer Experience Manager (Central)",
+      "apply_url": "https://www.wiz.io/careers/job/4675390006/:title?gh_jid=4675390006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Customer Experience Manager (East)",
+      "apply_url": "https://www.wiz.io/careers/job/4711655006/:title?gh_jid=4711655006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Global Marketing Programs Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4709632006/:title?gh_jid=4709632006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Manager, Partner Solutions Engineering (GSI)",
+      "apply_url": "https://www.wiz.io/careers/job/4705593006/:title?gh_jid=4705593006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Partner Technical Enablement Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4710624006/:title?gh_jid=4710624006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Senior Technical Account Manager",
+      "apply_url": "https://www.wiz.io/careers/job/4694456006/:title?gh_jid=4694456006",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Engineer - Taiwan & Hong Kong",
+      "apply_url": "https://www.wiz.io/careers/job/4685265006/:title?gh_jid=4685265006",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Solutions Support Engineer, São Paulo (SP), Brazil",
+      "apply_url": "https://www.wiz.io/careers/job/4710117006/:title?gh_jid=4710117006",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Sr. Partner Solutions Architect - India",
+      "apply_url": "https://www.wiz.io/careers/job/4708004006/:title?gh_jid=4708004006",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager, ANZ",
+      "apply_url": "https://www.wiz.io/careers/job/4710830006/:title?gh_jid=4710830006",
+      "location_ids": [
+        "auckland_office",
+        "wellington_office",
+        "christchurch_office"
+      ],
+      "location_display": "Remote, New Zealand",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager (Mid-Atlantic)",
+      "apply_url": "https://www.wiz.io/careers/job/4688850006/:title?gh_jid=4688850006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "2-5 years",
+      "posted_date": "2026-09-16"
+    },
+    {
+      "title": "Technical Account Manager, SLED",
+      "apply_url": "https://www.wiz.io/careers/job/4648829006/:title?gh_jid=4648829006",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-16"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "ai",
+        "sales",
+        "engineering",
+        "customer-success",
+        "marketing",
+        "legal",
+        "customer-support",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "public-policy",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "ai",
+        "sales",
+        "engineering",
+        "customer-success",
+        "marketing",
+        "legal",
+        "customer-support",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "public-policy",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "ai",
+        "legal",
+        "sales",
+        "marketing",
+        "engineering",
+        "other",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "sales",
+        "other",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "calgary_office",
+      "city": "Calgary",
+      "state": "Alberta",
+      "country": "Canada",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "exact_address": "Calgary, Alberta, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "public-policy",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cork_office",
+      "city": "Cork",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 51.8985,
+      "longitude": -8.4756,
+      "exact_address": "Cork, Ireland",
+      "departments": [
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "detroit_office",
+      "city": "Detroit",
+      "state": "Michigan",
+      "country": "United States",
+      "latitude": 42.3314,
+      "longitude": -83.0458,
+      "exact_address": "Detroit, Michigan, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "ai",
+        "legal",
+        "sales",
+        "marketing",
+        "engineering",
+        "other",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "eindhoven_office",
+      "city": "Eindhoven",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 51.4393,
+      "longitude": 5.4781,
+      "exact_address": "Eindhoven, Netherlands",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "public-policy",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "public-policy",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kyoto_office",
+      "city": "Kyoto",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "exact_address": "Kyoto, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering",
+        "consulting",
+        "hr",
+        "other",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "security",
+        "legal",
+        "customer-support",
+        "other",
+        "data",
+        "operations",
+        "public-policy",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lyon_office",
+      "city": "Lyon",
+      "state": null,
+      "country": "France",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "exact_address": "Lyon, France",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "ai",
+        "legal",
+        "sales",
+        "marketing",
+        "engineering",
+        "other",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "marseille_office",
+      "city": "Marseille",
+      "state": null,
+      "country": "France",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "exact_address": "Marseille, France",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "exact_address": "Minneapolis, Minnesota, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "public-policy",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "ai",
+        "engineering",
+        "customer-success",
+        "marketing",
+        "finance",
+        "customer-support",
+        "data",
+        "product",
+        "other",
+        "legal",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "osaka_office",
+      "city": "Osaka",
+      "state": null,
+      "country": "Japan",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "exact_address": "Osaka, Japan",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering",
+        "consulting",
+        "hr",
+        "other",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rotterdam_office",
+      "city": "Rotterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 51.9225,
+      "longitude": 4.47917,
+      "exact_address": "Rotterdam, Netherlands",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering",
+        "security",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "ai",
+        "engineering",
+        "customer-success",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "academy-training",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "sales",
+        "ai",
+        "engineering",
+        "product",
+        "customer-success",
+        "marketing",
+        "security",
+        "data",
+        "customer-support",
+        "legal",
+        "other",
+        "it",
+        "operations",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "consulting",
+        "hr",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toulouse_office",
+      "city": "Toulouse",
+      "state": null,
+      "country": "France",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "exact_address": "Toulouse, France",
+      "departments": [
+        "sales",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valencia_office",
+      "city": "Valencia",
+      "state": null,
+      "country": "Spain",
+      "latitude": 39.4699,
+      "longitude": -0.3763,
+      "exact_address": "Valencia, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "ai",
+        "engineering",
+        "customer-success",
+        "sales",
+        "marketing",
+        "customer-support",
+        "legal",
+        "other",
+        "data",
+        "operations",
+        "security",
+        "design",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "busan_office",
+      "city": "Busan",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 35.1796,
+      "longitude": 129.0756,
+      "exact_address": "Busan, South Korea",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "oslo_office",
+      "city": "Oslo",
+      "state": null,
+      "country": "Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "exact_address": "Oslo, Norway",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "turin_office",
+      "city": "Turin",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "exact_address": "Turin, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ottawa_office",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "exact_address": "Ottawa, Ontario, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_remote",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "geneva_remote",
+      "city": "Geneva",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "exact_address": "Geneva, Switzerland",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "basel_remote",
+      "city": "Basel",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.5596,
+      "longitude": 7.5886,
+      "exact_address": "Basel, Switzerland",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "basel_office",
+      "city": "Basel",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.5596,
+      "longitude": 7.5886,
+      "exact_address": "Basel, Switzerland",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "geneva_office",
+      "city": "Geneva",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "exact_address": "Geneva, Switzerland",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "legal",
+        "finance",
+        "customer-success",
+        "product",
+        "customer-support",
+        "engineering",
+        "marketing",
+        "other",
+        "it",
+        "operations",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "legal",
+        "finance",
+        "customer-success",
+        "product",
+        "customer-support",
+        "engineering",
+        "marketing",
+        "other",
+        "it",
+        "operations",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "legal",
+        "finance",
+        "customer-success",
+        "product",
+        "customer-support",
+        "engineering",
+        "marketing",
+        "other",
+        "it",
+        "operations",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "baltimore_office",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "country": "United States",
+      "latitude": 39.2904,
+      "longitude": -76.6122,
+      "exact_address": "Baltimore, Maryland, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tampa_office",
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "exact_address": "Tampa, Florida, United States",
+      "departments": [
+        "sales",
+        "customer-success",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tallahassee_office",
+      "city": "Tallahassee",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 30.4383,
+      "longitude": -84.2807,
+      "exact_address": "Tallahassee, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_diego_office",
+      "city": "San Diego",
+      "state": "California",
+      "country": "United States",
+      "latitude": 32.7157,
+      "longitude": -117.1611,
+      "exact_address": "San Diego, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "irvine_office",
+      "city": "Irvine",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.6846,
+      "longitude": -117.8265,
+      "exact_address": "Irvine, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "auckland_office",
+      "city": "Auckland",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -36.8485,
+      "longitude": 174.7633,
+      "exact_address": "Auckland, New Zealand",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "christchurch_office",
+      "city": "Christchurch",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -43.5321,
+      "longitude": 172.6362,
+      "exact_address": "Christchurch, New Zealand",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "exact_address": "Phoenix, Arizona, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "wellington_office",
+      "city": "Wellington",
+      "state": null,
+      "country": "New Zealand",
+      "latitude": -41.2865,
+      "longitude": 174.7762,
+      "exact_address": "Wellington, New Zealand",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-03-27T08:46:53.112Z",
+    "current_valuation_usd": "$12 billion",
+    "current_valuation_usd_last_updated": "2026-03-27T08:46:53.112Z",
+    "total_funding_raised": "$1.9 billion",
+    "total_funding_raised_last_updated": "2026-03-27T08:46:53.112Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lspv.com"
+      },
+      {
+        "name": "Thrive Capital",
+        "domain": "thrivecap.com"
+      },
+      {
+        "name": "Greylock Partners",
+        "domain": "greylock.com"
+      },
+      {
+        "name": "Wellington Management",
+        "domain": "wellington.com"
+      },
+      {
+        "name": "Cyberstarts",
+        "domain": "cyberstarts.com"
+      },
+      {
+        "name": "Greenoaks",
+        "domain": "greenoaks.com"
+      },
+      {
+        "name": "Howard Schultz",
+        "domain": null
+      },
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "domain": "salesforce.com/ventures"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "G Squared",
+        "domain": "gsquared.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Thrive Capital",
+        "logo_url": "/investor-logos/thrive-capital.png"
+      },
+      {
+        "name": "Greylock Partners",
+        "logo_url": "/investor-logos/greylock.png"
+      },
+      {
+        "name": "Wellington Management",
+        "logo_url": "/investor-logos/wellington-management.png"
+      },
+      {
+        "name": "Cyberstarts",
+        "logo_url": "/investor-logos/cyberstarts.png"
+      },
+      {
+        "name": "Greenoaks",
+        "logo_url": "/investor-logos/greenoaks.png"
+      },
+      {
+        "name": "Howard Schultz",
+        "logo_url": "/investor-logos/howard-schultz.png"
+      },
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "logo_url": "/investor-logos/salesforce-ventures.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "G Squared",
+        "logo_url": "/investor-logos/g-squared.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-27T08:46:53.112Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$350 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "wfh-setup",
+    "health-savings-account",
+    "phone-reimbursement",
+    "mental-health",
+    "life-insurance",
+    "retirement-401k",
+    "flexible-hours",
+    "privilege-leave",
+    "parental-leave",
+    "sick-leave",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "sankalp",
+    "leadership.founders[3].x_twitter_verified_by": "sankalp",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[67].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[68].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[69].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-27T08:46:53.112Z",
+    "company_basic_information.website_url_last_updated": "2026-03-27T08:46:53.112Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-27T08:46:53.112Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-27T08:46:53.112Z",
+    "company_basic_information.last_updated": "2026-03-29",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-28T16:53:41.575Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-28T16:54:00.461Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T11:50:08.411Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T09:37:35.545Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-03-28T16:54:44.513Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-03-28T16:55:04.617Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T11:50:22.254Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T09:37:41.246Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-03-28T16:55:52.426Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-03-30T00:00:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-04-24T11:50:43.662Z",
+    "leadership.founders[2].description_last_updated": "2026-04-25T09:37:46.970Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-03-30T00:00:00.000Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2026-03-30T00:00:00.000Z",
+    "leadership.founders[3].image_url_last_updated": "2026-04-24T11:51:06.124Z",
+    "leadership.founders[3].description_last_updated": "2026-04-25T09:37:52.470Z",
+    "social_media.x_url_last_verified": "2026-03-28T16:57:34.799Z",
+    "social_media.linkedin_url_last_verified": "2026-03-28T16:58:15.179Z",
+    "social_media.instagram_url_last_verified": "2026-03-28T16:58:42.659Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-27T08:46:53.112Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-27T08:46:53.112Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-27T08:46:53.112Z",
+    "financial_information.investor_logos_last_updated": "2026-03-27T08:46:53.112Z",
+    "location_mapping[67].last_updated": "2026-05-07T19:57:06.385Z",
+    "location_mapping[68].last_updated": "2026-05-07T19:57:06.385Z",
+    "location_mapping[69].last_updated": "2026-05-07T19:57:06.385Z",
+    "location_mapping[77].last_updated": "2026-06-09T00:00:00.000Z",
+    "location_mapping[84].last_updated": "2026-08-04T18:25:53.596Z",
+    "location_mapping[86].last_updated": "2026-09-02T08:43:04.259Z",
+    "job_data.roles[0].posted_date": "2026-09-16",
+    "job_data.roles[1].posted_date": "2026-09-16",
+    "job_data.roles[2].posted_date": "2026-09-16",
+    "job_data.roles[3].posted_date": "2026-09-16",
+    "job_data.roles[4].posted_date": "2026-09-16",
+    "job_data.roles[5].posted_date": "2026-09-16",
+    "job_data.roles[6].posted_date": "2026-09-16",
+    "job_data.roles[7].posted_date": "2026-09-16",
+    "job_data.roles[8].posted_date": "2026-09-16",
+    "job_data.roles[9].posted_date": "2026-09-16",
+    "job_data.roles[10].posted_date": "2026-09-16",
+    "job_data.roles[11].posted_date": "2026-09-16",
+    "job_data.roles[12].posted_date": "2026-09-16",
+    "job_data.roles[13].posted_date": "2026-09-16",
+    "job_data.roles[14].posted_date": "2026-09-16",
+    "job_data.roles[15].posted_date": "2026-09-16",
+    "job_data.roles[16].posted_date": "2026-09-16",
+    "job_data.roles[17].posted_date": "2026-09-16",
+    "job_data.roles[18].posted_date": "2026-09-16",
+    "job_data.roles[19].posted_date": "2026-09-16",
+    "job_data.roles[20].posted_date": "2026-09-16",
+    "job_data.roles[21].posted_date": "2026-09-16",
+    "job_data.roles[22].posted_date": "2026-09-16",
+    "job_data.roles[23].posted_date": "2026-09-16",
+    "job_data.roles[24].posted_date": "2026-09-16",
+    "job_data.roles[25].posted_date": "2026-09-16",
+    "job_data.roles[26].posted_date": "2026-09-16",
+    "job_data.roles[27].posted_date": "2026-09-16",
+    "job_data.roles[28].posted_date": "2026-09-16",
+    "job_data.roles[29].posted_date": "2026-09-16",
+    "job_data.roles[30].posted_date": "2026-09-16",
+    "job_data.roles[31].posted_date": "2026-09-16",
+    "job_data.roles[32].posted_date": "2026-09-16",
+    "job_data.roles[33].posted_date": "2026-09-16",
+    "job_data.roles[34].posted_date": "2026-09-16",
+    "job_data.roles[35].posted_date": "2026-09-16",
+    "job_data.roles[36].posted_date": "2026-09-16",
+    "job_data.roles[37].posted_date": "2026-09-16",
+    "job_data.roles[38].posted_date": "2026-09-16",
+    "job_data.roles[39].posted_date": "2026-09-16",
+    "job_data.roles[40].posted_date": "2026-09-16",
+    "job_data.roles[41].posted_date": "2026-09-16",
+    "job_data.roles[42].posted_date": "2026-09-16",
+    "job_data.roles[43].posted_date": "2026-09-16",
+    "job_data.roles[44].posted_date": "2026-09-16",
+    "job_data.roles[45].posted_date": "2026-09-16",
+    "job_data.roles[46].posted_date": "2026-09-16",
+    "job_data.roles[47].posted_date": "2026-09-16",
+    "job_data.roles[48].posted_date": "2026-09-16",
+    "job_data.roles[49].posted_date": "2026-09-16",
+    "job_data.roles[50].posted_date": "2026-09-16",
+    "job_data.roles[51].posted_date": "2026-09-16",
+    "job_data.roles[52].posted_date": "2026-09-16",
+    "job_data.roles[53].posted_date": "2026-09-16",
+    "job_data.roles[54].posted_date": "2026-09-16",
+    "job_data.roles[55].posted_date": "2026-09-16",
+    "job_data.roles[56].posted_date": "2026-09-16",
+    "job_data.roles[57].posted_date": "2026-09-16",
+    "job_data.roles[58].posted_date": "2026-09-16",
+    "job_data.roles[59].posted_date": "2026-09-16",
+    "job_data.roles[60].posted_date": "2026-09-16",
+    "job_data.roles[61].posted_date": "2026-09-16",
+    "job_data.roles[62].posted_date": "2026-09-16",
+    "job_data.roles[62].title_updated_timestamp": "2026-09-02T08:37:54.226Z",
+    "job_data.roles[63].posted_date": "2026-09-16",
+    "job_data.roles[64].posted_date": "2026-09-16",
+    "job_data.roles[65].posted_date": "2026-09-16",
+    "job_data.roles[66].posted_date": "2026-09-16",
+    "job_data.roles[67].posted_date": "2026-09-16",
+    "job_data.roles[68].posted_date": "2026-09-16",
+    "job_data.roles[69].posted_date": "2026-09-16",
+    "job_data.roles[70].posted_date": "2026-09-16",
+    "job_data.roles[71].posted_date": "2026-09-16",
+    "job_data.roles[72].posted_date": "2026-09-16",
+    "job_data.roles[73].posted_date": "2026-09-16",
+    "job_data.roles[74].posted_date": "2026-09-16",
+    "job_data.roles[75].posted_date": "2026-09-16",
+    "job_data.roles[76].posted_date": "2026-09-16",
+    "job_data.roles[77].posted_date": "2026-09-16",
+    "job_data.roles[78].posted_date": "2026-09-16",
+    "job_data.roles[79].posted_date": "2026-09-16",
+    "job_data.roles[80].posted_date": "2026-09-16",
+    "job_data.roles[81].posted_date": "2026-09-16",
+    "job_data.roles[82].posted_date": "2026-09-16",
+    "job_data.roles[83].posted_date": "2026-09-16",
+    "job_data.roles[84].posted_date": "2026-09-16",
+    "job_data.roles[85].posted_date": "2026-09-16",
+    "job_data.roles[86].posted_date": "2026-09-16",
+    "job_data.roles[87].posted_date": "2026-09-16",
+    "job_data.roles[88].posted_date": "2026-09-16",
+    "job_data.roles[89].posted_date": "2026-09-16",
+    "job_data.roles[90].posted_date": "2026-09-16",
+    "job_data.roles[91].posted_date": "2026-09-16",
+    "job_data.roles[92].posted_date": "2026-09-16",
+    "job_data.roles[93].posted_date": "2026-09-16",
+    "job_data.roles[94].posted_date": "2026-09-16",
+    "job_data.roles[95].posted_date": "2026-09-16",
+    "job_data.roles[96].posted_date": "2026-09-16",
+    "job_data.roles[97].posted_date": "2026-09-16",
+    "job_data.roles[98].posted_date": "2026-09-16",
+    "job_data.roles[99].posted_date": "2026-09-16",
+    "job_data.roles[99].title_updated_timestamp": "2026-08-04T18:21:35.854Z",
+    "job_data.roles[100].posted_date": "2026-09-16",
+    "job_data.roles[101].posted_date": "2026-09-16",
+    "job_data.roles[102].posted_date": "2026-09-16",
+    "job_data.roles[103].posted_date": "2026-09-16",
+    "job_data.roles[104].posted_date": "2026-09-16",
+    "job_data.roles[105].posted_date": "2026-09-16",
+    "job_data.roles[106].posted_date": "2026-09-16",
+    "job_data.roles[107].posted_date": "2026-09-16",
+    "job_data.roles[108].posted_date": "2026-09-16",
+    "job_data.roles[109].posted_date": "2026-09-16",
+    "job_data.roles[110].posted_date": "2026-09-16",
+    "job_data.roles[111].posted_date": "2026-09-16",
+    "job_data.roles[112].posted_date": "2026-09-16",
+    "job_data.roles[113].posted_date": "2026-09-16",
+    "job_data.roles[114].posted_date": "2026-09-16",
+    "job_data.roles[115].posted_date": "2026-09-16",
+    "job_data.roles[116].posted_date": "2026-09-16",
+    "job_data.roles[117].posted_date": "2026-09-16",
+    "job_data.roles[118].posted_date": "2026-09-16",
+    "job_data.roles[119].posted_date": "2026-09-16",
+    "job_data.roles[120].posted_date": "2026-09-16",
+    "job_data.roles[121].posted_date": "2026-09-16",
+    "job_data.roles[122].posted_date": "2026-09-16",
+    "job_data.roles[123].posted_date": "2026-09-16",
+    "job_data.roles[124].posted_date": "2026-09-16",
+    "job_data.roles[125].posted_date": "2026-09-16",
+    "job_data.roles[126].posted_date": "2026-09-16",
+    "job_data.roles[126].title_updated_timestamp": "2026-09-16T18:13:31.879Z",
+    "job_data.roles[127].posted_date": "2026-09-16",
+    "job_data.roles[128].posted_date": "2026-09-16",
+    "job_data.roles[129].posted_date": "2026-09-16",
+    "job_data.roles[130].posted_date": "2026-09-16",
+    "job_data.roles[131].posted_date": "2026-09-16",
+    "job_data.roles[132].posted_date": "2026-09-16",
+    "job_data.roles[133].posted_date": "2026-09-16",
+    "job_data.roles[134].posted_date": "2026-09-16",
+    "job_data.roles[135].posted_date": "2026-09-16",
+    "job_data.roles[136].posted_date": "2026-09-16",
+    "job_data.roles[137].posted_date": "2026-09-16",
+    "job_data.roles[138].posted_date": "2026-09-16",
+    "job_data.last_updated": "2026-09-16T18:00:33.843Z",
+    "benefits.health-insurance.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.dental-insurance.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.vision-insurance.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.wfh-setup.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.health-savings-account.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.mental-health.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.life-insurance.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.retirement-401k.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.flexible-hours.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.privilege-leave.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.parental-leave.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.sick-leave.last_updated": "2026-04-19T17:13:15.702Z",
+    "benefits.bonus.last_updated": "2026-04-19T17:13:15.702Z"
+  }
+}

@@ -1,0 +1,1762 @@
+{
+  "slug": "fireworks-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/82515.2f61b09d4aa1b90a.js",
+  "observed_at": "2026-09-28T08:31:53.204489+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 52801,
+    "sha256": "bc206ace003b6cf3e352b6ec248bf52120d74d0cc5ca585d2d341e24a94ba354",
+    "elapsed_seconds": 0.475,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:53 GMT",
+      "etag": "\"7304ee29a46de1edff922973b21e7d10\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:53 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Fireworks AI",
+    "company_name_legal": "Fireworks.ai, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://fireworks.ai",
+    "careers_url": "https://jobs.ashbyhq.com/fireworks",
+    "investor_portfolio_page": null,
+    "id": 350
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 79,
+    "last_updated": "2026-09-19T16:44:27.580Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 79,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Field Engineer - AI Natives",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/7730b5a4-0b58-46c7-bcff-61a929a3d1bd",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "7730b5a4-0b58-46c7-bcff-61a929a3d1bd"
+    },
+    {
+      "title": "AI Field Engineer, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/504591e5-fccd-4a7f-a9ca-81b51d2a5a12",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "504591e5-fccd-4a7f-a9ca-81b51d2a5a12"
+    },
+    {
+      "title": "AI Field Engineer - Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/69739e4f-1ca5-45db-8a70-4309d961c0b7",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "69739e4f-1ca5-45db-8a70-4309d961c0b7"
+    },
+    {
+      "title": "AI Field Engineer, Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/1fc5eb25-08ad-4c82-aaee-5b903b9ab0ea",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1fc5eb25-08ad-4c82-aaee-5b903b9ab0ea"
+    },
+    {
+      "title": "AI Field Engineer - Strategic Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/4a5dbfe4-b0d5-4394-a94b-42345fb425b4",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4a5dbfe4-b0d5-4394-a94b-42345fb425b4"
+    },
+    {
+      "title": "AI Native Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/1e8064d8-27ed-41b9-9d7a-1f9129e24ce0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1e8064d8-27ed-41b9-9d7a-1f9129e24ce0"
+    },
+    {
+      "title": "AI Native - Strategic, Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a2a1cdd0-c79c-4023-b8ba-3c1349aedbdb",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a2a1cdd0-c79c-4023-b8ba-3c1349aedbdb"
+    },
+    {
+      "title": "AI Product Engineer - Nexus",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/2d0a20e1-8b0a-40b0-9b5e-514bca715fba",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2d0a20e1-8b0a-40b0-9b5e-514bca715fba"
+    },
+    {
+      "title": "Applied Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/fc3845e6-e8ba-4756-a03e-654f14ce605b",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fc3845e6-e8ba-4756-a03e-654f14ce605b"
+    },
+    {
+      "title": "Applied Machine Learning Engineer, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/e5a9746e-49ac-407f-b953-5cf3c08a7802",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e5a9746e-49ac-407f-b953-5cf3c08a7802"
+    },
+    {
+      "title": "Applied Machine Learning Engineer, Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/044b1823-7d0d-4da2-b265-676f2a5a50c3",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "044b1823-7d0d-4da2-b265-676f2a5a50c3"
+    },
+    {
+      "title": "Associate Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "69375f41-258a-4c25-ad78-5985606c438a"
+    },
+    {
+      "title": "Business Development Representative (BDR)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/cd8233f0-e958-40b5-a9a6-e35ecb9a76a4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "cd8233f0-e958-40b5-a9a6-e35ecb9a76a4"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/85e542b8-6349-48a7-b1b4-3818baf945aa",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "85e542b8-6349-48a7-b1b4-3818baf945aa"
+    },
+    {
+      "title": "Enterprise Account Executive, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/2facf9c7-9d73-4828-bbab-8adc37708f4c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2facf9c7-9d73-4828-bbab-8adc37708f4c"
+    },
+    {
+      "title": "Enterprise Account Executive, Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/0e0c2c47-6aa2-4b8c-98f9-19fc51bc2ea2",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0e0c2c47-6aa2-4b8c-98f9-19fc51bc2ea2"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/2393546c-ef71-4054-8c75-4f16caeffc5b",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2393546c-ef71-4054-8c75-4f16caeffc5b"
+    },
+    {
+      "title": "Facilities Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/d5b05158-ad16-49a8-964f-b5e5d8e6191d",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d5b05158-ad16-49a8-964f-b5e5d8e6191d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Facilities Manager role primarily involves managing the company's facilities strategy, including site planning, budgeting, and overseeing office managers. This aligns closely with operations, as the role focuses on the strategic management of physical spaces and resources across multiple locations."
+    },
+    {
+      "title": "Field Marketing Manager, Startups",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/e47bf56b-2696-48b2-93fc-11fd1263906c",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e47bf56b-2696-48b2-93fc-11fd1263906c"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/01166f87-1b1f-4e2e-8b7d-be6708566434",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "01166f87-1b1f-4e2e-8b7d-be6708566434"
+    },
+    {
+      "title": "Head of GTM Engineering & Systems",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/0628f651-a8f6-4ef9-beec-6f31c3268c85",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0628f651-a8f6-4ef9-beec-6f31c3268c85"
+    },
+    {
+      "title": "Head of Marketing Operations",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/0e175af6-e53a-4e48-91ba-db3aaef8dac7",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0e175af6-e53a-4e48-91ba-db3aaef8dac7"
+    },
+    {
+      "title": "Head of Order to Cash",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/6c283170-bf6c-4259-a6cb-9f1e2315e7c9",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6c283170-bf6c-4259-a6cb-9f1e2315e7c9"
+    },
+    {
+      "title": "Head of Product Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/d5063bc9-d2ac-4ee4-9e0c-23ea74ad83b2",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d5063bc9-d2ac-4ee4-9e0c-23ea74ad83b2"
+    },
+    {
+      "title": "Member of Technical Staff",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/6746dfde-8f8d-4a13-9961-7ae1e222a4c0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6746dfde-8f8d-4a13-9961-7ae1e222a4c0"
+    },
+    {
+      "title": "Member of Technical Staff, AI Training Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a2850702-dea3-4e2c-a3ec-7ae257d36eb7",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a2850702-dea3-4e2c-a3ec-7ae257d36eb7"
+    },
+    {
+      "title": "Member of Technical Staff, Cloud Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a8abf746-17f5-45e3-a72e-085ccb8f2d74",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a8abf746-17f5-45e3-a72e-085ccb8f2d74"
+    },
+    {
+      "title": "Member of Technical Staff, Cloud Infrastructure, Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/93faf385-9322-4172-8ef2-42a9a6c889e6",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "93faf385-9322-4172-8ef2-42a9a6c889e6"
+    },
+    {
+      "title": "Member of Technical Staff, Evals & Post-Training Product",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/cca38fd5-9cbd-4cee-8fdb-d6e6d230b036",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "cca38fd5-9cbd-4cee-8fdb-d6e6d230b036"
+    },
+    {
+      "title": "Member of Technical Staff- Full Stack",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/38aa9926-2865-45c4-ac38-585b78ee68ac",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "38aa9926-2865-45c4-ac38-585b78ee68ac"
+    },
+    {
+      "title": "Member of Technical Staff, Performance Optimization",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/7ad6d17e-950e-4413-be33-9c1489f069d8",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "7ad6d17e-950e-4413-be33-9c1489f069d8"
+    },
+    {
+      "title": "Member of Technical Staff, Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/492db6a8-c757-4c4e-a2b3-f2ed183f8e6f",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "492db6a8-c757-4c4e-a2b3-f2ed183f8e6f"
+    },
+    {
+      "title": "Microsoft Partner Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/3af80f2c-ee2f-442a-b921-6529aaef49d9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3af80f2c-ee2f-442a-b921-6529aaef49d9"
+    },
+    {
+      "title": "MTS, Security",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/976cf215-3710-4136-aac8-f0c0f08ef45e",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "976cf215-3710-4136-aac8-f0c0f08ef45e"
+    },
+    {
+      "title": "Paid Growth Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/58083381-6c71-4d58-9014-bd2bcb3e1e85",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "58083381-6c71-4d58-9014-bd2bcb3e1e85"
+    },
+    {
+      "title": "Product Marketing Lead, Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/2b47b54e-ef8c-45da-acfa-25074396a4e1",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2b47b54e-ef8c-45da-acfa-25074396a4e1"
+    },
+    {
+      "title": "Sales Compensation Lead - AI Infrastructure",
+      "title_original": "Sales Compensation Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-07T09:17:24.810Z",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/08bafd48-fd91-404b-b7c0-b19c30f8a058",
+      "location_ids": [
+        "redwood_city_remote"
+      ],
+      "location_display": "Redwood City, United States",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "08bafd48-fd91-404b-b7c0-b19c30f8a058",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Sales Compensation Lead revolve around owning sales compensation plans, forecasting commission expenses, and ensuring accurate payouts, which are all key functions within the finance department. The role also requires collaboration with FP&A and involves financial integrity in commission calculations."
+    },
+    {
+      "title": "Sales Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/b0509951-7280-4e88-ab1e-a20631d3f5f2",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b0509951-7280-4e88-ab1e-a20631d3f5f2"
+    },
+    {
+      "title": "Senior Lifecycle Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a6c58388-14b7-4c16-bd1f-5c2d3753d297",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a6c58388-14b7-4c16-bd1f-5c2d3753d297"
+    },
+    {
+      "title": "Social and Community Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/da8f0b05-ac82-40a4-8cb8-64767c956018",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "da8f0b05-ac82-40a4-8cb8-64767c956018"
+    },
+    {
+      "title": "Software Engineer, LLM Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/82013447-2713-46ca-aab1-b0a34f7b565a",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "82013447-2713-46ca-aab1-b0a34f7b565a"
+    },
+    {
+      "title": "Sr Field Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/2b9193ea-dbff-40b1-a766-0f872665c7fe",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2b9193ea-dbff-40b1-a766-0f872665c7fe"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/ccc2b11a-0996-4ed1-b5d6-7da20bbe73bc",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ccc2b11a-0996-4ed1-b5d6-7da20bbe73bc"
+    },
+    {
+      "title": "Technical Account Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/782b8fec-ec75-486d-a6fa-69f737f45e58",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "782b8fec-ec75-486d-a6fa-69f737f45e58"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/e1a1373c-7b45-4b49-b3ef-c6126ec1c8bb",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e1a1373c-7b45-4b49-b3ef-c6126ec1c8bb"
+    },
+    {
+      "title": "AI Native Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/1c4bd96f-108a-4217-a30d-f110ce54bb46",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "1c4bd96f-108a-4217-a30d-f110ce54bb46"
+    },
+    {
+      "title": "GTM Engineer, Marketing & SDR",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/04e5e023-d9cc-4785-b410-7364d4f4fe15",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "04e5e023-d9cc-4785-b410-7364d4f4fe15"
+    },
+    {
+      "title": "Head of Deal Desk",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/c3c61f23-477a-446c-89cb-c22cc10a347e",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "c3c61f23-477a-446c-89cb-c22cc10a347e"
+    },
+    {
+      "title": "Member of Technical Staff, Enterprise Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/89d811de-2505-4173-bf37-b173ce53ecf1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "89d811de-2505-4173-bf37-b173ce53ecf1"
+    },
+    {
+      "title": "Member of Technical Staff - Reliability Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/ff11ca2c-d95f-4802-8370-09c2cf394842",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "ff11ca2c-d95f-4802-8370-09c2cf394842"
+    },
+    {
+      "title": "Member of Technical Staff, Research",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/ee35bd97-43f9-4574-8ab7-81debd5d3d1a",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "ee35bd97-43f9-4574-8ab7-81debd5d3d1a"
+    },
+    {
+      "title": "Microsoft Partner Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/08c095a0-2f02-4078-938f-374394040b0e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "08c095a0-2f02-4078-938f-374394040b0e"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/17a81efc-93db-457d-b92b-996722a0f64d",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "17a81efc-93db-457d-b92b-996722a0f64d"
+    },
+    {
+      "title": "Product Manager, Platform",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/51aa1cdc-945e-4077-b5c7-c9ab37b420be",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "51aa1cdc-945e-4077-b5c7-c9ab37b420be"
+    },
+    {
+      "title": "Product Manager, Training",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/17394579-2c5f-4b43-91cb-e531700b8a26",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "17394579-2c5f-4b43-91cb-e531700b8a26"
+    },
+    {
+      "title": "Recruiting Coordinator [Contract]",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/d2475828-01b1-4c21-bee9-9aebd009156b",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "d2475828-01b1-4c21-bee9-9aebd009156b"
+    },
+    {
+      "title": "Security Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/35fc89d0-b297-4721-8fe8-09f5c6967db4",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "35fc89d0-b297-4721-8fe8-09f5c6967db4"
+    },
+    {
+      "title": "AI Deployment Strategist (EMEA)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/ee05e8a5-a7b8-41bf-9e7b-fdb1dc6e6bcb",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ee05e8a5-a7b8-41bf-9e7b-fdb1dc6e6bcb"
+    },
+    {
+      "title": "Developer Advocate",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/7a9c5827-cbeb-4397-b364-b7a5177b9f62",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7a9c5827-cbeb-4397-b364-b7a5177b9f62"
+    },
+    {
+      "title": "Field Marketing Manager, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a09d7658-2986-46f9-a4e1-a8ce9a98a07c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a09d7658-2986-46f9-a4e1-a8ce9a98a07c"
+    },
+    {
+      "title": "GRC Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/e172e100-1ba5-4fc8-b3e0-d80dd66aac70",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e172e100-1ba5-4fc8-b3e0-d80dd66aac70"
+    },
+    {
+      "title": "HR Business Partner, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/cf2eec9f-be27-4694-861d-87e72ae535a1",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "cf2eec9f-be27-4694-861d-87e72ae535a1"
+    },
+    {
+      "title": "Member of Technical Staff (EMEA)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/55f8e95c-f1ec-41b1-b387-1b98ff560f57",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "55f8e95c-f1ec-41b1-b387-1b98ff560f57"
+    },
+    {
+      "title": "Senior Manager, Indirect Tax",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/28dd73da-d8ff-4baa-a5df-e01231dede48",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "28dd73da-d8ff-4baa-a5df-e01231dede48"
+    },
+    {
+      "title": "Senior Revenue Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/53ae49ee-b149-493c-bcab-b9c8840fa3d1",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "53ae49ee-b149-493c-bcab-b9c8840fa3d1"
+    },
+    {
+      "title": "Account Executive, AI Native Team",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/fab3e536-5f1d-4ecc-8446-899e8c056672",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "fab3e536-5f1d-4ecc-8446-899e8c056672"
+    },
+    {
+      "title": "Analytics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/85486dc8-023f-4a82-9cdb-8394bbfcf1ab",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "85486dc8-023f-4a82-9cdb-8394bbfcf1ab"
+    },
+    {
+      "title": "Billing Operations Analyst - Usage Billing",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/5f5e3669-e6c5-4772-9cc9-0e8b760733be",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5f5e3669-e6c5-4772-9cc9-0e8b760733be"
+    },
+    {
+      "title": "Business Development Representative (BDR)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/fe0e6fc9-45de-4f65-ba4a-2516f914c2ba",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "fe0e6fc9-45de-4f65-ba4a-2516f914c2ba"
+    },
+    {
+      "title": "Business Development Representative (BDR), EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/5494d188-bc33-4f92-8c92-9d57bcd66c2a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5494d188-bc33-4f92-8c92-9d57bcd66c2a"
+    },
+    {
+      "title": "Compensation Partner",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/5907602a-16c5-47e7-a9ec-42fc036ec6fd",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5907602a-16c5-47e7-a9ec-42fc036ec6fd"
+    },
+    {
+      "title": "Head of AI Enabled Business Systems",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/b8d8d5ab-f5d2-452a-8276-c16c2f7c3a05",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b8d8d5ab-f5d2-452a-8276-c16c2f7c3a05"
+    },
+    {
+      "title": "IT DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/a83a980e-9e31-489b-964c-abd6cd11dff2",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "a83a980e-9e31-489b-964c-abd6cd11dff2"
+    },
+    {
+      "title": "Member of Technical Staff, New Grad (BS/MS)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "0c78aede-7c21-4d1e-88f1-f309deb9819e"
+    },
+    {
+      "title": "Member of Technical Staff, Research (2026 PhD New Grad)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "82b41f4a-a945-4aee-a1fd-1ef9ab513e58"
+    },
+    {
+      "title": "Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "ad58a098-ef75-4a4b-8475-55c2653213ef"
+    },
+    {
+      "title": "Sales Enablement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/28b3ecfd-6ebf-4f5b-9f85-b0a9eff68290",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States,",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "28b3ecfd-6ebf-4f5b-9f85-b0a9eff68290"
+    },
+    {
+      "title": "Senior Account Executive, AI Native Team",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/b6366240-4106-4898-ac07-af0c266b78f2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b6366240-4106-4898-ac07-af0c266b78f2"
+    },
+    {
+      "title": "Strategic Finance Manager, Infrastructure and R&D",
+      "apply_url": "https://jobs.ashbyhq.com/fireworks/b5d24188-bbd2-4f85-86bd-465edba8c0de",
+      "location_ids": [
+        "san_mateo_office"
+      ],
+      "location_display": "San Mateo, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b5d24188-bbd2-4f85-86bd-465edba8c0de"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "redwood_city_office",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.48793,
+      "longitude": -122.22958,
+      "exact_address": "2317 Broadway Street, Suite 200, Redwood City, California, United States - 94063",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.1553399,
+      "longitude": -97.7214618,
+      "exact_address": "7607 B Colton-Bluff Springs Rd, Austin, TX 78744",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8917584,
+      "longitude": -87.6024371,
+      "exact_address": "600 E Grand Ave, Chicago, IL 60611",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.796195999999995,
+      "longitude": -105.0256474,
+      "exact_address": "5501 Federal Blvd, Denver, CO 80221",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.6611419,
+      "longitude": -80.4267149,
+      "exact_address": "11410 SW 143rd Ct, Miami, FL 33186",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7503404,
+      "longitude": -73.9920499,
+      "exact_address": "5 Pennsylvania Plaza, 19th Floor, New York, New York, United States - 10001",
+      "departments": [
+        "ai",
+        "engineering",
+        "marketing",
+        "sales",
+        "data",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_mateo_office",
+      "city": "San Mateo",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.53977,
+      "longitude": -122.30027,
+      "exact_address": "2850 South Delaware Street, Suite 201, San Mateo, California, United States - 94403",
+      "departments": [
+        "ai",
+        "engineering",
+        "security",
+        "sales",
+        "marketing",
+        "data",
+        "other",
+        "product",
+        "design"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.574054399999994,
+      "longitude": -122.3353349,
+      "exact_address": "3307 Utah Ave S, Seattle, WA 98134",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai",
+        "sales",
+        "data",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "ai",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "ai",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "redwood_city_remote",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4852,
+      "longitude": -122.2364,
+      "exact_address": "Redwood City, California, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-06-24T06:55:45.118Z",
+    "current_valuation_usd": "$4B",
+    "current_valuation_usd_last_updated": "2026-06-24T06:55:45.118Z",
+    "total_funding_raised": "$307 million",
+    "total_funding_raised_last_updated": "2026-06-24T06:55:45.118Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Evantic Capital",
+        "domain": ""
+      },
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Benchmark",
+        "domain": "benchmark.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Evantic Capital",
+        "logo_url": "/investor-logos/evantic-capital.png"
+      },
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Benchmark",
+        "logo_url": "/investor-logos/benchmark.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-24T06:55:45.118Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "searchapi-maps",
+    "location_mapping[1].location_source_query": "Fireworks office austin",
+    "location_mapping[3].location_source": "searchapi-maps",
+    "location_mapping[3].location_source_query": "Fireworks office Chicago Illinois",
+    "location_mapping[4].location_source": "searchapi-maps",
+    "location_mapping[4].location_source_query": "Fireworks office denver",
+    "location_mapping[6].location_source": "searchapi-maps",
+    "location_mapping[6].location_source_query": "Fireworks office miami Florida",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "searchapi-maps",
+    "location_mapping[10].location_source_query": "Fireworks office Seattle Washington",
+    "location_mapping[14].source": "ai_inference_upsert",
+    "job_data.roles[36].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-24T06:55:45.118Z",
+    "company_basic_information.website_url_last_updated": "2026-06-24T06:55:45.118Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-07T09:09:58.520Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-24T06:55:45.118Z",
+    "company_basic_information.last_updated": "2026-06-24",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-24T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-24T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-24T07:19:20.965Z",
+    "leadership.founders[0].description_last_updated": "2026-06-24T07:19:53.384Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-06-24T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-06-24T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-24T07:19:41.531Z",
+    "leadership.founders[1].description_last_updated": "2026-06-24T07:20:00.172Z",
+    "social_media.x_url_last_updated": "2026-06-24T07:15:00.000Z",
+    "social_media.x_url_last_verified": "2026-06-24T07:15:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-06-24T07:15:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-06-24T07:15:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-06-24T07:15:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-06-24T07:15:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-06-24",
+    "financial_information.funding_stage_last_updated": "2026-06-24T06:55:45.118Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-24T06:55:45.118Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-24T06:55:45.118Z",
+    "financial_information.investor_logos_last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[0].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[1].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[2].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[3].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[4].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[5].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[6].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[7].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[8].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[9].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[10].last_updated": "2026-06-24T06:55:45.118Z",
+    "location_mapping[14].last_updated": "2026-08-07T09:17:24.810Z",
+    "job_data.roles[0].posted_date": "2026-08-07",
+    "job_data.roles[1].posted_date": "2026-08-07",
+    "job_data.roles[2].posted_date": "2026-08-07",
+    "job_data.roles[3].posted_date": "2026-08-07",
+    "job_data.roles[4].posted_date": "2026-08-07",
+    "job_data.roles[5].posted_date": "2026-08-07",
+    "job_data.roles[6].posted_date": "2026-08-07",
+    "job_data.roles[7].posted_date": "2026-08-07",
+    "job_data.roles[8].posted_date": "2026-08-07",
+    "job_data.roles[9].posted_date": "2026-08-07",
+    "job_data.roles[10].posted_date": "2026-08-07",
+    "job_data.roles[11].posted_date": "2026-08-07",
+    "job_data.roles[12].posted_date": "2026-08-07",
+    "job_data.roles[13].posted_date": "2026-08-07",
+    "job_data.roles[14].posted_date": "2026-08-07",
+    "job_data.roles[15].posted_date": "2026-08-07",
+    "job_data.roles[16].posted_date": "2026-08-07",
+    "job_data.roles[17].posted_date": "2026-08-07",
+    "job_data.roles[18].posted_date": "2026-08-07",
+    "job_data.roles[19].posted_date": "2026-08-07",
+    "job_data.roles[20].posted_date": "2026-08-07",
+    "job_data.roles[21].posted_date": "2026-08-07",
+    "job_data.roles[22].posted_date": "2026-08-07",
+    "job_data.roles[23].posted_date": "2026-08-07",
+    "job_data.roles[24].posted_date": "2026-08-07",
+    "job_data.roles[25].posted_date": "2026-08-07",
+    "job_data.roles[26].posted_date": "2026-08-07",
+    "job_data.roles[27].posted_date": "2026-08-07",
+    "job_data.roles[28].posted_date": "2026-08-07",
+    "job_data.roles[29].posted_date": "2026-08-07",
+    "job_data.roles[30].posted_date": "2026-08-07",
+    "job_data.roles[31].posted_date": "2026-08-07",
+    "job_data.roles[32].posted_date": "2026-08-07",
+    "job_data.roles[33].posted_date": "2026-08-07",
+    "job_data.roles[34].posted_date": "2026-08-07",
+    "job_data.roles[35].posted_date": "2026-08-07",
+    "job_data.roles[36].posted_date": "2026-08-07",
+    "job_data.roles[36].title_updated_timestamp": "2026-08-07T09:17:24.810Z",
+    "job_data.roles[37].posted_date": "2026-08-07",
+    "job_data.roles[38].posted_date": "2026-08-07",
+    "job_data.roles[39].posted_date": "2026-08-07",
+    "job_data.roles[40].posted_date": "2026-08-07",
+    "job_data.roles[41].posted_date": "2026-08-07",
+    "job_data.roles[42].posted_date": "2026-08-07",
+    "job_data.roles[43].posted_date": "2026-08-07",
+    "job_data.roles[44].posted_date": "2026-08-07",
+    "job_data.roles[45].posted_date": "2026-08-21",
+    "job_data.roles[46].posted_date": "2026-08-21",
+    "job_data.roles[47].posted_date": "2026-08-21",
+    "job_data.roles[48].posted_date": "2026-08-21",
+    "job_data.roles[49].posted_date": "2026-08-21",
+    "job_data.roles[50].posted_date": "2026-08-21",
+    "job_data.roles[51].posted_date": "2026-08-21",
+    "job_data.roles[52].posted_date": "2026-08-21",
+    "job_data.roles[53].posted_date": "2026-08-21",
+    "job_data.roles[54].posted_date": "2026-08-21",
+    "job_data.roles[55].posted_date": "2026-08-21",
+    "job_data.roles[56].posted_date": "2026-08-21",
+    "job_data.roles[57].posted_date": "2026-09-05",
+    "job_data.roles[58].posted_date": "2026-09-05",
+    "job_data.roles[59].posted_date": "2026-09-05",
+    "job_data.roles[60].posted_date": "2026-09-05",
+    "job_data.roles[61].posted_date": "2026-09-05",
+    "job_data.roles[62].posted_date": "2026-09-05",
+    "job_data.roles[63].posted_date": "2026-09-05",
+    "job_data.roles[64].posted_date": "2026-09-05",
+    "job_data.roles[65].posted_date": "2026-09-19",
+    "job_data.roles[66].posted_date": "2026-09-19",
+    "job_data.roles[67].posted_date": "2026-09-19",
+    "job_data.roles[68].posted_date": "2026-09-19",
+    "job_data.roles[69].posted_date": "2026-09-19",
+    "job_data.roles[70].posted_date": "2026-09-19",
+    "job_data.roles[71].posted_date": "2026-09-19",
+    "job_data.roles[72].posted_date": "2026-09-19",
+    "job_data.roles[73].posted_date": "2026-09-19",
+    "job_data.roles[74].posted_date": "2026-09-19",
+    "job_data.roles[75].posted_date": "2026-09-19",
+    "job_data.roles[76].posted_date": "2026-09-19",
+    "job_data.roles[77].posted_date": "2026-09-19",
+    "job_data.roles[78].posted_date": "2026-09-19",
+    "job_data.last_updated": "2026-09-19T16:44:27.580Z",
+    "benefits.equity-stock.last_updated": "2026-06-24T07:18:39.807Z",
+    "benefits.health-insurance.last_updated": "2026-06-24T07:18:39.807Z",
+    "benefits.flexible-hours.last_updated": "2026-06-24T07:18:39.807Z",
+    "benefits.remote-work.last_updated": "2026-06-24T07:18:39.807Z"
+  }
+}

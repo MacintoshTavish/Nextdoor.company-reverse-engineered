@@ -1,0 +1,1156 @@
+{
+  "slug": "periodic-labs",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/9127.e86690b2757f23f8.js",
+  "observed_at": "2026-09-28T08:35:12.237243+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 33338,
+    "sha256": "444ad3ee20301eede0ca034fbc7cb9be96b385be45947d8d90aaed188e35eee9",
+    "elapsed_seconds": 0.166,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:12 GMT",
+      "etag": "\"39ecaf92cf221f9eae86203b3d3c60c9\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Periodic Labs",
+    "company_name_legal": "Periodic Labs",
+    "founded_year": 2025,
+    "website_url": "https://www.periodic.com",
+    "careers_url": "https://jobs.ashbyhq.com/periodic-labs",
+    "investor_portfolio_page": null,
+    "id": 278
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 28,
+    "last_updated": "2026-09-14T10:03:15.312Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 28,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Founding HR Leader",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/c398af52-085d-427c-8c0f-8537cfd96ff3",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-25",
+      "ashby_job_id": "c398af52-085d-427c-8c0f-8537cfd96ff3"
+    },
+    {
+      "title": "ML Systems Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-29",
+      "ashby_job_id": "d9180228-c113-4d5f-a4d6-793994e50b7c"
+    },
+    {
+      "title": "Process Engineer, Powder",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/21b61a4d-92ff-4f98-9a7c-251f02966988",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-08",
+      "ashby_job_id": "21b61a4d-92ff-4f98-9a7c-251f02966988"
+    },
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/d88a6590-a2fa-48c5-86bc-61612b5bb0bc",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-13",
+      "ashby_job_id": "d88a6590-a2fa-48c5-86bc-61612b5bb0bc"
+    },
+    {
+      "title": "Research Scientist, Condensed Matter Theory",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-12",
+      "ashby_job_id": "01d2c4b2-d848-4426-ad5f-7f1052db3a63"
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/1d6ade4f-ae4c-4bde-baf7-82c401063e42",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-10",
+      "ashby_job_id": "1d6ade4f-ae4c-4bde-baf7-82c401063e42"
+    },
+    {
+      "title": "Multiphysics Simulation Scientist, Semiconductors",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/0d96f03c-8f08-44ae-a7cb-8c4bbc80976c",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-14",
+      "ashby_job_id": "0d96f03c-8f08-44ae-a7cb-8c4bbc80976c"
+    },
+    {
+      "title": "Research Associate - Thin Films",
+      "title_original": "Research Associate - Thin Films",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-07T11:44:24.562Z",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/98837207-657f-4116-a112-d8dc6184b49e",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-03-10",
+      "ashby_job_id": "98837207-657f-4116-a112-d8dc6184b49e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Research Associate involve executing thin-film deposition processes, conducting experiments, and generating data that contributes to AI training in a research-focused environment. The role is heavily centered around scientific research and development in materials science, making 'research' the most appropriate category."
+    },
+    {
+      "title": "Research Scientist, Thin Films",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/7f36ea6e-3e67-40df-82c6-5540859a2ac5",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-31",
+      "ashby_job_id": "7f36ea6e-3e67-40df-82c6-5540859a2ac5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Research Scientist in Thin Films focus on materials research, specifically the synthesis and characterization of thin-film materials. The role requires a PhD in a scientific field and emphasizes collaboration with computational and AI teams, which aligns closely with research and scientific exploration."
+    },
+    {
+      "title": "Procurement & Finance Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/e58cc4ac-39a8-4f46-a660-4cab443922cc",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-05-21",
+      "ashby_job_id": "e58cc4ac-39a8-4f46-a660-4cab443922cc"
+    },
+    {
+      "title": "Forward Deployed Engineer, Physics & Simulation",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/1bab7e17-20fd-4b82-a152-98b96375a626",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "1bab7e17-20fd-4b82-a152-98b96375a626"
+    },
+    {
+      "title": "Laboratory Technician",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/50a878d1-f9a6-4234-950d-f18d73c65c47",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-27",
+      "ashby_job_id": "50a878d1-f9a6-4234-950d-f18d73c65c47"
+    },
+    {
+      "title": "Nanofabrication Intern",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-05-26",
+      "ashby_job_id": "2cfb099d-42f1-4dff-93f4-1862b13f914a"
+    },
+    {
+      "title": "Environmental Health and Safety",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/0335ea7e-436c-4e50-a766-6b7d0b75e70a",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-10",
+      "ashby_job_id": "0335ea7e-436c-4e50-a766-6b7d0b75e70a"
+    },
+    {
+      "title": "Laboratory Operations & Maintenance Technician",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/b1ad8632-f489-4922-8805-42d84711cda1",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-11",
+      "ashby_job_id": "b1ad8632-f489-4922-8805-42d84711cda1"
+    },
+    {
+      "title": "Research Scientist, Materials Characterization",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/e90c6050-e544-4a2b-ae30-7c41e5eb4f16",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "e90c6050-e544-4a2b-ae30-7c41e5eb4f16"
+    },
+    {
+      "title": "Research Scientist, Data",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d039ec58-a97d-47e1-b1e5-db003d772f77"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/a9b28b1c-8a7f-456d-bea5-f2cb787c4eba",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a9b28b1c-8a7f-456d-bea5-f2cb787c4eba"
+    },
+    {
+      "title": "Environmental Health & Safety (EHS) Technician - contract to hire",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/60f43e1c-08ac-4701-a7d5-0221e361df4e",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "60f43e1c-08ac-4701-a7d5-0221e361df4e"
+    },
+    {
+      "title": "Instrumentation & Controls Technician - Materials Science",
+      "title_original": "Instrumentation & Controls - Technician/Electrician",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T14:47:55.545Z",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/caf8f0b8-dbbb-4104-bc7f-e6a7916d7831",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "caf8f0b8-dbbb-4104-bc7f-e6a7916d7831",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on providing electrical, instrumentation, and controls technician support, which aligns closely with engineering functions. The job requires hands-on experience with instrumentation and controls, CAD assembly, and electrical systems, all of which are core aspects of engineering."
+    },
+    {
+      "title": "Mechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/fe3b323e-34e8-41fe-9da3-26a8b6b941cd",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "fe3b323e-34e8-41fe-9da3-26a8b6b941cd"
+    },
+    {
+      "title": "Research Engineer, Lab Automation",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/a16ee7dd-021d-4f37-823d-7a8b520c6d8a",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "a16ee7dd-021d-4f37-823d-7a8b520c6d8a"
+    },
+    {
+      "title": "Research Engineer - Midtraining",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/d3be5ecc-c4d3-4c9e-9a4d-519ab6147474",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "d3be5ecc-c4d3-4c9e-9a4d-519ab6147474"
+    },
+    {
+      "title": "Research Engineer, Semiconductor",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/95d290bd-6420-42e8-82a0-f0230722c19c",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "95d290bd-6420-42e8-82a0-f0230722c19c"
+    },
+    {
+      "title": "Business Operations, Product & Science",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/fd89f03f-545f-4ffb-a051-8581a3ec686a",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "fd89f03f-545f-4ffb-a051-8581a3ec686a"
+    },
+    {
+      "title": "Process Technician, Thin Films",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/19e2cc72-0f04-44b3-a9c3-0240a0fb9fe4",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "19e2cc72-0f04-44b3-a9c3-0240a0fb9fe4"
+    },
+    {
+      "title": "Computational Scientist, Differentiable Physics",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/ccdb34b1-b67c-4dbf-8acb-fe786f2ab38b",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ccdb34b1-b67c-4dbf-8acb-fe786f2ab38b"
+    },
+    {
+      "title": "Research Scientist/Research Engineer, Materials",
+      "apply_url": "https://jobs.ashbyhq.com/periodic-labs/c4e0774f-0f3e-4ea7-be27-fb89130c0d01",
+      "location_ids": [
+        "menlo_park_office"
+      ],
+      "location_display": "Menlo Park, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c4e0774f-0f3e-4ea7-be27-fb89130c0d01"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "research",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0995,
+      "longitude": -118.3287,
+      "exact_address": "6434 Santa Monica Boulevard, Los Angeles, California 90038, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.7995,
+      "longitude": 144.9992,
+      "exact_address": "Suite 6, Ground Level, 452 Johnston Street, Abbotsford, Melbourne, Victoria, Australia - 3067",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "menlo_park_office",
+      "city": "Menlo Park",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4145,
+      "longitude": -122.1941,
+      "exact_address": "2128 Sand Hill Road, Menlo Park, California, United States - 94025",
+      "departments": [
+        "engineering",
+        "operations",
+        "research",
+        "hr",
+        "security",
+        "academy-training",
+        "finance"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "research",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7625,
+      "longitude": -122.4207,
+      "exact_address": "2261 Market Street, San Francisco, California, United States - 94114",
+      "departments": [
+        "engineering",
+        "research",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "research",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": "Seoul",
+      "country": "South Korea",
+      "latitude": 37.7624,
+      "longitude": 127.0779,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-05-07T08:37:19.529Z",
+    "current_valuation_usd": "$1.3B",
+    "current_valuation_usd_last_updated": "2026-05-07T08:37:19.529Z",
+    "total_funding_raised": "$605 million",
+    "total_funding_raised_last_updated": "2026-05-07T08:37:19.529Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Conviction Partners",
+        "domain": ""
+      },
+      {
+        "name": "DST Global",
+        "domain": "dst.gl"
+      },
+      {
+        "name": "Felicis",
+        "domain": "felicis.vc"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Conviction Partners",
+        "logo_url": "/investor-logos/conviction-partners.png"
+      },
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "Felicis",
+        "logo_url": null
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-07T08:37:19.529Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "visa-sponsorship",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "manual-edit",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-07T08:37:19.529Z",
+    "company_basic_information.website_url_last_updated": "2026-05-07T08:37:19.529Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-07T08:37:19.529Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-07T08:37:19.529Z",
+    "company_basic_information.last_updated": "2026-05-07",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-05-07T11:37:01.280Z",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:37:20.944Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-05-07T11:37:49.115Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:37:26.731Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T13:48:58.957Z",
+    "social_media.x_url_last_verified": "2026-05-07T11:40:13.677Z",
+    "social_media.linkedin_url_last_verified": "2026-05-07T11:39:41.269Z",
+    "business_details.industry_category_last_updated": "2026-05-07T08:37:19.529Z",
+    "business_details.industry_domains_last_updated": "2026-05-07T11:45:00.000Z",
+    "financial_information.funding_stage_last_updated": "2026-05-07T08:37:19.529Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-07T08:37:19.529Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-07T08:37:19.529Z",
+    "financial_information.investor_logos_last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[0].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[1].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[2].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[3].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[4].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[5].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[6].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[7].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[8].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[9].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[10].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[11].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[12].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[13].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[14].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[15].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[16].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[17].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[18].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[19].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[20].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[21].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[22].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[23].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[24].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[25].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[26].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[27].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[28].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[29].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[30].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[31].last_updated": "2026-05-07T08:37:19.529Z",
+    "location_mapping[32].last_updated": "2026-05-07T08:37:19.529Z",
+    "job_data.roles[0].posted_date": "2026-04-25",
+    "job_data.roles[1].posted_date": "2026-04-29",
+    "job_data.roles[2].posted_date": "2026-05-08",
+    "job_data.roles[3].posted_date": "2025-11-13",
+    "job_data.roles[4].posted_date": "2025-11-12",
+    "job_data.roles[5].posted_date": "2026-02-10",
+    "job_data.roles[6].posted_date": "2026-05-14",
+    "job_data.roles[7].posted_date": "2026-03-10",
+    "job_data.roles[7].title_updated_timestamp": "2026-05-07T11:44:24.562Z",
+    "job_data.roles[8].posted_date": "2025-10-31",
+    "job_data.roles[9].posted_date": "2026-05-21",
+    "job_data.roles[10].posted_date": "2026-06-03",
+    "job_data.roles[11].posted_date": "2026-05-27",
+    "job_data.roles[12].posted_date": "2026-05-26",
+    "job_data.roles[13].posted_date": "2026-06-10",
+    "job_data.roles[14].posted_date": "2026-06-11",
+    "job_data.roles[15].posted_date": "2026-07-09",
+    "job_data.roles[16].posted_date": "2026-08-02",
+    "job_data.roles[17].posted_date": "2026-08-02",
+    "job_data.roles[18].posted_date": "2026-08-16",
+    "job_data.roles[19].posted_date": "2026-08-16",
+    "job_data.roles[19].title_updated_timestamp": "2026-08-16T14:47:55.545Z",
+    "job_data.roles[20].posted_date": "2026-08-16",
+    "job_data.roles[21].posted_date": "2026-08-16",
+    "job_data.roles[22].posted_date": "2026-08-16",
+    "job_data.roles[23].posted_date": "2026-08-16",
+    "job_data.roles[24].posted_date": "2026-08-31",
+    "job_data.roles[25].posted_date": "2026-08-31",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.roles[27].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T10:03:15.312Z",
+    "benefits.visa-sponsorship.last_updated": "2026-06-06T18:15:15.171Z"
+  }
+}

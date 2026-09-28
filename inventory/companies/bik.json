@@ -1,0 +1,453 @@
+{
+  "slug": "bik",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/48991.62ba1097d9fcb1f6.js",
+  "observed_at": "2026-09-28T08:29:28.685324+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 18139,
+    "sha256": "3a545ca68457b3f19a70360946124b0c46d9894bbb0aa22290ffaae246b9072e",
+    "elapsed_seconds": 0.436,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:28 GMT",
+      "etag": "\"e48482ec455f1fc49ae8d1a5f09f1583\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:28 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "location_tbd_fallback",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "BIK",
+    "company_name_legal": "BIK",
+    "founded_year": 2019,
+    "website_url": "https://bik.ai",
+    "careers_url": "https://comida.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 190
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 8,
+    "last_updated": "2026-09-16T18:18:30.361Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 8,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "location_inference_method",
+    "location_inference_notes",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Support Engineer",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/120596",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "120596",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Customer Support Engineer revolve around providing technical support to customers, troubleshooting issues, and ensuring customer satisfaction. The role focuses on reactive support and communication with customers, which aligns closely with the customer support category."
+    },
+    {
+      "title": "Content Creator Intern",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/139305",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Part time",
+      "posted_date": null,
+      "keka_job_id": "139305"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/76025",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "76025"
+    },
+    {
+      "title": "Technical Account Manager - US Customers",
+      "title_original": "Technical Account Manager (US Customers)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-11T08:08:40.273Z",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/122159",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "122159",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Technical Account Manager involve managing the customer lifecycle, driving product adoption, and ensuring customer satisfaction, which are key aspects of customer success. The role focuses on building long-term relationships with customers and advocating for their needs, aligning perfectly with the customer-success category."
+    },
+    {
+      "title": "Customer Success Manager - Agentic Commerce",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/120638",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "120638",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Customer Success Manager include client onboarding, product adoption, relationship management, and driving upsells and renewals, which are all key aspects of customer success. The role focuses on ensuring client satisfaction and value realization from the platform, aligning closely with the customer-success category."
+    },
+    {
+      "title": "Onboarding and Implementation Manager - Marketing Automation",
+      "title_original": "Onboarding and Implementation Manager - Marketing Automation",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-08T18:44:57.423Z",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/130148",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "130148",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Onboarding and Implementation Manager focus on customer-facing tasks such as onboarding new clients, configuring automation flows, and training customer teams, which are all key functions within Customer Success. The role directly supports customers in successfully implementing the company's marketing automation platform."
+    },
+    {
+      "title": "Business Development Representative - Enterprise eCommerce",
+      "title_original": "Business Development Representative - Enterprise eCommerce",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-16T18:14:51.019Z",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/134681",
+      "location_ids": [
+        "remote_global_office"
+      ],
+      "location_display": "Remote, Global",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "134681",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Business Development Representative focus on building a pipeline, engaging decision-makers, and qualifying leads, which are all key functions within the sales department. The role emphasizes outbound prospecting and lead generation, aligning closely with sales activities rather than marketing or other areas."
+    },
+    {
+      "title": "Operations Manager - North America",
+      "title_original": "Operations Manager - North America",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-16T18:15:15.795Z",
+      "apply_url": "https://comida.keka.com/careers/jobdetails/121966",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "121966",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Operations Manager involve managing day-to-day operations, executing go-to-market strategies, and supporting hiring and team-building initiatives. These tasks align closely with the operations category, as they focus on the overall functioning and execution of business strategies."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9128,
+      "longitude": 77.6513,
+      "exact_address": "477, 18th Cross, 24th Main Rd, Parangi Palaya, 1st Sector, HSR Layout, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "customer-success",
+        "customer-support",
+        "marketing",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "remote_global_office",
+      "city": null,
+      "state": null,
+      "country": "Worldwide",
+      "latitude": 20,
+      "longitude": 0,
+      "exact_address": "Remote, Worldwide",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-02-13T14:45:25.158Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-02-13T14:45:25.158Z",
+    "total_funding_raised": "$12.80 million",
+    "total_funding_raised_last_updated": "2026-02-13T14:45:25.158Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-02-13T14:45:25.158Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].source": "ai_inference_upsert",
+    "location_mapping[11].source": "browser_verified_2026-09-16",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-13T14:45:25.158Z",
+    "company_basic_information.website_url_last_updated": "2026-02-13T14:45:25.158Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-13T14:45:25.158Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-13T14:45:25.158Z",
+    "company_basic_information.last_updated": "2026-02-13",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-13T14:53:55.997Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-13T14:54:09.475Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:31:11.968Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:33:22.391Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-13T15:35:48.331Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-02-13T15:37:21.892Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:31:24.956Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:33:32.633Z",
+    "social_media.x_url_last_verified": "2026-02-13T14:55:06.766Z",
+    "social_media.instagram_url_last_verified": "2026-02-13T15:45:47.668Z",
+    "social_media.linkedin_url_last_verified": "2026-02-13T15:36:35.711Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-13T14:45:25.158Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-13T14:45:25.158Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-13T14:45:25.158Z",
+    "financial_information.investor_logos_last_updated": "2026-02-13T14:45:25.158Z",
+    "location_mapping[0].last_updated": "2026-02-13T14:45:25.158Z",
+    "location_mapping[1].last_updated": "2026-05-11T08:08:40.273Z",
+    "job_data.roles[3].title_updated_timestamp": "2026-05-11T08:08:40.273Z",
+    "job_data.roles[5].title_updated_timestamp": "2026-06-08T18:44:57.423Z",
+    "job_data.roles[6].title_updated_timestamp": "2026-09-16T18:14:51.019Z",
+    "job_data.roles[7].title_updated_timestamp": "2026-09-16T18:15:15.795Z",
+    "job_data.last_updated": "2026-09-16T18:18:30.361Z"
+  }
+}

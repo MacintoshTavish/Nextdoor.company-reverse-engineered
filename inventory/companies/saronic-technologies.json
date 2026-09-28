@@ -1,0 +1,4709 @@
+{
+  "slug": "saronic-technologies",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/31845.ab277d8e5bd0c21c.js",
+  "observed_at": "2026-09-28T08:36:18.248077+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 150109,
+    "sha256": "e879708d03fe7e395f70e7ae6422362b943953de2b1c01acb207f7751b87f18c",
+    "elapsed_seconds": 0.231,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:18 GMT",
+      "etag": "\"5d74dbd460cb424769df104e5b6f206c\"",
+      "last-modified": "Mon, 28 Sep 2026 08:16:09 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Saronic Technologies",
+    "company_name_legal": "Saronic Technologies, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://saronic.com",
+    "careers_url": "https://jobs.ashbyhq.com/saronic",
+    "investor_portfolio_page": null,
+    "id": 5
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 253,
+    "last_updated": "2026-09-21T17:01:30.788Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 253,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Autonomous Sea Trials Test Planner",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e2a659b-c40d-4c52-a9a8-cd8b064eaf0b#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e2a659b-c40d-4c52-a9a8-cd8b064eaf0b"
+    },
+    {
+      "title": "Autonomous Sea Trials Test Planner",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e2a659b-c40d-4c52-a9a8-cd8b064eaf0b#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e2a659b-c40d-4c52-a9a8-cd8b064eaf0b"
+    },
+    {
+      "title": "Autonomy Integration Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/0d91b776-e15c-4c76-b7c3-5ce994232edc",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "0d91b776-e15c-4c76-b7c3-5ce994232edc"
+    },
+    {
+      "title": "Brand Designer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d84dd392-bfce-43dc-bf57-17a2883be8bd",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d84dd392-bfce-43dc-bf57-17a2883be8bd"
+    },
+    {
+      "title": "Business Development Manager – Special Operations (SOCOM)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3f9c2d39-8502-43f2-b7df-04c8038e8ee9",
+      "location_ids": [
+        "tampa_office"
+      ],
+      "location_display": "Tampa, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3f9c2d39-8502-43f2-b7df-04c8038e8ee9"
+    },
+    {
+      "title": "Camera Optomechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ed16a95b-8c65-4f95-afed-5682c58e3b57",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ed16a95b-8c65-4f95-afed-5682c58e3b57"
+    },
+    {
+      "title": "Civil/Site Engineer – Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/18062017-1191-4f45-a115-9aed563e54e0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "18062017-1191-4f45-a115-9aed563e54e0"
+    },
+    {
+      "title": "CNC Programmer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/339d3542-773d-48b7-9a68-bd9bcebded97",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "339d3542-773d-48b7-9a68-bd9bcebded97"
+    },
+    {
+      "title": "Commissioning Chief Engineer, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/764ea3db-8d4e-4c6b-adb2-8313dec1ad36",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "764ea3db-8d4e-4c6b-adb2-8313dec1ad36"
+    },
+    {
+      "title": "Commissioning Engineer – Propulsion, Electrical, & Mechanical Systems",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/86a5c4d4-819f-42cd-9ccf-d888ec0e950f",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "86a5c4d4-819f-42cd-9ccf-d888ec0e950f"
+    },
+    {
+      "title": "Commissioning Master Mariner, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5b33d8fd-8ca3-44f2-b58b-159b9abb885d",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5b33d8fd-8ca3-44f2-b58b-159b9abb885d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commissioning Master Mariner involve overseeing vessel operations, ensuring safety, and managing compliance with maritime regulations, which are all key aspects of operations within the maritime industry. The role requires significant leadership and operational management skills, particularly in the context of autonomous vessel testing and commissioning."
+    },
+    {
+      "title": "Commissioning Mate, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3cb8c370-257e-4e87-b9a5-903897916408",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3cb8c370-257e-4e87-b9a5-903897916408",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commissioning Mate involve the safe navigation and operation of an autonomous vessel, which aligns closely with maritime operations. The role includes standing a navigational watch and assisting in the execution of mission objectives, indicating a strong focus on operational duties."
+    },
+    {
+      "title": "Commodity Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/76e34425-946e-4114-ba5b-ee74b03bf573",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "76e34425-946e-4114-ba5b-ee74b03bf573"
+    },
+    {
+      "title": "Controls System Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e997de0-bd5b-4af3-8330-4fe161e0fe0c#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e997de0-bd5b-4af3-8330-4fe161e0fe0c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Controls System Technician involve installing, maintaining, troubleshooting, and repairing automated control systems and instrumentation, which are core engineering tasks. The role requires a strong technical background in instrumentation and control systems, aligning closely with engineering functions."
+    },
+    {
+      "title": "Controls System Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e997de0-bd5b-4af3-8330-4fe161e0fe0c#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e997de0-bd5b-4af3-8330-4fe161e0fe0c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Controls System Technician involve installing, maintaining, troubleshooting, and repairing automated control systems and instrumentation, which are core engineering tasks. The role requires a solid understanding of PLC systems and electrical schematics, indicating a strong engineering focus."
+    },
+    {
+      "title": "Corporate Development Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/57613eb6-c750-4cb3-841a-651238eaa685",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "57613eb6-c750-4cb3-841a-651238eaa685"
+    },
+    {
+      "title": "Diesel Mechanic",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/22c88269-6317-40f2-aa43-67511959b37f",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "22c88269-6317-40f2-aa43-67511959b37f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Diesel Mechanic involve maintaining, repairing, and troubleshooting diesel engines and related systems, which are essential for the operational efficiency of the autonomous surface vessels. This role is focused on the hands-on technical work required to ensure the reliability and performance of the equipment, aligning it closely with operations."
+    },
+    {
+      "title": "Documentation Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2f5fb058-0216-4029-a8c2-4dcd803a23bc",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2f5fb058-0216-4029-a8c2-4dcd803a23bc"
+    },
+    {
+      "title": "EHS Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2dcd745e-ebfa-40cd-9ba4-4f4756304134",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2dcd745e-ebfa-40cd-9ba4-4f4756304134"
+    },
+    {
+      "title": "EHS Trainer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/65372ecf-b427-4302-ae1d-1ee611cfa19d",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "65372ecf-b427-4302-ae1d-1ee611cfa19d"
+    },
+    {
+      "title": "Electrical Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/91b860da-c8da-4737-8643-962a29737f76",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "91b860da-c8da-4737-8643-962a29737f76"
+    },
+    {
+      "title": "Electrical Drafter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/16ee137d-f37a-4094-b921-8d08705e1d2d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "16ee137d-f37a-4094-b921-8d08705e1d2d"
+    },
+    {
+      "title": "Electrical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5353e481-3810-4a68-a09c-28235a17e086",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5353e481-3810-4a68-a09c-28235a17e086"
+    },
+    {
+      "title": "Electrical Engineer - Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d098c39c-c4a8-4218-93f8-3ce364de6b7e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d098c39c-c4a8-4218-93f8-3ce364de6b7e"
+    },
+    {
+      "title": "Electrical Engineering Technician - Radio Frequency",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/38dc2972-7b57-4f65-a1d4-f6e3ce105ee3",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "38dc2972-7b57-4f65-a1d4-f6e3ce105ee3"
+    },
+    {
+      "title": "Electrical Engineer – Radio Frequency (RF) Systems",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2201604e-606b-45c2-a4e6-9fd9088813f5",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2201604e-606b-45c2-a4e6-9fd9088813f5"
+    },
+    {
+      "title": "Electrical Engineer – UUVs & Undersea Electronics",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/05c92ce4-4c7f-4bc8-a9ac-5675e76e4479",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "05c92ce4-4c7f-4bc8-a9ac-5675e76e4479"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f5224c9c-bd7b-4805-9c14-a0c41492cf56",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f5224c9c-bd7b-4805-9c14-a0c41492cf56"
+    },
+    {
+      "title": "Fitter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/0d5f0adc-adc9-45e4-b195-5088c2611f29",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "0d5f0adc-adc9-45e4-b195-5088c2611f29",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Fitter role involve reading blueprints, fabricating, installing, and repairing pipe systems and structural parts, which are all key functions within operations. The job requires technical skills related to mechanical work and collaboration with other trades, emphasizing the operational aspects of ship construction and repair."
+    },
+    {
+      "title": "Forward Deployed Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f33184f4-52ef-4b75-b644-2a7d6d525118"
+    },
+    {
+      "title": "Forward Deployed Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4bd52e96-1903-4d2a-8e04-0e4d8851059e"
+    },
+    {
+      "title": "Hardware Engineer - Forward Deployed",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/11ba12ec-5438-4c90-b493-62f3a4664051",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "11ba12ec-5438-4c90-b493-62f3a4664051"
+    },
+    {
+      "title": "Hardware Engineer - Forward Deployed",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/abb1c82f-73b7-40e3-b822-906d699dbe3e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "abb1c82f-73b7-40e3-b822-906d699dbe3e"
+    },
+    {
+      "title": "Industrial Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e07f9fa6-c574-43c7-bf53-adc2f73e34a9",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e07f9fa6-c574-43c7-bf53-adc2f73e34a9"
+    },
+    {
+      "title": "Internal Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/722c5252-567d-4a20-bc55-72e4aa0466d3",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "722c5252-567d-4a20-bc55-72e4aa0466d3"
+    },
+    {
+      "title": "International Business Development & Defense Cooperation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/81680f8f-f9be-4c33-bad4-1b4a9c064a1f",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "81680f8f-f9be-4c33-bad4-1b4a9c064a1f"
+    },
+    {
+      "title": "IT Infrastructure Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ae83a732-101b-4457-bca1-a7cf57d8b857",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ae83a732-101b-4457-bca1-a7cf57d8b857"
+    },
+    {
+      "title": "IT Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c73740b5-d270-4f27-b822-b925ff9b16d9",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c73740b5-d270-4f27-b822-b925ff9b16d9"
+    },
+    {
+      "title": "IT Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b4efdbf3-095a-43dd-b08c-99120a7d1bb9#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b4efdbf3-095a-43dd-b08c-99120a7d1bb9"
+    },
+    {
+      "title": "IT Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b4efdbf3-095a-43dd-b08c-99120a7d1bb9#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b4efdbf3-095a-43dd-b08c-99120a7d1bb9"
+    },
+    {
+      "title": "Machinist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/898556c0-de7c-42f5-9cda-16daa0963a3d",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "898556c0-de7c-42f5-9cda-16daa0963a3d"
+    },
+    {
+      "title": "Manager - Special Programs in Maritime Operations",
+      "title_original": "Manager - Special Programs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T14:52:59.548Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/90481fdd-4181-4071-a859-483e18756c2e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "90481fdd-4181-4071-a859-483e18756c2e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Special Programs Manager is primarily focused on managing the administrative and operational aspects of a small engineering team, including project tracking, resource management, and budget oversight. This aligns closely with the operations category, as the responsibilities center around ensuring efficient project execution and collaboration across various functions."
+    },
+    {
+      "title": "Manufacturing Systems Engineering Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6799cc7a-2128-4e8e-825d-d9210c5a17d1",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "6799cc7a-2128-4e8e-825d-d9210c5a17d1"
+    },
+    {
+      "title": "Marine Alignment Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/8a7a12ca-9d53-4242-9c9e-f5d1d37bc83f",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8a7a12ca-9d53-4242-9c9e-f5d1d37bc83f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Marine Alignment Technician's primary responsibilities involve hands-on technical work related to vessel drivetrain alignment, equipment inspections, and supporting maritime operations. This aligns closely with the operations category, as the role focuses on ensuring the readiness and efficiency of vessel construction and commissioning."
+    },
+    {
+      "title": "Marine Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c03ba43f-127b-4172-ba41-7a6185ccf852",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c03ba43f-127b-4172-ba41-7a6185ccf852"
+    },
+    {
+      "title": "Marine Designer/Drafter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a29a5458-ab28-4265-b13a-b93dc2599bc4#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a29a5458-ab28-4265-b13a-b93dc2599bc4"
+    },
+    {
+      "title": "Marine Designer/Drafter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a29a5458-ab28-4265-b13a-b93dc2599bc4#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a29a5458-ab28-4265-b13a-b93dc2599bc4"
+    },
+    {
+      "title": "Marine Design Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d89a834b-6f5a-4ce3-b9cb-c706d97a2f1d#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d89a834b-6f5a-4ce3-b9cb-c706d97a2f1d"
+    },
+    {
+      "title": "Marine Design Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d89a834b-6f5a-4ce3-b9cb-c706d97a2f1d#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d89a834b-6f5a-4ce3-b9cb-c706d97a2f1d"
+    },
+    {
+      "title": "Marine Mechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/da8652a6-0da8-4d9e-bc59-a219046b0c7d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "da8652a6-0da8-4d9e-bc59-a219046b0c7d"
+    },
+    {
+      "title": "Materials Supervisor - Autonomous Vessel Production",
+      "title_original": "Materials Supervisor",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T14:54:17.479Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a9050093-5d77-4054-bb6c-06280eb68800",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a9050093-5d77-4054-bb6c-06280eb68800",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Materials Supervisor include overseeing material management, inventory control, logistics coordination, and ensuring compliance with industry standards, all of which fall under operations. The role focuses on managing the flow of materials for production, which is a key aspect of operational efficiency."
+    },
+    {
+      "title": "Mechanical Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a64df354-522c-4b9b-8b38-0a00fca519bd",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a64df354-522c-4b9b-8b38-0a00fca519bd"
+    },
+    {
+      "title": "Mechanical Design Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5f588e46-5bd6-428a-8f3b-a045262bbe14",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5f588e46-5bd6-428a-8f3b-a045262bbe14"
+    },
+    {
+      "title": "Mechanical Design Drafter (Hardware)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/7232abe3-f5b9-4a2e-b41f-b4cabe43ea50",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "7232abe3-f5b9-4a2e-b41f-b4cabe43ea50"
+    },
+    {
+      "title": "Mechanical Engineer – Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/8ce12769-a09a-403f-bcb2-afb9888ab6a0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8ce12769-a09a-403f-bcb2-afb9888ab6a0"
+    },
+    {
+      "title": "Mission Operations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2e889023-7a6d-42d8-bc6a-27a60c7d22b1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2e889023-7a6d-42d8-bc6a-27a60c7d22b1"
+    },
+    {
+      "title": "Mission Operations Engineer (Program)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c07e77a4-054f-41a5-911d-d866dcfe028a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c07e77a4-054f-41a5-911d-d866dcfe028a"
+    },
+    {
+      "title": "Mission Operations Engineer – Technical Instructor",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b25f3085-57cb-41e2-9e52-9d75c3dd4d43",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b25f3085-57cb-41e2-9e52-9d75c3dd4d43"
+    },
+    {
+      "title": "Mission Operations Specialist (Program)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d01d4903-eef6-45f6-83b8-06b40abae2d5",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d01d4903-eef6-45f6-83b8-06b40abae2d5"
+    },
+    {
+      "title": "Mission Operations Specialist - UK",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4963035d-84f5-4488-9964-c63b1e6660c9",
+      "location_ids": [
+        "portsmouth_office"
+      ],
+      "location_display": "Portsmouth, UK",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4963035d-84f5-4488-9964-c63b1e6660c9"
+    },
+    {
+      "title": "Naval Architect – Commercial Vessels",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/31921c47-e37d-4144-af5b-7fda3414bb16",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "31921c47-e37d-4144-af5b-7fda3414bb16"
+    },
+    {
+      "title": "Operations Specialist, Forward Deployed Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/920e7886-7419-4fe1-a12e-590c136c52de",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "920e7886-7419-4fe1-a12e-590c136c52de"
+    },
+    {
+      "title": "Outfit Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/60ab7f87-0179-436a-ac5e-d4fb0e784270",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "60ab7f87-0179-436a-ac5e-d4fb0e784270"
+    },
+    {
+      "title": "Outside Machinist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2be56c52-493b-40c3-95a0-4a2847fda616",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2be56c52-493b-40c3-95a0-4a2847fda616"
+    },
+    {
+      "title": "People Business Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a20a6302-cb85-4c29-b52b-d0148af1743a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a20a6302-cb85-4c29-b52b-d0148af1743a"
+    },
+    {
+      "title": "People Project Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b331c231-6e91-4046-a388-a61ddd2f3301",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b331c231-6e91-4046-a388-a61ddd2f3301"
+    },
+    {
+      "title": "Perception and Autonomy Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/36bc1c45-abbf-47dc-8fcb-11570da920bb",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "36bc1c45-abbf-47dc-8fcb-11570da920bb"
+    },
+    {
+      "title": "Perception Hardware Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/71265a74-1b2e-41ab-9533-098ce455961b",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "71265a74-1b2e-41ab-9533-098ce455961b"
+    },
+    {
+      "title": "Principal Mechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/23f9250b-eed0-49f3-a674-1b7be47fe452",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "23f9250b-eed0-49f3-a674-1b7be47fe452"
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/fe712a36-0fb9-484c-9b89-4b4fae505a95",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "fe712a36-0fb9-484c-9b89-4b4fae505a95"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b774434d-16d8-4b08-bb61-254b6ee71634",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b774434d-16d8-4b08-bb61-254b6ee71634"
+    },
+    {
+      "title": "Quality Engineer – Accuracy Control",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d2330bfb-ea14-4095-b1a5-af751bc95315",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d2330bfb-ea14-4095-b1a5-af751bc95315"
+    },
+    {
+      "title": "Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ad3c297a-af26-4a74-9c61-45bea0809f74",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ad3c297a-af26-4a74-9c61-45bea0809f74"
+    },
+    {
+      "title": "Recruiting Operations Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d719bc4c-8fd5-4d66-8f17-3eaffc2a9768",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d719bc4c-8fd5-4d66-8f17-3eaffc2a9768"
+    },
+    {
+      "title": "Salesforce Business System Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3047298d-a9a7-45bc-9a5d-bfe9a8f1e40b",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3047298d-a9a7-45bc-9a5d-bfe9a8f1e40b"
+    },
+    {
+      "title": "Security Engineer, Detection Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/61770fb7-97a5-4be3-9556-32b2ff522e6d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "61770fb7-97a5-4be3-9556-32b2ff522e6d"
+    },
+    {
+      "title": "Senior Business Development Lead, Nordics",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/774c8844-b385-4ce5-9f6f-7cc024076e39",
+      "location_ids": [
+        "copenhagen_office"
+      ],
+      "location_display": "Copenhagen, Denmark",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "774c8844-b385-4ce5-9f6f-7cc024076e39"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e7350b6c-55eb-4755-9a6e-20d30499b982#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e7350b6c-55eb-4755-9a6e-20d30499b982"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e7350b6c-55eb-4755-9a6e-20d30499b982#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e7350b6c-55eb-4755-9a6e-20d30499b982"
+    },
+    {
+      "title": "Senior Electrical Engineer – Maritime Acoustic Sensor Systems",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9d5dd4ee-ff55-4234-9795-fd36e70ecc94",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9d5dd4ee-ff55-4234-9795-fd36e70ecc94"
+    },
+    {
+      "title": "Senior Electrical Engineer – Navigation & Positioning Systems",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c05e1026-a103-4b41-bba0-6971431d7102",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c05e1026-a103-4b41-bba0-6971431d7102"
+    },
+    {
+      "title": "Senior Electrical Engineer – PCBA Schematic & Layout",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/65628400-7c42-423c-aadc-1e13fb0189fc",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "65628400-7c42-423c-aadc-1e13fb0189fc"
+    },
+    {
+      "title": "Senior Electrical Engineer - Platforms (Power Systems)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2e19243e-2d2d-4f02-974e-81a10b346a4d#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2e19243e-2d2d-4f02-974e-81a10b346a4d"
+    },
+    {
+      "title": "Senior Electrical Engineer - Platforms (Power Systems)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2e19243e-2d2d-4f02-974e-81a10b346a4d#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2e19243e-2d2d-4f02-974e-81a10b346a4d"
+    },
+    {
+      "title": "Senior Electrical Engineer – Power Systems",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5dd8f711-3dba-4c51-8528-ff48ad1193c7",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5dd8f711-3dba-4c51-8528-ff48ad1193c7"
+    },
+    {
+      "title": "Senior Electrical Test Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e1bb2891-b2ff-4f67-a732-69ade388534a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e1bb2891-b2ff-4f67-a732-69ade388534a"
+    },
+    {
+      "title": "Senior Forward Deployed Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c7d08e82-907e-4cee-8b50-bc2970df82f1",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c7d08e82-907e-4cee-8b50-bc2970df82f1"
+    },
+    {
+      "title": "Senior Forward Deployed Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/76a91bbc-76a7-4987-a6a3-0f3849f644d9",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "76a91bbc-76a7-4987-a6a3-0f3849f644d9"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/aaf993ec-7263-4f03-8b3b-7c3bf200b7f2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "aaf993ec-7263-4f03-8b3b-7c3bf200b7f2"
+    },
+    {
+      "title": "Senior/Lead Marine Designer/Drafter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b4c33d43-b036-4177-b750-4ad9eed98d24#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b4c33d43-b036-4177-b750-4ad9eed98d24"
+    },
+    {
+      "title": "Senior/Lead Marine Designer/Drafter",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b4c33d43-b036-4177-b750-4ad9eed98d24#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b4c33d43-b036-4177-b750-4ad9eed98d24"
+    },
+    {
+      "title": "Senior Naval Architect",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f6d48859-4a8c-4854-81e9-31444b3ba60c",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f6d48859-4a8c-4854-81e9-31444b3ba60c"
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c77a1355-5cae-4aa9-bc77-01c3b2273bc8",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c77a1355-5cae-4aa9-bc77-01c3b2273bc8"
+    },
+    {
+      "title": "Senior Technical Sourcer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e87b9726-3a8f-4e72-b821-ebaeb3af2b58",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e87b9726-3a8f-4e72-b821-ebaeb3af2b58"
+    },
+    {
+      "title": "Senior Wire Harness Design Engineer (EWIS)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4f33e7bd-94bf-4687-a807-4618c0144e08#loc-0",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4f33e7bd-94bf-4687-a807-4618c0144e08"
+    },
+    {
+      "title": "Senior Wire Harness Design Engineer (EWIS)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4f33e7bd-94bf-4687-a807-4618c0144e08#loc-1",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4f33e7bd-94bf-4687-a807-4618c0144e08"
+    },
+    {
+      "title": "Senior Wire Harness Design Engineer (EWIS)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/24acc2bc-3f0d-4be5-821f-5ded585f485d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "24acc2bc-3f0d-4be5-821f-5ded585f485d"
+    },
+    {
+      "title": "Shipyard Manufacturing Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e78a8cee-bcf4-4635-8ffe-81068d79566c",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e78a8cee-bcf4-4635-8ffe-81068d79566c"
+    },
+    {
+      "title": "Shipyard Technical Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/43834e25-fdf8-416c-975f-0ca6e49c87e3",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "43834e25-fdf8-416c-975f-0ca6e49c87e3",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Shipyard Technical Manager involve overseeing engineering and production activities, ensuring technical execution and operational integration within the shipyard. The role requires strong engineering knowledge and leadership in production and manufacturing engineering, which aligns closely with the engineering department."
+    },
+    {
+      "title": "Software Engineer, Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/7054836e-c21d-4a59-985a-6da638218c1a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "7054836e-c21d-4a59-985a-6da638218c1a"
+    },
+    {
+      "title": "Software Engineer - Special Programs",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d86ffa3f-14e0-4ccd-afac-9130fe8b4b0a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d86ffa3f-14e0-4ccd-afac-9130fe8b4b0a"
+    },
+    {
+      "title": "Staff/Principal Naval Architect",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/8ebf3f99-1c42-48bb-9746-7010ff700a84",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8ebf3f99-1c42-48bb-9746-7010ff700a84"
+    },
+    {
+      "title": "Staff Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f8ba0971-af84-4b79-a831-e74d4bbe43ec",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f8ba0971-af84-4b79-a831-e74d4bbe43ec"
+    },
+    {
+      "title": "Structural Build Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5da7a1e8-af87-4080-be0e-8f98433fe0f8",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5da7a1e8-af87-4080-be0e-8f98433fe0f8"
+    },
+    {
+      "title": "Structures Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/93188e7d-4f14-461f-b034-b50145930819",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "93188e7d-4f14-461f-b034-b50145930819"
+    },
+    {
+      "title": "Structures Test Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/89c34139-0005-4bd5-aa25-845d56a76bd3",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "89c34139-0005-4bd5-aa25-845d56a76bd3"
+    },
+    {
+      "title": "Sub-Assembly Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5ca1fd9a-7fb4-4cc3-9bbb-831887ec1da4",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5ca1fd9a-7fb4-4cc3-9bbb-831887ec1da4",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Sub-Assembly Technician involve assembling and integrating components for autonomous vessels, which falls under the operations category. The role requires hands-on mechanical and electronic assembly skills, as well as collaboration with engineers to improve assembly processes, aligning closely with operational functions."
+    },
+    {
+      "title": "Systems Architecture, Integration, and Test Engineer (Electrical and/or Software)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/1e3a3444-4218-4003-8442-660cc6163c9a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "1e3a3444-4218-4003-8442-660cc6163c9a"
+    },
+    {
+      "title": "Systems Architecture, Integration, and Test Engineer (Mechanical)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/85c2c8d6-4890-4440-be3d-72778b1948fe",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "85c2c8d6-4890-4440-be3d-72778b1948fe"
+    },
+    {
+      "title": "Systems Architecture, Integration, and Test Engineer (Test & Verification)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2331c410-d2f9-4320-967b-40e17c89b239",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2331c410-d2f9-4320-967b-40e17c89b239"
+    },
+    {
+      "title": "Systems Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e7e93e6e-1c61-45e6-8209-e6276564535d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e7e93e6e-1c61-45e6-8209-e6276564535d"
+    },
+    {
+      "title": "Technical Writer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3c9c69e9-c165-43bf-825c-f71d9d6aabed",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3c9c69e9-c165-43bf-825c-f71d9d6aabed"
+    },
+    {
+      "title": "Technical Writer, Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2bade3e9-0ef9-4ebf-8cca-52761794def7",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2bade3e9-0ef9-4ebf-8cca-52761794def7"
+    },
+    {
+      "title": "Welder Technician - Maritime Fabrication",
+      "title_original": "Welder (Technician/Fabrication)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T14:59:26.319Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/bee16057-c1f1-43f1-aef8-e596108964b9",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "bee16057-c1f1-43f1-aef8-e596108964b9",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Welder include performing welding tasks, inspecting completed welds, and maintaining welding equipment, all of which are integral to the operations within a shipyard environment. The role focuses on the technical execution of welding and fabrication, which aligns closely with operational functions in manufacturing and construction."
+    },
+    {
+      "title": "Wire Harness Design Engineer (EWIS)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3f83ac24-5da2-4b9b-a372-d207e86a417a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3f83ac24-5da2-4b9b-a372-d207e86a417a"
+    },
+    {
+      "title": "Wire Harness Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d67da9c7-9d2b-4f90-847f-fe3ddb8cba4b",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d67da9c7-9d2b-4f90-847f-fe3ddb8cba4b"
+    },
+    {
+      "title": "Workplace Assistant",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9878c053-4464-4c0f-b1d8-236f5696b235",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9878c053-4464-4c0f-b1d8-236f5696b235"
+    },
+    {
+      "title": "Accuracy Control Engineer (All Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/caa9a304-f5a8-4b22-919b-d58cdcbc2ca2#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "caa9a304-f5a8-4b22-919b-d58cdcbc2ca2"
+    },
+    {
+      "title": "Accuracy Control Engineer (All Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/caa9a304-f5a8-4b22-919b-d58cdcbc2ca2#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "caa9a304-f5a8-4b22-919b-d58cdcbc2ca2"
+    },
+    {
+      "title": "Associate Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/faedc1a5-99c2-41c8-a7ce-8329084b0224",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "faedc1a5-99c2-41c8-a7ce-8329084b0224"
+    },
+    {
+      "title": "Contracts Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/11726ce3-b63a-4bf3-9fc3-ec8475144452#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "11726ce3-b63a-4bf3-9fc3-ec8475144452"
+    },
+    {
+      "title": "Contracts Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/11726ce3-b63a-4bf3-9fc3-ec8475144452#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "11726ce3-b63a-4bf3-9fc3-ec8475144452"
+    },
+    {
+      "title": "Contracts Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/11726ce3-b63a-4bf3-9fc3-ec8475144452#loc-2",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "11726ce3-b63a-4bf3-9fc3-ec8475144452"
+    },
+    {
+      "title": "Controls System Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a62ce18c-8048-4a80-b368-96f7e4585a9c#loc-0",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a62ce18c-8048-4a80-b368-96f7e4585a9c"
+    },
+    {
+      "title": "Controls System Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a62ce18c-8048-4a80-b368-96f7e4585a9c#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a62ce18c-8048-4a80-b368-96f7e4585a9c"
+    },
+    {
+      "title": "Deputy Program Manager - SOCOM",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e9b824e-e59a-4559-86e6-87ac526419b4#loc-0",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e9b824e-e59a-4559-86e6-87ac526419b4"
+    },
+    {
+      "title": "Deputy Program Manager - SOCOM",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e9b824e-e59a-4559-86e6-87ac526419b4#loc-1",
+      "location_ids": [
+        "honolulu_office"
+      ],
+      "location_display": "Honolulu, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e9b824e-e59a-4559-86e6-87ac526419b4"
+    },
+    {
+      "title": "Deputy Program Manager - SOCOM",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4e9b824e-e59a-4559-86e6-87ac526419b4#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "4e9b824e-e59a-4559-86e6-87ac526419b4"
+    },
+    {
+      "title": "Diesel Mechanic",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f5e6aecd-7ff9-4537-850e-764979ad4408",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "f5e6aecd-7ff9-4537-850e-764979ad4408",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Diesel Mechanic involve maintaining, repairing, and troubleshooting diesel engines and related systems, which are essential for the operational efficiency of the autonomous surface vessels. This aligns closely with the operations category as it focuses on the technical maintenance and reliability of equipment used in maritime operations."
+    },
+    {
+      "title": "EHS Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/418c6b89-a7e4-41bb-8eb8-894141b82111",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "418c6b89-a7e4-41bb-8eb8-894141b82111"
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/da72b14c-4473-4df0-ba3f-08afd772a6ea#loc-0",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "da72b14c-4473-4df0-ba3f-08afd772a6ea"
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/da72b14c-4473-4df0-ba3f-08afd772a6ea#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "da72b14c-4473-4df0-ba3f-08afd772a6ea"
+    },
+    {
+      "title": "Mechanical Engineer, Hardware Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/44fd5e00-0ddf-4efb-8e81-18caddc331b1#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "44fd5e00-0ddf-4efb-8e81-18caddc331b1"
+    },
+    {
+      "title": "Mechanical Engineer, Hardware Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/44fd5e00-0ddf-4efb-8e81-18caddc331b1#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "44fd5e00-0ddf-4efb-8e81-18caddc331b1"
+    },
+    {
+      "title": "Mechanical Engineer - Special Programs",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/8e6399b9-2a1b-42f4-90f9-fcfabc51ac2f",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "8e6399b9-2a1b-42f4-90f9-fcfabc51ac2f"
+    },
+    {
+      "title": "Mission Operations Chief Engineer, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/902f938d-ca23-4e9f-895a-cc26da503434",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "902f938d-ca23-4e9f-895a-cc26da503434"
+    },
+    {
+      "title": "Mission Operations Manager, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3d3e04a2-5153-4fee-93f2-b242efb5656e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3d3e04a2-5153-4fee-93f2-b242efb5656e"
+    },
+    {
+      "title": "Mission Operations Master, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d3ad80db-8508-4677-95d6-93c5d7a33815",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d3ad80db-8508-4677-95d6-93c5d7a33815"
+    },
+    {
+      "title": "Mission Operations Mate, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/fa61107a-c799-4767-ab0d-4499e9f00c75",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "fa61107a-c799-4767-ab0d-4499e9f00c75"
+    },
+    {
+      "title": "Mission Operations Operator, ALPV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e77ffe62-52e3-4e24-991e-7494332fba37",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e77ffe62-52e3-4e24-991e-7494332fba37"
+    },
+    {
+      "title": "Mission Operations Sustainment Engineer, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/bb0ed7e9-09b8-423f-a394-1738390851f7",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "bb0ed7e9-09b8-423f-a394-1738390851f7"
+    },
+    {
+      "title": "NPI Quality Engineer - Mechanical",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b6f96b31-7549-47a4-aa58-adb6eb284583",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b6f96b31-7549-47a4-aa58-adb6eb284583"
+    },
+    {
+      "title": "People Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/7ac67e6d-b3ad-4ebc-99ce-a41536991839#loc-0",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "7ac67e6d-b3ad-4ebc-99ce-a41536991839"
+    },
+    {
+      "title": "People Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/7ac67e6d-b3ad-4ebc-99ce-a41536991839#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "7ac67e6d-b3ad-4ebc-99ce-a41536991839"
+    },
+    {
+      "title": "Porter/Driver",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/866d4db6-80ce-4439-ae61-b32052ea1495",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "866d4db6-80ce-4439-ae61-b32052ea1495"
+    },
+    {
+      "title": "Production Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/aee39549-ee6a-405d-876c-f30b905fd9c4#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "aee39549-ee6a-405d-876c-f30b905fd9c4"
+    },
+    {
+      "title": "Production Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/aee39549-ee6a-405d-876c-f30b905fd9c4#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "aee39549-ee6a-405d-876c-f30b905fd9c4"
+    },
+    {
+      "title": "Program Manager, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e3eca1a8-5c97-4659-9d68-cbf8b6247501#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e3eca1a8-5c97-4659-9d68-cbf8b6247501"
+    },
+    {
+      "title": "Program Manager, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e3eca1a8-5c97-4659-9d68-cbf8b6247501#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e3eca1a8-5c97-4659-9d68-cbf8b6247501"
+    },
+    {
+      "title": "Program Manager, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e3eca1a8-5c97-4659-9d68-cbf8b6247501#loc-2",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e3eca1a8-5c97-4659-9d68-cbf8b6247501"
+    },
+    {
+      "title": "Program Manager, Mission Package Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6029aa77-cc86-4e06-a3b7-438bd2e2dece#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "6029aa77-cc86-4e06-a3b7-438bd2e2dece"
+    },
+    {
+      "title": "Program Manager, Mission Package Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6029aa77-cc86-4e06-a3b7-438bd2e2dece#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "6029aa77-cc86-4e06-a3b7-438bd2e2dece"
+    },
+    {
+      "title": "Program Manager, Mission Package Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6029aa77-cc86-4e06-a3b7-438bd2e2dece#loc-2",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "6029aa77-cc86-4e06-a3b7-438bd2e2dece"
+    },
+    {
+      "title": "Program Manager, Mission Package Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6029aa77-cc86-4e06-a3b7-438bd2e2dece#loc-3",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "6029aa77-cc86-4e06-a3b7-438bd2e2dece"
+    },
+    {
+      "title": "Security Engineer, AI Platform Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/70d12fb4-31ac-4f7e-a7ab-9e172ee4d1e1#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "70d12fb4-31ac-4f7e-a7ab-9e172ee4d1e1"
+    },
+    {
+      "title": "Security Engineer, AI Platform Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/70d12fb4-31ac-4f7e-a7ab-9e172ee4d1e1#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "70d12fb4-31ac-4f7e-a7ab-9e172ee4d1e1"
+    },
+    {
+      "title": "Security Engineer, Application Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/127af12f-be14-45d6-9085-fd4b7b347134#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "127af12f-be14-45d6-9085-fd4b7b347134"
+    },
+    {
+      "title": "Security Engineer, Application Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/127af12f-be14-45d6-9085-fd4b7b347134#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "127af12f-be14-45d6-9085-fd4b7b347134"
+    },
+    {
+      "title": "Security Engineer, Cloud Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a4eb5041-a719-4448-b350-ce7d9ead0b6b#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a4eb5041-a719-4448-b350-ce7d9ead0b6b"
+    },
+    {
+      "title": "Security Engineer, Cloud Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a4eb5041-a719-4448-b350-ce7d9ead0b6b#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "a4eb5041-a719-4448-b350-ce7d9ead0b6b"
+    },
+    {
+      "title": "Security Engineer, Cyber Threat Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2e831f46-b2ec-4a43-99a3-1990808224e5#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2e831f46-b2ec-4a43-99a3-1990808224e5"
+    },
+    {
+      "title": "Security Engineer, Cyber Threat Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2e831f46-b2ec-4a43-99a3-1990808224e5#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2e831f46-b2ec-4a43-99a3-1990808224e5"
+    },
+    {
+      "title": "Security Engineer, Network Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/724d2a06-77d0-4ed6-bdf8-38adfbbe07c4#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "724d2a06-77d0-4ed6-bdf8-38adfbbe07c4"
+    },
+    {
+      "title": "Security Engineer, Network Security",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/724d2a06-77d0-4ed6-bdf8-38adfbbe07c4#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "724d2a06-77d0-4ed6-bdf8-38adfbbe07c4"
+    },
+    {
+      "title": "Security Liaison",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/16d41ab4-4704-44b6-8d4c-233a156cffd2#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "16d41ab4-4704-44b6-8d4c-233a156cffd2"
+    },
+    {
+      "title": "Security Liaison",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/16d41ab4-4704-44b6-8d4c-233a156cffd2#loc-1",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "16d41ab4-4704-44b6-8d4c-233a156cffd2"
+    },
+    {
+      "title": "Security Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/47a3d837-cd15-4234-a02d-7fdde811fc69#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "47a3d837-cd15-4234-a02d-7fdde811fc69"
+    },
+    {
+      "title": "Security Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/47a3d837-cd15-4234-a02d-7fdde811fc69#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "47a3d837-cd15-4234-a02d-7fdde811fc69"
+    },
+    {
+      "title": "Senior CNC Machinist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d53099bc-a97c-4396-a6a0-10da61ce7094",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d53099bc-a97c-4396-a6a0-10da61ce7094"
+    },
+    {
+      "title": "Senior Compensation Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3c27f824-6a70-40b7-be4f-f3e0a21a47c3",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3c27f824-6a70-40b7-be4f-f3e0a21a47c3"
+    },
+    {
+      "title": "Senior Contracts Manager – International",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e670671a-41aa-4998-9520-534a947b44a1#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e670671a-41aa-4998-9520-534a947b44a1"
+    },
+    {
+      "title": "Senior Contracts Manager – International",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e670671a-41aa-4998-9520-534a947b44a1#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e670671a-41aa-4998-9520-534a947b44a1"
+    },
+    {
+      "title": "Senior Contracts Manager – International",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e670671a-41aa-4998-9520-534a947b44a1#loc-2",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e670671a-41aa-4998-9520-534a947b44a1"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/eca81f2e-be8b-4a4d-ac93-07aaa3fc5c91",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "eca81f2e-be8b-4a4d-ac93-07aaa3fc5c91"
+    },
+    {
+      "title": "Senior Growth Manager, Navy",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9612a6dd-78af-460d-b821-9f01f43a051e",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9612a6dd-78af-460d-b821-9f01f43a051e"
+    },
+    {
+      "title": "Senior Mission Operations Sustainment Engineer, MUSV",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/1d8f72d3-3520-4d30-ae3d-82747c150caf",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "1d8f72d3-3520-4d30-ae3d-82747c150caf"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/0d610e35-2ee3-4a65-b813-cf3691bc2257",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "0d610e35-2ee3-4a65-b813-cf3691bc2257"
+    },
+    {
+      "title": "Senior NPI Quality Engineer - Electrical",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b74b8513-25cd-44ea-a16f-d821c2bde016",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "b74b8513-25cd-44ea-a16f-d821c2bde016"
+    },
+    {
+      "title": "Senior Proposals and Capture Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ddc9b7f7-e94a-41c6-8b34-c2035210e308",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "ddc9b7f7-e94a-41c6-8b34-c2035210e308"
+    },
+    {
+      "title": "Senior Security Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/be69a6b7-53d9-49dd-9294-1362c603006c#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "be69a6b7-53d9-49dd-9294-1362c603006c"
+    },
+    {
+      "title": "Senior Security Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/be69a6b7-53d9-49dd-9294-1362c603006c#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "be69a6b7-53d9-49dd-9294-1362c603006c"
+    },
+    {
+      "title": "Senior Systems Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/575fc898-0102-4396-88c8-b45b82abb775#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "575fc898-0102-4396-88c8-b45b82abb775"
+    },
+    {
+      "title": "Senior Systems Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/575fc898-0102-4396-88c8-b45b82abb775#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "575fc898-0102-4396-88c8-b45b82abb775"
+    },
+    {
+      "title": "Senior Systems Test Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d5f30d63-303c-4899-8d68-c248c8d7905b#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d5f30d63-303c-4899-8d68-c248c8d7905b"
+    },
+    {
+      "title": "Senior Systems Test Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d5f30d63-303c-4899-8d68-c248c8d7905b#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "d5f30d63-303c-4899-8d68-c248c8d7905b"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9d70cd7f-5492-4a24-9196-2343d8277a7e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9d70cd7f-5492-4a24-9196-2343d8277a7e"
+    },
+    {
+      "title": "Shipyard Build Strategy Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/79a043f5-af3c-4737-aa1a-a36c2d49de16#loc-0",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "79a043f5-af3c-4737-aa1a-a36c2d49de16"
+    },
+    {
+      "title": "Shipyard Build Strategy Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/79a043f5-af3c-4737-aa1a-a36c2d49de16#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "79a043f5-af3c-4737-aa1a-a36c2d49de16"
+    },
+    {
+      "title": "Shipyard Contractor & Trade Partner Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3abfb985-f349-44fd-84d2-be27ebe55b79#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3abfb985-f349-44fd-84d2-be27ebe55b79",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on integrating external labor and subcontractors into shipyard operations, ensuring alignment with safety, quality, and production standards. This aligns closely with operations, as it involves managing workflows and contractor performance to support production efficiency."
+    },
+    {
+      "title": "Shipyard Contractor & Trade Partner Integration",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/3abfb985-f349-44fd-84d2-be27ebe55b79#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "3abfb985-f349-44fd-84d2-be27ebe55b79",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on integrating external contractors into shipyard operations, ensuring safety, quality, and performance standards are met, which aligns closely with operations management. The role involves coordination with various internal teams and managing contractor performance, making operations the most prominent category."
+    },
+    {
+      "title": "Shipyard Facilities Operations & Asset Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/054bd28f-1072-4457-a5a2-4f1f906e0ae3#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "054bd28f-1072-4457-a5a2-4f1f906e0ae3"
+    },
+    {
+      "title": "Shipyard Facilities Operations & Asset Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/054bd28f-1072-4457-a5a2-4f1f906e0ae3#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "054bd28f-1072-4457-a5a2-4f1f906e0ae3"
+    },
+    {
+      "title": "Shipyard Industrial Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/307bc374-a5ba-48a1-a514-4a6db43e5331#loc-0",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "307bc374-a5ba-48a1-a514-4a6db43e5331"
+    },
+    {
+      "title": "Shipyard Industrial Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/307bc374-a5ba-48a1-a514-4a6db43e5331#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "307bc374-a5ba-48a1-a514-4a6db43e5331"
+    },
+    {
+      "title": "Shipyard Industrial Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9376684b-98b1-4e9f-b250-af22e1a92f22#loc-0",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9376684b-98b1-4e9f-b250-af22e1a92f22"
+    },
+    {
+      "title": "Shipyard Industrial Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9376684b-98b1-4e9f-b250-af22e1a92f22#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "9376684b-98b1-4e9f-b250-af22e1a92f22"
+    },
+    {
+      "title": "Shipyard Optimization Manager - Maritime Engineering",
+      "title_original": "Shipyard Optimization Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-26T15:50:48.330Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5d18f9b4-e9b2-4b08-9e6e-6c4411b17c75#loc-0",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5d18f9b4-e9b2-4b08-9e6e-6c4411b17c75",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Shipyard Optimization Manager focus on technical authority in shipyard build strategy, manufacturing engineering, and operational flow, which are all core aspects of engineering. The role involves integrating manufacturing engineering principles and defining automation opportunities, further emphasizing its engineering nature."
+    },
+    {
+      "title": "Shipyard Optimization Manager - Maritime Operations",
+      "title_original": "Shipyard Optimization Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-26T15:51:21.918Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/5d18f9b4-e9b2-4b08-9e6e-6c4411b17c75#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "5d18f9b4-e9b2-4b08-9e6e-6c4411b17c75",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Shipyard Optimization Manager revolve around defining shipyard build strategies, integrating manufacturing engineering principles, and advising on facility design and operational flow. These tasks are closely aligned with operations, particularly in the context of manufacturing and production systems."
+    },
+    {
+      "title": "Shipyard Production Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e3539993-a4c5-43f6-8235-ffee0b2e14c0#loc-0",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e3539993-a4c5-43f6-8235-ffee0b2e14c0"
+    },
+    {
+      "title": "Shipyard Production Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e3539993-a4c5-43f6-8235-ffee0b2e14c0#loc-1",
+      "location_ids": [
+        "new_orleans_office"
+      ],
+      "location_display": "New Orleans, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "e3539993-a4c5-43f6-8235-ffee0b2e14c0"
+    },
+    {
+      "title": "Site Quality Manager (NDT Level 3)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c5b39511-91cb-477c-a9ca-f97d20f49687#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c5b39511-91cb-477c-a9ca-f97d20f49687"
+    },
+    {
+      "title": "Site Quality Manager (NDT Level 3)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c5b39511-91cb-477c-a9ca-f97d20f49687#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c5b39511-91cb-477c-a9ca-f97d20f49687"
+    },
+    {
+      "title": "Systems Software Engineer, Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c70261ad-4e3f-47a4-9032-020b9c899752#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c70261ad-4e3f-47a4-9032-020b9c899752"
+    },
+    {
+      "title": "Systems Software Engineer, Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c70261ad-4e3f-47a4-9032-020b9c899752#loc-1",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "c70261ad-4e3f-47a4-9032-020b9c899752"
+    },
+    {
+      "title": "Weld Engineer (All Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2716eacb-2a2f-485c-bf89-8f23da656f32#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2716eacb-2a2f-485c-bf89-8f23da656f32"
+    },
+    {
+      "title": "Weld Engineer (All Levels)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2716eacb-2a2f-485c-bf89-8f23da656f32#loc-1",
+      "location_ids": [
+        "brownsville_office"
+      ],
+      "location_display": "Brownsville, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-26",
+      "ashby_job_id": "2716eacb-2a2f-485c-bf89-8f23da656f32"
+    },
+    {
+      "title": "ASV Operator",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/eae1f47a-92cd-41cf-9e9d-51432d204524",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "eae1f47a-92cd-41cf-9e9d-51432d204524",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The ASV Operator role primarily involves hands-on testing of Autonomous Surface Vessels (ASVs) in real-world conditions, which aligns closely with robotics. The responsibilities include collaboration with engineering for troubleshooting and performance assessment of autonomous systems, indicating a strong focus on robotics technology."
+    },
+    {
+      "title": "Diesel Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9055caf2-dbc6-4b2c-b276-a2a0f143189e",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "9055caf2-dbc6-4b2c-b276-a2a0f143189e"
+    },
+    {
+      "title": "Editorial Manager",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ec189801-3e73-43ea-983d-e34b616fc710",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "ec189801-3e73-43ea-983d-e34b616fc710"
+    },
+    {
+      "title": "Electrical Test Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c95f2a7f-b926-46fe-94e6-f5c495418702",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "c95f2a7f-b926-46fe-94e6-f5c495418702"
+    },
+    {
+      "title": "End of Line Supervisor - Autonomous Surface Vessels",
+      "title_original": "End of Line Supervisor",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-07T17:40:27.224Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9412cc59-035b-4595-baea-04c4f2b50104",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "9412cc59-035b-4595-baea-04c4f2b50104",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the End of Line Supervisor involve overseeing the final assembly, testing, and quality assurance of autonomous surface vessels, which are key aspects of operations in a manufacturing environment. The role also emphasizes process optimization and compliance with regulatory standards, further solidifying its classification under operations."
+    },
+    {
+      "title": "End of Line Technician",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/58788091-117c-4f58-a20e-d780fd818d9f",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "58788091-117c-4f58-a20e-d780fd818d9f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the End of Line Technician involve performing end-of-line testing, troubleshooting, and validation of mechanical and electrical systems in autonomous vessels, which aligns closely with operations. The role focuses on ensuring quality and functionality before delivery, indicating a strong operational emphasis."
+    },
+    {
+      "title": "LMS Technical Administrator (Contract, Part Time)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c3e6eb90-a985-4200-917b-e1557b9cc514",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, U.S.",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "c3e6eb90-a985-4200-917b-e1557b9cc514"
+    },
+    {
+      "title": "Metrology Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/17f5f5cb-8e13-443d-afb4-e2ddb6155248",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "17f5f5cb-8e13-443d-afb4-e2ddb6155248"
+    },
+    {
+      "title": "Mission Operations Specialist (Product)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a928e429-5633-4c26-89f9-19a42b82ac0d",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "a928e429-5633-4c26-89f9-19a42b82ac0d"
+    },
+    {
+      "title": "Mission Operations Specialist (Product)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c2838c16-1097-4598-bbe6-78b99c1aeb8d",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "c2838c16-1097-4598-bbe6-78b99c1aeb8d"
+    },
+    {
+      "title": "Mission Operations Specialist (Product)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/352e0463-e7a1-4238-b6ba-f1acd8a607b8",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "352e0463-e7a1-4238-b6ba-f1acd8a607b8"
+    },
+    {
+      "title": "Mission Operations Specialist (Program)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b0b3302b-a6ea-4fe0-bef8-b4c045850dc4",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "b0b3302b-a6ea-4fe0-bef8-b4c045850dc4"
+    },
+    {
+      "title": "Mission Operations Specialist (Program)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/d39cdcaf-a827-4ee3-a55e-2c664a5a9884",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "d39cdcaf-a827-4ee3-a55e-2c664a5a9884"
+    },
+    {
+      "title": "Mission Operations Specialist, Training",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/67cd78df-1089-4cb8-9685-81faad6df0cf",
+      "location_ids": [
+        "san_diego_office"
+      ],
+      "location_display": "San Diego, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "67cd78df-1089-4cb8-9685-81faad6df0cf"
+    },
+    {
+      "title": "Mission Operations Specialist, Training",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c649e723-b389-4b43-93f3-7eb80d030c3e",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "c649e723-b389-4b43-93f3-7eb80d030c3e"
+    },
+    {
+      "title": "Quality Inspector",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/1ada217b-147f-4c10-8553-ed60d60442f2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "1ada217b-147f-4c10-8553-ed60d60442f2"
+    },
+    {
+      "title": "Quality Inspector - Wire Harness (1st or 2nd Shift)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/4190e914-949e-435d-9902-a475b2a7042e",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "4190e914-949e-435d-9902-a475b2a7042e"
+    },
+    {
+      "title": "Senior Program Coordinator, Mission Operations",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/9ca498e6-510d-4485-a8f3-d09fb81af7a7",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "9ca498e6-510d-4485-a8f3-d09fb81af7a7"
+    },
+    {
+      "title": "Training Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/cf5c665d-8447-4e5d-b7eb-b2b3ae9b5d2f",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "cf5c665d-8447-4e5d-b7eb-b2b3ae9b5d2f"
+    },
+    {
+      "title": "Business Systems Analyst - Enterprise Applications",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a144d9b9-08bd-4084-a5b9-ea458a72c250",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "a144d9b9-08bd-4084-a5b9-ea458a72c250"
+    },
+    {
+      "title": "Buyer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/de1b4117-d87b-4376-bd2f-287af9de5c2a",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "de1b4117-d87b-4376-bd2f-287af9de5c2a"
+    },
+    {
+      "title": "Commissioning Assistant Engineer, Marauder",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c33b5a59-63b5-45de-848d-18d9cb15c354",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "c33b5a59-63b5-45de-848d-18d9cb15c354"
+    },
+    {
+      "title": "Diesel Technician, Instructor",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/473d2c45-6271-4959-a281-0ad3cf67a114",
+      "location_ids": [
+        "virginia_beach_office"
+      ],
+      "location_display": "Virginia Beach, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "473d2c45-6271-4959-a281-0ad3cf67a114"
+    },
+    {
+      "title": "Director of International Growth - Australia",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/552906b5-671d-41e4-83af-2fad2e5c56bb",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "552906b5-671d-41e4-83af-2fad2e5c56bb"
+    },
+    {
+      "title": "EHS Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/45058422-8f60-426d-af8a-a5567d68deb7",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "45058422-8f60-426d-af8a-a5567d68deb7"
+    },
+    {
+      "title": "Electrical Engineer Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "c7779462-3c4c-44d9-8314-1be93a0e478a"
+    },
+    {
+      "title": "Enterprise Technology Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1"
+    },
+    {
+      "title": "Forward Deployed Engineer Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce"
+    },
+    {
+      "title": "IT Intern - Maritime Technology",
+      "title_original": "Information Technology Intern (Summer 2027)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T17:09:42.458Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "0fa1ca8f-0dca-43cc-a5fa-59c40840986f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the IT Intern include providing support for hardware, software, and network issues, troubleshooting technical problems, and performing routine system maintenance, all of which are core functions of the IT department. The qualifications also emphasize a background in information technology and related fields."
+    },
+    {
+      "title": "Machine Shop Helper",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/8b45b5af-5831-4b0b-bb3d-306eb2bca18b",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "8b45b5af-5831-4b0b-bb3d-306eb2bca18b"
+    },
+    {
+      "title": "Manufacturing Engineer Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "2b037fca-754c-4077-b224-eb35cf2b2b97"
+    },
+    {
+      "title": "Material Expeditor",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/17666ef4-875e-4761-bd4e-c1d2a06e4d98",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "17666ef4-875e-4761-bd4e-c1d2a06e4d98"
+    },
+    {
+      "title": "Materials Handler",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/c22f0c70-2162-47eb-a07d-39bdbb25f6c7",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "c22f0c70-2162-47eb-a07d-39bdbb25f6c7"
+    },
+    {
+      "title": "Materials Supervisor - Autonomous Vessels Production",
+      "title_original": "Materials Supervisor",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T17:10:07.340Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/ac213e44-190e-4d47-9af0-5dd564afc2f8",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "ac213e44-190e-4d47-9af0-5dd564afc2f8",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Materials Supervisor include managing the procurement, storage, and distribution of materials, overseeing inventory control, and coordinating logistics, all of which fall under operations. The role focuses on ensuring materials are available for production schedules and maintaining supply chain efficiency, which aligns closely with operations management."
+    },
+    {
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "f52ae6eb-7eba-4c64-97c7-57e2a234e088"
+    },
+    {
+      "title": "Naval Architect Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/fc6124a1-85a2-4c3f-82f5-4534ae443411",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "fc6124a1-85a2-4c3f-82f5-4534ae443411"
+    },
+    {
+      "title": "NPI Quality Inspector",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/425e8806-7fae-4ad7-939f-2d4b0c8e79cc",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "425e8806-7fae-4ad7-939f-2d4b0c8e79cc"
+    },
+    {
+      "title": "People Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/0923b6cb-00ff-4bc5-ac9f-51cf2952eb6f",
+      "location_ids": [
+        "arlington_office"
+      ],
+      "location_display": "Arlington, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "0923b6cb-00ff-4bc5-ac9f-51cf2952eb6f"
+    },
+    {
+      "title": "QA Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/b755231a-759e-4c8f-8121-3e69a23e9949",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "b755231a-759e-4c8f-8121-3e69a23e9949"
+    },
+    {
+      "title": "Senior Electrical R&D Test Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/a2d3a286-e5e9-4c5f-8d38-c1cdd01ffaec",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "a2d3a286-e5e9-4c5f-8d38-c1cdd01ffaec"
+    },
+    {
+      "title": "Senior People Operations Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/e8453502-5abe-4843-9973-93fa51276192",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "e8453502-5abe-4843-9973-93fa51276192"
+    },
+    {
+      "title": "Senior People Systems Administrator",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/722d0374-800a-47c4-8a79-0e73a714da83",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "722d0374-800a-47c4-8a79-0e73a714da83"
+    },
+    {
+      "title": "Software Engineer Intern (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "60afb634-5515-4347-824a-3816735541c2"
+    },
+    {
+      "title": "Space Planning Coordinator - Workplace Management",
+      "title_original": "Space Planning Coordinator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T17:10:29.968Z",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/22af2869-8f41-40be-b3aa-3a16a0d0359a",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "22af2869-8f41-40be-b3aa-3a16a0d0359a",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Space Planning Coordinator involve managing workplace capacity, occupancy planning, and coordinating moves within the office environment. These tasks align closely with administrative functions focused on office management and space utilization."
+    },
+    {
+      "title": "Supplier Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/18a313ac-1090-45dd-a4e8-89e6192a6dbf",
+      "location_ids": [
+        "franklin_office"
+      ],
+      "location_display": "Franklin, USA",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "18a313ac-1090-45dd-a4e8-89e6192a6dbf"
+    },
+    {
+      "title": "Technical Writer, Service",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/7e9137a4-8f6d-49b8-a19f-6aec1a3873bf",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "7e9137a4-8f6d-49b8-a19f-6aec1a3873bf"
+    },
+    {
+      "title": "Training Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/f4346fd8-e6ad-4b37-bd4b-a2f692e99135",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "f4346fd8-e6ad-4b37-bd4b-a2f692e99135"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "austin_office",
+      "city": "austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2405,
+      "longitude": -97.7431,
+      "exact_address": "510 E Saint Elmo Rd, Ste A-2, Austin, Texas, United States - 78745",
+      "departments": [
+        "finance",
+        "sales",
+        "operations",
+        "security",
+        "engineering",
+        "other",
+        "product",
+        "design",
+        "content-production",
+        "legal",
+        "qa",
+        "data",
+        "marketing",
+        "academy-training",
+        "administration",
+        "research",
+        "customer-support",
+        "hr"
+      ],
+      "employee_count": "1-999"
+    },
+    {
+      "location_id": "canberra_office",
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "latitude": -35.2809,
+      "longitude": 149.13,
+      "exact_address": "Canberra, Australian Capital Territory, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_orleans_office",
+      "city": "new orleans",
+      "state": "Louisiana",
+      "country": "United States",
+      "latitude": 29.9509,
+      "longitude": -90.0672,
+      "exact_address": "Place St. Charles, 201 St. Charles Avenue, New Orleans, Louisiana, United States - 70130",
+      "departments": [
+        "security",
+        "engineering",
+        "legal",
+        "design",
+        "other",
+        "operations",
+        "qa"
+      ],
+      "employee_count": "up to 75"
+    },
+    {
+      "location_id": "san_diego_office",
+      "city": "san diego",
+      "state": "California",
+      "country": "United States",
+      "latitude": 32.7615,
+      "longitude": -117.2042,
+      "exact_address": "2727 Kurtz St., San Diego, California, United States - 92110",
+      "departments": [
+        "sales",
+        "finance",
+        "security",
+        "data",
+        "other",
+        "engineering",
+        "customer-support"
+      ],
+      "employee_count": "35+ (aiming for 100+)"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "operations",
+        "security",
+        "data",
+        "other",
+        "engineering",
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Level 12, 680 George Street, Sydney, NSW 2000, Australia",
+      "departments": [
+        "sales",
+        "data",
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "other",
+        "sales",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "franklin_office",
+      "city": "Franklin",
+      "state": "Louisiana",
+      "country": "United States",
+      "latitude": 29.7963,
+      "longitude": -91.5013,
+      "exact_address": "Franklin, Louisiana, United States",
+      "departments": [
+        "engineering",
+        "operations",
+        "hr",
+        "qa",
+        "other",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "virginia_beach_office",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 36.8529,
+      "longitude": -75.978,
+      "exact_address": "Virginia Beach, Virginia, United States",
+      "departments": [
+        "engineering",
+        "operations",
+        "sales",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "galveston_office",
+      "city": "Galveston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.3013,
+      "longitude": -94.7977,
+      "exact_address": "Galveston, Texas, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "qa",
+        "other",
+        "engineering",
+        "it",
+        "design",
+        "administration"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tampa_office",
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "exact_address": "Tampa, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "arlington_office",
+      "city": "Arlington",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 38.8816,
+      "longitude": -77.091,
+      "exact_address": "Arlington, Virginia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "portsmouth_office",
+      "city": "Portsmouth",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 50.8198,
+      "longitude": -1.088,
+      "exact_address": "Portsmouth, United Kingdom",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "brownsville_office",
+      "city": "Brownsville",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 25.9017,
+      "longitude": -97.4975,
+      "exact_address": "Brownsville, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "honolulu_office",
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "country": "United States",
+      "latitude": 21.3099,
+      "longitude": -157.8581,
+      "exact_address": "Honolulu, Hawaii, United States",
+      "departments": [
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-04-05T19:43:36.814Z",
+    "current_valuation_usd": "$9.25 billion",
+    "current_valuation_usd_last_updated": "2026-04-05T19:43:36.814Z",
+    "total_funding_raised": "$845.5 million",
+    "total_funding_raised_last_updated": "2026-04-05T19:43:36.814Z",
+    "key_investors": [
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kleinerperkins.com"
+      },
+      {
+        "name": "Elad Gil",
+        "domain": ""
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Caffeinated Capital",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Elad Gil",
+        "logo_url": "/investor-logos/elad-gil.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Caffeinated Capital",
+        "logo_url": "/investor-logos/caffeinated-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-05T19:43:36.814Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].x_twitter_verified_by": "sankalp",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-05T19:43:36.814Z",
+    "company_basic_information.website_url_last_updated": "2026-04-05T19:43:36.814Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-05T19:43:36.814Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-05T19:43:36.814Z",
+    "company_basic_information.last_updated": "2026-04-05",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-06T10:08:32.163Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-07T10:10:55.737Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-06T10:09:15.383Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-04-07T09:26:09.999Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-06T10:10:18.227Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-04-07T09:26:09.999Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-04-06T10:11:20.725Z",
+    "leadership.founders[3].x_twitter_last_verified": "2026-04-07T09:26:09.999Z",
+    "social_media.x_url_last_verified": "2026-04-06T10:11:57.073Z",
+    "social_media.linkedin_url_last_verified": "2026-04-20T09:26:15.724Z",
+    "social_media.instagram_url_last_verified": "2026-04-07T09:26:09.999Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-04-05T19:43:36.814Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-05T19:43:36.814Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-05T19:43:36.814Z",
+    "financial_information.investor_logos_last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[0].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[1].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[2].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[3].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[4].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[5].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[6].last_updated": "2026-04-05T19:43:36.814Z",
+    "location_mapping[7].last_updated": "2026-04-07T09:48:12.684Z",
+    "location_mapping[8].last_updated": "2026-04-07T09:48:12.684Z",
+    "location_mapping[9].last_updated": "2026-04-07T09:48:12.684Z",
+    "location_mapping[13].last_updated": "2026-08-11T14:53:41.615Z",
+    "location_mapping[14].last_updated": "2026-08-11T14:53:46.816Z",
+    "location_mapping[15].last_updated": "2026-08-11T14:53:49.806Z",
+    "job_data.roles[0].posted_date": "2026-08-26",
+    "job_data.roles[1].posted_date": "2026-08-26",
+    "job_data.roles[2].posted_date": "2026-08-26",
+    "job_data.roles[3].posted_date": "2026-08-26",
+    "job_data.roles[4].posted_date": "2026-08-26",
+    "job_data.roles[5].posted_date": "2026-08-26",
+    "job_data.roles[6].posted_date": "2026-08-26",
+    "job_data.roles[7].posted_date": "2026-08-26",
+    "job_data.roles[8].posted_date": "2026-08-26",
+    "job_data.roles[9].posted_date": "2026-08-26",
+    "job_data.roles[10].posted_date": "2026-08-26",
+    "job_data.roles[11].posted_date": "2026-08-26",
+    "job_data.roles[12].posted_date": "2026-08-26",
+    "job_data.roles[13].posted_date": "2026-08-26",
+    "job_data.roles[14].posted_date": "2026-08-26",
+    "job_data.roles[15].posted_date": "2026-08-26",
+    "job_data.roles[16].posted_date": "2026-08-26",
+    "job_data.roles[17].posted_date": "2026-08-26",
+    "job_data.roles[18].posted_date": "2026-08-26",
+    "job_data.roles[19].posted_date": "2026-08-26",
+    "job_data.roles[20].posted_date": "2026-08-26",
+    "job_data.roles[21].posted_date": "2026-08-26",
+    "job_data.roles[22].posted_date": "2026-08-26",
+    "job_data.roles[23].posted_date": "2026-08-26",
+    "job_data.roles[24].posted_date": "2026-08-26",
+    "job_data.roles[25].posted_date": "2026-08-26",
+    "job_data.roles[26].posted_date": "2026-08-26",
+    "job_data.roles[27].posted_date": "2026-08-26",
+    "job_data.roles[28].posted_date": "2026-08-26",
+    "job_data.roles[29].posted_date": "2026-08-26",
+    "job_data.roles[30].posted_date": "2026-08-26",
+    "job_data.roles[31].posted_date": "2026-08-26",
+    "job_data.roles[32].posted_date": "2026-08-26",
+    "job_data.roles[33].posted_date": "2026-08-26",
+    "job_data.roles[34].posted_date": "2026-08-26",
+    "job_data.roles[35].posted_date": "2026-08-26",
+    "job_data.roles[36].posted_date": "2026-08-26",
+    "job_data.roles[37].posted_date": "2026-08-26",
+    "job_data.roles[38].posted_date": "2026-08-26",
+    "job_data.roles[39].posted_date": "2026-08-26",
+    "job_data.roles[40].posted_date": "2026-08-26",
+    "job_data.roles[41].posted_date": "2026-08-26",
+    "job_data.roles[41].title_updated_timestamp": "2026-08-11T14:52:59.548Z",
+    "job_data.roles[42].posted_date": "2026-08-26",
+    "job_data.roles[43].posted_date": "2026-08-26",
+    "job_data.roles[44].posted_date": "2026-08-26",
+    "job_data.roles[45].posted_date": "2026-08-26",
+    "job_data.roles[46].posted_date": "2026-08-26",
+    "job_data.roles[47].posted_date": "2026-08-26",
+    "job_data.roles[48].posted_date": "2026-08-26",
+    "job_data.roles[49].posted_date": "2026-08-26",
+    "job_data.roles[50].posted_date": "2026-08-26",
+    "job_data.roles[50].title_updated_timestamp": "2026-08-11T14:54:17.479Z",
+    "job_data.roles[51].posted_date": "2026-08-26",
+    "job_data.roles[52].posted_date": "2026-08-26",
+    "job_data.roles[53].posted_date": "2026-08-26",
+    "job_data.roles[54].posted_date": "2026-08-26",
+    "job_data.roles[55].posted_date": "2026-08-26",
+    "job_data.roles[56].posted_date": "2026-08-26",
+    "job_data.roles[57].posted_date": "2026-08-26",
+    "job_data.roles[58].posted_date": "2026-08-26",
+    "job_data.roles[59].posted_date": "2026-08-26",
+    "job_data.roles[60].posted_date": "2026-08-26",
+    "job_data.roles[61].posted_date": "2026-08-26",
+    "job_data.roles[62].posted_date": "2026-08-26",
+    "job_data.roles[63].posted_date": "2026-08-26",
+    "job_data.roles[64].posted_date": "2026-08-26",
+    "job_data.roles[65].posted_date": "2026-08-26",
+    "job_data.roles[66].posted_date": "2026-08-26",
+    "job_data.roles[67].posted_date": "2026-08-26",
+    "job_data.roles[68].posted_date": "2026-08-26",
+    "job_data.roles[69].posted_date": "2026-08-26",
+    "job_data.roles[70].posted_date": "2026-08-26",
+    "job_data.roles[71].posted_date": "2026-08-26",
+    "job_data.roles[72].posted_date": "2026-08-26",
+    "job_data.roles[73].posted_date": "2026-08-26",
+    "job_data.roles[74].posted_date": "2026-08-26",
+    "job_data.roles[75].posted_date": "2026-08-26",
+    "job_data.roles[76].posted_date": "2026-08-26",
+    "job_data.roles[77].posted_date": "2026-08-26",
+    "job_data.roles[78].posted_date": "2026-08-26",
+    "job_data.roles[79].posted_date": "2026-08-26",
+    "job_data.roles[80].posted_date": "2026-08-26",
+    "job_data.roles[81].posted_date": "2026-08-26",
+    "job_data.roles[82].posted_date": "2026-08-26",
+    "job_data.roles[83].posted_date": "2026-08-26",
+    "job_data.roles[84].posted_date": "2026-08-26",
+    "job_data.roles[85].posted_date": "2026-08-26",
+    "job_data.roles[86].posted_date": "2026-08-26",
+    "job_data.roles[87].posted_date": "2026-08-26",
+    "job_data.roles[88].posted_date": "2026-08-26",
+    "job_data.roles[89].posted_date": "2026-08-26",
+    "job_data.roles[90].posted_date": "2026-08-26",
+    "job_data.roles[91].posted_date": "2026-08-26",
+    "job_data.roles[92].posted_date": "2026-08-26",
+    "job_data.roles[93].posted_date": "2026-08-26",
+    "job_data.roles[94].posted_date": "2026-08-26",
+    "job_data.roles[95].posted_date": "2026-08-26",
+    "job_data.roles[96].posted_date": "2026-08-26",
+    "job_data.roles[97].posted_date": "2026-08-26",
+    "job_data.roles[98].posted_date": "2026-08-26",
+    "job_data.roles[99].posted_date": "2026-08-26",
+    "job_data.roles[100].posted_date": "2026-08-26",
+    "job_data.roles[101].posted_date": "2026-08-26",
+    "job_data.roles[102].posted_date": "2026-08-26",
+    "job_data.roles[103].posted_date": "2026-08-26",
+    "job_data.roles[104].posted_date": "2026-08-26",
+    "job_data.roles[105].posted_date": "2026-08-26",
+    "job_data.roles[106].posted_date": "2026-08-26",
+    "job_data.roles[107].posted_date": "2026-08-26",
+    "job_data.roles[108].posted_date": "2026-08-26",
+    "job_data.roles[109].posted_date": "2026-08-26",
+    "job_data.roles[110].posted_date": "2026-08-26",
+    "job_data.roles[111].posted_date": "2026-08-26",
+    "job_data.roles[112].posted_date": "2026-08-26",
+    "job_data.roles[113].posted_date": "2026-08-26",
+    "job_data.roles[113].title_updated_timestamp": "2026-08-11T14:59:26.319Z",
+    "job_data.roles[114].posted_date": "2026-08-26",
+    "job_data.roles[115].posted_date": "2026-08-26",
+    "job_data.roles[116].posted_date": "2026-08-26",
+    "job_data.roles[117].posted_date": "2026-08-26",
+    "job_data.roles[118].posted_date": "2026-08-26",
+    "job_data.roles[119].posted_date": "2026-08-26",
+    "job_data.roles[120].posted_date": "2026-08-26",
+    "job_data.roles[121].posted_date": "2026-08-26",
+    "job_data.roles[122].posted_date": "2026-08-26",
+    "job_data.roles[123].posted_date": "2026-08-26",
+    "job_data.roles[124].posted_date": "2026-08-26",
+    "job_data.roles[125].posted_date": "2026-08-26",
+    "job_data.roles[126].posted_date": "2026-08-26",
+    "job_data.roles[127].posted_date": "2026-08-26",
+    "job_data.roles[128].posted_date": "2026-08-26",
+    "job_data.roles[129].posted_date": "2026-08-26",
+    "job_data.roles[130].posted_date": "2026-08-26",
+    "job_data.roles[131].posted_date": "2026-08-26",
+    "job_data.roles[132].posted_date": "2026-08-26",
+    "job_data.roles[133].posted_date": "2026-08-26",
+    "job_data.roles[134].posted_date": "2026-08-26",
+    "job_data.roles[135].posted_date": "2026-08-26",
+    "job_data.roles[136].posted_date": "2026-08-26",
+    "job_data.roles[137].posted_date": "2026-08-26",
+    "job_data.roles[138].posted_date": "2026-08-26",
+    "job_data.roles[139].posted_date": "2026-08-26",
+    "job_data.roles[140].posted_date": "2026-08-26",
+    "job_data.roles[141].posted_date": "2026-08-26",
+    "job_data.roles[142].posted_date": "2026-08-26",
+    "job_data.roles[143].posted_date": "2026-08-26",
+    "job_data.roles[144].posted_date": "2026-08-26",
+    "job_data.roles[145].posted_date": "2026-08-26",
+    "job_data.roles[146].posted_date": "2026-08-26",
+    "job_data.roles[147].posted_date": "2026-08-26",
+    "job_data.roles[148].posted_date": "2026-08-26",
+    "job_data.roles[149].posted_date": "2026-08-26",
+    "job_data.roles[150].posted_date": "2026-08-26",
+    "job_data.roles[151].posted_date": "2026-08-26",
+    "job_data.roles[152].posted_date": "2026-08-26",
+    "job_data.roles[153].posted_date": "2026-08-26",
+    "job_data.roles[154].posted_date": "2026-08-26",
+    "job_data.roles[155].posted_date": "2026-08-26",
+    "job_data.roles[156].posted_date": "2026-08-26",
+    "job_data.roles[157].posted_date": "2026-08-26",
+    "job_data.roles[158].posted_date": "2026-08-26",
+    "job_data.roles[159].posted_date": "2026-08-26",
+    "job_data.roles[160].posted_date": "2026-08-26",
+    "job_data.roles[161].posted_date": "2026-08-26",
+    "job_data.roles[162].posted_date": "2026-08-26",
+    "job_data.roles[163].posted_date": "2026-08-26",
+    "job_data.roles[164].posted_date": "2026-08-26",
+    "job_data.roles[165].posted_date": "2026-08-26",
+    "job_data.roles[166].posted_date": "2026-08-26",
+    "job_data.roles[167].posted_date": "2026-08-26",
+    "job_data.roles[168].posted_date": "2026-08-26",
+    "job_data.roles[169].posted_date": "2026-08-26",
+    "job_data.roles[170].posted_date": "2026-08-26",
+    "job_data.roles[171].posted_date": "2026-08-26",
+    "job_data.roles[172].posted_date": "2026-08-26",
+    "job_data.roles[173].posted_date": "2026-08-26",
+    "job_data.roles[174].posted_date": "2026-08-26",
+    "job_data.roles[175].posted_date": "2026-08-26",
+    "job_data.roles[176].posted_date": "2026-08-26",
+    "job_data.roles[177].posted_date": "2026-08-26",
+    "job_data.roles[178].posted_date": "2026-08-26",
+    "job_data.roles[179].posted_date": "2026-08-26",
+    "job_data.roles[180].posted_date": "2026-08-26",
+    "job_data.roles[181].posted_date": "2026-08-26",
+    "job_data.roles[182].posted_date": "2026-08-26",
+    "job_data.roles[183].posted_date": "2026-08-26",
+    "job_data.roles[184].posted_date": "2026-08-26",
+    "job_data.roles[185].posted_date": "2026-08-26",
+    "job_data.roles[186].posted_date": "2026-08-26",
+    "job_data.roles[187].posted_date": "2026-08-26",
+    "job_data.roles[188].posted_date": "2026-08-26",
+    "job_data.roles[189].posted_date": "2026-08-26",
+    "job_data.roles[190].posted_date": "2026-08-26",
+    "job_data.roles[191].posted_date": "2026-08-26",
+    "job_data.roles[192].posted_date": "2026-08-26",
+    "job_data.roles[193].posted_date": "2026-08-26",
+    "job_data.roles[194].posted_date": "2026-08-26",
+    "job_data.roles[195].posted_date": "2026-08-26",
+    "job_data.roles[196].posted_date": "2026-08-26",
+    "job_data.roles[196].title_updated_timestamp": "2026-08-26T15:50:48.330Z",
+    "job_data.roles[197].posted_date": "2026-08-26",
+    "job_data.roles[197].title_updated_timestamp": "2026-08-26T15:51:21.918Z",
+    "job_data.roles[198].posted_date": "2026-08-26",
+    "job_data.roles[199].posted_date": "2026-08-26",
+    "job_data.roles[200].posted_date": "2026-08-26",
+    "job_data.roles[201].posted_date": "2026-08-26",
+    "job_data.roles[202].posted_date": "2026-08-26",
+    "job_data.roles[203].posted_date": "2026-08-26",
+    "job_data.roles[204].posted_date": "2026-08-26",
+    "job_data.roles[205].posted_date": "2026-08-26",
+    "job_data.roles[206].posted_date": "2026-09-07",
+    "job_data.roles[207].posted_date": "2026-09-07",
+    "job_data.roles[208].posted_date": "2026-09-07",
+    "job_data.roles[209].posted_date": "2026-09-07",
+    "job_data.roles[210].posted_date": "2026-09-07",
+    "job_data.roles[210].title_updated_timestamp": "2026-09-07T17:40:27.224Z",
+    "job_data.roles[211].posted_date": "2026-09-07",
+    "job_data.roles[212].posted_date": "2026-09-07",
+    "job_data.roles[213].posted_date": "2026-09-07",
+    "job_data.roles[214].posted_date": "2026-09-07",
+    "job_data.roles[215].posted_date": "2026-09-07",
+    "job_data.roles[216].posted_date": "2026-09-07",
+    "job_data.roles[217].posted_date": "2026-09-07",
+    "job_data.roles[218].posted_date": "2026-09-07",
+    "job_data.roles[219].posted_date": "2026-09-07",
+    "job_data.roles[220].posted_date": "2026-09-07",
+    "job_data.roles[221].posted_date": "2026-09-07",
+    "job_data.roles[222].posted_date": "2026-09-07",
+    "job_data.roles[223].posted_date": "2026-09-07",
+    "job_data.roles[224].posted_date": "2026-09-07",
+    "job_data.roles[225].posted_date": "2026-09-21",
+    "job_data.roles[226].posted_date": "2026-09-21",
+    "job_data.roles[227].posted_date": "2026-09-21",
+    "job_data.roles[228].posted_date": "2026-09-21",
+    "job_data.roles[229].posted_date": "2026-09-21",
+    "job_data.roles[230].posted_date": "2026-09-21",
+    "job_data.roles[231].posted_date": "2026-09-21",
+    "job_data.roles[232].posted_date": "2026-09-21",
+    "job_data.roles[233].posted_date": "2026-09-21",
+    "job_data.roles[234].posted_date": "2026-09-21",
+    "job_data.roles[234].title_updated_timestamp": "2026-09-21T17:09:42.458Z",
+    "job_data.roles[235].posted_date": "2026-09-21",
+    "job_data.roles[236].posted_date": "2026-09-21",
+    "job_data.roles[237].posted_date": "2026-09-21",
+    "job_data.roles[238].posted_date": "2026-09-21",
+    "job_data.roles[239].posted_date": "2026-09-21",
+    "job_data.roles[239].title_updated_timestamp": "2026-09-21T17:10:07.340Z",
+    "job_data.roles[240].posted_date": "2026-09-21",
+    "job_data.roles[241].posted_date": "2026-09-21",
+    "job_data.roles[242].posted_date": "2026-09-21",
+    "job_data.roles[243].posted_date": "2026-09-21",
+    "job_data.roles[244].posted_date": "2026-09-21",
+    "job_data.roles[245].posted_date": "2026-09-21",
+    "job_data.roles[246].posted_date": "2026-09-21",
+    "job_data.roles[247].posted_date": "2026-09-21",
+    "job_data.roles[248].posted_date": "2026-09-21",
+    "job_data.roles[249].posted_date": "2026-09-21",
+    "job_data.roles[249].title_updated_timestamp": "2026-09-21T17:10:29.968Z",
+    "job_data.roles[250].posted_date": "2026-09-21",
+    "job_data.roles[251].posted_date": "2026-09-21",
+    "job_data.roles[252].posted_date": "2026-09-21",
+    "job_data.last_updated": "2026-09-21T17:01:30.788Z"
+  }
+}

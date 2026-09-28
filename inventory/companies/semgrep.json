@@ -1,0 +1,926 @@
+{
+  "slug": "semgrep",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/23651.b56e818c5971efe7.js",
+  "observed_at": "2026-09-28T08:36:27.228419+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 27089,
+    "sha256": "981556e85242bc3452535b3951d94272c0e192434d411f972ca14e95e19902d9",
+    "elapsed_seconds": 0.426,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:27 GMT",
+      "etag": "\"892453729bee5a6ae6488e9915422bdc\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:27 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Semgrep",
+    "company_name_legal": "Semgrep, Inc.",
+    "founded_year": 2017,
+    "website_url": "https://semgrep.dev",
+    "careers_url": "https://jobs.ashbyhq.com/semgrep",
+    "investor_portfolio_page": null,
+    "id": 263
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 10,
+    "last_updated": "2026-09-16T17:54:24.078Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 10,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/92b21a3a-fba8-4d71-9f4d-217850689f5f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-02-02",
+      "ashby_job_id": "92b21a3a-fba8-4d71-9f4d-217850689f5f"
+    },
+    {
+      "title": "Senior Full Stack Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/21496f9a-feaf-4c11-a83c-3b46c621b778",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-02-02",
+      "ashby_job_id": "21496f9a-feaf-4c11-a83c-3b46c621b778"
+    },
+    {
+      "title": "Staff Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/ba038d3b-ec77-4272-b863-02ee1964bebd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-02-02",
+      "ashby_job_id": "ba038d3b-ec77-4272-b863-02ee1964bebd"
+    },
+    {
+      "title": "Corporate Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/9e28b2ec-2085-48c0-8fa3-28cd6cf5db26",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-16",
+      "ashby_job_id": "9e28b2ec-2085-48c0-8fa3-28cd6cf5db26"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/2c3c3340-ceb0-4ce2-8ef2-b6f31b7b3dea",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "2c3c3340-ceb0-4ce2-8ef2-b6f31b7b3dea"
+    },
+    {
+      "title": "Senior Engineering Manager, Guardian",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/0ad27864-ce95-4797-ab5d-b24de8f78d94",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-04",
+      "ashby_job_id": "0ad27864-ce95-4797-ab5d-b24de8f78d94"
+    },
+    {
+      "title": "Senior/Staff Security Researcher",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/2cfe1f53-4665-432c-915d-b4e6459c4ad7",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-04",
+      "ashby_job_id": "2cfe1f53-4665-432c-915d-b4e6459c4ad7"
+    },
+    {
+      "title": "Sales Solutions Engineer - Digital Native",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/ddeaaf40-919b-4168-84e0-6c4e715ad208",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-18",
+      "ashby_job_id": "ddeaaf40-919b-4168-84e0-6c4e715ad208"
+    },
+    {
+      "title": "Head of Field Engineering - North America",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/f789bb11-98cd-4cb9-ba67-84c5435724d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-16",
+      "ashby_job_id": "f789bb11-98cd-4cb9-ba67-84c5435724d0"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-16",
+      "ashby_job_id": "8e64dc7f-e925-4361-86d5-b01ee518c987"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.713,
+      "longitude": -74.0122,
+      "exact_address": "222 Broadway, New York, NY, United States - 10038",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": "2+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7941,
+      "longitude": -122.4027,
+      "exact_address": "88 Kearny St, 15th Floor, San Francisco, California, United States - 94108",
+      "departments": [
+        "data",
+        "sales",
+        "operations",
+        "marketing",
+        "security",
+        "ai",
+        "engineering",
+        "design",
+        "product",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": "181+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_hub_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "security"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-04-27T12:56:10.437Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-27T12:56:10.437Z",
+    "total_funding_raised": "$100 million",
+    "total_funding_raised_last_updated": "2026-04-27T12:56:10.437Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Felicis Ventures",
+        "domain": "felicis.vc"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Menlo Ventures",
+        "domain": "menlovc.com"
+      },
+      {
+        "name": "B Capital Group",
+        "domain": "b.capital"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "logo_url": "/investor-logos/redpoint.png"
+      },
+      {
+        "name": "Felicis Ventures",
+        "logo_url": "/investor-logos/felicis-ventures.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Menlo Ventures",
+        "logo_url": "/investor-logos/menlo-ventures.png"
+      },
+      {
+        "name": "B Capital Group",
+        "logo_url": "/investor-logos/b-capital-group.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-27T12:56:10.437Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-27T12:56:10.437Z",
+    "company_basic_information.website_url_last_updated": "2026-04-27T12:56:10.437Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-27T12:56:10.437Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-27T12:56:10.437Z",
+    "company_basic_information.last_updated": "2026-04-27",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-27T13:29:45.863Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-27T13:30:04.261Z",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:30:38.379Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T06:33:10.835Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-27T13:30:45.256Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-27T13:31:03.617Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:30:44.068Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T06:33:31.318Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-27T13:31:42.796Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-04-27T13:32:01.880Z",
+    "leadership.founders[2].description_last_updated": "2026-06-07T20:30:49.619Z",
+    "leadership.founders[2].image_url_last_updated": "2026-06-08T06:33:50.862Z",
+    "social_media.x_url_last_verified": "2026-04-27T13:32:20.511Z",
+    "social_media.linkedin_url_last_verified": "2026-04-27T13:32:59.545Z",
+    "social_media.instagram_url_last_verified": "2026-04-27T13:33:23.440Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T19:17:41.758Z",
+    "financial_information.funding_stage_last_updated": "2026-04-27T12:56:10.437Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-27T12:56:10.437Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-27T12:56:10.437Z",
+    "financial_information.investor_logos_last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[0].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[1].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[2].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[3].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[4].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[5].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[6].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[7].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[8].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[9].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[10].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[11].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[12].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[13].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[14].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[15].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[16].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[17].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[18].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[19].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[20].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[21].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[22].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[23].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[24].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[25].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[26].last_updated": "2026-04-27T12:56:10.437Z",
+    "location_mapping[27].last_updated": "2026-04-27T18:26:00.000Z",
+    "location_mapping[28].last_updated": "2026-05-11T13:00:03.847Z",
+    "job_data.roles[0].posted_date": "2026-02-02",
+    "job_data.roles[1].posted_date": "2026-02-02",
+    "job_data.roles[2].posted_date": "2026-02-02",
+    "job_data.roles[3].posted_date": "2026-07-16",
+    "job_data.roles[4].posted_date": "2026-07-13",
+    "job_data.roles[5].posted_date": "2026-08-04",
+    "job_data.roles[6].posted_date": "2026-08-04",
+    "job_data.roles[7].posted_date": "2026-08-18",
+    "job_data.roles[8].posted_date": "2026-09-16",
+    "job_data.roles[9].posted_date": "2026-09-16",
+    "job_data.last_updated": "2026-09-16T17:54:24.078Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:03:09.547Z",
+    "benefits.bonus.last_updated": "2026-06-06T18:03:09.547Z",
+    "benefits.flexible-hours.last_updated": "2026-06-06T18:03:09.547Z",
+    "benefits.remote-work.last_updated": "2026-06-06T18:03:09.547Z"
+  }
+}

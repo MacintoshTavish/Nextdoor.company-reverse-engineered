@@ -1,0 +1,3806 @@
+{
+  "slug": "lambda",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/48387.a13ae402fc57da3c.js",
+  "observed_at": "2026-09-28T08:33:27.117560+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 120768,
+    "sha256": "090ac71cbea94031327fd99bbea932de0b65e492d5478517334ad819a2a14926",
+    "elapsed_seconds": 0.584,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:26 GMT",
+      "etag": "\"4a3529df3e9a2a9157ca56f8af746616\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:26 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Lambda",
+    "company_name_legal": "Lambda, Inc.",
+    "founded_year": 2012,
+    "website_url": "https://lambda.ai",
+    "careers_url": "https://jobs.ashbyhq.com/lambda",
+    "investor_portfolio_page": null,
+    "id": 448
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 195,
+    "last_updated": "2026-09-15T10:20:45.864Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 195,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_ai_response",
+    "location_inference_attempted",
+    "location_inference_attempted_timestamp",
+    "location_inference_note",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account CTO - AI Cloud Infrastructure",
+      "title_original": "Account CTO",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-15T17:37:33.852Z",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4605a295-8303-45be-9ba7-f26af3bae8cd#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4605a295-8303-45be-9ba7-f26af3bae8cd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Account CTO role involve strategic technology leadership for key accounts, serving as a technical liaison, and driving account growth and expansion. This aligns closely with customer success, as the role focuses on building relationships and ensuring the success of Lambda's strategic accounts."
+    },
+    {
+      "title": "Account CTO",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4605a295-8303-45be-9ba7-f26af3bae8cd#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4605a295-8303-45be-9ba7-f26af3bae8cd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Account CTO involve strategic technology leadership, cultivating executive-level relationships, and driving technology roadmaps aligned with customer business objectives. This role is heavily focused on managing key accounts and ensuring customer satisfaction, which aligns it closely with the customer-success category."
+    },
+    {
+      "title": "Account CTO",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4605a295-8303-45be-9ba7-f26af3bae8cd#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4605a295-8303-45be-9ba7-f26af3bae8cd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Account CTO involve strategic technology leadership and serving as a technical liaison for key accounts, which aligns closely with customer success. This role focuses on cultivating executive relationships, driving technology adoption, and ensuring business outcomes for strategic accounts."
+    },
+    {
+      "title": "Account CTO",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4605a295-8303-45be-9ba7-f26af3bae8cd#loc-3",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4605a295-8303-45be-9ba7-f26af3bae8cd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Account CTO focus on strategic technology leadership and cultivating executive-level relationships with key accounts, which aligns closely with customer success. The role emphasizes driving account growth, influencing technology strategy, and ensuring customer satisfaction through technical guidance."
+    },
+    {
+      "title": "AI Operations Engineer - IT/Internal Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/904bd81c-7826-4728-a597-9138cd812c8f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "904bd81c-7826-4728-a597-9138cd812c8f"
+    },
+    {
+      "title": "AI Operations Engineer - IT/Internal Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/904bd81c-7826-4728-a597-9138cd812c8f#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "904bd81c-7826-4728-a597-9138cd812c8f"
+    },
+    {
+      "title": "AI Operations Engineer - IT/Internal Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/904bd81c-7826-4728-a597-9138cd812c8f#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "904bd81c-7826-4728-a597-9138cd812c8f"
+    },
+    {
+      "title": "Commodity Sourcing Manager – AI Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f349200b-3a76-4721-9b16-2b469ee5d5f5",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f349200b-3a76-4721-9b16-2b469ee5d5f5"
+    },
+    {
+      "title": "Construction Administrator - Data Center Operations",
+      "title_original": "Construction Administrator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-15T17:39:19.001Z",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f0618d06-8659-4f87-b1f2-a6a3926b467f",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f0618d06-8659-4f87-b1f2-a6a3926b467f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Construction Administrator involve managing construction schedules, document control, and project reporting for data center builds, which aligns closely with operations. The role focuses on ensuring project milestones are met and coordinating with various teams, indicating a strong operational function."
+    },
+    {
+      "title": "Corporate Development Associate - Digital Infrastructure M&A",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/20738542-164f-45b6-a822-f54c11b5fc60#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "20738542-164f-45b6-a822-f54c11b5fc60"
+    },
+    {
+      "title": "Corporate Development Associate - Digital Infrastructure M&A",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/20738542-164f-45b6-a822-f54c11b5fc60#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "20738542-164f-45b6-a822-f54c11b5fc60"
+    },
+    {
+      "title": "Data Center Asset Management Specialist - Hardware Lifecycle",
+      "title_original": "Data Center Asset Management Specialist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-15T17:39:46.749Z",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4f11316f-81fe-4871-86ff-e65b167741d3",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4f11316f-81fe-4871-86ff-e65b167741d3",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Center Asset Management Specialist revolve around managing the lifecycle of data center assets, including inventory management, tracking hardware, and ensuring compliance with asset management standards. These tasks align closely with operations, particularly in the context of managing physical assets and optimizing processes."
+    },
+    {
+      "title": "Data Center Construction Site Foreman (Dallas)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/50148338-7b5c-4d70-b559-39439772f36b#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "50148338-7b5c-4d70-b559-39439772f36b"
+    },
+    {
+      "title": "Data Center Construction Site Foreman (Dallas)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/50148338-7b5c-4d70-b559-39439772f36b#loc-1",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, United States",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "50148338-7b5c-4d70-b559-39439772f36b"
+    },
+    {
+      "title": "Data Center Development & Infrastructure Finance Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2c19c63d-5dd6-4b0a-a2af-5713da13d9c8#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2c19c63d-5dd6-4b0a-a2af-5713da13d9c8"
+    },
+    {
+      "title": "Data Center Development & Infrastructure Finance Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2c19c63d-5dd6-4b0a-a2af-5713da13d9c8#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2c19c63d-5dd6-4b0a-a2af-5713da13d9c8"
+    },
+    {
+      "title": "Data Center Manager (Dallas)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/07212d5b-7406-46ef-acc9-af936dc20c8d#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "07212d5b-7406-46ef-acc9-af936dc20c8d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Center Manager involve managing data center operations, ensuring infrastructure reliability, and troubleshooting hardware and software issues, which aligns closely with IT functions. The role requires technical expertise in critical infrastructure systems and networking, further solidifying its classification within the IT department."
+    },
+    {
+      "title": "Data Center Manager (Dallas)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/07212d5b-7406-46ef-acc9-af936dc20c8d#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "07212d5b-7406-46ef-acc9-af936dc20c8d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Center Manager involve overseeing the day-to-day operations of the data center, managing infrastructure, ensuring high availability and reliability, and coordinating with cross-functional teams. This aligns closely with the operations category, which encompasses the management of business processes and infrastructure."
+    },
+    {
+      "title": "Data Center Operations Engineer (Austin)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a06bbf3e-e148-4396-be41-efe3d5c82d5c#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a06bbf3e-e148-4396-be41-efe3d5c82d5c"
+    },
+    {
+      "title": "Data Center Operations Engineer (Austin)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a06bbf3e-e148-4396-be41-efe3d5c82d5c#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a06bbf3e-e148-4396-be41-efe3d5c82d5c"
+    },
+    {
+      "title": "Data Center Operations System Engineer III (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/75d998f5-c6cd-47fe-aadd-beb119f2371a#loc-0",
+      "location_ids": [
+        "elk_grove_village_office"
+      ],
+      "location_display": "Elk Grove Village, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "75d998f5-c6cd-47fe-aadd-beb119f2371a"
+    },
+    {
+      "title": "Data Center Operations System Engineer III (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/75d998f5-c6cd-47fe-aadd-beb119f2371a#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "75d998f5-c6cd-47fe-aadd-beb119f2371a"
+    },
+    {
+      "title": "Data Center Operations System Engineer III (Querétaro, Mexico)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fd09a16d-a8cf-4bc6-87b0-04f072e8f9db#loc-0",
+      "location_ids": [
+        "queretaro_office"
+      ],
+      "location_display": "Querétaro, Mexico",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fd09a16d-a8cf-4bc6-87b0-04f072e8f9db"
+    },
+    {
+      "title": "Data Center Operations System Engineer III (Querétaro, Mexico)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fd09a16d-a8cf-4bc6-87b0-04f072e8f9db#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fd09a16d-a8cf-4bc6-87b0-04f072e8f9db"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer (Atlanta)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7cee8c43-1319-457d-9850-484d6b3977ab#loc-0",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7cee8c43-1319-457d-9850-484d6b3977ab"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer (Atlanta)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7cee8c43-1319-457d-9850-484d6b3977ab#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7cee8c43-1319-457d-9850-484d6b3977ab"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer II (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/49f74010-da5e-42b1-8ebc-db4d39af443d#loc-0",
+      "location_ids": [
+        "elk_grove_village_office"
+      ],
+      "location_display": "Elk Grove Village, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "49f74010-da5e-42b1-8ebc-db4d39af443d"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer II (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/49f74010-da5e-42b1-8ebc-db4d39af443d#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "49f74010-da5e-42b1-8ebc-db4d39af443d"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer III (Los Angeles)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/250d4eab-8ebf-4a56-b7f2-b3044bbbda48#loc-0",
+      "location_ids": [
+        "vernon_office"
+      ],
+      "location_display": "Vernon, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "250d4eab-8ebf-4a56-b7f2-b3044bbbda48"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer III (Los Angeles)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/250d4eab-8ebf-4a56-b7f2-b3044bbbda48#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "250d4eab-8ebf-4a56-b7f2-b3044bbbda48"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer (San Jose)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5a093b1b-11da-4f6d-8c04-89e6b02c5ddd",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5a093b1b-11da-4f6d-8c04-89e6b02c5ddd"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer (Seattle)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4621b314-965a-4626-a516-1b8ef42da21d#loc-0",
+      "location_ids": [
+        "quincy_office"
+      ],
+      "location_display": "Quincy, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4621b314-965a-4626-a516-1b8ef42da21d"
+    },
+    {
+      "title": "Data Center Operations Systems Engineer (Seattle)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/4621b314-965a-4626-a516-1b8ef42da21d#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4621b314-965a-4626-a516-1b8ef42da21d"
+    },
+    {
+      "title": "Data Center Site Manager (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fff33a83-568e-4729-aacc-a58c1d8c8def#loc-0",
+      "location_ids": [
+        "elk_grove_village_office"
+      ],
+      "location_display": "Elk Grove Village, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fff33a83-568e-4729-aacc-a58c1d8c8def",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Center Site Manager include managing the data center operations, ensuring high availability and reliability, and overseeing the deployment and maintenance of critical infrastructure systems. These tasks align closely with the operations category, which focuses on the management of business processes and infrastructure."
+    },
+    {
+      "title": "Data Center Site Manager (Chicago)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fff33a83-568e-4729-aacc-a58c1d8c8def#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fff33a83-568e-4729-aacc-a58c1d8c8def",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Center Site Manager involve managing data center operations, ensuring infrastructure reliability, and overseeing the deployment of systems, which aligns closely with operations. The role requires coordination with various teams to maintain high availability and meet customer SLAs, further emphasizing its operational focus."
+    },
+    {
+      "title": "Data Center Standards Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/87d1ca1b-1618-4db6-b411-450dfb3ea781",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "87d1ca1b-1618-4db6-b411-450dfb3ea781"
+    },
+    {
+      "title": "Director, Network Capacity Automation",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dce516d5-2e8e-4bc1-970c-ad7c0c222674#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dce516d5-2e8e-4bc1-970c-ad7c0c222674",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on leading teams to build software for network capacity automation, which is a technical engineering function. The job requires a strong background in software engineering and network operations, indicating that the role is centered around engineering tasks rather than other functions."
+    },
+    {
+      "title": "Director, Network Capacity Automation",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dce516d5-2e8e-4bc1-970c-ad7c0c222674#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dce516d5-2e8e-4bc1-970c-ad7c0c222674",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role involve leading teams to build software for network capacity automation, which is a core engineering function. The position requires a strong background in software engineering and network management, indicating a focus on engineering tasks rather than other areas."
+    },
+    {
+      "title": "Director, Treasury",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5e962d3b-7d7d-43f8-a784-8ac2bfb2d0d4#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5e962d3b-7d7d-43f8-a784-8ac2bfb2d0d4"
+    },
+    {
+      "title": "Director, Treasury",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5e962d3b-7d7d-43f8-a784-8ac2bfb2d0d4#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5e962d3b-7d7d-43f8-a784-8ac2bfb2d0d4"
+    },
+    {
+      "title": "Energy Origination & Hedging Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2a67174b-317b-44e2-8cee-c108f61557ff#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2a67174b-317b-44e2-8cee-c108f61557ff"
+    },
+    {
+      "title": "Energy Origination & Hedging Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2a67174b-317b-44e2-8cee-c108f61557ff#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2a67174b-317b-44e2-8cee-c108f61557ff"
+    },
+    {
+      "title": "Engineering Manager, Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b47d567c-f99a-4d0f-a128-8e6e42297ac5#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b47d567c-f99a-4d0f-a128-8e6e42297ac5"
+    },
+    {
+      "title": "Engineering Manager, Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b47d567c-f99a-4d0f-a128-8e6e42297ac5#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b47d567c-f99a-4d0f-a128-8e6e42297ac5"
+    },
+    {
+      "title": "Engineering Manager, Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b47d567c-f99a-4d0f-a128-8e6e42297ac5#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b47d567c-f99a-4d0f-a128-8e6e42297ac5"
+    },
+    {
+      "title": "Executive Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3657e8cd-ee20-49c4-af4e-4bd1497109a6#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3657e8cd-ee20-49c4-af4e-4bd1497109a6"
+    },
+    {
+      "title": "Executive Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3657e8cd-ee20-49c4-af4e-4bd1497109a6#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3657e8cd-ee20-49c4-af4e-4bd1497109a6"
+    },
+    {
+      "title": "Executive Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/6f938d2d-0b79-4ca4-b28d-e4e84f5679be#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "6f938d2d-0b79-4ca4-b28d-e4e84f5679be"
+    },
+    {
+      "title": "Executive Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/6f938d2d-0b79-4ca4-b28d-e4e84f5679be#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "6f938d2d-0b79-4ca4-b28d-e4e84f5679be"
+    },
+    {
+      "title": "Hardware Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9644bc3d-966a-4a5e-85ef-3afbe080a7a6#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9644bc3d-966a-4a5e-85ef-3afbe080a7a6"
+    },
+    {
+      "title": "Hardware Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9644bc3d-966a-4a5e-85ef-3afbe080a7a6#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9644bc3d-966a-4a5e-85ef-3afbe080a7a6"
+    },
+    {
+      "title": "Head of Content",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/374aaca0-3895-4f44-9075-0ecd8a28b703#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "374aaca0-3895-4f44-9075-0ecd8a28b703"
+    },
+    {
+      "title": "Head of Content",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/374aaca0-3895-4f44-9075-0ecd8a28b703#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "content-production",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "374aaca0-3895-4f44-9075-0ecd8a28b703"
+    },
+    {
+      "title": "HPC Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/83e77f46-c393-47ae-83ed-db4b0daf6e18",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "83e77f46-c393-47ae-83ed-db4b0daf6e18"
+    },
+    {
+      "title": "HRBP",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5ac9889b-de69-4463-ac68-e1736f469966#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5ac9889b-de69-4463-ac68-e1736f469966"
+    },
+    {
+      "title": "HRBP",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5ac9889b-de69-4463-ac68-e1736f469966#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5ac9889b-de69-4463-ac68-e1736f469966"
+    },
+    {
+      "title": "HRBP",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/5ac9889b-de69-4463-ac68-e1736f469966#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5ac9889b-de69-4463-ac68-e1736f469966"
+    },
+    {
+      "title": "Human Resources Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/18b4b4bc-e213-456c-bad2-05c3e6360691",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "18b4b4bc-e213-456c-bad2-05c3e6360691"
+    },
+    {
+      "title": "Infrastructure & Energy Transaction Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fbfaab3b-9803-4ce6-9501-1e9a6ed77288#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fbfaab3b-9803-4ce6-9501-1e9a6ed77288"
+    },
+    {
+      "title": "Infrastructure & Energy Transaction Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/fbfaab3b-9803-4ce6-9501-1e9a6ed77288#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "fbfaab3b-9803-4ce6-9501-1e9a6ed77288"
+    },
+    {
+      "title": "Internal Audit Lead - Finance & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/8311101a-2871-48ac-8b3d-dd055ad23098#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "8311101a-2871-48ac-8b3d-dd055ad23098"
+    },
+    {
+      "title": "Internal Audit Lead - Finance & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/8311101a-2871-48ac-8b3d-dd055ad23098#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "8311101a-2871-48ac-8b3d-dd055ad23098"
+    },
+    {
+      "title": "Internal Tools & Data Product Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c0116ab6-9ec2-4189-9f07-e9dd284222b6#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c0116ab6-9ec2-4189-9f07-e9dd284222b6"
+    },
+    {
+      "title": "Internal Tools & Data Product Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c0116ab6-9ec2-4189-9f07-e9dd284222b6#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c0116ab6-9ec2-4189-9f07-e9dd284222b6"
+    },
+    {
+      "title": "Legal Intern - Fall 2026",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/28fe6ae2-c6f7-4097-bded-b0fa291d783a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "28fe6ae2-c6f7-4097-bded-b0fa291d783a"
+    },
+    {
+      "title": "Manager, Group Product Manager - Platform",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d3cbe760-3c91-4cb1-accf-dca60f0406aa#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d3cbe760-3c91-4cb1-accf-dca60f0406aa"
+    },
+    {
+      "title": "Manager, Group Product Manager - Platform",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d3cbe760-3c91-4cb1-accf-dca60f0406aa#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d3cbe760-3c91-4cb1-accf-dca60f0406aa"
+    },
+    {
+      "title": "Manager, Investor Relations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ae60759f-c627-48ca-b18f-e840f56602d2#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ae60759f-c627-48ca-b18f-e840f56602d2"
+    },
+    {
+      "title": "Manager, Investor Relations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ae60759f-c627-48ca-b18f-e840f56602d2#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ae60759f-c627-48ca-b18f-e840f56602d2"
+    },
+    {
+      "title": "Principal Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a6f698ce-4efb-42c1-b2b0-09d8b44b3287#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a6f698ce-4efb-42c1-b2b0-09d8b44b3287"
+    },
+    {
+      "title": "Principal Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a6f698ce-4efb-42c1-b2b0-09d8b44b3287#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a6f698ce-4efb-42c1-b2b0-09d8b44b3287"
+    },
+    {
+      "title": "Principal Product Manager - Hardware",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/bb47e828-8b60-42dd-8d4e-d2692c87cdc8#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "bb47e828-8b60-42dd-8d4e-d2692c87cdc8"
+    },
+    {
+      "title": "Principal Product Manager - Hardware",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/bb47e828-8b60-42dd-8d4e-d2692c87cdc8#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "bb47e828-8b60-42dd-8d4e-d2692c87cdc8"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1"
+    },
+    {
+      "title": "Senior Accountant - Fixed Assets",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f75558dd-c1d6-49ee-933d-47fa71963ebe#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f75558dd-c1d6-49ee-933d-47fa71963ebe"
+    },
+    {
+      "title": "Senior Accountant - Fixed Assets",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f75558dd-c1d6-49ee-933d-47fa71963ebe#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f75558dd-c1d6-49ee-933d-47fa71963ebe"
+    },
+    {
+      "title": "Senior Analyst - Capital Markets & Corporate Development",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a7643768-bb94-4441-9295-64fefe233811#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a7643768-bb94-4441-9295-64fefe233811"
+    },
+    {
+      "title": "Senior Analyst - Capital Markets & Corporate Development",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a7643768-bb94-4441-9295-64fefe233811#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a7643768-bb94-4441-9295-64fefe233811"
+    },
+    {
+      "title": "Senior Auditor - Finance and Operations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f0d8b975-8abe-41eb-bd42-b87d7b23a954#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f0d8b975-8abe-41eb-bd42-b87d7b23a954"
+    },
+    {
+      "title": "Senior Auditor - Finance and Operations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/f0d8b975-8abe-41eb-bd42-b87d7b23a954#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "f0d8b975-8abe-41eb-bd42-b87d7b23a954"
+    },
+    {
+      "title": "Senior Business Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/04b3e06c-6403-48c6-84b2-c7b849248afc#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "04b3e06c-6403-48c6-84b2-c7b849248afc"
+    },
+    {
+      "title": "Senior Business Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/04b3e06c-6403-48c6-84b2-c7b849248afc#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "04b3e06c-6403-48c6-84b2-c7b849248afc"
+    },
+    {
+      "title": "Senior Corporate FP&A Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e01d8efc-4538-4616-8b42-d1bce63809df#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e01d8efc-4538-4616-8b42-d1bce63809df"
+    },
+    {
+      "title": "Senior Corporate FP&A Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e01d8efc-4538-4616-8b42-d1bce63809df#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e01d8efc-4538-4616-8b42-d1bce63809df"
+    },
+    {
+      "title": "Senior Counsel - Commercial",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dfd5e33b-da53-4a9e-a0e3-307d5efbd307",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dfd5e33b-da53-4a9e-a0e3-307d5efbd307"
+    },
+    {
+      "title": "Senior Data Center Operations Systems Engineer (Quebec City, Canada)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7c1d9573-d7ac-4b4e-abad-df4b5c61fa65#loc-0",
+      "location_ids": [
+        "quebec_city_office"
+      ],
+      "location_display": "Québec City, Canada",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7c1d9573-d7ac-4b4e-abad-df4b5c61fa65"
+    },
+    {
+      "title": "Senior Data Center Operations Systems Engineer (Quebec City, Canada)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7c1d9573-d7ac-4b4e-abad-df4b5c61fa65#loc-1",
+      "location_ids": [
+        "data_center_office"
+      ],
+      "location_display": "Data Center",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7c1d9573-d7ac-4b4e-abad-df4b5c61fa65"
+    },
+    {
+      "title": "Senior Director, Product Management - Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/19d912c0-3119-45b0-96bf-df2cbeeb57b8#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "19d912c0-3119-45b0-96bf-df2cbeeb57b8"
+    },
+    {
+      "title": "Senior Director, Product Management - Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/19d912c0-3119-45b0-96bf-df2cbeeb57b8#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "19d912c0-3119-45b0-96bf-df2cbeeb57b8"
+    },
+    {
+      "title": "Senior Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd"
+    },
+    {
+      "title": "Senior Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd"
+    },
+    {
+      "title": "Senior Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b28a6205-2aea-4fcf-aa5e-5cc62cb1a4bd"
+    },
+    {
+      "title": "Senior Finance Systems Architect (Bangalore, India)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/698f2617-e44c-4b3a-a8cd-9b7e38923932",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "698f2617-e44c-4b3a-a8cd-9b7e38923932"
+    },
+    {
+      "title": "Senior FP&A Analyst - Engineering & Product",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e3bf45bc-c78f-435c-922e-e24831d59670#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e3bf45bc-c78f-435c-922e-e24831d59670"
+    },
+    {
+      "title": "Senior FP&A Analyst - Engineering & Product",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e3bf45bc-c78f-435c-922e-e24831d59670#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e3bf45bc-c78f-435c-922e-e24831d59670"
+    },
+    {
+      "title": "Senior FP&A Analyst - Public Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/45420498-0c3f-438e-a127-8438c7a342fa#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "45420498-0c3f-438e-a127-8438c7a342fa"
+    },
+    {
+      "title": "Senior FP&A Analyst - Public Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/45420498-0c3f-438e-a127-8438c7a342fa#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "45420498-0c3f-438e-a127-8438c7a342fa"
+    },
+    {
+      "title": "Senior HPC Platform Hardware Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3fede5ab-bd58-4539-b846-f613c8bc81ff",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3fede5ab-bd58-4539-b846-f613c8bc81ff"
+    },
+    {
+      "title": "Senior HPC Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ca617948-e0eb-46fc-afef-fbd91f5cb1a1#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ca617948-e0eb-46fc-afef-fbd91f5cb1a1"
+    },
+    {
+      "title": "Senior HPC Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ca617948-e0eb-46fc-afef-fbd91f5cb1a1#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ca617948-e0eb-46fc-afef-fbd91f5cb1a1"
+    },
+    {
+      "title": "Senior HPC Systems Validation Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3458980b-fb11-4285-961b-af64beecaed2",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3458980b-fb11-4285-961b-af64beecaed2"
+    },
+    {
+      "title": "Senior Incident Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7e26ae22-0ecb-4de0-bb9f-7dff3ab39371#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "it",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7e26ae22-0ecb-4de0-bb9f-7dff3ab39371",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Senior Incident Manager role primarily focuses on leading incident response for AI infrastructure and data center operations, which falls under IT. The responsibilities include managing critical incidents, coordinating across technical teams, and improving operational processes, all of which are central to IT operations."
+    },
+    {
+      "title": "Senior Incident Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/7e26ae22-0ecb-4de0-bb9f-7dff3ab39371#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "7e26ae22-0ecb-4de0-bb9f-7dff3ab39371",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Senior Incident Manager role primarily focuses on leading incident response and improving operational resilience across AI infrastructure and data center services. The responsibilities include coordinating cross-team efforts during incidents, managing the incident response lifecycle, and driving operational excellence, which aligns closely with the operations category."
+    },
+    {
+      "title": "Senior Manager, Detection and Response",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/31fa5205-4f1f-4fa3-8fa9-7636940dd3b3#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "31fa5205-4f1f-4fa3-8fa9-7636940dd3b3"
+    },
+    {
+      "title": "Senior Manager, Detection and Response",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/31fa5205-4f1f-4fa3-8fa9-7636940dd3b3#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "31fa5205-4f1f-4fa3-8fa9-7636940dd3b3"
+    },
+    {
+      "title": "Senior Manager, Detection and Response",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/31fa5205-4f1f-4fa3-8fa9-7636940dd3b3#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "31fa5205-4f1f-4fa3-8fa9-7636940dd3b3"
+    },
+    {
+      "title": "Senior Mechanical Controls Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a5dbc5ea-ac15-4e2f-8882-fa52a97d283b#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a5dbc5ea-ac15-4e2f-8882-fa52a97d283b"
+    },
+    {
+      "title": "Senior Mechanical Controls Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a5dbc5ea-ac15-4e2f-8882-fa52a97d283b#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a5dbc5ea-ac15-4e2f-8882-fa52a97d283b"
+    },
+    {
+      "title": "Senior Mechanical Delivery Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/72862af7-d62b-417a-8b88-fdf023394eb0#loc-0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "72862af7-d62b-417a-8b88-fdf023394eb0"
+    },
+    {
+      "title": "Senior Mechanical Delivery Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/72862af7-d62b-417a-8b88-fdf023394eb0#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "72862af7-d62b-417a-8b88-fdf023394eb0"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0b24367a-59b6-4e1e-a9f4-7c23542536fa#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0b24367a-59b6-4e1e-a9f4-7c23542536fa"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0b24367a-59b6-4e1e-a9f4-7c23542536fa#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0b24367a-59b6-4e1e-a9f4-7c23542536fa"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0b24367a-59b6-4e1e-a9f4-7c23542536fa#loc-2",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0b24367a-59b6-4e1e-a9f4-7c23542536fa"
+    },
+    {
+      "title": "Senior Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0b24367a-59b6-4e1e-a9f4-7c23542536fa#loc-3",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0b24367a-59b6-4e1e-a9f4-7c23542536fa"
+    },
+    {
+      "title": "Senior Platform Engineer - Core Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/22067697-90e0-4a9a-bc08-954ce6796537#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "22067697-90e0-4a9a-bc08-954ce6796537"
+    },
+    {
+      "title": "Senior Platform Engineer - Core Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/22067697-90e0-4a9a-bc08-954ce6796537#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "22067697-90e0-4a9a-bc08-954ce6796537"
+    },
+    {
+      "title": "Senior Platform Engineer - Core Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/22067697-90e0-4a9a-bc08-954ce6796537#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "22067697-90e0-4a9a-bc08-954ce6796537"
+    },
+    {
+      "title": "Senior Salesforce Developer/Architect (Bangalore, India)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c4e731d0-5497-46ee-99c9-744b7b689519",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c4e731d0-5497-46ee-99c9-744b7b689519"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Fleet",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d4e6f207-73c3-43d1-aa4b-d840ad2254d4#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d4e6f207-73c3-43d1-aa4b-d840ad2254d4"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Fleet",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d4e6f207-73c3-43d1-aa4b-d840ad2254d4#loc-1",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d4e6f207-73c3-43d1-aa4b-d840ad2254d4"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9b0cf272-e690-4213-828f-1a1ed508b53c#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9b0cf272-e690-4213-828f-1a1ed508b53c"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9b0cf272-e690-4213-828f-1a1ed508b53c#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9b0cf272-e690-4213-828f-1a1ed508b53c"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9b0cf272-e690-4213-828f-1a1ed508b53c#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9b0cf272-e690-4213-828f-1a1ed508b53c"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - SDN",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ee0998db-4bc2-44ea-9eee-4546109e4c3d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ee0998db-4bc2-44ea-9eee-4546109e4c3d"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - SDN",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ee0998db-4bc2-44ea-9eee-4546109e4c3d#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ee0998db-4bc2-44ea-9eee-4546109e4c3d"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - SDN",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ee0998db-4bc2-44ea-9eee-4546109e4c3d#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ee0998db-4bc2-44ea-9eee-4546109e4c3d"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d910e6b0-300f-4ebc-89f5-ba5adc9a3bfe#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d910e6b0-300f-4ebc-89f5-ba5adc9a3bfe"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d910e6b0-300f-4ebc-89f5-ba5adc9a3bfe#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d910e6b0-300f-4ebc-89f5-ba5adc9a3bfe"
+    },
+    {
+      "title": "Senior Software Engineer – Billing & Identity",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/32509ea2-e784-444e-9b9d-b9d7b1f0b110",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "32509ea2-e784-444e-9b9d-b9d7b1f0b110"
+    },
+    {
+      "title": "Senior Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0f94de99-5027-4cae-a6d4-757eef2845b6#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0f94de99-5027-4cae-a6d4-757eef2845b6"
+    },
+    {
+      "title": "Senior Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0f94de99-5027-4cae-a6d4-757eef2845b6#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0f94de99-5027-4cae-a6d4-757eef2845b6"
+    },
+    {
+      "title": "Senior Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0f94de99-5027-4cae-a6d4-757eef2845b6#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0f94de99-5027-4cae-a6d4-757eef2845b6"
+    },
+    {
+      "title": "Senior Software Engineer - Core Cloud Platform",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/35c68922-7d43-430c-83f4-86690dbff216#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "35c68922-7d43-430c-83f4-86690dbff216"
+    },
+    {
+      "title": "Senior Software Engineer - Core Cloud Platform",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/35c68922-7d43-430c-83f4-86690dbff216#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "35c68922-7d43-430c-83f4-86690dbff216"
+    },
+    {
+      "title": "Senior Software Engineer - Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d96f72bd-d78e-4a2b-9d9f-faa10b9ec883#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d96f72bd-d78e-4a2b-9d9f-faa10b9ec883"
+    },
+    {
+      "title": "Senior Software Engineer - Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d96f72bd-d78e-4a2b-9d9f-faa10b9ec883#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d96f72bd-d78e-4a2b-9d9f-faa10b9ec883"
+    },
+    {
+      "title": "Senior Software Engineer - Fleet Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d96f72bd-d78e-4a2b-9d9f-faa10b9ec883#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d96f72bd-d78e-4a2b-9d9f-faa10b9ec883"
+    },
+    {
+      "title": "Senior Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/20599b39-8482-4852-a955-f279bbb5463f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "20599b39-8482-4852-a955-f279bbb5463f"
+    },
+    {
+      "title": "Senior Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/20599b39-8482-4852-a955-f279bbb5463f#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "20599b39-8482-4852-a955-f279bbb5463f"
+    },
+    {
+      "title": "Senior Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/20599b39-8482-4852-a955-f279bbb5463f#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "20599b39-8482-4852-a955-f279bbb5463f"
+    },
+    {
+      "title": "Senior Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/654c357b-449a-49d1-b060-e91bf71a8bcf#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "654c357b-449a-49d1-b060-e91bf71a8bcf"
+    },
+    {
+      "title": "Senior Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/654c357b-449a-49d1-b060-e91bf71a8bcf#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "654c357b-449a-49d1-b060-e91bf71a8bcf"
+    },
+    {
+      "title": "Senior Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/654c357b-449a-49d1-b060-e91bf71a8bcf#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "654c357b-449a-49d1-b060-e91bf71a8bcf"
+    },
+    {
+      "title": "Senior Software Engineer - SDN",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/80953585-1ef8-4073-91fb-75888a61f8c6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "80953585-1ef8-4073-91fb-75888a61f8c6"
+    },
+    {
+      "title": "Senior Software Engineer - Storage Control Plane",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/71485f80-dc31-431b-a843-ab98323eeb6d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "71485f80-dc31-431b-a843-ab98323eeb6d"
+    },
+    {
+      "title": "Senior Software Engineer - Storage Control Plane",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/71485f80-dc31-431b-a843-ab98323eeb6d#loc-1",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "71485f80-dc31-431b-a843-ab98323eeb6d"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/061cf79b-0e95-4082-8805-5822499441f1#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "061cf79b-0e95-4082-8805-5822499441f1"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/061cf79b-0e95-4082-8805-5822499441f1#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "061cf79b-0e95-4082-8805-5822499441f1"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/061cf79b-0e95-4082-8805-5822499441f1#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "061cf79b-0e95-4082-8805-5822499441f1"
+    },
+    {
+      "title": "Senior Staff Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d3d44a31-07e2-4292-a244-75a9350b2869#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d3d44a31-07e2-4292-a244-75a9350b2869"
+    },
+    {
+      "title": "Senior Staff Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/d3d44a31-07e2-4292-a244-75a9350b2869#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d3d44a31-07e2-4292-a244-75a9350b2869"
+    },
+    {
+      "title": "Site Lead - India (Bangalore, India)",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e185b479-ab70-41fe-91c4-eff456a14da8",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e185b479-ab70-41fe-91c4-eff456a14da8",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role primarily involves leading Corporate IT delivery, establishing technology foundations, and managing IT operations for the Bengaluru site. The responsibilities emphasize hands-on IT management, team building, and ensuring a secure technology experience for employees, which aligns closely with the IT department."
+    },
+    {
+      "title": "Sourcing Manager, ODM/OEM Systems",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a8cb384a-b3ea-40a9-b592-b94639b727c7#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a8cb384a-b3ea-40a9-b592-b94639b727c7"
+    },
+    {
+      "title": "Sourcing Manager, ODM/OEM Systems",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a8cb384a-b3ea-40a9-b592-b94639b727c7#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a8cb384a-b3ea-40a9-b592-b94639b727c7"
+    },
+    {
+      "title": "Staff Connectivity Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c059929c-ada5-4a59-a846-f64d0277c496",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c059929c-ada5-4a59-a846-f64d0277c496"
+    },
+    {
+      "title": "Staff Data Center Implementation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/65c58572-7ffa-4e26-a252-771dd89ab0d8",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "65c58572-7ffa-4e26-a252-771dd89ab0d8"
+    },
+    {
+      "title": "Staff Electrical Engineer - Low Voltage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0cc4d465-8a4d-4b62-901b-9c2996da1d0d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0cc4d465-8a4d-4b62-901b-9c2996da1d0d"
+    },
+    {
+      "title": "Staff Electrical Engineer - Low Voltage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/0cc4d465-8a4d-4b62-901b-9c2996da1d0d#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "0cc4d465-8a4d-4b62-901b-9c2996da1d0d"
+    },
+    {
+      "title": "Staff Electrical Engineer - Medium Voltage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/9d48c085-31e0-48f8-9357-80d3e4f2b504",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "9d48c085-31e0-48f8-9357-80d3e4f2b504"
+    },
+    {
+      "title": "Staff HPC Network Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/efe606d6-eaa2-4e0a-a204-38002ae68818#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "efe606d6-eaa2-4e0a-a204-38002ae68818"
+    },
+    {
+      "title": "Staff HPC Network Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/efe606d6-eaa2-4e0a-a204-38002ae68818#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "efe606d6-eaa2-4e0a-a204-38002ae68818"
+    },
+    {
+      "title": "Staff HPC Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/614dc105-61e2-4f78-827f-05f145211125#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "614dc105-61e2-4f78-827f-05f145211125"
+    },
+    {
+      "title": "Staff HPC Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/614dc105-61e2-4f78-827f-05f145211125#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "614dc105-61e2-4f78-827f-05f145211125"
+    },
+    {
+      "title": "Staff HPC Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/614dc105-61e2-4f78-827f-05f145211125#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "614dc105-61e2-4f78-827f-05f145211125"
+    },
+    {
+      "title": "Staff Mechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b514fcd5-2b08-45f6-9d3d-7b00bfd6dd95#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b514fcd5-2b08-45f6-9d3d-7b00bfd6dd95"
+    },
+    {
+      "title": "Staff Mechanical Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/b514fcd5-2b08-45f6-9d3d-7b00bfd6dd95#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b514fcd5-2b08-45f6-9d3d-7b00bfd6dd95"
+    },
+    {
+      "title": "Staff Mechanical Engineer - Data Center Cooling",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/11fe10ba-50b3-48ac-b650-041d1c9eda39#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "11fe10ba-50b3-48ac-b650-041d1c9eda39"
+    },
+    {
+      "title": "Staff Mechanical Engineer - Data Center Cooling",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/11fe10ba-50b3-48ac-b650-041d1c9eda39#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "11fe10ba-50b3-48ac-b650-041d1c9eda39"
+    },
+    {
+      "title": "Staff Product Manager - Billing",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2a8716e7-27e2-4585-8676-48055071ea34#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2a8716e7-27e2-4585-8676-48055071ea34"
+    },
+    {
+      "title": "Staff Product Manager - Billing",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2a8716e7-27e2-4585-8676-48055071ea34#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2a8716e7-27e2-4585-8676-48055071ea34"
+    },
+    {
+      "title": "Staff Product Manager - Security",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019"
+    },
+    {
+      "title": "Staff Product Manager - Security",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019"
+    },
+    {
+      "title": "Staff Product Manager - Security",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "3e9c5ab9-7fa1-4988-8ba6-bf9df69a0019"
+    },
+    {
+      "title": "Staff Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dc50b738-be98-4f38-b32e-4df9a340f9ff#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dc50b738-be98-4f38-b32e-4df9a340f9ff"
+    },
+    {
+      "title": "Staff Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dc50b738-be98-4f38-b32e-4df9a340f9ff#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dc50b738-be98-4f38-b32e-4df9a340f9ff"
+    },
+    {
+      "title": "Staff Software Engineer - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/dc50b738-be98-4f38-b32e-4df9a340f9ff#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "dc50b738-be98-4f38-b32e-4df9a340f9ff"
+    },
+    {
+      "title": "Staff Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c7ecb434-fdc0-434e-a455-9c200055cda0#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c7ecb434-fdc0-434e-a455-9c200055cda0"
+    },
+    {
+      "title": "Staff Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c7ecb434-fdc0-434e-a455-9c200055cda0#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c7ecb434-fdc0-434e-a455-9c200055cda0"
+    },
+    {
+      "title": "Staff Software Engineer - Infrastructure Storage",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/c7ecb434-fdc0-434e-a455-9c200055cda0#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "c7ecb434-fdc0-434e-a455-9c200055cda0"
+    },
+    {
+      "title": "Staff Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ed0611f7-7f19-45f4-bef8-56dbae59de15#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ed0611f7-7f19-45f4-bef8-56dbae59de15"
+    },
+    {
+      "title": "Staff Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ed0611f7-7f19-45f4-bef8-56dbae59de15#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ed0611f7-7f19-45f4-bef8-56dbae59de15"
+    },
+    {
+      "title": "Staff Software Engineer - Managed Kubernetes",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/ed0611f7-7f19-45f4-bef8-56dbae59de15#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ed0611f7-7f19-45f4-bef8-56dbae59de15"
+    },
+    {
+      "title": "Staff Technical Program Manager - Business Technology",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/97c2c56b-5088-48c2-88c2-cd6702ebdb67#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "97c2c56b-5088-48c2-88c2-cd6702ebdb67"
+    },
+    {
+      "title": "Staff Technical Program Manager - Business Technology",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/97c2c56b-5088-48c2-88c2-cd6702ebdb67#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "97c2c56b-5088-48c2-88c2-cd6702ebdb67"
+    },
+    {
+      "title": "Technical Accounting/SEC Reporting Lead",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/e0f23169-bd46-4f9b-9391-a044124a11b9",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e0f23169-bd46-4f9b-9391-a044124a11b9"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a2d61a5b-b39c-4879-838a-4dceb63da850#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a2d61a5b-b39c-4879-838a-4dceb63da850"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a2d61a5b-b39c-4879-838a-4dceb63da850#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a2d61a5b-b39c-4879-838a-4dceb63da850"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/a2d61a5b-b39c-4879-838a-4dceb63da850#loc-2",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a2d61a5b-b39c-4879-838a-4dceb63da850"
+    },
+    {
+      "title": "Technical Product Marketing Manager - Public Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/863c214b-6a40-48b4-80ff-989b43a72511#loc-0",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "863c214b-6a40-48b4-80ff-989b43a72511"
+    },
+    {
+      "title": "Technical Product Marketing Manager - Public Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/863c214b-6a40-48b4-80ff-989b43a72511#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "863c214b-6a40-48b4-80ff-989b43a72511"
+    },
+    {
+      "title": "Technical Success Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/2b7fbb56-fc5b-4d9d-91a6-fdfb81a135e8",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "2b7fbb56-fc5b-4d9d-91a6-fdfb81a135e8"
+    },
+    {
+      "title": "Technology Alliance Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/71cd3c75-879a-4863-9288-94ea28e9eac1#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "71cd3c75-879a-4863-9288-94ea28e9eac1"
+    },
+    {
+      "title": "Technology Alliance Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/lambda/71cd3c75-879a-4863-9288-94ea28e9eac1#loc-1",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "71cd3c75-879a-4863-9288-94ea28e9eac1"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.7763013,
+      "longitude": -84.39231989999999,
+      "exact_address": "792 Techwood Dr NW, Atlanta, GA 30332, United States",
+      "departments": [
+        "other",
+        "operations",
+        "engineering",
+        "finance",
+        "customer-support",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "other",
+        "operations",
+        "engineering",
+        "finance",
+        "customer-support",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bellevue_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6101,
+      "longitude": -122.2015,
+      "exact_address": "Bellevue, Washington, United States",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "security",
+        "administration",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9738416,
+      "longitude": 77.64708519999999,
+      "exact_address": "3rd Floor, The Icon, 8, 80 Feet Rd, HAL 3rd Stage, Colony New 515, Indiranagar, Bengaluru, Karnataka 560075, India",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3640075,
+      "longitude": -71.0599445,
+      "exact_address": "90 Canal St 4th Floor, Boston, MA 02114, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 33.0175,
+      "longitude": -96.7059,
+      "exact_address": "3000 Technology Drive Suite 100, Plano, Texas 75074, United States",
+      "departments": [
+        "operations",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0678077,
+      "longitude": -118.4492609,
+      "exact_address": "10918 Strathmore Dr, Los Angeles, CA 90024, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.8251355,
+      "longitude": -80.1952896,
+      "exact_address": "28 NE 54th St, Miami, FL 33137, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7079,
+      "longitude": -74.0104,
+      "exact_address": "120 Wall St., 19th Floor, New York, NY 10005, United States",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "legal",
+        "engineering",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "quebec_city_office",
+      "city": "Quebec City",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 46.7990279,
+      "longitude": -71.2552905,
+      "exact_address": "1265 Bd Charest O #1100, Québec City, Quebec G1N 2C9, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Qro.",
+      "country": "Mexico",
+      "latitude": 20.5923137,
+      "longitude": -100.3857116,
+      "exact_address": "Av Reforma Ote 109, La Santa Cruz, La Cruz, 76020 Santiago de Querétaro, Qro., Mexico",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.79122,
+      "longitude": -122.39702,
+      "exact_address": "45 Fremont Street, Financial District, San Francisco, California, United States - 94105",
+      "departments": [
+        "other",
+        "ai",
+        "finance",
+        "operations",
+        "engineering",
+        "marketing",
+        "hr",
+        "content-production",
+        "customer-support",
+        "legal",
+        "data",
+        "product",
+        "security",
+        "administration",
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "san_jose_office",
+      "city": "San Jose",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.38725,
+      "longitude": -121.92308,
+      "exact_address": "2510 Zanker Road, San Jose, California, United States - 95131",
+      "departments": [
+        "other",
+        "ai",
+        "engineering",
+        "finance",
+        "marketing",
+        "hr",
+        "qa",
+        "content-production",
+        "operations",
+        "data",
+        "security",
+        "administration",
+        "product",
+        "customer-success",
+        "sales",
+        "customer-support"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.610043,
+      "longitude": -122.201745,
+      "exact_address": "City Center Bellevue, 500 108th Avenue NE, Bellevue, Washington, United States - 98004",
+      "departments": [
+        "other",
+        "operations",
+        "finance",
+        "customer-support",
+        "engineering",
+        "product",
+        "security",
+        "administration",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "elk_grove_village_office",
+      "city": "Elk Grove Village",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.9898392,
+      "longitude": -87.7314032,
+      "exact_address": "4055 W Peterson Ave, Chicago, IL 60646",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": "50-200"
+    },
+    {
+      "location_id": "vernon_office",
+      "city": "Vernon",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.9965,
+      "longitude": -118.151,
+      "exact_address": "Prime Data Centers LAX01 Campus, 5955 Southern Avenue, Vernon, California, United States - 90040",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "data_center_office",
+      "city": "Plano",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 33.0743,
+      "longitude": -96.7614,
+      "exact_address": "401 N. Star Road, Plano, Texas, United States - 75075",
+      "departments": [
+        "operations",
+        "it",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "quincy_office",
+      "city": "Quincy",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.2343,
+      "longitude": -119.8528,
+      "exact_address": "Quincy, Washington, United States",
+      "departments": [
+        "engineering",
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-09-15T10:26:30.660Z",
+    "current_valuation_usd": "$5.9B",
+    "current_valuation_usd_last_updated": "2026-09-15T10:26:30.660Z",
+    "total_funding_raised": "$3.2B",
+    "total_funding_raised_last_updated": "2026-09-15T10:26:30.660Z",
+    "key_investors": [
+      {
+        "name": "Nvidia ties",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "TWG",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Nvidia ties",
+        "logo_url": "/investor-logos/nvidia-ties.png"
+      },
+      {
+        "name": "TWG",
+        "logo_url": "/investor-logos/twg.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-15T10:26:30.660Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "mental-health",
+    "commute-allowance",
+    "retirement-401k",
+    "unlimited-pto",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "searchapi-maps",
+    "location_mapping[0].location_source_query": "Lambda office Atlanta Georgia",
+    "location_mapping[3].location_source": "searchapi-maps",
+    "location_mapping[3].location_source_query": "Lambda office bengaluru",
+    "location_mapping[4].location_source": "searchapi-maps",
+    "location_mapping[4].location_source_query": "Lambda office boston",
+    "location_mapping[6].location_source": "perplexity",
+    "location_mapping[8].location_source": "searchapi-maps",
+    "location_mapping[8].location_source_query": "Lambda office Los Angeles California",
+    "location_mapping[9].location_source": "searchapi-maps",
+    "location_mapping[9].location_source_query": "Lambda office miami",
+    "location_mapping[10].location_source": "perplexity",
+    "location_mapping[11].location_source": "searchapi-maps",
+    "location_mapping[11].location_source_query": "Lambda office Quebec City Quebec",
+    "location_mapping[12].location_source": "searchapi-maps",
+    "location_mapping[12].location_source_query": "Lambda Querétaro",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[14].location_source": "perplexity",
+    "location_mapping[15].location_source": "perplexity",
+    "location_mapping[16].location_source": "searchapi-maps",
+    "location_mapping[16].location_source_query": "Lambda office Elk Grove Village Illinois",
+    "location_mapping[17].location_source": "perplexity",
+    "location_mapping[18].location_source": "searchapi-maps",
+    "location_mapping[18].location_source_query": "Lambda Aligned DFW-04 data center Plano Texas",
+    "location_mapping[19].location_source": "searchapi-maps",
+    "location_mapping[19].location_source_query": "Lambda data center Quincy Washington",
+    "job_data.roles[34].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-15T10:26:30.660Z",
+    "company_basic_information.website_url_last_updated": "2026-09-15T10:26:30.660Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-15T10:26:30.660Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-15T10:26:30.660Z",
+    "company_basic_information.last_updated": "2026-09-15",
+    "leadership.founders[0].image_url_last_updated": "2026-09-15T17:45:18.819Z",
+    "leadership.founders[0].description_last_updated": "2026-09-15T17:46:02.933Z",
+    "leadership.founders[1].image_url_last_updated": "2026-09-15T17:45:40.338Z",
+    "leadership.founders[1].description_last_updated": "2026-09-15T17:46:11.859Z",
+    "social_media.x_url_last_updated": "2026-09-15T10:26:30.660Z",
+    "social_media.linkedin_url_last_updated": "2026-09-15T10:26:30.660Z",
+    "social_media.instagram_url_last_updated": "2026-09-15T10:26:30.660Z",
+    "business_details.industry_domains_last_updated": "2026-09-15",
+    "financial_information.funding_stage_last_updated": "2026-09-15T10:26:30.660Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-15T10:26:30.660Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-15T10:26:30.660Z",
+    "financial_information.investor_logos_last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[0].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[1].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[2].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[3].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[4].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[5].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[6].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[7].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[8].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[9].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[10].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[11].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[12].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[13].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[14].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[15].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[16].last_updated": "2026-09-15T10:26:30.660Z",
+    "location_mapping[17].last_updated": "2026-09-15T10:26:30.660Z",
+    "job_data.roles[0].posted_date": "2026-09-15",
+    "job_data.roles[0].title_updated_timestamp": "2026-09-15T17:37:33.852Z",
+    "job_data.roles[1].posted_date": "2026-09-15",
+    "job_data.roles[2].posted_date": "2026-09-15",
+    "job_data.roles[3].posted_date": "2026-09-15",
+    "job_data.roles[4].posted_date": "2026-09-15",
+    "job_data.roles[5].posted_date": "2026-09-15",
+    "job_data.roles[6].posted_date": "2026-09-15",
+    "job_data.roles[7].posted_date": "2026-09-15",
+    "job_data.roles[8].posted_date": "2026-09-15",
+    "job_data.roles[8].title_updated_timestamp": "2026-09-15T17:39:19.001Z",
+    "job_data.roles[9].posted_date": "2026-09-15",
+    "job_data.roles[10].posted_date": "2026-09-15",
+    "job_data.roles[11].posted_date": "2026-09-15",
+    "job_data.roles[11].title_updated_timestamp": "2026-09-15T17:39:46.749Z",
+    "job_data.roles[12].posted_date": "2026-09-15",
+    "job_data.roles[13].posted_date": "2026-09-15",
+    "job_data.roles[14].posted_date": "2026-09-15",
+    "job_data.roles[15].posted_date": "2026-09-15",
+    "job_data.roles[16].posted_date": "2026-09-15",
+    "job_data.roles[17].posted_date": "2026-09-15",
+    "job_data.roles[18].posted_date": "2026-09-15",
+    "job_data.roles[19].posted_date": "2026-09-15",
+    "job_data.roles[20].posted_date": "2026-09-15",
+    "job_data.roles[21].posted_date": "2026-09-15",
+    "job_data.roles[22].posted_date": "2026-09-15",
+    "job_data.roles[23].posted_date": "2026-09-15",
+    "job_data.roles[24].posted_date": "2026-09-15",
+    "job_data.roles[25].posted_date": "2026-09-15",
+    "job_data.roles[26].posted_date": "2026-09-15",
+    "job_data.roles[27].posted_date": "2026-09-15",
+    "job_data.roles[28].posted_date": "2026-09-15",
+    "job_data.roles[29].posted_date": "2026-09-15",
+    "job_data.roles[30].posted_date": "2026-09-15",
+    "job_data.roles[31].posted_date": "2026-09-15",
+    "job_data.roles[32].posted_date": "2026-09-15",
+    "job_data.roles[33].posted_date": "2026-09-15",
+    "job_data.roles[34].posted_date": "2026-09-15",
+    "job_data.roles[35].posted_date": "2026-09-15",
+    "job_data.roles[36].posted_date": "2026-09-15",
+    "job_data.roles[37].posted_date": "2026-09-15",
+    "job_data.roles[38].posted_date": "2026-09-15",
+    "job_data.roles[39].posted_date": "2026-09-15",
+    "job_data.roles[40].posted_date": "2026-09-15",
+    "job_data.roles[41].posted_date": "2026-09-15",
+    "job_data.roles[42].posted_date": "2026-09-15",
+    "job_data.roles[43].posted_date": "2026-09-15",
+    "job_data.roles[44].posted_date": "2026-09-15",
+    "job_data.roles[45].posted_date": "2026-09-15",
+    "job_data.roles[46].posted_date": "2026-09-15",
+    "job_data.roles[47].posted_date": "2026-09-15",
+    "job_data.roles[48].posted_date": "2026-09-15",
+    "job_data.roles[49].posted_date": "2026-09-15",
+    "job_data.roles[50].posted_date": "2026-09-15",
+    "job_data.roles[51].posted_date": "2026-09-15",
+    "job_data.roles[52].posted_date": "2026-09-15",
+    "job_data.roles[53].posted_date": "2026-09-15",
+    "job_data.roles[54].posted_date": "2026-09-15",
+    "job_data.roles[55].posted_date": "2026-09-15",
+    "job_data.roles[56].posted_date": "2026-09-15",
+    "job_data.roles[57].posted_date": "2026-09-15",
+    "job_data.roles[58].posted_date": "2026-09-15",
+    "job_data.roles[59].posted_date": "2026-09-15",
+    "job_data.roles[60].posted_date": "2026-09-15",
+    "job_data.roles[61].posted_date": "2026-09-15",
+    "job_data.roles[62].posted_date": "2026-09-15",
+    "job_data.roles[63].posted_date": "2026-09-15",
+    "job_data.roles[64].posted_date": "2026-09-15",
+    "job_data.roles[65].posted_date": "2026-09-15",
+    "job_data.roles[66].posted_date": "2026-09-15",
+    "job_data.roles[67].posted_date": "2026-09-15",
+    "job_data.roles[68].posted_date": "2026-09-15",
+    "job_data.roles[69].posted_date": "2026-09-15",
+    "job_data.roles[70].posted_date": "2026-09-15",
+    "job_data.roles[71].posted_date": "2026-09-15",
+    "job_data.roles[72].posted_date": "2026-09-15",
+    "job_data.roles[73].posted_date": "2026-09-15",
+    "job_data.roles[74].posted_date": "2026-09-15",
+    "job_data.roles[75].posted_date": "2026-09-15",
+    "job_data.roles[76].posted_date": "2026-09-15",
+    "job_data.roles[77].posted_date": "2026-09-15",
+    "job_data.roles[78].posted_date": "2026-09-15",
+    "job_data.roles[79].posted_date": "2026-09-15",
+    "job_data.roles[80].posted_date": "2026-09-15",
+    "job_data.roles[81].posted_date": "2026-09-15",
+    "job_data.roles[82].posted_date": "2026-09-15",
+    "job_data.roles[83].posted_date": "2026-09-15",
+    "job_data.roles[84].posted_date": "2026-09-15",
+    "job_data.roles[85].posted_date": "2026-09-15",
+    "job_data.roles[86].posted_date": "2026-09-15",
+    "job_data.roles[87].posted_date": "2026-09-15",
+    "job_data.roles[88].posted_date": "2026-09-15",
+    "job_data.roles[89].posted_date": "2026-09-15",
+    "job_data.roles[90].posted_date": "2026-09-15",
+    "job_data.roles[91].posted_date": "2026-09-15",
+    "job_data.roles[92].posted_date": "2026-09-15",
+    "job_data.roles[93].posted_date": "2026-09-15",
+    "job_data.roles[94].posted_date": "2026-09-15",
+    "job_data.roles[95].posted_date": "2026-09-15",
+    "job_data.roles[96].posted_date": "2026-09-15",
+    "job_data.roles[97].posted_date": "2026-09-15",
+    "job_data.roles[98].posted_date": "2026-09-15",
+    "job_data.roles[99].posted_date": "2026-09-15",
+    "job_data.roles[100].posted_date": "2026-09-15",
+    "job_data.roles[101].posted_date": "2026-09-15",
+    "job_data.roles[102].posted_date": "2026-09-15",
+    "job_data.roles[103].posted_date": "2026-09-15",
+    "job_data.roles[104].posted_date": "2026-09-15",
+    "job_data.roles[105].posted_date": "2026-09-15",
+    "job_data.roles[106].posted_date": "2026-09-15",
+    "job_data.roles[107].posted_date": "2026-09-15",
+    "job_data.roles[108].posted_date": "2026-09-15",
+    "job_data.roles[109].posted_date": "2026-09-15",
+    "job_data.roles[110].posted_date": "2026-09-15",
+    "job_data.roles[111].posted_date": "2026-09-15",
+    "job_data.roles[112].posted_date": "2026-09-15",
+    "job_data.roles[113].posted_date": "2026-09-15",
+    "job_data.roles[114].posted_date": "2026-09-15",
+    "job_data.roles[115].posted_date": "2026-09-15",
+    "job_data.roles[116].posted_date": "2026-09-15",
+    "job_data.roles[117].posted_date": "2026-09-15",
+    "job_data.roles[118].posted_date": "2026-09-15",
+    "job_data.roles[119].posted_date": "2026-09-15",
+    "job_data.roles[120].posted_date": "2026-09-15",
+    "job_data.roles[121].posted_date": "2026-09-15",
+    "job_data.roles[122].posted_date": "2026-09-15",
+    "job_data.roles[123].posted_date": "2026-09-15",
+    "job_data.roles[124].posted_date": "2026-09-15",
+    "job_data.roles[125].posted_date": "2026-09-15",
+    "job_data.roles[126].posted_date": "2026-09-15",
+    "job_data.roles[127].posted_date": "2026-09-15",
+    "job_data.roles[128].posted_date": "2026-09-15",
+    "job_data.roles[129].posted_date": "2026-09-15",
+    "job_data.roles[130].posted_date": "2026-09-15",
+    "job_data.roles[131].posted_date": "2026-09-15",
+    "job_data.roles[132].posted_date": "2026-09-15",
+    "job_data.roles[133].posted_date": "2026-09-15",
+    "job_data.roles[134].posted_date": "2026-09-15",
+    "job_data.roles[135].posted_date": "2026-09-15",
+    "job_data.roles[136].posted_date": "2026-09-15",
+    "job_data.roles[137].posted_date": "2026-09-15",
+    "job_data.roles[138].posted_date": "2026-09-15",
+    "job_data.roles[139].posted_date": "2026-09-15",
+    "job_data.roles[140].posted_date": "2026-09-15",
+    "job_data.roles[141].posted_date": "2026-09-15",
+    "job_data.roles[142].posted_date": "2026-09-15",
+    "job_data.roles[143].posted_date": "2026-09-15",
+    "job_data.roles[144].posted_date": "2026-09-15",
+    "job_data.roles[145].posted_date": "2026-09-15",
+    "job_data.roles[146].posted_date": "2026-09-15",
+    "job_data.roles[147].posted_date": "2026-09-15",
+    "job_data.roles[148].posted_date": "2026-09-15",
+    "job_data.roles[149].posted_date": "2026-09-15",
+    "job_data.roles[150].posted_date": "2026-09-15",
+    "job_data.roles[151].posted_date": "2026-09-15",
+    "job_data.roles[152].posted_date": "2026-09-15",
+    "job_data.roles[153].posted_date": "2026-09-15",
+    "job_data.roles[154].posted_date": "2026-09-15",
+    "job_data.roles[155].posted_date": "2026-09-15",
+    "job_data.roles[156].posted_date": "2026-09-15",
+    "job_data.roles[157].posted_date": "2026-09-15",
+    "job_data.roles[158].posted_date": "2026-09-15",
+    "job_data.roles[159].posted_date": "2026-09-15",
+    "job_data.roles[160].posted_date": "2026-09-15",
+    "job_data.roles[161].posted_date": "2026-09-15",
+    "job_data.roles[162].posted_date": "2026-09-15",
+    "job_data.roles[163].posted_date": "2026-09-15",
+    "job_data.roles[164].posted_date": "2026-09-15",
+    "job_data.roles[165].posted_date": "2026-09-15",
+    "job_data.roles[166].posted_date": "2026-09-15",
+    "job_data.roles[167].posted_date": "2026-09-15",
+    "job_data.roles[168].posted_date": "2026-09-15",
+    "job_data.roles[169].posted_date": "2026-09-15",
+    "job_data.roles[170].posted_date": "2026-09-15",
+    "job_data.roles[171].posted_date": "2026-09-15",
+    "job_data.roles[172].posted_date": "2026-09-15",
+    "job_data.roles[173].posted_date": "2026-09-15",
+    "job_data.roles[174].posted_date": "2026-09-15",
+    "job_data.roles[175].posted_date": "2026-09-15",
+    "job_data.roles[176].posted_date": "2026-09-15",
+    "job_data.roles[177].posted_date": "2026-09-15",
+    "job_data.roles[178].posted_date": "2026-09-15",
+    "job_data.roles[179].posted_date": "2026-09-15",
+    "job_data.roles[180].posted_date": "2026-09-15",
+    "job_data.roles[181].posted_date": "2026-09-15",
+    "job_data.roles[182].posted_date": "2026-09-15",
+    "job_data.roles[183].posted_date": "2026-09-15",
+    "job_data.roles[184].posted_date": "2026-09-15",
+    "job_data.roles[185].posted_date": "2026-09-15",
+    "job_data.roles[186].posted_date": "2026-09-15",
+    "job_data.roles[187].posted_date": "2026-09-15",
+    "job_data.roles[188].posted_date": "2026-09-15",
+    "job_data.roles[189].posted_date": "2026-09-15",
+    "job_data.roles[190].posted_date": "2026-09-15",
+    "job_data.roles[191].posted_date": "2026-09-15",
+    "job_data.roles[192].posted_date": "2026-09-15",
+    "job_data.roles[193].posted_date": "2026-09-15",
+    "job_data.roles[194].posted_date": "2026-09-15",
+    "job_data.last_updated": "2026-09-15T10:20:45.864Z",
+    "benefits.equity-stock.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.health-insurance.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.dental-insurance.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.vision-insurance.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.mental-health.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.commute-allowance.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.retirement-401k.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.unlimited-pto.last_updated": "2026-09-15T17:44:32.265Z",
+    "benefits.remote-work.last_updated": "2026-09-15T17:44:32.265Z"
+  }
+}

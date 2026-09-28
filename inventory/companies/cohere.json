@@ -1,0 +1,3925 @@
+{
+  "slug": "cohere",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/56969.249f3b6b1f659961.js",
+  "observed_at": "2026-09-28T08:30:21.569130+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 105224,
+    "sha256": "5cb296da55d6b510df1d3374e69cac87e37a6dba5633f75cc84308a4b19d1828",
+    "elapsed_seconds": 0.543,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:21 GMT",
+      "etag": "\"03e642abf7a0c5860cce29de20d90627\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:21 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Cohere",
+    "company_name_legal": "Cohere Inc.",
+    "founded_year": 2019,
+    "website_url": "https://cohere.com",
+    "careers_url": "https://jobs.ashbyhq.com/cohere",
+    "investor_portfolio_page": null,
+    "id": 402
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 148,
+    "last_updated": "2026-09-14T09:46:52.200Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 148,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/85e808ab-ee45-4944-bedc-832bf933d0b6",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "85e808ab-ee45-4944-bedc-832bf933d0b6"
+    },
+    {
+      "title": "Account Executive Korea",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c0bed981-0439-4bd6-9fa1-7f90efae3168",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c0bed981-0439-4bd6-9fa1-7f90efae3168"
+    },
+    {
+      "title": "Account Executive, SLED (US)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/fdf2e205-0c85-4940-9450-aa024379746a",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fdf2e205-0c85-4940-9450-aa024379746a"
+    },
+    {
+      "title": "Audio Inference Engineer, Model Efficiency",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e912d84c-8399-422d-8a7d-918422a3e4b1"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f959be10-be25-4918-bcf3-39e1a83d2957"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "dbe76343-a8ae-445c-b2f9-c5a304d54f6a"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/dd2f91e7-d2bb-41b7-b8e9-4de925dc0111",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "dd2f91e7-d2bb-41b7-b8e9-4de925dc0111"
+    },
+    {
+      "title": "Business Development Representative - Spanish Speaking",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9f8d2b51-7fe9-470d-8108-fe5fb48c8a89"
+    },
+    {
+      "title": "Chief Information Security Officer (CISO)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e0c86d1a-ee3a-4da6-9244-53f0909ab236",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e0c86d1a-ee3a-4da6-9244-53f0909ab236"
+    },
+    {
+      "title": "Chief of Staff",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5139acd7-3429-483e-9984-040bd799e8a0"
+    },
+    {
+      "title": "Contract Manager - Enterprise AI",
+      "title_original": "Contract Manager - Enterprise AI",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T10:28:29.313Z",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/f57ae62a-791b-43d9-b59f-91f338ca61f4",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f57ae62a-791b-43d9-b59f-91f338ca61f4",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Contract Manager involve managing contracts, ensuring compliance, and collaborating with the legal team, which clearly aligns with legal functions. The role focuses on contract lifecycle management and legal document organization, making it a fit for the legal department."
+    },
+    {
+      "title": "Data Annotation Specialist, Data Science",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9845c80d-95ba-4769-94a7-62408d73d603",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9845c80d-95ba-4769-94a7-62408d73d603"
+    },
+    {
+      "title": "Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/0ef0a9f8-33ac-4360-a833-f8ce8e108a31",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0ef0a9f8-33ac-4360-a833-f8ce8e108a31"
+    },
+    {
+      "title": "Data Annotation Specialist, Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a7321948-288c-4e9f-9fbe-2f9ccda07ffa"
+    },
+    {
+      "title": "Data Annotation Specialist, Software Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5d31ba60-683a-4d59-8059-3f728b772a9e"
+    },
+    {
+      "title": "Data Scientist, North Insights",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e4603bb7-5bbe-4f73-9556-02c93f78b2af"
+    },
+    {
+      "title": "Director, Corporate Communications",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/044edc1d-9ade-45bd-aece-da840ac705b1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "044edc1d-9ade-45bd-aece-da840ac705b1"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/335a6fe6-c857-4c5e-866a-4163496e1254",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "335a6fe6-c857-4c5e-866a-4163496e1254"
+    },
+    {
+      "title": "Engineering Manager, FDE Infrastructure (NORAM)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6a6120d5-5e02-4811-99d9-6baf0b910e37"
+    },
+    {
+      "title": "Engineering Manager, FDE Infrastructure (UK)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9bdbb821-6536-4090-8faa-a2b04a70bbf1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9bdbb821-6536-4090-8faa-a2b04a70bbf1"
+    },
+    {
+      "title": "Engineering Manager, GPU Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "28239d75-5dd9-41fb-ba43-cb08b491be2b"
+    },
+    {
+      "title": "Finance Systems and Automation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/afd7e838-bd5e-4697-94ea-5d31fe1b00fd",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "afd7e838-bd5e-4697-94ea-5d31fe1b00fd"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
+      "location_ids": [
+        "dubai_office",
+        "abu_dhabi_office",
+        "riyadh_office",
+        "tel_aviv_office",
+        "doha_office",
+        "kuwait_city_office",
+        "jerusalem_office",
+        "cairo_office"
+      ],
+      "location_display": "Remote, Middle East",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "75c0032c-7200-48bf-9d6d-355880dd93d9"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b0bcef37-1d20-414f-aade-c54942d63df9"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "031c2335-db85-4265-8a88-a54b911be36a"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9c18b199-cd1f-4ef3-9fab-ce05589348ae"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2d256112-b336-4539-8133-a0bf7f6698f0"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1fa01a03-9253-4f62-8f10-0fe368b38cb9"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "38f75a48-199c-4325-a7f8-2af6ed6a1b3b"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "69a9ab2e-a7eb-4c4f-825a-5c25cf063900"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "be48aafc-9610-4ebd-8414-a0722a3cd59a"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "52a2b83b-7537-4e88-af7b-e4e9630a96e0"
+    },
+    {
+      "title": "Forward Deployed Engineer, Sovereign AI",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "556467eb-3dc8-46e2-b015-277872210997"
+    },
+    {
+      "title": "Head of Strategic Finance",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/39ae8da6-9c3d-4f36-80a3-310159ee1f8d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "39ae8da6-9c3d-4f36-80a3-310159ee1f8d"
+    },
+    {
+      "title": "HR Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8a28e25a-6d8c-403a-8c9a-5155cbe0ce97",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8a28e25a-6d8c-403a-8c9a-5155cbe0ce97"
+    },
+    {
+      "title": "Lead Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "39cab400-c976-41d9-9002-880ac6985b64"
+    },
+    {
+      "title": "Lead Member of Technical Staff, Inference Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/5806a521-8584-4bbe-b60a-49031b919251",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5806a521-8584-4bbe-b60a-49031b919251"
+    },
+    {
+      "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "36d1f52f-8270-4652-adf5-5303a0ff341b"
+    },
+    {
+      "title": "Manager, Security Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1599cc22-313e-49c9-ac69-b365f5f8f227",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1599cc22-313e-49c9-ac69-b365f5f8f227"
+    },
+    {
+      "title": "Member of Technical Staff, Agent Code",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "70a8dc77-ac84-4790-aff6-13b4dcd4554a"
+    },
+    {
+      "title": "Member of Technical Staff, Data Analysis and Evaluation",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "61703710-4379-42fd-a508-946f2a5fb6bc"
+    },
+    {
+      "title": "Member of Technical Staff, Integration/RL Team (Research Engineer)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e9ef9420-88e5-403b-82e8-1c36fa010d4d"
+    },
+    {
+      "title": "Member of Technical Staff, MLE (UK/EU)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "876a2d31-e6c3-497b-9c8e-0b7d111fb4cd"
+    },
+    {
+      "title": "Member of Technical Staff, Model Efficiency",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2a989030-6d14-4924-88c1-d878911e26fa"
+    },
+    {
+      "title": "Member of Technical Staff, Modeling",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3136a5a5-06fd-4c82-8b72-a43467e6b128"
+    },
+    {
+      "title": "Member of Technical Staff, Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "554a9380-ab50-4338-88a9-c6b8ab19d92e"
+    },
+    {
+      "title": "Member of Technical Staff, Pre-Training Data",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "859e2e47-02fb-4afe-bb8a-e83bf4d8c265"
+    },
+    {
+      "title": "Member of Technical Staff - Sovereign AI",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b9306620-a110-46b5-b4c4-7363e1d03a8d"
+    },
+    {
+      "title": "Member of Technical Staff, Training Infra Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a13207e7-dc82-473f-8ca4-e832452fe8c3"
+    },
+    {
+      "title": "Member of Technical Staff, Training Performance Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d42f5fd4-1ffc-45b9-957c-f09862db6af6"
+    },
+    {
+      "title": "Partner Development Manager - AWS",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/d28fbc03-cb09-49da-84b9-e12c16182695",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d28fbc03-cb09-49da-84b9-e12c16182695"
+    },
+    {
+      "title": "Partner Development Manager - Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1a31d80f-0d8b-475a-a60a-b13393ba8687",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1a31d80f-0d8b-475a-a60a-b13393ba8687"
+    },
+    {
+      "title": "PR Director, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/fee0951d-8f8a-41ad-a7d5-4b0083bbe777",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fee0951d-8f8a-41ad-a7d5-4b0083bbe777"
+    },
+    {
+      "title": "PR Director, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/16fb6df4-a1ca-43e4-aabe-5e409fe9ede8",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "16fb6df4-a1ca-43e4-aabe-5e409fe9ede8"
+    },
+    {
+      "title": "Product Manager, Agent Harness & Modelling",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1d1b300d-254b-48c4-958f-99c6b907f295"
+    },
+    {
+      "title": "Product Manager, Integrations",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/87e9fd4e-49ac-4242-97be-7da6f718020d",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "87e9fd4e-49ac-4242-97be-7da6f718020d"
+    },
+    {
+      "title": "Product & Technology Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1c011283-34f3-4461-bb65-455d65a3ec84"
+    },
+    {
+      "title": "Research Internship (Fall, Winter 2026)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "73bd3e2b-6597-4124-b64b-1e5dbc32e785"
+    },
+    {
+      "title": "Senior Account Executive - Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/178915c8-8b0c-4735-a428-cd57264280b3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "178915c8-8b0c-4735-a428-cd57264280b3"
+    },
+    {
+      "title": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e588a0ac-6a84-42fd-808f-6474fd8ff6f0"
+    },
+    {
+      "title": "Senior Account Executive - Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/0cade8fa-d7bf-4e40-8ee1-b601ab439d12",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0cade8fa-d7bf-4e40-8ee1-b601ab439d12"
+    },
+    {
+      "title": "Senior Manager, Executive Communications",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/854ce13b-5a63-4d19-99e7-756a6e8bb84b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "854ce13b-5a63-4d19-99e7-756a6e8bb84b"
+    },
+    {
+      "title": "Senior Manager of Financial Planning & Analysis",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/5adf044a-a601-467a-bb92-807850b4f7ec",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5adf044a-a601-467a-bb92-807850b4f7ec"
+    },
+    {
+      "title": "Senior Manager, Solutions Architecture",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1e6c4acf-d98a-46ac-bacb-d609ca1326c1"
+    },
+    {
+      "title": "Senior Member of Technical Staff, Multimodal AI",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "443368a3-6276-4b90-9671-27fed40fd6d2"
+    },
+    {
+      "title": "Senior Member of Technical Staff, Safety and Security for Agents",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4"
+    },
+    {
+      "title": "Senior Member of Technical Staff, Synthetic Data",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d"
+    },
+    {
+      "title": "Senior Member of Technical Staff, Web Data",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "82ec1512-5bc3-49dd-b995-b6abc2a958d7"
+    },
+    {
+      "title": "Senior ML Systems Engineer, Frameworks & Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c99e61c9-ed92-426d-9711-188dfc0f729f"
+    },
+    {
+      "title": "Senior Research Engineer - Safety Tooling and Data",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2d4d224f-94d4-40ce-88d5-5d340bc0da4e"
+    },
+    {
+      "title": "Senior Research Scientist, Model Evaluation",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "830c613b-d4bf-4673-ab33-46ccc12cc415"
+    },
+    {
+      "title": "Senior Sales Operations Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e49063ea-b829-4718-be74-02f36fa3d983"
+    },
+    {
+      "title": "Senior Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "cb981ecd-a161-482c-8d8e-5f19bb6e7fdd"
+    },
+    {
+      "title": "Senior Technical Program Manager, Machine Learning Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "582c4a60-14a2-49d5-b4d3-24c4ec50508d"
+    },
+    {
+      "title": "Site Reliability Engineer, Inference Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8b6696e1-f1c4-4010-bde9-3cec1340a2a6"
+    },
+    {
+      "title": "Software Engineer, Adoption",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "732c05f5-a9ec-43a3-9ae4-3ec7f7630fff"
+    },
+    {
+      "title": "Software Engineer, Agents & Automations",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e"
+    },
+    {
+      "title": "Software Engineer, Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f"
+    },
+    {
+      "title": "Software Engineer, GPU Infrastructure (HPC)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ef9b939d-da66-464c-a878-ef45616c0473"
+    },
+    {
+      "title": "Software Engineer Intern (Fall / Winter 2026)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8c035d3d-081d-4c8a-914a-72f4efaad254"
+    },
+    {
+      "title": "Software Engineer, North for Finance",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f722247c-291b-44ee-af67-5159b8d5d9b9"
+    },
+    {
+      "title": "Solutions Architect - Defence and National Security",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Canada",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9e1af45a-d1a6-4173-bf0f-8af42fa42bf0"
+    },
+    {
+      "title": "Solutions Architect - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1bc73d85-e6f4-4338-b53a-9ffb609a950d"
+    },
+    {
+      "title": "Staff Research Engineer, Model Efficiency",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c80f0fe9-3fc4-49fe-9f26-a7115350b1fc"
+    },
+    {
+      "title": "Staff Software Engineer, Inference Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "41f23dad-9da2-451a-bd1e-a1800437cb64"
+    },
+    {
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, Canada",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
+      "location_ids": [
+        "ottawa_office"
+      ],
+      "location_display": "Ottawa, Canada",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "01a34bc3-6421-4af2-bf5b-f42e98155dda"
+    },
+    {
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "10306789-4fd5-4f1d-90aa-8132c2df2848"
+    },
+    {
+      "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, France",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
+      "location_ids": [
+        "paris_office",
+        "lyon_office",
+        "toulouse_office",
+        "marseille_office"
+      ],
+      "location_display": "Remote, France",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fc5cb642-23df-430e-ae84-67215384be1c"
+    },
+    {
+      "title": "Technical Program Manager, AI Delivery, Korea",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "cd987666-aeda-4da6-a23c-d84d4231d33b"
+    },
+    {
+      "title": "VP Sales, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/277827a9-02b7-49ca-8590-458e93cab0e6",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "277827a9-02b7-49ca-8590-458e93cab0e6"
+    },
+    {
+      "title": "Applied AI Engineer, Agents & Automations",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "3fe03041-347a-479f-8361-6b1f5f81338e"
+    },
+    {
+      "title": "Data Engineer, Data Foundations",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "9baccd88-c051-474f-bfe8-6867fca54cee"
+    },
+    {
+      "title": "Engineering Manager, FDE Agentic Platform",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e906188a-e089-4b86-85b9-aad0d4413c68"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Singapore)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e88931c0-d3fa-4e81-accc-45db823ea616"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (South Korea)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9c5e1ab3-883b-4d15-885c-76400da7ca11",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "9c5e1ab3-883b-4d15-885c-76400da7ca11"
+    },
+    {
+      "title": "Global Public Policy Manager, Compute, Infrastructure & Sovereign AI",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "public-policy",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "8ac3ed85-e315-443b-bc13-e7a0b900b922"
+    },
+    {
+      "title": "Government Affairs Lead - Middle East (UAE or Saudi Arabia based)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2dc8b505-128a-4bc8-b8c1-7084e7d26530",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "public-policy",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2dc8b505-128a-4bc8-b8c1-7084e7d26530"
+    },
+    {
+      "title": "Head of Sales EMEA, Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "334b2a07-0c6a-4764-b4a8-c8bf68513cde"
+    },
+    {
+      "title": "Marketing Chief of Staff",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "061d7ee4-91c5-4a13-aff6-20d05bf80abb"
+    },
+    {
+      "title": "Member of Technical Staff, Agentic Environments",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "8878b0d0-7d88-4ee9-bc17-b0dd237e39a0"
+    },
+    {
+      "title": "Senior Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/2ae14044-6083-4371-8ab9-06954c162f9a",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2ae14044-6083-4371-8ab9-06954c162f9a"
+    },
+    {
+      "title": "Senior Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/79faf16e-0f78-40bc-ae75-7d1e6674d7c7",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "79faf16e-0f78-40bc-ae75-7d1e6674d7c7"
+    },
+    {
+      "title": "Senior Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "fd92000d-241c-4cf6-86b1-2d9ab796bcbf"
+    },
+    {
+      "title": "Senior Full-Stack Engineer, North Tools & Retrieval",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/6ebac60b-0758-4bb8-8299-44328d4926cb",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "6ebac60b-0758-4bb8-8299-44328d4926cb"
+    },
+    {
+      "title": "Senior Tax Associate / Tax Manager, Indirect Tax",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/43943c73-6640-443d-9b24-df510fce7499",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "43943c73-6640-443d-9b24-df510fce7499"
+    },
+    {
+      "title": "Software Engineer, Integrations",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "96c74af4-b3d7-4960-a666-212ce4debac8"
+    },
+    {
+      "title": "Strategic Account Executive - Energy (Oil and Gas) & Utilities",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514",
+      "location_ids": [
+        "houston_office"
+      ],
+      "location_display": "Houston, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "c0cab8c2-7215-449b-92c8-44b48c313514"
+    },
+    {
+      "title": "Tax Counsel, Tax Planning",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/427c8cbe-6823-4a0c-a59a-7a583be08fab",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "427c8cbe-6823-4a0c-a59a-7a583be08fab"
+    },
+    {
+      "title": "Account Executive, META",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c21c76f0-4a2f-4666-a256-01f454d1d479",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c21c76f0-4a2f-4666-a256-01f454d1d479"
+    },
+    {
+      "title": "Customer Success Manager - Public Sector & Defense, France",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/597e18f5-c33c-4350-8bcd-05a751cece3a",
+      "location_ids": [
+        "paris_office",
+        "lyon_office",
+        "toulouse_office",
+        "marseille_office"
+      ],
+      "location_display": "Remote, France",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "597e18f5-c33c-4350-8bcd-05a751cece3a"
+    },
+    {
+      "title": "Customer Success Manager - UAE",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/abd68512-a6e1-4221-bc60-dec83623408a",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "abd68512-a6e1-4221-bc60-dec83623408a"
+    },
+    {
+      "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "691982e3-9357-42e4-b4c3-a65cae906935"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (France)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6",
+      "location_ids": [
+        "paris_office",
+        "lyon_office",
+        "toulouse_office",
+        "marseille_office"
+      ],
+      "location_display": "Remote, France",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "24cdb030-3913-4c38-a7db-8f31c3c91ee6"
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a0f174cf-4407-4334-b812-45a767092fca"
+    },
+    {
+      "title": "Member of Technical Staff, Multilingual",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a87be947-00f0-4a4c-a690-a4922f88f553"
+    },
+    {
+      "title": "Member of Technical Staff, North Modelling (Evals)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/60de50e9-aba7-4a3a-8cdb-955a456749aa",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "60de50e9-aba7-4a3a-8cdb-955a456749aa"
+    },
+    {
+      "title": "Member of Technical Staff - RL Environments",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/dc523c5b-9477-46c4-a122-4f3b2b8f4b67",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "dc523c5b-9477-46c4-a122-4f3b2b8f4b67"
+    },
+    {
+      "title": "People Operations Manager, Data & Reporting",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/5476ce62-13bd-497b-b988-0a8f85cf6262",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5476ce62-13bd-497b-b988-0a8f85cf6262"
+    },
+    {
+      "title": "People Projects Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9ea34f05-be1d-4630-8994-b80faca8cdb0",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9ea34f05-be1d-4630-8994-b80faca8cdb0"
+    },
+    {
+      "title": "People Systems and Automation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/8a7b1381-bd0b-444e-8605-faca526d4700",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8a7b1381-bd0b-444e-8605-faca526d4700"
+    },
+    {
+      "title": "Senior Account Executive, Federal Defense and Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/372e94d9-fc43-445e-8a96-62caf98366c6#loc-0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "372e94d9-fc43-445e-8a96-62caf98366c6"
+    },
+    {
+      "title": "Senior Account Executive, Federal Defense and Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/372e94d9-fc43-445e-8a96-62caf98366c6#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "372e94d9-fc43-445e-8a96-62caf98366c6"
+    },
+    {
+      "title": "Senior Account Executive - Montreal/Atlantic Canada",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/e2489771-1c24-4ca2-ab5b-03fc961b18b7",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e2489771-1c24-4ca2-ab5b-03fc961b18b7"
+    },
+    {
+      "title": "Senior Account Executive - US Public Sector (Civilian and Federal)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e#loc-0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "98f69f63-2f54-4813-86ea-13d67336326e"
+    },
+    {
+      "title": "Senior Account Executive - US Public Sector (Civilian and Federal)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "98f69f63-2f54-4813-86ea-13d67336326e"
+    },
+    {
+      "title": "Senior Director, Solutions Architecture, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "14a286d9-e415-4198-8d3b-8e0a7882a5b6"
+    },
+    {
+      "title": "Senior Full-Stack Engineer (Front-End Leaning), North Admin",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c12e3636-ed16-47e7-ba1f-82860f88d340",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c12e3636-ed16-47e7-ba1f-82860f88d340"
+    },
+    {
+      "title": "Senior Mobile Engineer (iOS or Android)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3"
+    },
+    {
+      "title": "Solutions Architect - Nordics",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a42976d7-0ae5-4892-b3ba-bf5510c6cecd"
+    },
+    {
+      "title": "Solutions Architect - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7#loc-0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6d0f0753-ff22-46fd-90e9-08998914a8e7"
+    },
+    {
+      "title": "Solutions Architect - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6d0f0753-ff22-46fd-90e9-08998914a8e7"
+    },
+    {
+      "title": "Solutions Architect - UAE",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0"
+    },
+    {
+      "title": "Strategic Sourcing Specialist - Professional Services",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9d8ba367-2e34-4ddd-93e5-265767767ef4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9d8ba367-2e34-4ddd-93e5-265767767ef4"
+    },
+    {
+      "title": "Technical Program Manager, AI Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "41cb2a12-e33a-4368-a9f8-0ae0d19c023e"
+    },
+    {
+      "title": "Early Careers & Interns Specialist - AI Talent Development",
+      "title_original": "Early Careers & Interns Specialist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:24:12.730Z",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/80d4af6c-202e-4132-83a4-fd698b3602d4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "80d4af6c-202e-4132-83a4-fd698b3602d4",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Early Careers & Interns Specialist primarily focuses on designing and implementing early talent programs, managing intern experiences, and developing partnerships with universities. These responsibilities align closely with HR functions, particularly in talent acquisition and development."
+    },
+    {
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Middle East)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af",
+      "location_ids": [
+        "dubai_office",
+        "abu_dhabi_office",
+        "riyadh_office",
+        "tel_aviv_office",
+        "doha_office",
+        "kuwait_city_office",
+        "jerusalem_office",
+        "cairo_office"
+      ],
+      "location_display": "Remote, Middle East",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "291e5dee-dcda-49e6-a1b6-dae0d48f80af"
+    },
+    {
+      "title": "Head of Corporate Development",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0342fd5f-3760-4dcb-b026-333c7b63fc8d"
+    },
+    {
+      "title": "Lead - US Government Affairs & Public Policy",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/bde93d36-4a41-4c8c-bd98-b4e44f9061e4#loc-0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "public-policy",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bde93d36-4a41-4c8c-bd98-b4e44f9061e4"
+    },
+    {
+      "title": "Lead - US Government Affairs & Public Policy",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/bde93d36-4a41-4c8c-bd98-b4e44f9061e4#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "public-policy",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bde93d36-4a41-4c8c-bd98-b4e44f9061e4"
+    },
+    {
+      "title": "Product Manager,  Managed North",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fe2e2971-e2c0-43fd-9ab1-187571776a5d"
+    },
+    {
+      "title": "Product Security Engineer, North Security",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "9b596ab8-0df4-41aa-85da-e07578c082b2"
+    },
+    {
+      "title": "Senior Account Executive, SLED (East)",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/baa0f719-86bf-4378-83c9-c8c8609357f0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "baa0f719-86bf-4378-83c9-c8c8609357f0"
+    },
+    {
+      "title": "Senior Director, Integrated Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/80c4460f-21f8-4162-aa28-fd8ad294b715",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "80c4460f-21f8-4162-aa28-fd8ad294b715"
+    },
+    {
+      "title": "Software Engineer, Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "70313283-6532-450a-8cae-18f9e05a7673"
+    },
+    {
+      "title": "Talent Attraction and Employer Brand Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/51e0abfb-e4fa-452e-9588-fe10c67467f7",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "51e0abfb-e4fa-452e-9588-fe10c67467f7"
+    },
+    {
+      "title": "Talent Partner, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/cfbcd878-ed1c-4cdb-a02b-729d86bf2178",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cfbcd878-ed1c-4cdb-a02b-729d86bf2178"
+    },
+    {
+      "title": "Talent Sourcer, G&A",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/0f93d8e8-8e4a-4176-a884-d5eca0e48287",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0f93d8e8-8e4a-4176-a884-d5eca0e48287"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "exact_address": "Abu Dhabi, United Arab Emirates",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "country": "Netherlands",
+      "latitude": 52.3796,
+      "longitude": 4.8556,
+      "exact_address": "Willem de Zwijgerlaan 350, Amsterdam, 1055 RD, Netherlands",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Sant Vicenç dels Horts (Barcelona)",
+      "state": "Catalonia",
+      "country": "Spain",
+      "latitude": 41.3943,
+      "longitude": 2.0093,
+      "exact_address": "Calle Santander, 7, 08620 Sant Vicenç dels Horts, Barcelona, Spain",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales",
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.365396,
+      "longitude": -71.059268,
+      "exact_address": "226 Causeway Street, Suite 403, Boston, Massachusetts, United States - 02114",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cairo_office",
+      "city": "Cairo",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "exact_address": "Cairo, Egypt",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "calgary_office",
+      "city": "Calgary",
+      "state": "Alberta",
+      "country": "Canada",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "exact_address": "Calgary, Alberta, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.880708,
+      "longitude": -87.632531,
+      "exact_address": "135 South LaSalle Street, Suite 2430, Chicago, Illinois, United States - 60603",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Holte (Greater Copenhagen)",
+      "state": "Capital Region of Denmark",
+      "country": "Denmark",
+      "latitude": 55.8166,
+      "longitude": 12.4739,
+      "exact_address": "Kongevejen 495B, 1st Floor, Holte, Capital Region of Denmark, Denmark - 2840",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dammam_office",
+      "city": "Dammam",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "exact_address": "Dammam, Saudi Arabia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "doha_office",
+      "city": "Doha",
+      "state": null,
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "exact_address": "Doha, Qatar",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": "Leinster",
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "country": "United Kingdom",
+      "latitude": 55.9024,
+      "longitude": -3.1459,
+      "exact_address": "10 Damselfly View, Edinburgh, Scotland, United Kingdom - EH17 8XH",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt am Main",
+      "state": "Hesse",
+      "country": "Germany",
+      "latitude": 50.11285,
+      "longitude": 8.64435,
+      "exact_address": "Westendstraße 28, 60325 Frankfurt am Main, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jeddah_office",
+      "city": "Jeddah",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "exact_address": "Jeddah, Saudi Arabia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jerusalem_office",
+      "city": "Jerusalem",
+      "state": null,
+      "country": "Israel",
+      "latitude": 31.7683,
+      "longitude": 35.2137,
+      "exact_address": "Jerusalem, Israel",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kuwait_city_office",
+      "city": "Kuwait City",
+      "state": null,
+      "country": "Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "exact_address": "Kuwait City, Kuwait",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.51455,
+      "longitude": -0.14062,
+      "exact_address": "Fourth Floor, 51 Great Marlborough Street, Soho, London, United Kingdom - W1F 7JT",
+      "departments": [
+        "marketing",
+        "sales",
+        "legal",
+        "engineering",
+        "hr",
+        "research",
+        "security",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lyon_office",
+      "city": "Lyon",
+      "state": null,
+      "country": "France",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "exact_address": "Lyon, France",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "marketing",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "marseille_office",
+      "city": "Marseille",
+      "state": null,
+      "country": "France",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "exact_address": "Marseille, France",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.8428001,
+      "longitude": -80.1814835,
+      "exact_address": "725 NE 73rd St, Miami, FL 33138",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5299,
+      "longitude": -73.6136,
+      "exact_address": "6666 Rue Saint-Urbain, Mila – Quebec AI Institute, Montreal, Quebec, Canada - H2S 3H1",
+      "departments": [
+        "customer-success",
+        "data",
+        "engineering",
+        "ai",
+        "research"
+      ],
+      "employee_count": "20+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.752977,
+      "longitude": -74.001773,
+      "exact_address": "10 Hudson Yards, 30th Floor, New York, New York, United States - 10001",
+      "departments": [
+        "sales",
+        "finance",
+        "engineering",
+        "operations",
+        "data",
+        "marketing",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "ottawa_office",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 45.3279,
+      "longitude": -75.6684,
+      "exact_address": "4899 Uplands Drive, Cohere Centre, Ottawa, Ontario, Canada - K1V 2N6",
+      "departments": [
+        "engineering",
+        "ai",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.87045,
+      "longitude": 2.3364,
+      "exact_address": "4 Rue de Marivaux, 2nd Floor, 75002 Paris, Île-de-France, France - 75002",
+      "departments": [
+        "legal",
+        "engineering",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "exact_address": "Riyadh, Saudi Arabia",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7997,
+      "longitude": -122.4017,
+      "exact_address": "755 Sansome St Fl 6, San Francisco, CA 94111, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "marketing",
+        "data",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "finance",
+        "data",
+        "marketing",
+        "engineering",
+        "legal",
+        "security",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "sales",
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3368772,
+      "longitude": 103.9051552,
+      "exact_address": "1 Kaki Bukit Avenue 3 #04-16, KB-1, Singapore 416087",
+      "departments": [
+        "sales",
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo Prefecture",
+      "country": "Japan",
+      "latitude": 35.70233,
+      "longitude": 139.70058,
+      "exact_address": "1 Chome-1-1 Okubo, Shinjuku City, Tokyo, Japan - 169-0072",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.65075,
+      "longitude": -79.39342,
+      "exact_address": "171 John Street, Suite 200, Toronto, Ontario, Canada - M5T 1X3",
+      "departments": [
+        "sales",
+        "security",
+        "other",
+        "data",
+        "engineering",
+        "hr",
+        "ai",
+        "product",
+        "marketing",
+        "research",
+        "finance"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "toulouse_office",
+      "city": "Toulouse",
+      "state": null,
+      "country": "France",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "exact_address": "Toulouse, France",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "data",
+        "engineering",
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "other",
+        "public-policy",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "legal",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "houston_office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "exact_address": "Houston, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-08-02T10:02:10.278Z",
+    "current_valuation_usd": "$7B",
+    "current_valuation_usd_last_updated": "2026-08-02T10:02:10.278Z",
+    "total_funding_raised": "$1.54B",
+    "total_funding_raised_last_updated": "2026-08-02T10:02:10.278Z",
+    "key_investors": [
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Radical Ventures",
+        "domain": "radical.vc"
+      },
+      {
+        "name": "Inovia Capital",
+        "domain": ""
+      },
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Secure",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Radical Ventures",
+        "logo_url": "/investor-logos/radical-ventures.png"
+      },
+      {
+        "name": "Inovia Capital",
+        "logo_url": "/investor-logos/inovia-capital.png"
+      },
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Secure",
+        "logo_url": "/investor-logos/secure.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-02T10:02:10.278Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "meal-allowance",
+    "health-insurance",
+    "dental-insurance",
+    "mental-health",
+    "retirement-401k",
+    "parental-leave",
+    "lifestyle-spending-account",
+    "gym-membership",
+    "learning-development",
+    "conference-budget",
+    "privilege-leave",
+    "remote-work",
+    "coworking-allowance",
+    "wfh-setup",
+    "commute-allowance",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[11].location_source": "perplexity",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[18].location_source": "perplexity",
+    "location_mapping[19].location_source": "perplexity",
+    "location_mapping[20].location_source": "perplexity",
+    "location_mapping[27].location_source": "perplexity",
+    "location_mapping[33].location_source": "searchapi-maps",
+    "location_mapping[33].location_source_query": "Cohere office miami",
+    "location_mapping[35].location_source": "perplexity",
+    "location_mapping[37].location_source": "perplexity",
+    "location_mapping[38].location_source": "perplexity",
+    "location_mapping[39].location_source": "perplexity",
+    "location_mapping[43].location_source": "perplexity",
+    "location_mapping[46].location_source": "searchapi-maps",
+    "location_mapping[46].location_source_query": "Cohere singapore",
+    "location_mapping[49].location_source": "perplexity",
+    "location_mapping[50].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-02T10:02:10.278Z",
+    "company_basic_information.website_url_last_updated": "2026-08-02T10:02:10.278Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-02T10:02:10.278Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-02T10:02:10.278Z",
+    "company_basic_information.last_updated": "2026-08-02",
+    "leadership.founders[0].image_url_last_updated": "2026-08-02T10:34:20.043Z",
+    "leadership.founders[0].description_last_updated": "2026-08-02T10:35:26.430Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-02T10:34:38.683Z",
+    "leadership.founders[1].description_last_updated": "2026-08-02T10:35:31.954Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-02T10:34:57.855Z",
+    "leadership.founders[2].description_last_updated": "2026-08-02T10:35:37.850Z",
+    "social_media.x_url_last_updated": "2026-08-02T10:02:10.278Z",
+    "social_media.linkedin_url_last_updated": "2026-08-02T10:02:10.278Z",
+    "social_media.instagram_url_last_updated": "2026-08-02T10:25:56.706Z",
+    "business_details.industry_domains_last_updated": "2026-08-02",
+    "financial_information.funding_stage_last_updated": "2026-08-02T10:02:10.278Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-02T10:02:10.278Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-02T10:02:10.278Z",
+    "financial_information.investor_logos_last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[0].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[1].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[2].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[3].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[4].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[5].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[6].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[7].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[8].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[9].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[10].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[11].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[12].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[13].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[14].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[15].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[16].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[17].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[18].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[19].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[20].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[21].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[22].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[23].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[24].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[25].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[26].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[27].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[28].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[29].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[30].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[31].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[32].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[33].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[34].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[35].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[36].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[37].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[38].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[39].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[40].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[41].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[42].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[43].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[44].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[45].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[46].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[47].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[48].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[49].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[50].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[51].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[52].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[53].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[54].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[55].last_updated": "2026-08-02T10:02:10.278Z",
+    "location_mapping[56].last_updated": "2026-08-02T10:02:10.278Z",
+    "job_data.roles[0].posted_date": "2026-08-02",
+    "job_data.roles[1].posted_date": "2026-08-02",
+    "job_data.roles[2].posted_date": "2026-08-02",
+    "job_data.roles[3].posted_date": "2026-08-02",
+    "job_data.roles[4].posted_date": "2026-08-02",
+    "job_data.roles[5].posted_date": "2026-08-02",
+    "job_data.roles[6].posted_date": "2026-08-02",
+    "job_data.roles[7].posted_date": "2026-08-02",
+    "job_data.roles[8].posted_date": "2026-08-02",
+    "job_data.roles[9].posted_date": "2026-08-02",
+    "job_data.roles[10].posted_date": "2026-08-02",
+    "job_data.roles[11].posted_date": "2026-08-02",
+    "job_data.roles[11].title_updated_timestamp": "2026-08-02T10:28:29.313Z",
+    "job_data.roles[12].posted_date": "2026-08-02",
+    "job_data.roles[13].posted_date": "2026-08-02",
+    "job_data.roles[14].posted_date": "2026-08-02",
+    "job_data.roles[15].posted_date": "2026-08-02",
+    "job_data.roles[16].posted_date": "2026-08-02",
+    "job_data.roles[17].posted_date": "2026-08-02",
+    "job_data.roles[18].posted_date": "2026-08-02",
+    "job_data.roles[19].posted_date": "2026-08-02",
+    "job_data.roles[20].posted_date": "2026-08-02",
+    "job_data.roles[21].posted_date": "2026-08-02",
+    "job_data.roles[22].posted_date": "2026-08-02",
+    "job_data.roles[23].posted_date": "2026-08-02",
+    "job_data.roles[24].posted_date": "2026-08-02",
+    "job_data.roles[25].posted_date": "2026-08-02",
+    "job_data.roles[26].posted_date": "2026-08-02",
+    "job_data.roles[27].posted_date": "2026-08-02",
+    "job_data.roles[28].posted_date": "2026-08-02",
+    "job_data.roles[29].posted_date": "2026-08-02",
+    "job_data.roles[30].posted_date": "2026-08-02",
+    "job_data.roles[31].posted_date": "2026-08-02",
+    "job_data.roles[32].posted_date": "2026-08-02",
+    "job_data.roles[33].posted_date": "2026-08-02",
+    "job_data.roles[34].posted_date": "2026-08-02",
+    "job_data.roles[35].posted_date": "2026-08-02",
+    "job_data.roles[36].posted_date": "2026-08-02",
+    "job_data.roles[37].posted_date": "2026-08-02",
+    "job_data.roles[38].posted_date": "2026-08-02",
+    "job_data.roles[39].posted_date": "2026-08-02",
+    "job_data.roles[40].posted_date": "2026-08-02",
+    "job_data.roles[41].posted_date": "2026-08-02",
+    "job_data.roles[42].posted_date": "2026-08-02",
+    "job_data.roles[43].posted_date": "2026-08-02",
+    "job_data.roles[44].posted_date": "2026-08-02",
+    "job_data.roles[45].posted_date": "2026-08-02",
+    "job_data.roles[46].posted_date": "2026-08-02",
+    "job_data.roles[47].posted_date": "2026-08-02",
+    "job_data.roles[48].posted_date": "2026-08-02",
+    "job_data.roles[49].posted_date": "2026-08-02",
+    "job_data.roles[50].posted_date": "2026-08-02",
+    "job_data.roles[51].posted_date": "2026-08-02",
+    "job_data.roles[52].posted_date": "2026-08-02",
+    "job_data.roles[53].posted_date": "2026-08-02",
+    "job_data.roles[54].posted_date": "2026-08-02",
+    "job_data.roles[55].posted_date": "2026-08-02",
+    "job_data.roles[56].posted_date": "2026-08-02",
+    "job_data.roles[57].posted_date": "2026-08-02",
+    "job_data.roles[58].posted_date": "2026-08-02",
+    "job_data.roles[59].posted_date": "2026-08-02",
+    "job_data.roles[60].posted_date": "2026-08-02",
+    "job_data.roles[61].posted_date": "2026-08-02",
+    "job_data.roles[62].posted_date": "2026-08-02",
+    "job_data.roles[63].posted_date": "2026-08-02",
+    "job_data.roles[64].posted_date": "2026-08-02",
+    "job_data.roles[65].posted_date": "2026-08-02",
+    "job_data.roles[66].posted_date": "2026-08-02",
+    "job_data.roles[67].posted_date": "2026-08-02",
+    "job_data.roles[68].posted_date": "2026-08-02",
+    "job_data.roles[69].posted_date": "2026-08-02",
+    "job_data.roles[70].posted_date": "2026-08-02",
+    "job_data.roles[71].posted_date": "2026-08-02",
+    "job_data.roles[72].posted_date": "2026-08-02",
+    "job_data.roles[73].posted_date": "2026-08-02",
+    "job_data.roles[74].posted_date": "2026-08-02",
+    "job_data.roles[75].posted_date": "2026-08-02",
+    "job_data.roles[76].posted_date": "2026-08-02",
+    "job_data.roles[77].posted_date": "2026-08-02",
+    "job_data.roles[78].posted_date": "2026-08-02",
+    "job_data.roles[79].posted_date": "2026-08-02",
+    "job_data.roles[80].posted_date": "2026-08-02",
+    "job_data.roles[81].posted_date": "2026-08-02",
+    "job_data.roles[82].posted_date": "2026-08-02",
+    "job_data.roles[83].posted_date": "2026-08-02",
+    "job_data.roles[84].posted_date": "2026-08-02",
+    "job_data.roles[85].posted_date": "2026-08-02",
+    "job_data.roles[86].posted_date": "2026-08-02",
+    "job_data.roles[87].posted_date": "2026-08-02",
+    "job_data.roles[88].posted_date": "2026-08-02",
+    "job_data.roles[89].posted_date": "2026-08-02",
+    "job_data.roles[90].posted_date": "2026-08-02",
+    "job_data.roles[91].posted_date": "2026-08-16",
+    "job_data.roles[92].posted_date": "2026-08-16",
+    "job_data.roles[93].posted_date": "2026-08-16",
+    "job_data.roles[94].posted_date": "2026-08-16",
+    "job_data.roles[95].posted_date": "2026-08-16",
+    "job_data.roles[96].posted_date": "2026-08-16",
+    "job_data.roles[97].posted_date": "2026-08-16",
+    "job_data.roles[98].posted_date": "2026-08-16",
+    "job_data.roles[99].posted_date": "2026-08-16",
+    "job_data.roles[100].posted_date": "2026-08-16",
+    "job_data.roles[101].posted_date": "2026-08-16",
+    "job_data.roles[102].posted_date": "2026-08-16",
+    "job_data.roles[103].posted_date": "2026-08-16",
+    "job_data.roles[104].posted_date": "2026-08-16",
+    "job_data.roles[105].posted_date": "2026-08-16",
+    "job_data.roles[106].posted_date": "2026-08-16",
+    "job_data.roles[107].posted_date": "2026-08-16",
+    "job_data.roles[108].posted_date": "2026-08-16",
+    "job_data.roles[109].posted_date": "2026-08-31",
+    "job_data.roles[110].posted_date": "2026-08-31",
+    "job_data.roles[111].posted_date": "2026-08-31",
+    "job_data.roles[112].posted_date": "2026-08-31",
+    "job_data.roles[113].posted_date": "2026-08-31",
+    "job_data.roles[114].posted_date": "2026-08-31",
+    "job_data.roles[115].posted_date": "2026-08-31",
+    "job_data.roles[116].posted_date": "2026-08-31",
+    "job_data.roles[117].posted_date": "2026-08-31",
+    "job_data.roles[118].posted_date": "2026-08-31",
+    "job_data.roles[119].posted_date": "2026-08-31",
+    "job_data.roles[120].posted_date": "2026-08-31",
+    "job_data.roles[121].posted_date": "2026-08-31",
+    "job_data.roles[122].posted_date": "2026-08-31",
+    "job_data.roles[123].posted_date": "2026-08-31",
+    "job_data.roles[124].posted_date": "2026-08-31",
+    "job_data.roles[125].posted_date": "2026-08-31",
+    "job_data.roles[126].posted_date": "2026-08-31",
+    "job_data.roles[127].posted_date": "2026-08-31",
+    "job_data.roles[128].posted_date": "2026-08-31",
+    "job_data.roles[129].posted_date": "2026-08-31",
+    "job_data.roles[130].posted_date": "2026-08-31",
+    "job_data.roles[131].posted_date": "2026-08-31",
+    "job_data.roles[132].posted_date": "2026-08-31",
+    "job_data.roles[133].posted_date": "2026-08-31",
+    "job_data.roles[134].posted_date": "2026-08-31",
+    "job_data.roles[135].posted_date": "2026-09-14",
+    "job_data.roles[135].title_updated_timestamp": "2026-09-14T15:24:12.730Z",
+    "job_data.roles[136].posted_date": "2026-09-14",
+    "job_data.roles[137].posted_date": "2026-09-14",
+    "job_data.roles[138].posted_date": "2026-09-14",
+    "job_data.roles[139].posted_date": "2026-09-14",
+    "job_data.roles[140].posted_date": "2026-09-14",
+    "job_data.roles[141].posted_date": "2026-09-14",
+    "job_data.roles[142].posted_date": "2026-09-14",
+    "job_data.roles[143].posted_date": "2026-09-14",
+    "job_data.roles[144].posted_date": "2026-09-14",
+    "job_data.roles[145].posted_date": "2026-09-14",
+    "job_data.roles[146].posted_date": "2026-09-14",
+    "job_data.roles[147].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T09:46:52.200Z",
+    "benefits.meal-allowance.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.health-insurance.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.dental-insurance.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.mental-health.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.retirement-401k.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.parental-leave.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.lifestyle-spending-account.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.gym-membership.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.learning-development.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.conference-budget.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.privilege-leave.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.remote-work.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.coworking-allowance.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.wfh-setup.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.commute-allowance.last_updated": "2026-08-02T10:33:03.234Z",
+    "benefits.team-events.last_updated": "2026-08-02T10:33:03.234Z"
+  }
+}

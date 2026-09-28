@@ -1,0 +1,534 @@
+{
+  "slug": "weee",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/97241.93fc0b793e60cf53.js",
+  "observed_at": "2026-09-28T08:38:10.761942+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15755,
+    "sha256": "a958e4c8be4cd129c66e08f1bbadb0f4f7546a6e30ba672705393b5f508ea4c3",
+    "elapsed_seconds": 0.807,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:10 GMT",
+      "etag": "\"722df366f3742ce5be1431ec6d320793\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:10 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Weee!",
+    "company_name_legal": "Weee! Inc.",
+    "founded_year": 2015,
+    "website_url": "https://www.sayweee.com",
+    "careers_url": "https://job-boards.greenhouse.io/weee",
+    "investor_portfolio_page": null,
+    "id": 318
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 13,
+    "last_updated": "2026-09-21T16:29:51.128Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 13,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "ICQA Specialist II - Inventory Management",
+      "title_original": "ICQA II",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:29:02.244Z",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7514868003",
+      "location_ids": [
+        "landover_office"
+      ],
+      "location_display": "Landover, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the ICQA II role focus on managing inventory accuracy, conducting cycle counts, and overseeing warehouse operations. This aligns closely with the operations category, as it involves direct oversight of inventory management processes and operational compliance within fulfillment centers."
+    },
+    {
+      "title": "IT Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7966020003",
+      "location_ids": [
+        "milpitas_office"
+      ],
+      "location_display": "Milpitas, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Assistant Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7978549003",
+      "location_ids": [
+        "chicago_office",
+        "hodgkins_office"
+      ],
+      "location_display": "Chicago, USA / Hodgkins, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Senior Warehouse Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7740928003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Warehouse Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7797902003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Warehouse Supervisor I- Ambient/Cooler or Freezer",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7691438003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Warehouse Supervisor II-2nd Shift",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7695404003",
+      "location_ids": [
+        "hodgkins_office"
+      ],
+      "location_display": "Hodgkins, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Safety Supervisor",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7695753003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Safety Supervisor role primarily focuses on overseeing safety protocols, compliance with safety regulations, and creating a safe working environment, which aligns closely with operations. The responsibilities include monitoring safety practices, conducting risk assessments, and implementing safety programs, all of which are integral to operational management."
+    },
+    {
+      "title": "Logistics Coordinator",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7979953003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "People Partner Generalist, Fulfillment Centers & Logistics",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7790805003",
+      "location_ids": [
+        "houston_office",
+        "dallas_office"
+      ],
+      "location_display": "Houston, United States / Texas",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Refrigeration Operator",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7993334003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Refrigeration Operator involve maintaining and operating refrigeration systems, performing maintenance duties, and ensuring the continuous operation of facility utility systems. These tasks align closely with operational functions within a facility, particularly in the context of food processing and storage."
+    },
+    {
+      "title": "Warehouse Supervisor I - Ambient/Cooler or Freezer",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7990691003",
+      "location_ids": [
+        "chicago_office",
+        "hodgkins_office"
+      ],
+      "location_display": "Chicago, USA / Hodgkins, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    },
+    {
+      "title": "Warehouse Supervisor II",
+      "apply_url": "https://job-boards.greenhouse.io/weee/jobs/7695444003",
+      "location_ids": [
+        "clifton_office"
+      ],
+      "location_display": "Clifton, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-21"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "fremont_office",
+      "city": "Fremont",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.5485,
+      "longitude": -121.9886,
+      "exact_address": "Fremont, California, United States",
+      "departments": [
+        "engineering",
+        "it",
+        "operations",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.5852,
+      "longitude": -122.3269,
+      "exact_address": "1950 6th Ave S, Seattle, Washington, United States - 98134",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "clifton_office",
+      "city": "Clifton",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.8584,
+      "longitude": -74.1246,
+      "exact_address": "174 Delawanna Ave, Clifton, New Jersey, United States - 07014",
+      "departments": [
+        "operations",
+        "other",
+        "engineering",
+        "it"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "milpitas_office",
+      "city": "Milpitas",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4316,
+      "longitude": -121.8997,
+      "exact_address": "Milpitas, California, United States",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hodgkins_office",
+      "city": "Hodgkins",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.772815,
+      "longitude": -87.857353,
+      "exact_address": "6000 River Road, Hodgkins, Illinois, United States - 60525",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tampa_office",
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "exact_address": "Tampa, Florida, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "landover_office",
+      "city": "Landover",
+      "state": "Maryland",
+      "country": "United States",
+      "latitude": 38.9338,
+      "longitude": -76.8927,
+      "exact_address": "Landover, Maryland, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "houston_office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "exact_address": "Houston, Texas, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-05-30T07:00:10.725Z",
+    "current_valuation_usd": "$4.1 billion",
+    "current_valuation_usd_last_updated": "2026-05-30T07:00:10.725Z",
+    "total_funding_raised": "$864 million",
+    "total_funding_raised_last_updated": "2026-05-30T07:00:10.725Z",
+    "key_investors": [
+      {
+        "name": "DST Global",
+        "domain": "dst.gl"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "domain": "softbank.com"
+      },
+      {
+        "name": "Greyhound Capital",
+        "domain": ""
+      },
+      {
+        "name": "Plus Capital",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "logo_url": "/investor-logos/softbank-vision-fund-2.png"
+      },
+      {
+        "name": "Greyhound Capital",
+        "logo_url": "/investor-logos/greyhound-capital.png"
+      },
+      {
+        "name": "Plus Capital",
+        "logo_url": "/investor-logos/plus-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-30T07:00:10.725Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "equity-stock",
+    "bonus",
+    "privilege-leave",
+    "sick-leave",
+    "phone-reimbursement",
+    "benefits_scraping_source",
+    "employee-product-access"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "manual-fix",
+    "location_mapping[3].location_source": "manual-fix",
+    "location_mapping[3].location_source_query": "Sayweee office Milpitas California",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "manual-fix",
+    "location_mapping[6].location_source": "manual-fix",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-30T07:00:10.725Z",
+    "company_basic_information.website_url_last_updated": "2026-05-30T07:00:10.725Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-30T07:00:10.725Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-30T07:00:10.725Z",
+    "company_basic_information.last_updated": "2026-05-30",
+    "leadership.founders[0].linkedin_last_verified": "2026-05-30T00:00:00.000Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:32:22.592Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:32:57.973Z",
+    "social_media.x_url_last_updated": "2026-05-30T07:00:10.725Z",
+    "social_media.x_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-05-30T07:00:10.725Z",
+    "social_media.linkedin_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-05-30T07:00:10.725Z",
+    "social_media.instagram_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-30",
+    "financial_information.funding_stage_last_updated": "2026-05-30T07:00:10.725Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-30T07:00:10.725Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-30T07:00:10.725Z",
+    "financial_information.investor_logos_last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[0].last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[1].last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[2].last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[3].last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[4].last_updated": "2026-05-30T07:00:10.725Z",
+    "location_mapping[5].last_updated": "2026-05-30T00:00:00.000Z",
+    "location_mapping[6].last_updated": "2026-05-30T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-21",
+    "job_data.roles[0].title_updated_timestamp": "2026-09-21T18:29:02.244Z",
+    "job_data.roles[1].posted_date": "2026-09-21",
+    "job_data.roles[2].posted_date": "2026-09-21",
+    "job_data.roles[3].posted_date": "2026-09-21",
+    "job_data.roles[4].posted_date": "2026-09-21",
+    "job_data.roles[5].posted_date": "2026-09-21",
+    "job_data.roles[6].posted_date": "2026-09-21",
+    "job_data.roles[7].posted_date": "2026-09-21",
+    "job_data.roles[8].posted_date": "2026-09-21",
+    "job_data.roles[9].posted_date": "2026-09-21",
+    "job_data.roles[10].posted_date": "2026-09-21",
+    "job_data.roles[11].posted_date": "2026-09-21",
+    "job_data.roles[12].posted_date": "2026-09-21",
+    "job_data.last_updated": "2026-09-21T16:29:51.128Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.dental-insurance.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.vision-insurance.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.retirement-401k.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.equity-stock.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.bonus.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.privilege-leave.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.sick-leave.last_updated": "2026-06-07T17:34:19.503Z",
+    "benefits.employee-product-access.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

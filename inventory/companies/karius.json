@@ -1,0 +1,949 @@
+{
+  "slug": "karius",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/12595.63c506a9c6a6ce1d.js",
+  "observed_at": "2026-09-28T08:33:15.140187+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 29573,
+    "sha256": "381dbbb54cefa53c6c84927144b7d2043b32e8e60d62e99112c319f090ead572",
+    "elapsed_seconds": 0.39,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:15 GMT",
+      "etag": "\"89ca53747524e434f34cee10c0f14598\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:15 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Karius",
+    "company_name_legal": "Karius, Inc.",
+    "founded_year": 2014,
+    "website_url": "https://kariusdx.com",
+    "careers_url": "https://jobs.lever.co/kariusdx",
+    "investor_portfolio_page": null,
+    "id": 419
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 19,
+    "last_updated": "2026-09-26T18:10:55.054Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 19,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Biostatistician II",
+      "apply_url": "https://jobs.lever.co/kariusdx/f1b19dd4-0b59-4dc8-a61e-4a8ea1a5f344",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "f1b19dd4-0b59-4dc8-a61e-4a8ea1a5f344",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Biostatistician II involve performing statistical analyses for clinical studies and research initiatives, which aligns closely with the research and science category. The role requires collaboration with clinical and scientific stakeholders, developing statistical analysis plans, and contributing to scientific communications, all of which are fundamental aspects of research."
+    },
+    {
+      "title": "Customer Success Representative I",
+      "apply_url": "https://jobs.lever.co/kariusdx/1c9bdd93-232b-49ed-95fa-3ff8c1ce720d",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Temporary Agency Worker",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "1c9bdd93-232b-49ed-95fa-3ff8c1ce720d"
+    },
+    {
+      "title": "Manager, Digital Marketing",
+      "apply_url": "https://jobs.lever.co/kariusdx/6357d973-ebb8-47f7-9ac2-85ec1643ce10",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "6357d973-ebb8-47f7-9ac2-85ec1643ce10"
+    },
+    {
+      "title": "Senior Manager, Market Intelligence & Development",
+      "apply_url": "https://jobs.lever.co/kariusdx/d5c54043-cbde-4064-be98-17cf1f1395f3",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "d5c54043-cbde-4064-be98-17cf1f1395f3"
+    },
+    {
+      "title": "Associate Clinical Sales Manager (Dallas-Fort Worth)",
+      "apply_url": "https://jobs.lever.co/kariusdx/12a626f7-69a8-4cc3-83c7-37154626d872",
+      "location_ids": [
+        "dallas_office",
+        "fort_worth_office"
+      ],
+      "location_display": "Dallas - Fort Worth, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "12a626f7-69a8-4cc3-83c7-37154626d872"
+    },
+    {
+      "title": "Associate Clinical Sales Manager (Fort Lauderdale)",
+      "apply_url": "https://jobs.lever.co/kariusdx/da02290f-f761-47ea-8192-a7b88f417407",
+      "location_ids": [
+        "fort_lauderdale_office"
+      ],
+      "location_display": "Fort Lauderdale, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "da02290f-f761-47ea-8192-a7b88f417407"
+    },
+    {
+      "title": "Associate Clinical Sales Manager (Lexington)",
+      "apply_url": "https://jobs.lever.co/kariusdx/bda3ffe9-8f88-433d-aca4-97fbfcfd4336",
+      "location_ids": [
+        "lexington_office"
+      ],
+      "location_display": "Lexington, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "bda3ffe9-8f88-433d-aca4-97fbfcfd4336"
+    },
+    {
+      "title": "Clinical Sales Manager (Central Region)",
+      "apply_url": "https://jobs.lever.co/kariusdx/a631db6e-6144-439a-9363-9064ff08f93d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "a631db6e-6144-439a-9363-9064ff08f93d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Clinical Sales Manager focus on driving sales revenue, establishing relationships with key stakeholders in hospitals, and managing territory accounts, which are all core functions of a sales role. The job emphasizes consultative sales techniques and collaboration with various teams to achieve sales goals."
+    },
+    {
+      "title": "Clinical Sales Manager (Eastern Region)",
+      "apply_url": "https://jobs.lever.co/kariusdx/a1fc8b72-dd7b-43a1-bc8d-29e406a79afc",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "a1fc8b72-dd7b-43a1-bc8d-29e406a79afc",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Clinical Sales Manager revolve around driving sales efforts, establishing relationships with key stakeholders in hospitals, and growing sales revenue in the defined territory. The role is focused on account management and sales strategy, which aligns closely with the sales department."
+    },
+    {
+      "title": "Clinical Sales Manager (Western Region)",
+      "apply_url": "https://jobs.lever.co/kariusdx/752d7f8a-8e5c-4178-b453-0125de42bf57",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "752d7f8a-8e5c-4178-b453-0125de42bf57",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Clinical Sales Manager focus on driving sales revenue, building relationships with key stakeholders in hospitals, and managing sales efforts in a defined territory. The role is clearly centered on sales activities, including securing contracts and increasing test volume, which aligns directly with the sales department."
+    },
+    {
+      "title": "Director of Sales - Health Systems",
+      "title_original": "Director, Health Systems",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-13T14:51:30.837Z",
+      "apply_url": "https://jobs.lever.co/kariusdx/bec2e9f5-8c22-49e5-851d-cd97064d028c",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "bec2e9f5-8c22-49e5-851d-cd97064d028c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Director, Health Systems focus on driving system-wide adoption of the Karius Test, building executive-level relationships, and managing enterprise agreements, which are all key functions of a sales role. The position emphasizes account growth, expansion, and strategic partnerships within healthcare systems, aligning closely with sales objectives."
+    },
+    {
+      "title": "Director, Commercial Operations",
+      "apply_url": "https://jobs.lever.co/kariusdx/1a9a4e12-586e-4269-ad1f-9b7508419d2f",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "1a9a4e12-586e-4269-ad1f-9b7508419d2f"
+    },
+    {
+      "title": "Clinical Laboratory Associate II",
+      "apply_url": "https://jobs.lever.co/kariusdx/03604877-bced-45a8-a1a4-453d6e510072",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "medical",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "03604877-bced-45a8-a1a4-453d6e510072"
+    },
+    {
+      "title": "Sr. Clinical Laboratory Associate",
+      "apply_url": "https://jobs.lever.co/kariusdx/ad1264bb-19e4-4789-addf-4247375495b0",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "medical",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "ad1264bb-19e4-4789-addf-4247375495b0"
+    },
+    {
+      "title": "Senior Research Associate",
+      "apply_url": "https://jobs.lever.co/kariusdx/1f3f1ce3-4b59-4395-93d2-3a4e994fb63f",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "1f3f1ce3-4b59-4395-93d2-3a4e994fb63f"
+    },
+    {
+      "title": "Quality Assurance Associate",
+      "apply_url": "https://jobs.lever.co/kariusdx/9173e1c5-15d5-4724-a8e8-6bc6ba063216",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Part-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "9173e1c5-15d5-4724-a8e8-6bc6ba063216"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://jobs.lever.co/kariusdx/6bce5ea1-ca03-4e7a-a5fd-0ec365971017",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "6bce5ea1-ca03-4e7a-a5fd-0ec365971017"
+    },
+    {
+      "title": "Sr. Clinical Research Associate",
+      "apply_url": "https://jobs.lever.co/kariusdx/baa11051-2355-4bf4-ac8d-d6d141f49058",
+      "location_ids": [
+        "redwood_city_office",
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Redwood City, USA / Remote, USA",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "baa11051-2355-4bf4-ac8d-d6d141f49058"
+    },
+    {
+      "title": "Clinical Sales Manager (New York)",
+      "apply_url": "https://jobs.lever.co/kariusdx/86eefec0-e5f3-4c26-8823-0e6651cb8a63",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26",
+      "lever_job_id": "86eefec0-e5f3-4c26-8823-0e6651cb8a63"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "redwood_city_office",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4852,
+      "longitude": -122.2364,
+      "exact_address": "975 Island Drive, Suite 101, Redwood City, CA 94065, United States",
+      "departments": [
+        "medical",
+        "research"
+      ],
+      "employee_count": "201-500"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "fort_lauderdale_office",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 26.1224,
+      "longitude": -80.1373,
+      "exact_address": "Fort Lauderdale, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "fort_worth_office",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7555,
+      "longitude": -97.3308,
+      "exact_address": "Fort Worth, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lexington_office",
+      "city": "Lexington",
+      "state": "Kentucky",
+      "country": "United States",
+      "latitude": 38.0406,
+      "longitude": -84.5037,
+      "exact_address": "Lexington, Kentucky, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-08-13T14:41:34.670Z",
+    "current_valuation_usd": "$185M",
+    "current_valuation_usd_last_updated": "2026-08-13T14:41:34.670Z",
+    "total_funding_raised": "$340M",
+    "total_funding_raised_last_updated": "2026-08-13T14:41:34.670Z",
+    "key_investors": [
+      {
+        "name": "Khosla Ventures",
+        "domain": "khoslaventures.com"
+      },
+      {
+        "name": "Adverb Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Vision Fund 2",
+        "domain": ""
+      },
+      {
+        "name": "5AM Ventures",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Khosla Ventures",
+        "logo_url": "/investor-logos/khosla.png"
+      },
+      {
+        "name": "Adverb Ventures",
+        "logo_url": "/investor-logos/adverb-ventures.png"
+      },
+      {
+        "name": "Vision Fund 2",
+        "logo_url": "/investor-logos/vision-fund-2.png"
+      },
+      {
+        "name": "5AM Ventures",
+        "logo_url": "/investor-logos/5am-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-13T14:41:34.670Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[11].source": "ai_inference_upsert",
+    "location_mapping[12].source": "ai_inference_upsert",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "location_mapping[14].source": "ai_inference_upsert",
+    "location_mapping[15].source": "ai_inference_upsert",
+    "location_mapping[16].source": "ai_inference_upsert",
+    "location_mapping[17].source": "ai_inference_upsert",
+    "location_mapping[18].source": "ai_inference_upsert",
+    "location_mapping[19].source": "ai_inference_upsert",
+    "location_mapping[20].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-13T14:41:34.670Z",
+    "company_basic_information.website_url_last_updated": "2026-08-13T14:41:34.670Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-13T14:41:34.670Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-13T14:41:34.670Z",
+    "company_basic_information.last_updated": "2026-08-13",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-13T14:53:59.443Z",
+    "leadership.founders[0].description_last_updated": "2026-08-13T14:55:20.537Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-13T14:54:18.965Z",
+    "leadership.founders[1].description_last_updated": "2026-08-13T14:55:25.882Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-08-13T15:05:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-13T14:54:37.985Z",
+    "leadership.founders[2].description_last_updated": "2026-08-13T14:55:32.490Z",
+    "social_media.x_url_last_updated": "2026-08-13T15:05:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-08-13T14:41:34.670Z",
+    "social_media.instagram_url_last_updated": "2026-08-13T14:41:34.670Z",
+    "social_media.x_url_last_verified": "2026-08-13T15:05:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-08-13T15:05:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-08-13T15:05:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-08-13",
+    "financial_information.funding_stage_last_updated": "2026-08-13T14:41:34.670Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-13T14:41:34.670Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-13T14:41:34.670Z",
+    "financial_information.investor_logos_last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[0].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[1].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[2].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[3].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[4].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[5].last_updated": "2026-08-13T15:20:00.000Z",
+    "location_mapping[6].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[7].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[8].last_updated": "2026-08-13T15:20:00.000Z",
+    "location_mapping[9].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[10].last_updated": "2026-08-13T14:41:34.670Z",
+    "location_mapping[11].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[12].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[13].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[14].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[15].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[16].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[17].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[18].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[19].last_updated": "2026-08-28T14:54:00.623Z",
+    "location_mapping[20].last_updated": "2026-08-28T14:54:00.623Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[10].title_updated_timestamp": "2026-08-13T14:51:30.837Z",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.roles[15].posted_date": "2026-09-26",
+    "job_data.roles[16].posted_date": "2026-09-26",
+    "job_data.roles[17].posted_date": "2026-09-26",
+    "job_data.roles[18].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T18:10:55.054Z",
+    "benefits.equity-stock.last_updated": "2026-08-13T14:53:12.423Z",
+    "benefits.bonus.last_updated": "2026-08-13T14:53:12.423Z",
+    "benefits.remote-work.last_updated": "2026-08-13T14:53:12.423Z"
+  }
+}

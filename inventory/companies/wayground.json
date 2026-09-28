@@ -1,0 +1,589 @@
+{
+  "slug": "wayground",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/28291.8a7ed8c44eceecb7.js",
+  "observed_at": "2026-09-28T08:38:08.946940+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 16057,
+    "sha256": "84fddfd124942e32a375a3b1426cceee97eda489315d4910247f7c73ee0d6fb3",
+    "elapsed_seconds": 0.161,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:08 GMT",
+      "etag": "\"a162d22010cd5f389a15078115cb556a\"",
+      "last-modified": "Mon, 28 Sep 2026 08:23:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Wayground",
+    "company_name_legal": "Wayground",
+    "founded_year": 2015,
+    "website_url": "https://wayground.com",
+    "careers_url": "https://jobs.lever.co/Wayground",
+    "investor_portfolio_page": null,
+    "id": 59
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 10,
+    "last_updated": "2026-09-18T16:29:57.735Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 10,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://jobs.lever.co/Wayground/1f96f79c-0168-4a33-b0ae-f8fb649e69f2",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "1f96f79c-0168-4a33-b0ae-f8fb649e69f2"
+    },
+    {
+      "title": "Account Executive",
+      "apply_url": "https://jobs.lever.co/Wayground/47a2dbee-4c45-4335-8f57-c71100b31f2e",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "47a2dbee-4c45-4335-8f57-c71100b31f2e"
+    },
+    {
+      "title": "SDR/ BDR Manager",
+      "apply_url": "https://jobs.lever.co/Wayground/ed21aad3-ed19-43ae-b4b7-835ad2ec7b78",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "ed21aad3-ed19-43ae-b4b7-835ad2ec7b78"
+    },
+    {
+      "title": "Team Lead, Account Executive (ROW)",
+      "apply_url": "https://jobs.lever.co/Wayground/53c3586b-3281-4f43-9d34-dc1fe7277fdf",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "53c3586b-3281-4f43-9d34-dc1fe7277fdf"
+    },
+    {
+      "title": "Account Executive - Skillet",
+      "apply_url": "https://jobs.lever.co/Wayground/de1283c4-fccd-483b-bbd9-9c9f7e57dabc",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "de1283c4-fccd-483b-bbd9-9c9f7e57dabc"
+    },
+    {
+      "title": "Business Development Representative - Remote",
+      "apply_url": "https://jobs.lever.co/Wayground/00b68a09-fc68-4645-aab7-d08785b5ab04",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "00b68a09-fc68-4645-aab7-d08785b5ab04"
+    },
+    {
+      "title": "Business Development Representative, NY",
+      "apply_url": "https://jobs.lever.co/Wayground/c8790217-8677-4593-9a17-0ca8aaaf7039",
+      "location_ids": [
+        "new_york_office",
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "c8790217-8677-4593-9a17-0ca8aaaf7039"
+    },
+    {
+      "title": "Education Technology Specialist",
+      "title_original": "Future Opportunities - Education Technology",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-04-13T19:46:41.232Z",
+      "apply_url": "https://jobs.lever.co/Wayground/f734fbac-630c-4028-ba46-acea48e9f9d1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "f734fbac-630c-4028-ba46-acea48e9f9d1",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job posting is centered around education technology and emphasizes building a global learning platform, which aligns closely with the Academy & Training category. The focus on empowering educators and enhancing learning experiences indicates a primary responsibility in education-related initiatives."
+    },
+    {
+      "title": "Social Ads Contractor - Marketing",
+      "title_original": "Social Ads Contractor",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-20T20:12:51.857Z",
+      "apply_url": "https://jobs.lever.co/Wayground/396c90b9-d799-4b99-b0b7-7e1bdd4e5bee",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Part-time Consultant",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "396c90b9-d799-4b99-b0b7-7e1bdd4e5bee",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on managing and optimizing social media ad campaigns, specifically on Meta and TikTok. The job requires skills in campaign execution, performance monitoring, and data analysis, all of which are central to marketing operations."
+    },
+    {
+      "title": "Content Producer - Digital Educational Resources",
+      "title_original": "Elaborador(a) de Recursos Digitais (BNCC/SAEB)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-18T16:28:37.662Z",
+      "apply_url": "https://jobs.lever.co/Wayground/b53f2032-db27-4a0d-81be-0a6903f03a17",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, BR",
+      "role_department": "content-production",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Part-time Consultant",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "b53f2032-db27-4a0d-81be-0a6903f03a17",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on creating and developing educational content aligned with specific educational standards (BNCC and SAEB). The job involves writing and refining digital resources, which clearly falls under content production."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9141,
+      "longitude": 77.6387,
+      "exact_address": "Wayground, 1-9, 1st A Main Road, Sector 6, HSR Layout, Bengaluru, Karnataka, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-10-14T19:20:42.810Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-14T19:20:42.810Z",
+    "total_funding_raised": "$64 million",
+    "total_funding_raised_last_updated": "2025-10-14T19:20:42.810Z",
+    "key_investors": [
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Eight Roads",
+        "domain": "eightroads.com"
+      },
+      {
+        "name": "GSV Ventures",
+        "domain": "gsv.ventures"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "domain": "nexusvp.com"
+      },
+      {
+        "name": "Prime Venture Partners",
+        "domain": "primevp.in"
+      },
+      {
+        "name": "Rocketship VC",
+        "domain": "rocketship.vc"
+      },
+      {
+        "name": "Jerry Yang",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Eight Roads",
+        "logo_url": "/investor-logos/eight-roads.png"
+      },
+      {
+        "name": "GSV Ventures",
+        "logo_url": "/investor-logos/gsv-ventures.png"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "logo_url": "/investor-logos/nexus-venture.png"
+      },
+      {
+        "name": "Prime Venture Partners",
+        "logo_url": "/investor-logos/prime-venture.png"
+      },
+      {
+        "name": "Rocketship VC",
+        "logo_url": "/investor-logos/rocketship-vc.png"
+      },
+      {
+        "name": "Jerry Yang",
+        "logo_url": "/investor-logos/jerry-yang.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-14T19:20:42.810Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "commute-allowance",
+    "health-insurance",
+    "mental-health",
+    "learning-development",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-14T19:20:42.810Z",
+    "company_basic_information.website_url_last_updated": "2025-10-14T19:20:42.810Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-14T19:20:42.810Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.802Z",
+    "company_basic_information.last_updated": "2025-10-14",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T08:31:47.250Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T08:31:56.781Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:34:24.310Z",
+    "leadership.last_updated": "2025-10-14T19:53:31.107Z",
+    "social_media.x_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "social_media.linkedin_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "social_media.instagram_url_last_verified": "2025-10-14T19:20:42.810Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:04:14.982Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-14T19:20:42.810Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-14T19:20:42.810Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-14T19:20:42.810Z",
+    "financial_information.investor_logos_last_updated": "2025-10-14T19:20:42.810Z",
+    "location_mapping[0].last_updated": "2025-10-14T19:24:27.833Z",
+    "job_data.roles[0].posted_date": "2026-09-18",
+    "job_data.roles[1].posted_date": "2026-09-18",
+    "job_data.roles[2].posted_date": "2026-09-18",
+    "job_data.roles[3].posted_date": "2026-09-18",
+    "job_data.roles[4].posted_date": "2026-09-18",
+    "job_data.roles[5].posted_date": "2026-09-18",
+    "job_data.roles[6].posted_date": "2026-09-18",
+    "job_data.roles[7].posted_date": "2026-09-18",
+    "job_data.roles[7].title_updated_timestamp": "2026-04-13T19:46:41.232Z",
+    "job_data.roles[8].posted_date": "2026-09-18",
+    "job_data.roles[8].title_updated_timestamp": "2026-08-20T20:12:51.857Z",
+    "job_data.roles[9].posted_date": "2026-09-18",
+    "job_data.roles[9].title_updated_timestamp": "2026-09-18T16:28:37.662Z",
+    "job_data.last_updated": "2026-09-18T16:29:57.735Z",
+    "benefits.commute-allowance.last_updated": "2026-01-07T15:49:23.349Z",
+    "benefits.health-insurance.last_updated": "2026-01-07T15:49:23.349Z",
+    "benefits.mental-health.last_updated": "2026-01-07T15:49:23.349Z",
+    "benefits.learning-development.last_updated": "2026-01-07T15:49:23.349Z",
+    "benefits.meal-allowance.last_updated": "2026-01-07T15:49:23.349Z"
+  }
+}

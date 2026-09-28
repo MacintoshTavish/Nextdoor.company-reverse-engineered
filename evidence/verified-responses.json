@@ -1,0 +1,72 @@
+[
+  {
+    "method": "GET",
+    "path": "/api/auth/check",
+    "request_body": null,
+    "status_line": "HTTP/2 200",
+    "response": {
+      "authenticated": false,
+      "user": null
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/app-version",
+    "request_body": null,
+    "status_line": "HTTP/2 200",
+    "response": {
+      "version": "f7e097329c0073f9",
+      "dataVersion": "ddec11f6ba0b2c19",
+      "codeVersion": "bd47af796d9f14a6",
+      "timestamp": "2026-09-26T19:24:49.496Z",
+      "environment": "production"
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/company/superk",
+    "request_body": null,
+    "status_line": "HTTP/2 200",
+    "response": {
+      "name": "SuperK",
+      "logo": "/company-logos/superk.png",
+      "careersUrl": "https://superk.keka.com/careers"
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/user/profile",
+    "request_body": null,
+    "status_line": "HTTP/2 401",
+    "response": {
+      "error": "Unauthorized"
+    }
+  },
+  {
+    "method": "POST",
+    "path": "/api/job-leads-companies",
+    "request_body": {
+      "slugs": [
+        "superk"
+      ]
+    },
+    "status_line": "HTTP/2 200",
+    "response": {
+      "companies": [
+        {
+          "slug": "superk",
+          "name": "SuperK",
+          "logo": "/company-logos/superk.png",
+          "officeCount": 5,
+          "departments": [
+            "operations",
+            "finance",
+            "design",
+            "marketing",
+            "engineering"
+          ]
+        }
+      ]
+    }
+  }
+]

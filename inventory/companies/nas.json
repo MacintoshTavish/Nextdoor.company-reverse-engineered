@@ -1,0 +1,276 @@
+{
+  "slug": "nas",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/47047.cd2ea3f0cd3690f6.js",
+  "observed_at": "2026-09-28T08:34:23.077820+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 8151,
+    "sha256": "0adf1a5e9231558530b77dc166874d173d51c284ebb119c5ea42c9089253e267",
+    "elapsed_seconds": 0.44,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:34:23 GMT",
+      "etag": "\"92b59847c3941b7a499fd02e951cb0fc\"",
+      "last-modified": "Mon, 28 Sep 2026 08:34:23 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "benefits",
+    "location_mapping",
+    "job_data",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Nas",
+    "company_name_legal": "Nas Education Pte Ltd",
+    "founded_year": 2019,
+    "website_url": "https://www.nas.io",
+    "careers_url": "https://job-boards.greenhouse.io/nascompany",
+    "investor_portfolio_page": null,
+    "id": 422
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 6,
+    "last_updated": "2026-09-14T09:22:22.442Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 6,
+  "role_field_names": [
+    "apply_url",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Finance Manager",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7979041003",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7747861003",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7765851003",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "AI Software Engineer - Nas.com",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7799556003",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Senior Backend Software Engineer - Nas.com",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7688887003",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "Content Creator - Miami",
+      "apply_url": "https://job-boards.greenhouse.io/nascompany/jobs/7993809003",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Miami, United States",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-14"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Region",
+      "country": "Singapore",
+      "latitude": 1.2969,
+      "longitude": 103.787,
+      "exact_address": "10 Central Exchange Green, #03-02, Singapore - 138649",
+      "departments": [
+        "design",
+        "product",
+        "ai",
+        "engineering"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": "Tel Aviv District",
+      "country": "Israel",
+      "latitude": 32.042322,
+      "longitude": 34.7610217,
+      "exact_address": "Aza St 55, Tel Aviv-Yafo, Israel",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-08-15T13:54:04.414Z",
+    "current_valuation_usd": "$100M",
+    "current_valuation_usd_last_updated": "2026-08-15T13:54:04.414Z",
+    "total_funding_raised": "$1.2B",
+    "total_funding_raised_last_updated": "2026-08-15T13:54:04.414Z",
+    "key_investors": [
+      {
+        "name": "Navitas Capital",
+        "domain": ""
+      },
+      {
+        "name": "Khosla Ventures",
+        "domain": "khoslaventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Navitas Capital",
+        "logo_url": "/investor-logos/navitas-capital.png"
+      },
+      {
+        "name": "Khosla Ventures",
+        "logo_url": "/investor-logos/khosla.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-15T13:54:04.414Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "lifestyle-spending-account",
+    "mental-health",
+    "team-events",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[0].x_twitter_verified_by": "direct_navigation",
+    "social_media.x_url_verified_by": "direct_navigation",
+    "social_media.linkedin_url_verified_by": "direct_navigation",
+    "social_media.instagram_url_verified_by": "direct_navigation",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "benefits.benefits_scraping_source": "job_description",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "searchapi-maps",
+    "location_mapping[1].location_source_query": "Nas Tel Aviv",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-15T13:54:04.414Z",
+    "company_basic_information.website_url_last_updated": "2026-08-15T13:54:04.414Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-15T13:54:04.414Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-15T13:54:04.414Z",
+    "company_basic_information.last_updated": "2026-08-15",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-15",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-15",
+    "social_media.x_url_last_updated": "2026-08-15T13:54:04.414Z",
+    "social_media.x_url_last_verified": "2026-08-15",
+    "social_media.linkedin_url_last_updated": "2026-08-15T13:54:04.414Z",
+    "social_media.linkedin_url_last_verified": "2026-08-15",
+    "social_media.instagram_url_last_updated": "2026-08-15T13:54:04.414Z",
+    "social_media.instagram_url_last_verified": "2026-08-15",
+    "business_details.industry_domains_last_updated": "2026-08-15",
+    "financial_information.funding_stage_last_updated": "2026-08-15T13:54:04.414Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-15T13:54:04.414Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-15T13:54:04.414Z",
+    "financial_information.investor_logos_last_updated": "2026-08-15T13:54:04.414Z",
+    "benefits.health-insurance.last_updated": "2026-08-15T14:01:35.143Z",
+    "benefits.lifestyle-spending-account.last_updated": "2026-08-15T14:01:35.143Z",
+    "benefits.mental-health.last_updated": "2026-08-15T14:01:35.143Z",
+    "benefits.team-events.last_updated": "2026-08-15T14:01:35.143Z",
+    "benefits.equity-stock.last_updated": "2026-08-15T14:01:35.143Z",
+    "location_mapping[0].last_updated": "2026-08-15T13:54:04.414Z",
+    "location_mapping[1].last_updated": "2026-08-15T13:54:04.414Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T09:22:22.442Z"
+  }
+}

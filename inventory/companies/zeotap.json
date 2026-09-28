@@ -1,0 +1,613 @@
+{
+  "slug": "zeotap",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/34343.92f3cb82255bba4b.js",
+  "observed_at": "2026-09-28T08:38:41.632236+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 14520,
+    "sha256": "b03c789a4afc5b5e5b3d4a53bfe8a2ff7bcd1b693635414c7661654d1fee5429",
+    "elapsed_seconds": 0.155,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:41 GMT",
+      "etag": "\"25ac29e8f135f6c10c6293a4a1448dca\"",
+      "last-modified": "Mon, 28 Sep 2026 08:23:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Zeotap",
+    "company_name_legal": "Zeotap GmbH",
+    "founded_year": 2014,
+    "website_url": "https://zeotap.com",
+    "careers_url": "https://zeotap.com/careers/",
+    "investor_portfolio_page": null,
+    "id": 32
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-18T16:04:21.057Z",
+    "crawl_status": "success",
+    "source": "Recruitee",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "portal_name",
+    "posted_date",
+    "recruitee_job_id",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Sales Director - UK (m/f/t)",
+      "apply_url": "https://zeotap.recruitee.com/o/2623358",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.53,
+      "longitude": 13.4095,
+      "exact_address": "Zeotap GmbH, Torstraße 49, 10119 Berlin, Germany",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5194,
+      "longitude": -0.0804,
+      "exact_address": "Zeotap Ltd, 1 Primrose Street, London EC2A 2EX, United Kingdom",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9345,
+      "longitude": 77.6091,
+      "exact_address": "Zeotap India Pvt Ltd, 4th Floor, Tower D, IBC Knowledge Park, 4/1 Bannerghatta Main Road, Bengaluru, Karnataka 560029, India",
+      "departments": [
+        "sales",
+        "engineering",
+        "design"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2025-09-30T00:00:00.000Z",
+    "current_valuation_usd": "$250 million",
+    "current_valuation_usd_last_updated": "2025-09-30T00:00:00.000Z",
+    "total_funding_raised": "$110 million",
+    "total_funding_raised_last_updated": "2025-09-30T00:00:00.000Z",
+    "key_investors": [
+      {
+        "name": "SignalFire",
+        "domain": "signalfire.com"
+      },
+      {
+        "name": "NeueCapital",
+        "domain": "neuecapital.com"
+      },
+      {
+        "name": "Coparion",
+        "domain": "coparion.vc"
+      },
+      {
+        "name": "Ionic Capital",
+        "domain": "ioniccap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "SignalFire",
+        "logo_url": "/investor-logos/signalfire.png"
+      },
+      {
+        "name": "NeueCapital",
+        "logo_url": "/investor-logos/neuecapital.png"
+      },
+      {
+        "name": "Coparion",
+        "logo_url": "/investor-logos/coparion.png"
+      },
+      {
+        "name": "Ionic Capital",
+        "logo_url": "/investor-logos/ionic.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-09-30T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Recruitee",
+    "job_data.crawl_method": "automated+browser"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-09-30T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-09-30T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-17T18:07:34.010Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.803Z",
+    "company_basic_information.last_updated": "2025-09-30",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-28T20:04:15.933Z",
+    "leadership.founders[0].description_last_updated": "2026-01-28T20:20:24.973Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-28T20:04:25.788Z",
+    "leadership.founders[1].description_last_updated": "2026-01-28T20:20:31.613Z",
+    "leadership.last_updated": "2025-10-07T08:54:29.374Z",
+    "social_media.x_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2025-09-30T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:02:55.586Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-09-30T00:00:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-09-30T00:00:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2025-09-30T00:00:00.000Z",
+    "financial_information.investor_logos_last_updated": "2025-09-30T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2025-09-30T00:00:00.000Z",
+    "location_mapping[1].last_updated": "2025-09-30T00:00:00.000Z",
+    "location_mapping[2].last_updated": "2025-09-30T00:00:00.000Z",
+    "job_data.last_updated": "2026-09-18T16:04:21.057Z"
+  }
+}

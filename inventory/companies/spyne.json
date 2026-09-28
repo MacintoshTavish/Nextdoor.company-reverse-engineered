@@ -1,0 +1,839 @@
+{
+  "slug": "spyne",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/48851.31c1909c55149912.js",
+  "observed_at": "2026-09-28T08:36:52.075622+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 30639,
+    "sha256": "c529e2d81fa7b8760e5b474f6ee8eb2bca172e38ad8ece115e425c25f2039318",
+    "elapsed_seconds": 0.442,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:52 GMT",
+      "etag": "\"85158ccdcbf03ae06378c8b450df3ed5\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:52 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Spyne",
+    "company_name_legal": "Spyne.ai Private Limited",
+    "founded_year": 2018,
+    "website_url": "https://www.spyne.ai",
+    "careers_url": "https://spyneai.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 144
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 24,
+    "last_updated": "2026-09-24T10:21:36.997Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 24,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Business Analyst",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/156284",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "156284"
+    },
+    {
+      "title": "Image Editor",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/48384",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "48384",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities involve professional image editing, photo retouching, color correction, and visual content creation using Adobe Photoshop, Lightroom, and Illustrator. This is core content production work focused on creating and enhancing visual assets for automotive retail marketing, spending 80%+ of time on hands-on editing tasks."
+    },
+    {
+      "title": "Intern - Product Marketing",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/138205",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138205"
+    },
+    {
+      "title": "AI Product Manager",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/63606",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-7 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "63606"
+    },
+    {
+      "title": "Director - Product",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/49785",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "49785"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/143354",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4-6",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "143354"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/144732",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "144732"
+    },
+    {
+      "title": "Director - Engineering",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/76182",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "10 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "76182"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/76181",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "8 - 10 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "76181"
+    },
+    {
+      "title": "Lead Engineer / SDE - III",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/53194",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4 - 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "53194"
+    },
+    {
+      "title": "SDE - II Backend",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/120850",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "120850"
+    },
+    {
+      "title": "Data Engineer",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/145008",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "145008"
+    },
+    {
+      "title": "Infosec Engineer",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/145003",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "145003"
+    },
+    {
+      "title": "SDE Intern",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/156605",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India / Work From Office, 5 days a week",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0 - 1 Year",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "156605"
+    },
+    {
+      "title": "Business Development Executive - US Used-Car Market",
+      "title_original": "Business Developement Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-11T09:12:30.806Z",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/153859",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "153859",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Business Development Executive role focus on generating leads, delivering product demonstrations, and managing the full sales cycle, which includes closing deals. The emphasis on prospecting, pitching, and closing indicates a strong alignment with sales functions."
+    },
+    {
+      "title": "Intern - Sales Developement Representative",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/160369",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "160369"
+    },
+    {
+      "title": "Associate Product Manager - Automotive AI Solutions",
+      "title_original": "Associate Product Mangaer",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-25T20:56:52.685Z",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/156604",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "156604",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Associate Product Manager include product execution, feature ownership, user research, and cross-functional coordination, all of which are central to product management. The role focuses on defining product roadmaps and working closely with engineering and design teams, which aligns strongly with the product department."
+    },
+    {
+      "title": "Account Executive - Sales",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/134371",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 -5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "134371"
+    },
+    {
+      "title": "DevOps Engineer",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/41719",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "41719",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the DevOps Engineer role focus on developing and maintaining CI/CD pipelines, managing cloud infrastructure, and implementing security best practices, all of which are core IT functions. The required skills and qualifications also emphasize IT-related expertise, particularly in cloud services and automation."
+    },
+    {
+      "title": "Customer Success Manager - AI Products",
+      "title_original": "Customer Success Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T11:00:34.522Z",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/161130",
+      "location_ids": [
+        "san_francisco_remote",
+        "new_york_remote",
+        "austin_remote",
+        "seattle_remote",
+        "boston_remote",
+        "chicago_remote",
+        "denver_remote",
+        "los_angeles_remote",
+        "atlanta_remote",
+        "miami_remote"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "161130",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Customer Success Manager involve managing customer accounts, driving adoption, retention, and expansion, as well as being the voice of the customer within the company. This aligns closely with the core functions of customer success, which focuses on ensuring customer satisfaction and maximizing value from the product."
+    },
+    {
+      "title": "Lead - Customer Success Manager",
+      "title_original": "Lead - Customer Success Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T11:00:57.599Z",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/161131",
+      "location_ids": [
+        "san_francisco_remote",
+        "new_york_remote",
+        "austin_remote",
+        "seattle_remote",
+        "boston_remote",
+        "chicago_remote",
+        "denver_remote",
+        "los_angeles_remote",
+        "atlanta_remote",
+        "miami_remote"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "6 - 9 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "161131",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on managing customer accounts, driving adoption and retention, and leading a team of Customer Success Managers. The emphasis on strategic account management and customer advocacy aligns closely with the customer success category."
+    },
+    {
+      "title": "Partnership & Channel Sales Manager",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/161143",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "161143"
+    },
+    {
+      "title": "Manager - Forward Deployed Engineer",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/146473",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "6-9",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "146473"
+    },
+    {
+      "title": "Program & Strategy, Founder's Office",
+      "apply_url": "https://spyneai.keka.com/careers/jobdetails/162674",
+      "location_ids": [
+        "gurgaon_office"
+      ],
+      "location_display": "Gurgaon, India",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4-8",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "162674"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "gurgaon_office",
+      "city": "gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4172,
+      "longitude": 77.0453,
+      "exact_address": "601 to 612 and 659, JMD Megapolis, Sector 48, Gurugram, Haryana, India - 122018",
+      "departments": [
+        "ai",
+        "engineering",
+        "data",
+        "other",
+        "design",
+        "finance",
+        "legal",
+        "customer-success",
+        "marketing",
+        "operations",
+        "product",
+        "qa",
+        "sales"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "jersey_city_office",
+      "city": "jersey city",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.7195,
+      "longitude": -74.0435,
+      "exact_address": "33 Hudson Street E3112, Jersey City, New Jersey, United States - 07302",
+      "departments": [
+        "operations",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-01-05T19:02:28.345Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-05T19:02:28.345Z",
+    "total_funding_raised": "$23.7 million",
+    "total_funding_raised_last_updated": "2026-01-05T19:02:28.345Z",
+    "key_investors": [
+      {
+        "name": "Vertex Ventures",
+        "domain": "vertexventures.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Storm Ventures",
+        "domain": "stormventures.com"
+      },
+      {
+        "name": "Alteria Capital",
+        "domain": "alteriacapital.com"
+      },
+      {
+        "name": "Smile Group",
+        "domain": null
+      },
+      {
+        "name": "Pentathlon Ventures",
+        "domain": null
+      },
+      {
+        "name": "Core91",
+        "domain": null
+      },
+      {
+        "name": "Angel List",
+        "domain": "angel.co"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Vertex Ventures",
+        "logo_url": "/investor-logos/vertex-ventures.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Storm Ventures",
+        "logo_url": "/investor-logos/storm-ventures.png"
+      },
+      {
+        "name": "Alteria Capital",
+        "logo_url": "/investor-logos/alteria-capital.png"
+      },
+      {
+        "name": "Smile Group",
+        "logo_url": "/investor-logos/smile-group.png"
+      },
+      {
+        "name": "Pentathlon Ventures",
+        "logo_url": "/investor-logos/pentathlon-ventures.png"
+      },
+      {
+        "name": "Core91",
+        "logo_url": "/investor-logos/core91.png"
+      },
+      {
+        "name": "Angel List",
+        "logo_url": "/investor-logos/angel-list.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-05T19:02:28.345Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": 500
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "life-insurance",
+    "equity-stock",
+    "bonus",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[5].source": "ai_inference_upsert",
+    "location_mapping[6].source": "ai_inference_upsert",
+    "location_mapping[7].source": "ai_inference_upsert",
+    "location_mapping[8].source": "ai_inference_upsert",
+    "location_mapping[9].source": "ai_inference_upsert",
+    "location_mapping[10].source": "ai_inference_upsert",
+    "location_mapping[11].source": "ai_inference_upsert",
+    "location_mapping[12].source": "ai_inference_upsert",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "location_mapping[14].source": "ai_inference_upsert",
+    "job_data.roles[19].location_inference_source": "ai",
+    "job_data.roles[20].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-05T19:02:28.345Z",
+    "company_basic_information.website_url_last_updated": "2026-01-05T19:02:28.345Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-05T19:02:28.345Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-05T19:02:28.345Z",
+    "company_basic_information.last_updated": "2026-01-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-06T07:55:46.844Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-06T07:56:04.472Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-06T18:59:55.313Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:15:30.544Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-06T07:56:24.824Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-01-08T10:42:28.528Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-06T19:00:09.361Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:15:37.675Z",
+    "social_media.x_url_last_verified": "2026-01-06T07:57:08.829Z",
+    "social_media.linkedin_url_last_verified": "2026-01-06T07:57:41.562Z",
+    "social_media.instagram_url_last_verified": "2026-01-08T10:42:08.857Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:43.531Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2026-01-05T19:02:28.345Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-05T19:02:28.345Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-05T19:02:28.345Z",
+    "financial_information.investor_logos_last_updated": "2026-01-05T19:02:28.345Z",
+    "location_mapping[0].last_updated": "2026-01-05T19:02:28.345Z",
+    "location_mapping[1].last_updated": "2026-01-05T19:02:28.345Z",
+    "location_mapping[5].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[6].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[7].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[8].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[9].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[10].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[11].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[12].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[13].last_updated": "2026-09-24T11:00:34.522Z",
+    "location_mapping[14].last_updated": "2026-09-24T11:00:34.522Z",
+    "job_data.roles[14].title_updated_timestamp": "2026-08-11T09:12:30.806Z",
+    "job_data.roles[16].title_updated_timestamp": "2026-08-25T20:56:52.685Z",
+    "job_data.roles[19].title_updated_timestamp": "2026-09-24T11:00:34.522Z",
+    "job_data.roles[20].title_updated_timestamp": "2026-09-24T11:00:57.599Z",
+    "job_data.last_updated": "2026-09-24T10:21:36.997Z",
+    "benefits.health-insurance.last_updated": "2026-01-13T07:47:15.693Z",
+    "benefits.life-insurance.last_updated": "2026-01-13T07:47:15.693Z",
+    "benefits.equity-stock.last_updated": "2026-01-13T07:47:15.693Z",
+    "benefits.bonus.last_updated": "2026-01-13T07:47:15.693Z",
+    "benefits.learning-development.last_updated": "2026-01-13T07:47:15.693Z"
+  }
+}

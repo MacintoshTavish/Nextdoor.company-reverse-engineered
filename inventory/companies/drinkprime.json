@@ -1,0 +1,187 @@
+{
+  "slug": "drinkprime",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/36059.4df73b9dd195bb1c.js",
+  "observed_at": "2026-09-28T08:31:02.826664+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7700,
+    "sha256": "249653fbdef08bdd4806ad3a3b562485b77fbd6676ab46da920a1af9f9f04e51",
+    "elapsed_seconds": 0.418,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:02 GMT",
+      "etag": "\"e161d8a54bf2bbf8404c975446c51da1\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:02 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "DrinkPrime",
+    "company_name_legal": "Waterwala Labs Private Limited",
+    "founded_year": 2016,
+    "website_url": "https://drinkprime.in",
+    "careers_url": "https://drinkprime.freshteam.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 322
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-24T10:26:55.743Z",
+    "crawl_status": "success",
+    "source": "Freshteam Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9117,
+      "longitude": 77.6441,
+      "exact_address": "475/9/A, Chukki Complex, 19th Main, 3rd Sector, HSR Layout, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "marketing",
+        "operations",
+        "finance",
+        "sales",
+        "customer-success",
+        "hr",
+        "academy-training",
+        "qa",
+        "customer-support",
+        "data",
+        "product",
+        "content-production",
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.6427,
+      "longitude": 77.1371,
+      "exact_address": "Plot No. 25, 3rd Floor, Community Centre, Naraina Industrial Area Phase I, Naraina, New Delhi, Delhi, India - 110028",
+      "departments": [
+        "operations",
+        "other",
+        "finance"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 12.9103,
+      "longitude": 77.642,
+      "exact_address": "No. 2-91/4, 6th Floor, 475/9/A, Chukki Complex, 19th Main Road, 3rd Sector, HSR Layout, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-06-02T15:26:25.132Z",
+    "current_valuation_usd": "$36.8 million",
+    "current_valuation_usd_last_updated": "2026-06-02T15:26:25.132Z",
+    "total_funding_raised": "$18 million",
+    "total_funding_raised_last_updated": "2026-06-02T15:26:25.132Z",
+    "key_investors": [
+      {
+        "name": "FirstCheque",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "FirstCheque",
+        "logo_url": "/investor-logos/firstcheque.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-02T15:26:25.132Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Freshteam Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-02T15:26:25.132Z",
+    "company_basic_information.website_url_last_updated": "2026-06-02T15:26:25.132Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-02T15:26:25.132Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-02T15:26:25.132Z",
+    "company_basic_information.last_updated": "2026-06-02",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:56:01.139Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T10:03:26.800Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-06-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:56:19.652Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T10:03:33.857Z",
+    "social_media.x_url_last_updated": "2026-06-02T15:26:25.132Z",
+    "social_media.linkedin_url_last_updated": "2026-06-02T15:26:25.132Z",
+    "social_media.instagram_url_last_updated": "2026-06-02T15:26:25.132Z",
+    "social_media.x_url_last_verified": "2026-06-02T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-06-02T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-06-02T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-06-02",
+    "financial_information.funding_stage_last_updated": "2026-06-02T15:26:25.132Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-02T15:26:25.132Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-02T15:26:25.132Z",
+    "financial_information.investor_logos_last_updated": "2026-06-02T15:26:25.132Z",
+    "location_mapping[0].last_updated": "2026-06-02T15:26:25.132Z",
+    "location_mapping[1].last_updated": "2026-06-02T15:26:25.132Z",
+    "location_mapping[2].last_updated": "2026-06-02T15:26:25.132Z",
+    "job_data.last_updated": "2026-09-24T10:26:55.743Z"
+  }
+}

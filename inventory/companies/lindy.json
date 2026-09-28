@@ -1,0 +1,181 @@
+{
+  "slug": "lindy",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/47631.c79339d82000f679.js",
+  "observed_at": "2026-09-28T08:33:38.671202+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 5817,
+    "sha256": "2b6464a3dfa224adb5a6ef406e78be771bb751cf38ee3cc1106a30fd3b8220ef",
+    "elapsed_seconds": 0.155,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:38 GMT",
+      "etag": "\"4148fdbf3a6b4c34ea3bbd8c9d7dd2df\"",
+      "last-modified": "Mon, 28 Sep 2026 08:12:35 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Lindy",
+    "company_name_legal": "Lindy",
+    "founded_year": 2020,
+    "website_url": "https://www.lindy.ai",
+    "careers_url": "https://careers.lindy.ai/",
+    "investor_portfolio_page": null,
+    "id": 103
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 2,
+    "last_updated": "2026-08-07T11:45:50.397Z",
+    "crawl_status": "success",
+    "source": "Teamtailor",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 2,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "portal_name",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "teamtailor_job_id",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://careers.lindy.ai/jobs/657855-senior-product-manager",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-07-03"
+    },
+    {
+      "title": "Software Engineer Internship",
+      "apply_url": "https://careers.lindy.ai/jobs/656963-software-engineer-internship",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-07-01"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7897,
+      "longitude": -122.3972,
+      "exact_address": "101 New Montgomery, San Francisco, California, United States - 94105",
+      "departments": [
+        "administration",
+        "engineering",
+        "product",
+        "sales",
+        "other",
+        "marketing"
+      ],
+      "employee_count": "25+"
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2025-11-28T19:59:00.740Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-28T19:59:00.740Z",
+    "total_funding_raised": "$50 million",
+    "total_funding_raised_last_updated": "2025-11-28T19:59:53.493Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2025-11-28T19:59:00.740Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "meal-allowance",
+    "visa-sponsorship",
+    "relocation-assistance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Teamtailor",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-24T10:16:36.126Z",
+    "company_basic_information.website_url_last_updated": "2025-11-24T10:16:36.126Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-24T10:16:36.126Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-24T10:16:36.126Z",
+    "company_basic_information.last_updated": "2025-11-24",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-28T19:56:29.516Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-28T19:56:44.617Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T07:57:40.724Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:04:34.715Z",
+    "social_media.x_url_last_verified": "2025-11-28T19:56:58.640Z",
+    "social_media.linkedin_url_last_verified": "2025-11-28T19:57:24.974Z",
+    "social_media.instagram_url_last_verified": "2025-11-28T19:57:36.808Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:03.284Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-11-28T19:59:00.740Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-28T19:59:00.740Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-28T19:59:53.493Z",
+    "financial_information.investor_logos_last_updated": "2025-11-28T19:59:00.740Z",
+    "location_mapping[0].last_updated": "2025-11-24T10:16:36.126Z",
+    "job_data.roles[0].posted_date": "2026-07-03",
+    "job_data.roles[1].posted_date": "2026-07-01",
+    "job_data.last_updated": "2026-08-07T11:45:50.397Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T13:56:34.884Z",
+    "benefits.health-insurance.last_updated": "2026-01-06T13:56:34.884Z",
+    "benefits.meal-allowance.last_updated": "2026-01-06T13:56:34.884Z",
+    "benefits.visa-sponsorship.last_updated": "2026-01-06T13:56:34.884Z",
+    "benefits.relocation-assistance.last_updated": "2026-01-06T13:56:34.884Z"
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "slug": "attentive-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/18727.dd34ceeae22253ab.js",
+  "observed_at": "2026-09-28T08:29:14.189820+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19010,
+    "sha256": "7f6633bf086296eca8d9f3111c5f21e6ae6d6ca2caf996683e86188fd3e8c72e",
+    "elapsed_seconds": 0.415,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:14 GMT",
+      "etag": "\"4e44e530ff9b02a95c12b5c7d7955535\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Attentive.ai",
+    "company_name_legal": "Attentive Inc",
+    "founded_year": 2020,
+    "website_url": "https://attentive.ai",
+    "careers_url": "https://attentiveos.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 104
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 19,
+    "last_updated": "2026-09-24T10:20:10.926Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 19,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Research Engineer - III",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/136345",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "136345"
+    },
+    {
+      "title": "Software Engineer - II (AI)",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/152599",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "152599"
+    },
+    {
+      "title": "Research Scientist, Computer Vision",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/158971",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "158971"
+    },
+    {
+      "title": "Research Intern, Computer Vision",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/158975",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "158975"
+    },
+    {
+      "title": "QA Engineer",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/157639",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "157639"
+    },
+    {
+      "title": "Software Engineer-II (Frontend)",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/160213",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "160213"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/130016",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "INR",
+        "min": 140000,
+        "max": 180000,
+        "period": "year",
+        "display": "₹1.4–1.8 LPA",
+        "confidence": "medium",
+        "reason": "Based on 2026 data, a Forward Deployed Engineer (FDE) at companies similar to Attentive.ai operating remotely in India typically earns within a competitive salary bracket tailored for software engineering roles, often falling within the fol",
+        "citations": [
+          "https://bloomberry.com/blog/i-analyzed-1000-forward-deployed-engineer-jobs-what-i-learned/",
+          "https://fde.academy/blog/forward-deployed-engineer-salary",
+          "https://www.levels.fyi/t/software-engineer/title/fdse",
+          "https://www.ambitionbox.com/salaries/attentive-ai-salaries/software-engineer-iii",
+          "https://www.ambitionbox.com/profile/head-artificial-intelligence-salary"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-06-30T09:33:36.820Z"
+      },
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "130016"
+    },
+    {
+      "title": "Account Executive",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/129707",
+      "location_ids": [
+        "delhi_office"
+      ],
+      "location_display": "Delhi, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "129707"
+    },
+    {
+      "title": "Enterprise Account Manager",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/105579",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "USD",
+        "min": 100000,
+        "max": 150000,
+        "period": "year",
+        "display": "$100k–150k",
+        "confidence": "low",
+        "reason": "For a Remote Enterprise Account Manager or Enterprise Account Executive at Attentive (the AI marketing platform) in the USA, the annual base salary compensation typically ranges between $100,000 to $150,000.",
+        "citations": [
+          "https://www.repvue.com/companies/Attentive/salaries/enterprise-account-executive",
+          "https://remotive.com/remote/jobs/sales/senior-enterprise-account-executive-4595154",
+          "https://remote.io/remote-jobs/sales-partnerships/account-manager-enterprise-sales-at-attentive-87164"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-06-28T17:54:45.169Z"
+      },
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "105579"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/75208",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "75208"
+    },
+    {
+      "title": "Technical Customer Success Manager",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/121240",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "121240"
+    },
+    {
+      "title": "Assistant Manager - Event Marketing",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/151252",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "151252"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/138041",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138041"
+    },
+    {
+      "title": "Manager / Deputy Manager - Operations",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/154134",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "154134"
+    },
+    {
+      "title": "Estimator / Senior Estimator",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/135792",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "135792"
+    },
+    {
+      "title": "Associate Product Manager",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/154754",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "154754"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/154534",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "154534"
+    },
+    {
+      "title": "Administration Executive - Office Operations",
+      "title_original": "Administration Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-14T19:30:15.893Z",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/143786",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "143786",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Administration Executive include managing daily office operations, overseeing office facilities, coordinating inventory and procurement, managing travel arrangements, and organizing events. These tasks clearly align with the administration category, focusing on office management and support functions."
+    },
+    {
+      "title": "Intern - Video & Motion Graphics Design",
+      "apply_url": "https://attentiveos.keka.com/careers/jobdetails/160928",
+      "location_ids": [
+        "noida_office"
+      ],
+      "location_display": "Noida, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "160928"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5417,
+      "longitude": 77.1551,
+      "exact_address": "C-42, Second Floor, Block C, Nangal Dewat, Vasant Kunj, South Delhi, New Delhi, Delhi, India - 110070",
+      "departments": [
+        "ai",
+        "engineering",
+        "other",
+        "qa",
+        "sales",
+        "customer-success",
+        "customer-support",
+        "product",
+        "design"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "noida_office",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 28.5355,
+      "longitude": 77.391,
+      "exact_address": "Noida, Uttar Pradesh, India",
+      "departments": [
+        "ai",
+        "engineering",
+        "qa",
+        "sales",
+        "marketing",
+        "product",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-11-24T10:18:31.835Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-24T10:18:31.835Z",
+    "total_funding_raised": "$48 million",
+    "total_funding_raised_last_updated": "2025-11-24T10:18:31.835Z",
+    "key_investors": [
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "Vertex Ventures",
+        "domain": "vertexventures.com"
+      },
+      {
+        "name": "Tenacity Ventures",
+        "domain": "tenacity.vc"
+      },
+      {
+        "name": "Info Edge Ventures",
+        "domain": "infoedgeventures.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "Vertex Ventures",
+        "logo_url": "/investor-logos/vertex-ventures.png"
+      },
+      {
+        "name": "Tenacity Ventures",
+        "logo_url": "/investor-logos/tenacity-ventures.png"
+      },
+      {
+        "name": "Info Edge Ventures",
+        "logo_url": "/investor-logos/info-edge-ventures.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-24T10:18:31.835Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.roles[6].salary_estimated.citations": [
+      "https://bloomberry.com/blog/i-analyzed-1000-forward-deployed-engineer-jobs-what-i-learned/",
+      "https://fde.academy/blog/forward-deployed-engineer-salary",
+      "https://www.levels.fyi/t/software-engineer/title/fdse",
+      "https://www.ambitionbox.com/salaries/attentive-ai-salaries/software-engineer-iii",
+      "https://www.ambitionbox.com/profile/head-artificial-intelligence-salary"
+    ],
+    "job_data.roles[6].salary_estimated.source": "searchapi",
+    "job_data.roles[8].salary_estimated.citations": [
+      "https://www.repvue.com/companies/Attentive/salaries/enterprise-account-executive",
+      "https://remotive.com/remote/jobs/sales/senior-enterprise-account-executive-4595154",
+      "https://remote.io/remote-jobs/sales-partnerships/account-manager-enterprise-sales-at-attentive-87164"
+    ],
+    "job_data.roles[8].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-24T10:18:31.835Z",
+    "company_basic_information.website_url_last_updated": "2025-11-24T10:18:31.835Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-24T10:18:31.835Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-24T10:18:31.835Z",
+    "company_basic_information.last_updated": "2025-11-24",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-28T20:31:10.044Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-28T20:31:24.274Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T07:57:51.681Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:04:41.744Z",
+    "social_media.x_url_last_verified": "2025-11-28T20:32:08.568Z",
+    "social_media.linkedin_url_last_verified": "2025-11-28T20:32:24.163Z",
+    "social_media.instagram_url_last_verified": "2025-11-28T20:55:38.185Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:08.255Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-11-24T10:18:31.835Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-24T10:18:31.835Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-24T10:18:31.835Z",
+    "financial_information.investor_logos_last_updated": "2025-11-24T10:18:31.835Z",
+    "location_mapping[0].last_updated": "2025-11-24T10:18:31.835Z",
+    "job_data.roles[6].salary_estimated.fetched_at": "2026-06-30T09:33:36.820Z",
+    "job_data.roles[8].salary_estimated.fetched_at": "2026-06-28T17:54:45.169Z",
+    "job_data.roles[17].title_updated_timestamp": "2026-06-14T19:30:15.893Z",
+    "job_data.last_updated": "2026-09-24T10:20:10.926Z",
+    "benefits.flexible-hours.last_updated": "2026-01-11T21:10:57.038Z",
+    "benefits.remote-work.last_updated": "2026-01-11T21:10:57.038Z"
+  }
+}

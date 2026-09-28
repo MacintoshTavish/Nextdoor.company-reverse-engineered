@@ -1,0 +1,186 @@
+{
+  "slug": "elementor",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/35631.9e97259bf5f3b871.js",
+  "observed_at": "2026-09-28T08:31:13.273186+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 8917,
+    "sha256": "4a3ec4393a971e072fa943d5b43503413c5a65d1dd76a25677e53832d94071a0",
+    "elapsed_seconds": 0.43,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:13 GMT",
+      "etag": "\"f4403ef2206c4f99dfa01d23c41ecdd2\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Elementor",
+    "company_name_legal": "Elementor Ltd.",
+    "founded_year": 2016,
+    "website_url": "https://elementor.com",
+    "careers_url": "https://www.comeet.com/jobs/Elementor/A3.00F",
+    "investor_portfolio_page": null,
+    "id": 417
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-16T18:05:16.619Z",
+    "crawl_status": "success",
+    "source": "Comeet Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "comeet_job_id",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AppSec Architect",
+      "apply_url": "https://www.comeet.com/jobs/Elementor/A3.00F/appsec-architect/8D.170",
+      "location_ids": [
+        "ramat_gan_office"
+      ],
+      "location_display": "Ramat Gan, Israel",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full time",
+      "posted_date": "2026-08-31"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "ramat_gan_office",
+      "city": "Ramat Gan",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0684,
+      "longitude": 34.8248,
+      "exact_address": "Tuval St 40, Ramat Gan 5252247, Israel",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "50+"
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-08-13T11:20:00.000Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-08-13T11:11:29.935Z",
+    "total_funding_raised": "$188M",
+    "total_funding_raised_last_updated": "2026-08-13T11:11:29.935Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-13T11:11:29.935Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Comeet Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-13T11:11:29.935Z",
+    "company_basic_information.website_url_last_updated": "2026-08-13T11:11:29.935Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-13T11:11:29.935Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-13T11:11:29.935Z",
+    "company_basic_information.last_updated": "2026-08-13",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-13T11:25:34.438Z",
+    "leadership.founders[0].description_last_updated": "2026-08-13T11:26:19.923Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-13T11:25:53.763Z",
+    "leadership.founders[1].description_last_updated": "2026-08-13T11:26:25.376Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-08-13T11:19:19.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-13T11:26:05.809Z",
+    "leadership.founders[2].description_last_updated": "2026-08-13T11:26:30.801Z",
+    "social_media.x_url_last_updated": "2026-08-13T11:11:29.935Z",
+    "social_media.linkedin_url_last_updated": "2026-08-13T11:11:29.935Z",
+    "social_media.instagram_url_last_updated": "2026-08-13T11:11:29.935Z",
+    "social_media.x_url_last_verified": "2026-08-13T11:19:19.000Z",
+    "social_media.linkedin_url_last_verified": "2026-08-13T11:19:19.000Z",
+    "social_media.instagram_url_last_verified": "2026-08-13T11:19:19.000Z",
+    "business_details.industry_domains_last_updated": "2026-08-13",
+    "financial_information.funding_stage_last_updated": "2026-08-13T11:20:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-13T11:11:29.935Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-13T11:11:29.935Z",
+    "financial_information.investor_logos_last_updated": "2026-08-13T11:11:29.935Z",
+    "location_mapping[0].last_updated": "2026-08-13T11:11:29.935Z",
+    "job_data.roles[0].posted_date": "2026-08-31",
+    "job_data.last_updated": "2026-09-16T18:05:16.619Z"
+  }
+}

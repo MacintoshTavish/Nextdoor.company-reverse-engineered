@@ -1,0 +1,4232 @@
+{
+  "slug": "sierra",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/57821.c8d8df6b2118eda8.js",
+  "observed_at": "2026-09-28T08:36:34.495372+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 137181,
+    "sha256": "acc47222b006e71fe5b2d7e4b5cb58cafce9d4c41ecc5cece8853be66116d97d",
+    "elapsed_seconds": 0.578,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:34 GMT",
+      "etag": "\"b0ef8060e8f756fa3e4c06c11a6a57b7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Sierra",
+    "company_name_legal": "Sierra Technologies, Inc.",
+    "founded_year": 2023,
+    "website_url": "https://sierra.ai",
+    "careers_url": "https://jobs.ashbyhq.com/sierra",
+    "investor_portfolio_page": null,
+    "id": 401
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 210,
+    "last_updated": "2026-09-14T12:33:20.585Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 210,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Accounting Lead",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c94ac723-75ca-49c9-9b1e-af590be4cd65",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c94ac723-75ca-49c9-9b1e-af590be4cd65"
+    },
+    {
+      "title": "Agent Engineer, TLM",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2dee25a0-a0c1-425e-b67a-9d49fc821369",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2dee25a0-a0c1-425e-b67a-9d49fc821369"
+    },
+    {
+      "title": "Agent Engineer, TLM",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1a0a0334-41f8-4c15-9ed8-615336855e5e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1a0a0334-41f8-4c15-9ed8-615336855e5e"
+    },
+    {
+      "title": "Agent Experience Designer, Voice (Multilingual)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1a0e307f-7f02-4971-820c-a244ad909617"
+    },
+    {
+      "title": "AI Voice Designer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5ea8d56f-09b5-4113-9929-a3ef42d010ef"
+    },
+    {
+      "title": "Brand Visual Designer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/74f6ab38-3588-4486-b837-05ea432eac0e",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "74f6ab38-3588-4486-b837-05ea432eac0e"
+    },
+    {
+      "title": "Brand Visual Designer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ab678265-1a53-4800-910c-9b128a7f3e81",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ab678265-1a53-4800-910c-9b128a7f3e81"
+    },
+    {
+      "title": "Business Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c7e3f330-6649-4c42-920d-eb267ebd6d16",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c7e3f330-6649-4c42-920d-eb267ebd6d16"
+    },
+    {
+      "title": "Business Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d9c7693d-2bc9-452a-94e8-f322366922fd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d9c7693d-2bc9-452a-94e8-f322366922fd"
+    },
+    {
+      "title": "Business Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c0c29aa8-0c94-4d03-858e-201d19ee6937",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c0c29aa8-0c94-4d03-858e-201d19ee6937"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b61f6eb8-2485-4ba8-b569-fa26eba5a6e8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b61f6eb8-2485-4ba8-b569-fa26eba5a6e8"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e9f85c28-882b-4fc6-b7e1-b24b17b54599",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e9f85c28-882b-4fc6-b7e1-b24b17b54599"
+    },
+    {
+      "title": "Communications, Europe",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/4a878cee-2471-472b-8762-8f9908420ade",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4a878cee-2471-472b-8762-8f9908420ade"
+    },
+    {
+      "title": "Developer Relations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/06453dd1-a29f-4aea-bb06-2d49862860e8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "06453dd1-a29f-4aea-bb06-2d49862860e8"
+    },
+    {
+      "title": "Developer Relations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/7053ca02-ee36-48cc-b331-9d795a966c4c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "7053ca02-ee36-48cc-b331-9d795a966c4c"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b514c750-efde-46ca-b9d3-6e76e64eb6c7",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b514c750-efde-46ca-b9d3-6e76e64eb6c7"
+    },
+    {
+      "title": "Enterprise Account Executive (ANZ)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8e477331-3525-4e87-b311-e500f0fa61e9",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8e477331-3525-4e87-b311-e500f0fa61e9"
+    },
+    {
+      "title": "Enterprise Account Executive, Benelux",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2e5e46fd-9444-4768-94aa-2ef2bba54618",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2e5e46fd-9444-4768-94aa-2ef2bba54618"
+    },
+    {
+      "title": "Enterprise Account Executive, Europe",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9501ffa2-b433-4f51-b7f0-d8e53e37442d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9501ffa2-b433-4f51-b7f0-d8e53e37442d"
+    },
+    {
+      "title": "Enterprise Account Executive, Europe (Arabic speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/fe103c28-bc7e-433e-ad82-90a1655cba32",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fe103c28-bc7e-433e-ad82-90a1655cba32"
+    },
+    {
+      "title": "Enterprise Account Executive, Europe (Italian speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9f5b273f-1604-4b5b-bbbb-13cf0af35150",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9f5b273f-1604-4b5b-bbbb-13cf0af35150"
+    },
+    {
+      "title": "Enterprise Account Executive, Spain",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ef109d91-43de-4f96-94e5-fac6f1d8c8e1",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ef109d91-43de-4f96-94e5-fac6f1d8c8e1"
+    },
+    {
+      "title": "Enterprise Sales Leader",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/a4376f1f-10bd-4804-899e-4b98b8245198",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a4376f1f-10bd-4804-899e-4b98b8245198"
+    },
+    {
+      "title": "Enterprise Sales Leader - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/7ffb9df7-d413-45b1-91a4-27702f26ef6d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "7ffb9df7-d413-45b1-91a4-27702f26ef6d"
+    },
+    {
+      "title": "Enterprise Sales Leader - Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/675b6dab-6f04-4d9e-a6bd-c001f2784c0b",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "675b6dab-6f04-4d9e-a6bd-c001f2784c0b"
+    },
+    {
+      "title": "Event Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/6c3fb4c1-e6ba-4e47-8d02-93ea89e75619",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6c3fb4c1-e6ba-4e47-8d02-93ea89e75619"
+    },
+    {
+      "title": "Forward Deployed Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "61bb1eca-b416-4e6d-a0ac-5f418b35a8f3"
+    },
+    {
+      "title": "Forward Deployed Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d9c0aa93-e35d-4752-9cef-4c39dcad5365"
+    },
+    {
+      "title": "Global Head of Sales Enablement",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8807d554-7c2c-4843-a74b-9f4eafe986ff",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8807d554-7c2c-4843-a74b-9f4eafe986ff"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1c991675-099f-49dd-9b9b-bd3c9111e65c"
+    },
+    {
+      "title": "GTM Operations Analyst, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "85e1d0f9-e0d5-4a82-9b30-fa4372e32872"
+    },
+    {
+      "title": "GTM Operations Analyst, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/6c246883-6335-413e-9183-ece94780590c",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6c246883-6335-413e-9183-ece94780590c"
+    },
+    {
+      "title": "GTM Strategy and Operations, Industry Lead",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/6b5027e7-6498-45d6-8548-371eda8e5a81",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6b5027e7-6498-45d6-8548-371eda8e5a81"
+    },
+    {
+      "title": "High Growth Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8da2071d-5e2f-43da-9bb1-2c7b30c078af",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8da2071d-5e2f-43da-9bb1-2c7b30c078af"
+    },
+    {
+      "title": "Marketing Operations & Analytics Lead",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8a906ec6-5ec5-4619-82de-7a3c665998f5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8a906ec6-5ec5-4619-82de-7a3c665998f5"
+    },
+    {
+      "title": "Motion Designer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/671099d2-fed9-4140-a30e-83c8fd9f0906",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "671099d2-fed9-4140-a30e-83c8fd9f0906"
+    },
+    {
+      "title": "People Partner, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/56fe4918-7463-46b6-89aa-7ea2fc92a2a3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "56fe4918-7463-46b6-89aa-7ea2fc92a2a3"
+    },
+    {
+      "title": "People Partner, Sales",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/afc1d541-7442-4bae-80f4-7ed8d444efe9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "afc1d541-7442-4bae-80f4-7ed8d444efe9"
+    },
+    {
+      "title": "Performance Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ba29531a-f8d2-458e-b0cd-e4176e7f0799",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ba29531a-f8d2-458e-b0cd-e4176e7f0799"
+    },
+    {
+      "title": "Performance Marketing Manager, International",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/cd2656a7-cabe-40ac-8cab-6d7668b3ed6b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "cd2656a7-cabe-40ac-8cab-6d7668b3ed6b"
+    },
+    {
+      "title": "Pricing Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3935e2a4-eb85-44dd-8e50-1443402bc2b4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3935e2a4-eb85-44dd-8e50-1443402bc2b4"
+    },
+    {
+      "title": "Pricing Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ec002675-cffd-4db7-9a5c-f089f74080bc",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ec002675-cffd-4db7-9a5c-f089f74080bc"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ba780c1d-ebd7-45b8-8c99-12666af5bfa3"
+    },
+    {
+      "title": "Product Manager, Agent Data Platform",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "422cb7bb-ab03-447b-808c-6d72f59bbd2f"
+    },
+    {
+      "title": "Product Manager, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b4b762e6-8ce7-4ea7-b9b3-40c04f62135a"
+    },
+    {
+      "title": "Product Manager, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "effd7cd2-8a28-4bae-a3b8-40720ba09717"
+    },
+    {
+      "title": "Product Manager, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "dc443fd1-14bd-493c-9397-c3713c78321c"
+    },
+    {
+      "title": "Product Manager, Agent Development (Arabic speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9dc1651d-43e9-4970-a757-a5223cef1c4d"
+    },
+    {
+      "title": "Product Manager, Agent Development (Brazilian Portuguese speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4f0e65ba-b262-4d79-b926-3988f8eb0c00"
+    },
+    {
+      "title": "Product Manager, Agent Development - Flagship Deployment",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/758beaca-db59-4e46-9867-7a93989735a7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "758beaca-db59-4e46-9867-7a93989735a7"
+    },
+    {
+      "title": "Product Manager, Agent Development (French speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "38f06024-4ee9-47d6-a36f-f2791ac1e412"
+    },
+    {
+      "title": "Product Manager, Agent Development (German speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba"
+    },
+    {
+      "title": "Product Manager, Agent Development - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "65eb2c63-c936-4e8e-87e7-ea080dcdca73"
+    },
+    {
+      "title": "Product Manager, Agent Development (Italian speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2e07f536-bbaa-4cc0-957a-774ddf99de64"
+    },
+    {
+      "title": "Product Manager, Agent Development (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/4892f01e-8871-4b32-8963-527f1cf8db5d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4892f01e-8871-4b32-8963-527f1cf8db5d"
+    },
+    {
+      "title": "Product Manager, Agent Development (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9b94e279-5869-4a33-b50f-9aa01ff61a22"
+    },
+    {
+      "title": "Product Manager, Agent SDK",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/10d2e2f1-6657-40c9-b6fb-6999c76df6cf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "10d2e2f1-6657-40c9-b6fb-6999c76df6cf"
+    },
+    {
+      "title": "Product Manager, Agent Studio",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5aaa2eeb-92bc-4b0a-901e-8e091eff819e"
+    },
+    {
+      "title": "Product Manager, Ghostwriter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "22ba107d-de01-4aa3-98fc-838cccad760c"
+    },
+    {
+      "title": "Product Manager, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1e052261-0c89-4ccb-abfa-3820a1596a6e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1e052261-0c89-4ccb-abfa-3820a1596a6e"
+    },
+    {
+      "title": "Product Manager, Voice",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/0c66e8ed-1c18-4b64-ad27-a522a866b6e1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0c66e8ed-1c18-4b64-ad27-a522a866b6e1"
+    },
+    {
+      "title": "Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1781b6b1-0f80-4163-bff1-321317554c22",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1781b6b1-0f80-4163-bff1-321317554c22"
+    },
+    {
+      "title": "Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/26d1f737-94a6-497e-a672-93f4f652fca7",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "26d1f737-94a6-497e-a672-93f4f652fca7"
+    },
+    {
+      "title": "Recruiting Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/0b6fd623-0dc8-4a91-8d62-f1901272490c",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0b6fd623-0dc8-4a91-8d62-f1901272490c"
+    },
+    {
+      "title": "Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/43765060-50c1-4574-8134-428facdb388b",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "43765060-50c1-4574-8134-428facdb388b"
+    },
+    {
+      "title": "Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/41e66706-b647-4ab1-8c7f-8f2975babba7",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "41e66706-b647-4ab1-8c7f-8f2975babba7"
+    },
+    {
+      "title": "Sales Director, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/a9e0b5c2-3b06-4dba-94eb-ca8fb057d70c",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a9e0b5c2-3b06-4dba-94eb-ca8fb057d70c"
+    },
+    {
+      "title": "Sales Director - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b5ade182-e434-4f3d-9ce2-d14359036864",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b5ade182-e434-4f3d-9ce2-d14359036864"
+    },
+    {
+      "title": "Sales Director - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/282771b4-9d75-4098-a660-beb4337a617c",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "282771b4-9d75-4098-a660-beb4337a617c"
+    },
+    {
+      "title": "Sales Director - Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "82d714bd-4908-4648-b72e-3322ad4211b6"
+    },
+    {
+      "title": "Sales Director - Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/63d41476-9621-4566-a6fa-8fde0d643836",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "63d41476-9621-4566-a6fa-8fde0d643836"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8152eaf6-012b-4154-95e2-7d6c52faba93",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8152eaf6-012b-4154-95e2-7d6c52faba93"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ba9ca2da-c0c3-4673-b496-f820223c77c1",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ba9ca2da-c0c3-4673-b496-f820223c77c1"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f64a5b9d-9650-45ca-8596-bc845e9d8d10",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f64a5b9d-9650-45ca-8596-bc845e9d8d10"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b90d210e-c622-46c1-a0c3-d3ef3b3696dd",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b90d210e-c622-46c1-a0c3-d3ef3b3696dd"
+    },
+    {
+      "title": "Security and Compliance Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2bba25d3-f5c1-4d84-b3fb-846b40597ff5",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2bba25d3-f5c1-4d84-b3fb-846b40597ff5"
+    },
+    {
+      "title": "Security and Compliance Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/687a56db-9f2a-42f9-94a0-fa06730c1e10",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "687a56db-9f2a-42f9-94a0-fa06730c1e10"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "bbef339c-3365-40df-804b-ece245386b43"
+    },
+    {
+      "title": "SEO Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b81e10f9-96cc-4e97-861b-8dc0fc5a6ddd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b81e10f9-96cc-4e97-861b-8dc0fc5a6ddd"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "787c1efd-2327-46e7-9335-59a20ad4be18"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e9f5fdb6-91ee-4c55-9230-41ec8865650e"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "df431e56-56f5-42ed-bc62-7d6f7041bd27"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8646493c-93a6-482e-a810-4a0aa6e3438f"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b89816c1-80b2-449b-b69e-2c261b8e9e23"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b7d1dbcd-ca72-472f-b15e-5b4b0f886be0"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "631848ec-1a74-4067-8b9f-cd04a71aab6d"
+    },
+    {
+      "title": "Software Engineer, Agent (Arabic speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ce463311-0c6c-43d9-ab79-dd751743104f"
+    },
+    {
+      "title": "Software Engineer, Agent Architecture",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b3829801-8e0b-4047-8cd8-8a51c87028fd"
+    },
+    {
+      "title": "Software Engineer, Agent (Brazilian Portuguese speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f51d6c09-d767-4e86-bc62-216b2051e318"
+    },
+    {
+      "title": "Software Engineer, Agent Builder",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9b70b937-9634-4bcd-a10e-2671145f3a07"
+    },
+    {
+      "title": "Software Engineer, Agent (Cantonese Speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b37a6f9e-53c7-4c47-beb5-1ab4451f3001"
+    },
+    {
+      "title": "Software Engineer, Agent Data Platform",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "78c5dce4-3670-4c9b-a666-98f435c56324"
+    },
+    {
+      "title": "Software Engineer, Agent (Dutch speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ae8840cd-f46e-4c96-87b1-53fedf40f94d"
+    },
+    {
+      "title": "Software Engineer, Agent - Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ab98160c-9918-483c-af74-310535448972"
+    },
+    {
+      "title": "Software Engineer, Agent (French speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a"
+    },
+    {
+      "title": "Software Engineer, Agent (German speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9ebc3a79-82bf-478d-bd98-d473d41bdeaf"
+    },
+    {
+      "title": "Software Engineer, Agent - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "eb3ee157-3d2a-412a-88a2-e2cfc5647a66"
+    },
+    {
+      "title": "Software Engineer, Agent - Healthcare Integrations",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "97ca0c70-f371-4167-9908-2adca3464b8d"
+    },
+    {
+      "title": "Software Engineer, Agent - Insurance",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/000618f7-e0d0-43dc-ae15-2b20d948852f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "000618f7-e0d0-43dc-ae15-2b20d948852f"
+    },
+    {
+      "title": "Software Engineer, Agent (Italian speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "6207b02d-d334-4000-b84e-2af779171838"
+    },
+    {
+      "title": "Software Engineer, Agent (Korean Speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b8a89b9a-70a1-4e47-874c-41542d1bc60a"
+    },
+    {
+      "title": "Software Engineer, Agent (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "aadfc0a0-93f6-454b-9767-c24793fa3eff"
+    },
+    {
+      "title": "Software Engineer, Agent (Thai Speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1162dcd2-b181-49d5-9316-342cd68acbed"
+    },
+    {
+      "title": "Software Engineer, Agent - Travel & Hospitality",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f391b10c-7a4a-42b4-9887-dd32b31d6e4e"
+    },
+    {
+      "title": "Software Engineer, Identity & Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "fc6eaada-479c-4ff6-be79-7e267b9ed2b4"
+    },
+    {
+      "title": "Software Engineer, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "802d17c5-fe47-4b44-90e5-65e5e731ff88"
+    },
+    {
+      "title": "Software Engineer, Insights",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8cca0a0d-7359-410b-81ed-331a0bb4667f"
+    },
+    {
+      "title": "Software Engineer, Payments Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
+    },
+    {
+      "title": "Software Engineer, Platform",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "d77487f9-bab3-44c6-be18-744e7125c8b3"
+    },
+    {
+      "title": "Software Engineer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "5ae78769-a3a1-491c-8b4b-95472f1fb36c"
+    },
+    {
+      "title": "Software Engineer, Security",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "201c6046-acb5-4fd4-a685-e993f34ec0d1"
+    },
+    {
+      "title": "Software Engineer, Site Reliability (SRE)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3914e14a-2339-4d49-97e8-3a0de793cfb1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3914e14a-2339-4d49-97e8-3a0de793cfb1"
+    },
+    {
+      "title": "Software Engineer, Voice",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "032c8ab4-1911-4477-bc39-9cfcd701d5a9"
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:17:02.076Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/08d96098-7213-44af-98da-f62366189f3b",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "08d96098-7213-44af-98da-f62366189f3b",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on owning the Agent Development Life Cycle, being a trusted strategic advisor to enterprise leaders, and partnering with customers to ensure successful implementation of AI agents. This aligns closely with customer success, as the role emphasizes understanding customer needs and driving outcomes."
+    },
+    {
+      "title": "Strategist, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/99e82c10-977f-4b42-a737-2d9812ce614d",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "99e82c10-977f-4b42-a737-2d9812ce614d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their business needs and translating those into effective AI agent solutions. This role emphasizes building trusted relationships with enterprise leaders and ensuring customer satisfaction through strategic advisory, which aligns closely with the customer success department."
+    },
+    {
+      "title": "Strategist, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "c25ca18c-dbe6-439d-9a40-ce23b40c323c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their business needs, advising them on AI strategies, and ensuring the successful implementation of AI agents. This aligns closely with the customer success category, which focuses on building relationships and driving outcomes for clients."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:18:10.771Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "548eccd8-85c7-4cfa-a145-1c6ba5c17dc2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Strategist, Agent Development primarily involves working closely with customers to understand their needs and deliver AI solutions that drive business outcomes. This aligns closely with the responsibilities of customer success, as it focuses on building relationships and ensuring customer satisfaction through strategic advisory and implementation."
+    },
+    {
+      "title": "Strategist, Agent Development",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/44120ba5-4cf7-48a1-86af-7981c41c179e",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "44120ba5-4cf7-48a1-86af-7981c41c179e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve owning the Agent Development Life Cycle and acting as a strategic advisor to enterprise leaders, which aligns closely with customer success. The role focuses on understanding customer needs and ensuring that AI agents effectively meet business goals, indicating a strong emphasis on customer relationship management."
+    },
+    {
+      "title": "Agent Development Strategist - AI Solutions",
+      "title_original": "Strategist, Agent Development (Arabic speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:19:06.871Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/034c2c56-357f-4ed2-9da7-f4d36a999385",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "034c2c56-357f-4ed2-9da7-f4d36a999385",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their business needs and shaping AI strategies that drive outcomes. This aligns closely with the customer success category, as the role emphasizes building trusted relationships and delivering measurable results for clients."
+    },
+    {
+      "title": "Strategist, Agent Development (Cantonese Speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ab15547e-5c50-48a8-a560-f56c7bdad587",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development involve working closely with customers to understand their business needs, advising them on AI strategies, and ensuring the successful implementation and iteration of AI agents. This aligns closely with the customer success function, which focuses on building relationships and driving outcomes for clients."
+    },
+    {
+      "title": "Agent Development Strategist - AI",
+      "title_original": "Strategist, Agent Development (Dutch speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:19:52.308Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/611a6f2c-b6f8-4dfd-9ae8-4b0b986ac258",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "611a6f2c-b6f8-4dfd-9ae8-4b0b986ac258",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve owning the Agent Development Life Cycle, acting as a strategic advisor to enterprise leaders, and partnering with customer teams to ensure successful implementation of AI agents. This aligns closely with the customer success category as it focuses on driving outcomes for customers and building trusted relationships."
+    },
+    {
+      "title": "Strategist - Financial Services AI Agent Development",
+      "title_original": "Strategist, Agent Development - Financial Services",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:30:32.197Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2a76bb97-2719-413c-94ad-775553e63abd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on owning the agent development life cycle, collaborating closely with customers to understand their needs, and acting as a strategic advisor. This aligns closely with customer success, as the role is centered on ensuring that customers achieve their desired outcomes through the use of Sierra's AI agents."
+    },
+    {
+      "title": "Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (French speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:20:13.340Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ed38b1c1-2862-4e40-9894-3c6f20f7a785",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ed38b1c1-2862-4e40-9894-3c6f20f7a785",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on owning the agent development life cycle, acting as a strategic advisor to enterprise leaders, and partnering with customer teams to ensure successful AI agent implementation. This aligns closely with customer success, as the role is centered on understanding customer needs and driving outcomes through effective AI solutions."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (French speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:20:43.999Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role focus on owning the agent development life cycle, being a strategic advisor to enterprise leaders, and partnering with customers to ensure successful implementation of AI agents. This aligns closely with customer success, as the role is centered around understanding customer needs and driving outcomes."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (German speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:21:09.579Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1045b1db-228b-40df-97d8-a8f9371d35bd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "1045b1db-228b-40df-97d8-a8f9371d35bd",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their business needs and shaping AI strategies that drive outcomes. This aligns closely with customer success, as the role focuses on building trusted relationships and ensuring that the AI agents effectively address customer challenges."
+    },
+    {
+      "title": "Customer Success Strategist - Healthcare AI",
+      "title_original": "Strategist, Agent Development - Healthcare",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:21:33.619Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ebe951fb-8e8d-4bff-a499-e19010018f3b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ebe951fb-8e8d-4bff-a499-e19010018f3b",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve owning the agent development life cycle and acting as a strategic advisor to enterprise leaders, which aligns closely with customer success. The role focuses on understanding customer needs and ensuring the AI agents meet their business goals, emphasizing a customer-centric approach."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (Italian speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:21:54.782Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/0e73be8d-e05f-4c47-aa74-416b2984334c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0e73be8d-e05f-4c47-aa74-416b2984334c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role focus on owning the agent development life cycle, advising enterprise leaders, and partnering with customer teams to ensure successful implementation of AI agents. This aligns closely with customer success, as the role is centered around understanding and meeting customer needs to drive business outcomes."
+    },
+    {
+      "title": "Agent Development Strategist - Retail",
+      "title_original": "Agent Development Strategist - Retail",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T09:25:15.252Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "02382d7f-0fb2-4ba3-89af-caf20a448e3a",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Agent Development Strategist involve working closely with customers to understand their business needs and develop AI agents that enhance customer experiences. This role focuses on strategic problem-solving and building trusted relationships with clients, which aligns closely with customer success."
+    },
+    {
+      "title": "Strategist, Agent Development (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8d46d44c-8294-4807-a6b1-5087f0506a38",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8d46d44c-8294-4807-a6b1-5087f0506a38",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on owning the Agent Development Life Cycle, acting as a strategic advisor to enterprise leaders, and partnering closely with customers to ensure successful implementation of AI agents. This aligns closely with customer success, as it emphasizes understanding customer needs and driving outcomes."
+    },
+    {
+      "title": "Agent Development Strategist - AI Solutions",
+      "title_original": "Strategist, Agent Development (Spanish speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:22:51.371Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3437596e-e545-42a9-af82-9947fabf828c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3437596e-e545-42a9-af82-9947fabf828c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their business needs and shaping AI strategies that drive successful outcomes. This aligns closely with the customer-success category, as the role emphasizes building trusted relationships and delivering value to enterprise clients."
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9a630c65-af8c-461b-8fd4-b52ccb431f6f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "9a630c65-af8c-461b-8fd4-b52ccb431f6f"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/140ea7e3-425a-46dd-93e3-a471fab07a4f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "140ea7e3-425a-46dd-93e3-a471fab07a4f"
+    },
+    {
+      "title": "Enterprise Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/49e6bfed-2d22-40eb-a3e3-1dfb10566546",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "49e6bfed-2d22-40eb-a3e3-1dfb10566546"
+    },
+    {
+      "title": "Enterprise Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d48840fa-f567-482b-af77-afa4df4d0bce",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "d48840fa-f567-482b-af77-afa4df4d0bce"
+    },
+    {
+      "title": "Enterprise Sales Director (Brazilian Portuguese speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/bae30d56-4257-430e-b1d7-590c8555995d",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "bae30d56-4257-430e-b1d7-590c8555995d"
+    },
+    {
+      "title": "Enterprise Sales Director, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/177590bb-3851-4c40-a5c3-fffdf999d3b5",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "177590bb-3851-4c40-a5c3-fffdf999d3b5"
+    },
+    {
+      "title": "Enterprise Sales Director, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/cf34359f-1ac3-4eda-aa96-acbdf87fbc3b",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "cf34359f-1ac3-4eda-aa96-acbdf87fbc3b"
+    },
+    {
+      "title": "Enterprise Sales Director, Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/7103380f-de16-4d28-968d-38fb5f0c9ce6",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "7103380f-de16-4d28-968d-38fb5f0c9ce6"
+    },
+    {
+      "title": "Enterprise Sales Director, Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1e89171e-b7c4-4eca-a624-db96771505ce",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1e89171e-b7c4-4eca-a624-db96771505ce"
+    },
+    {
+      "title": "Enterprise Sales Director, Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ae852ea8-a4fb-40b2-a390-e06f34622d9e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ae852ea8-a4fb-40b2-a390-e06f34622d9e"
+    },
+    {
+      "title": "Enterprise Sales Director, Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/99858356-70b7-4c3a-aefb-87415e3fdbad",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "99858356-70b7-4c3a-aefb-87415e3fdbad"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/a79b2ff9-fa5e-4ab5-ac08-91916998bf91",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "a79b2ff9-fa5e-4ab5-ac08-91916998bf91"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3ad32de4-8fe4-4a68-8be9-30a28a320046",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "3ad32de4-8fe4-4a68-8be9-30a28a320046"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f50329e5-56e3-4f50-9607-8e72c02e04ca",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "f50329e5-56e3-4f50-9607-8e72c02e04ca"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/0ac7b498-682e-4bea-950f-a7e6d46bb5dc",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "0ac7b498-682e-4bea-950f-a7e6d46bb5dc"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/7ec62895-e3b6-4a01-8d4b-df3909cbbbb8",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "7ec62895-e3b6-4a01-8d4b-df3909cbbbb8"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e17cc0d2-9eee-476f-8fe2-b7b7ba8faa85",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e17cc0d2-9eee-476f-8fe2-b7b7ba8faa85"
+    },
+    {
+      "title": "Enterprise Sales Engineer (Brazilian Portuguese speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/102b597d-876d-458f-bf11-58924df4b73d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "102b597d-876d-458f-bf11-58924df4b73d"
+    },
+    {
+      "title": "Enterprise Sales Engineer, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/41fa146b-73a4-41d0-a546-bcf504945772",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "41fa146b-73a4-41d0-a546-bcf504945772"
+    },
+    {
+      "title": "Enterprise Sales Engineer, Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ab7ce8a1-d088-4808-93e2-a4162c315821",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ab7ce8a1-d088-4808-93e2-a4162c315821"
+    },
+    {
+      "title": "Enterprise Sales Engineer, Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/17bd055c-c281-4c01-bf61-671710b25cc0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "17bd055c-c281-4c01-bf61-671710b25cc0"
+    },
+    {
+      "title": "Enterprise Sales Engineer (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/adaa6543-00df-4e5f-8e40-e4327ccb764c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "adaa6543-00df-4e5f-8e40-e4327ccb764c"
+    },
+    {
+      "title": "Enterprise Sales Leader",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3795f221-3cdf-4022-96cf-17d1e13acbb5",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "3795f221-3cdf-4022-96cf-17d1e13acbb5"
+    },
+    {
+      "title": "Forward Deployed Infrastructure Engineer (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2d638355-ee46-44ce-a239-844b9234ba6d"
+    },
+    {
+      "title": "Operations Manager, Product & Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/09d3d084-02f2-49a2-acb9-d1fe380b817c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "09d3d084-02f2-49a2-acb9-d1fe380b817c"
+    },
+    {
+      "title": "Operations Manager, Product & Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/cc6e10fd-9420-446c-915d-6edac6ca93ef",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "cc6e10fd-9420-446c-915d-6edac6ca93ef"
+    },
+    {
+      "title": "Partnerships Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e1443b6b-6188-4410-b897-9119e7a8be7b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "e1443b6b-6188-4410-b897-9119e7a8be7b"
+    },
+    {
+      "title": "Pricing Strategy and Operations",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "39e15cc4-a16e-4ddb-b609-a345e2dd67c8"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/66324233-f3af-496a-b43d-ebe1a6a0e2d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "66324233-f3af-496a-b43d-ebe1a6a0e2d0"
+    },
+    {
+      "title": "Security Technical Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/47fd7def-71fa-4585-a625-14e2f25f5058",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "47fd7def-71fa-4585-a625-14e2f25f5058"
+    },
+    {
+      "title": "Senior Privacy Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/00e3508a-3008-422d-9c1a-b5ca808f3335",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "00e3508a-3008-422d-9c1a-b5ca808f3335"
+    },
+    {
+      "title": "Senior Product Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1571022b-e563-44af-a089-db96c633f693",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1571022b-e563-44af-a089-db96c633f693"
+    },
+    {
+      "title": "Social-First Videographer & Editor",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/705a6710-72c3-4991-9098-56de8c68fed6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "705a6710-72c3-4991-9098-56de8c68fed6"
+    },
+    {
+      "title": "Software Engineer, Agent - Retail",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "93fea91f-a8a2-4084-8113-1cde73344e33"
+    },
+    {
+      "title": "Software Engineer, Agent - Tech, Media & Telecom",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "4472e6c2-fe4e-4540-a37c-68b9367fe02a"
+    },
+    {
+      "title": "University Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1131407f-e70a-4a23-9abc-3124c107d54a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1131407f-e70a-4a23-9abc-3124c107d54a"
+    },
+    {
+      "title": "Web Developer, Marketing Site",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c8778377-3ee8-42b1-89ec-4565da53abeb",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "c8778377-3ee8-42b1-89ec-4565da53abeb"
+    },
+    {
+      "title": "Agent Strategist - AI Customer Solutions",
+      "title_original": "Agent Strategist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:23:14.661Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/575cf637-3a7a-4d9c-883c-8b0265811984",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "575cf637-3a7a-4d9c-883c-8b0265811984",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Agent Strategist involve working closely with customers to understand their business needs, advising on AI strategies, and ensuring the successful deployment of AI agents. This role is heavily focused on customer interaction and success, making 'customer-success' the most appropriate category."
+    },
+    {
+      "title": "Enterprise Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f5a8fe57-ea2d-4e62-91d8-80c439fca299",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f5a8fe57-ea2d-4e62-91d8-80c439fca299"
+    },
+    {
+      "title": "Enterprise Sales Director, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/66d88a47-6176-4787-8ba0-6d8ebf895d1f",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "66d88a47-6176-4787-8ba0-6d8ebf895d1f"
+    },
+    {
+      "title": "Enterprise Sales Director, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3ab71538-1346-4335-b3b7-13f28d2f3842",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3ab71538-1346-4335-b3b7-13f28d2f3842"
+    },
+    {
+      "title": "Enterprise Sales Director - Majors, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d937c69e-ff23-4770-81de-382f9ac91c9f",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d937c69e-ff23-4770-81de-382f9ac91c9f"
+    },
+    {
+      "title": "Enterprise Sales Director - Majors, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ee1ef9e2-0b01-417a-9b26-128819331e7a",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ee1ef9e2-0b01-417a-9b26-128819331e7a"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/2530e83b-bcf8-4544-9598-e768d78a50e1",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2530e83b-bcf8-4544-9598-e768d78a50e1"
+    },
+    {
+      "title": "Enterprise Sales Director - Strategic, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9979927a-3942-4783-b6c8-b088f60085a4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9979927a-3942-4783-b6c8-b088f60085a4"
+    },
+    {
+      "title": "Enterprise Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/cbf21891-c044-427f-80a4-e03474df702e",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "cbf21891-c044-427f-80a4-e03474df702e"
+    },
+    {
+      "title": "Enterprise Sales Engineer, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/bde6daf0-ee01-4470-b1b2-77fc8d232f06",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "bde6daf0-ee01-4470-b1b2-77fc8d232f06"
+    },
+    {
+      "title": "Enterprise Sales Leader",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/0fa8b10b-a7b5-4a36-8426-1d94329e9a23",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0fa8b10b-a7b5-4a36-8426-1d94329e9a23"
+    },
+    {
+      "title": "Enterprise Sales Leader, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/84c568d0-28ba-4a7d-829a-fa21b1ab2aaf",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "84c568d0-28ba-4a7d-829a-fa21b1ab2aaf"
+    },
+    {
+      "title": "IT Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "742020b7-5a2a-495d-8ac9-d74d31dc91c6"
+    },
+    {
+      "title": "IT Support Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ef6ee85e-597e-49cd-b2fb-c304b8f3cda7",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ef6ee85e-597e-49cd-b2fb-c304b8f3cda7"
+    },
+    {
+      "title": "Product Manager, Agent Development - Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c"
+    },
+    {
+      "title": "Product Manager, Agent Development - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "cb841dfe-5d21-44ae-8496-fca6b5587ae6"
+    },
+    {
+      "title": "Recruiting Coordinator, Europe",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/13792681-ae44-406c-9f4f-0155b70e7df3",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "13792681-ae44-406c-9f4f-0155b70e7df3"
+    },
+    {
+      "title": "Regional VP, Sales",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/8d4fe1fb-fb7c-40b2-8667-313e61970e46",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8d4fe1fb-fb7c-40b2-8667-313e61970e46"
+    },
+    {
+      "title": "Software Engineer, Agent",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3cdeb98c-a25c-4f3b-a704-1418556454bc"
+    },
+    {
+      "title": "Software Engineer, Agent - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c66b30fc-9588-4699-85c1-2166b23b8778"
+    },
+    {
+      "title": "Strategist, Agent Development - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/bb9153b1-ea92-44bd-b286-59675a043850",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "bb9153b1-ea92-44bd-b286-59675a043850"
+    },
+    {
+      "title": "APX - AI Development Rotational Program",
+      "title_original": "APX (New Grad 2027)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:26:02.692Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d9c445da-c7b4-43a3-8d71-d367681c3015",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the APX role involve building and shipping AI agents, which directly relates to the development and application of AI technologies. The job description emphasizes collaboration with engineering and product teams to create AI solutions, indicating a strong focus on AI development rather than general software engineering."
+    },
+    {
+      "title": "Area Vice President, Consumer Business Services",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/3258c9bc-1bae-4bd1-89d2-9d8a545e9f7b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3258c9bc-1bae-4bd1-89d2-9d8a545e9f7b"
+    },
+    {
+      "title": "Communications & Marketing Manager, Japan",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/7730850d-d537-4c9a-8526-c8c772c9914a",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7730850d-d537-4c9a-8526-c8c772c9914a"
+    },
+    {
+      "title": "Enterprise Sales Director - Majors, Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/218bb363-73f9-4f4e-beac-d667a28b65ff",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "218bb363-73f9-4f4e-beac-d667a28b65ff"
+    },
+    {
+      "title": "Executive Assistant, Office of the Co-Founders",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/e963514d-8b85-4747-9620-cf9a66ce9b4c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e963514d-8b85-4747-9620-cf9a66ce9b4c"
+    },
+    {
+      "title": "GTM Operations, Agent Development (London)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/d8baf20a-4c20-496d-9f0c-bc47a25fddb8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d8baf20a-4c20-496d-9f0c-bc47a25fddb8"
+    },
+    {
+      "title": "Office Coordinator (Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/ae9e7e56-df4e-420f-8130-91b4c59e0fb0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ae9e7e56-df4e-420f-8130-91b4c59e0fb0"
+    },
+    {
+      "title": "Partnerships Manager, Government and Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/f662fde2-ac88-40aa-96d2-4b2fab82efb8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f662fde2-ac88-40aa-96d2-4b2fab82efb8"
+    },
+    {
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "79953d72-60d4-43e0-8c8c-6eccda422dce"
+    },
+    {
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "149f368c-52d5-408f-ba26-ad888f318a00"
+    },
+    {
+      "title": "Software Engineer, Agent (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1d5cf6f0-feba-46a6-98bc-70a1627a76d0"
+    },
+    {
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
+    },
+    {
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "34b31b67-268c-4270-b48f-72e59064c96e"
+    },
+    {
+      "title": "Software Engineer Intern, Agent (Winter 2027)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "02e1c456-8489-4a74-9fe7-af8845b040e4"
+    },
+    {
+      "title": "Strategist, Agent Development (Brazilian Portuguese speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/66165ead-ae40-420a-93ff-aa6a5864462a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "66165ead-ae40-420a-93ff-aa6a5864462a"
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (Flemish speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:23:53.897Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/9d54f016-7919-457b-a298-17a536ab8c5c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "9d54f016-7919-457b-a298-17a536ab8c5c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their needs, advising them on AI strategies, and ensuring the successful implementation of AI agents. This aligns closely with the customer-success category, as the role focuses on building relationships and driving outcomes for customers."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (Norwegian speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:24:19.480Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "837a134f-6ab3-485f-9cf7-a957cc1b8992",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role revolve around working closely with customers to understand their needs and transform those into effective AI agent solutions. This involves strategic advisory roles and direct collaboration with enterprise leaders, which aligns closely with customer success functions."
+    },
+    {
+      "title": "Strategist, Agent Development (Spanish speaking)",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "32f98c30-916c-41c2-9e10-a7095a81e3b5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve acting as a strategic advisor to enterprise leaders, understanding their business needs, and shaping AI strategies to achieve their goals. This aligns closely with consulting, as the role requires deep engagement with clients to provide tailored solutions."
+    },
+    {
+      "title": "Customer Success Strategist - AI Agent Development",
+      "title_original": "Strategist, Agent Development (Swedish speaking)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:25:07.838Z",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dcd50512-6575-46e5-8c28-b2bcd6acf81f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Strategist, Agent Development role involve working closely with customers to understand their needs, advising them on AI strategies, and ensuring successful implementation of AI agents. This aligns closely with customer success, as the role focuses on driving customer outcomes and satisfaction."
+    },
+    {
+      "title": "Strategist, Agent Development - Tech, Media & Telecom",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/a4afb8ff-0477-4fa6-a787-0cec5f28e23f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a4afb8ff-0477-4fa6-a787-0cec5f28e23f",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve owning the agent development life cycle, acting as a strategic advisor to enterprise leaders, and partnering with customers to ensure the successful implementation of AI agents. This aligns closely with customer success, as the role focuses on understanding customer needs and driving outcomes through effective solutions."
+    },
+    {
+      "title": "Technical Accounting Lead",
+      "apply_url": "https://jobs.ashbyhq.com/sierra/a9c1ecb3-9e54-457c-97ca-1d41d030c01c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a9c1ecb3-9e54-457c-97ca-1d41d030c01c"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.99875,
+      "longitude": -84.34739,
+      "exact_address": "8735 Dunwoody Place, Suite R, Sandy Springs, Atlanta, Georgia, United States - 30350",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.89228,
+      "longitude": -87.63253,
+      "exact_address": "640 N LaSalle Dr, Suite 410, River North, Chicago, Illinois, United States - 60654",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.739236,
+      "longitude": -104.990251,
+      "exact_address": "No known registered or physical office address for Sierra (sierra.ai) in Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.5055,
+      "longitude": -0.1165,
+      "exact_address": "Belvedere South, Belvedere Road, South Bank, London, United Kingdom - SE1 7GY",
+      "departments": [
+        "engineering",
+        "design",
+        "hr",
+        "marketing",
+        "sales",
+        "administration",
+        "operations",
+        "product",
+        "legal",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain",
+      "latitude": 40.4250237,
+      "longitude": -3.6832818,
+      "exact_address": "Calle de Goya, 22, Salamanca, 28001 Madrid, Spain",
+      "departments": [
+        "sales",
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "No verified physical or registered office address for Sierra (sierra.ai) in Miami, Florida",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.506408,
+      "longitude": -73.568248,
+      "exact_address": "366 Rue Mayor, Montréal, QC H3A 1N8, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales",
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7231,
+      "longitude": -74.0037,
+      "exact_address": "375 West Broadway, SoHo, New York, NY 10012, United States",
+      "departments": [
+        "engineering",
+        "legal",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.8544,
+      "longitude": 2.3574,
+      "exact_address": "17 Rue du Pont Louis-Philippe, 75004 Paris, France",
+      "departments": [
+        "sales",
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.78976,
+      "longitude": -122.40352,
+      "exact_address": "150 Sutter Street, Suite 690, San Francisco, California, United States - 94104",
+      "departments": [
+        "finance",
+        "design",
+        "sales",
+        "hr",
+        "legal",
+        "security",
+        "engineering",
+        "marketing",
+        "operations",
+        "content-production",
+        "product",
+        "data",
+        "other"
+      ],
+      "employee_count": "150+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6486481,
+      "longitude": -122.3543114,
+      "exact_address": "180 Nickerson St #202, Seattle, WA 98109",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Region",
+      "country": "Singapore",
+      "latitude": 1.30786,
+      "longitude": 103.78954,
+      "exact_address": "Level 08-09, The Metropolis Tower 2, 11 North Buona Vista Drive, Singapore - 138589",
+      "departments": [
+        "design",
+        "sales",
+        "marketing",
+        "operations",
+        "product",
+        "engineering",
+        "ai",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.861741,
+      "longitude": 151.210034,
+      "exact_address": "Level 3, Customs House, 31 Alfred Street, Circular Quay, Sydney, New South Wales, Australia - 2000",
+      "departments": [
+        "sales",
+        "hr",
+        "engineering",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo Metropolis",
+      "country": "Japan",
+      "latitude": 35.6569,
+      "longitude": 139.5794,
+      "exact_address": "4-23-17-504 Nishitsutsujigaoka, Chofu City, Tokyo 182-0006, Japan",
+      "departments": [
+        "engineering",
+        "marketing",
+        "administration",
+        "sales",
+        "product",
+        "hr",
+        "legal",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.73565,
+      "longitude": -79.3364,
+      "exact_address": "1090 Don Mills Road, Suite 300, Toronto, Ontario, Canada - M3C 3R6",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "BC V6E",
+      "country": "Canada",
+      "latitude": 49.2887722,
+      "longitude": -123.1217156,
+      "exact_address": "1177 W Hastings St #2400, Vancouver, BC V6E 4T5, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "data",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-08-02T09:01:34.917Z",
+    "current_valuation_usd": "$15.8B",
+    "current_valuation_usd_last_updated": "2026-08-02T09:01:34.917Z",
+    "total_funding_raised": "$1.585B",
+    "total_funding_raised_last_updated": "2026-08-02T09:01:34.917Z",
+    "key_investors": [
+      {
+        "name": "Greenoaks",
+        "domain": ""
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Benchmark",
+        "domain": "benchmark.com"
+      },
+      {
+        "name": "Google's",
+        "domain": "google.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Greenoaks",
+        "logo_url": "/investor-logos/greenoaks.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Benchmark",
+        "logo_url": "/investor-logos/benchmark.png"
+      },
+      {
+        "name": "Google's",
+        "logo_url": "/investor-logos/googles.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-02T09:01:34.917Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "unlimited-pto",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "retirement-401k",
+    "parental-leave",
+    "childcare-support",
+    "meal-allowance",
+    "lifestyle-spending-account",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[3].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[7].location_source": "searchapi-maps",
+    "location_mapping[7].location_source_query": "Sierra office madrid",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[9].location_source": "searchapi-maps",
+    "location_mapping[9].location_source_query": "Sierra montreal",
+    "location_mapping[11].location_source": "perplexity",
+    "location_mapping[12].location_source": "perplexity",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[14].location_source": "searchapi-maps",
+    "location_mapping[14].location_source_query": "Sierra office Seattle",
+    "location_mapping[15].location_source": "perplexity",
+    "location_mapping[16].location_source": "perplexity",
+    "location_mapping[17].location_source": "perplexity",
+    "location_mapping[18].location_source": "perplexity",
+    "location_mapping[19].location_source": "searchapi-maps",
+    "location_mapping[19].location_source_query": "Sierra vancouver",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-02T09:01:34.917Z",
+    "company_basic_information.website_url_last_updated": "2026-08-02T09:01:34.917Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-02T09:01:34.917Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-02T09:01:34.917Z",
+    "company_basic_information.last_updated": "2026-08-02",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-02T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-02T09:23:32.753Z",
+    "leadership.founders[0].description_last_updated": "2026-08-02T09:25:59.903Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-02T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-02T09:23:54.015Z",
+    "leadership.founders[1].description_last_updated": "2026-08-02T09:26:05.647Z",
+    "social_media.x_url_last_updated": "2026-08-02T09:01:34.917Z",
+    "social_media.linkedin_url_last_updated": "2026-08-02T09:01:34.917Z",
+    "social_media.instagram_url_last_updated": "2026-08-02T09:01:34.917Z",
+    "social_media.x_url_last_verified": "2026-08-02T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-08-02T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-08-02T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-08-02",
+    "financial_information.funding_stage_last_updated": "2026-08-02T09:01:34.917Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-02T09:01:34.917Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-02T09:01:34.917Z",
+    "financial_information.investor_logos_last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[0].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[1].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[2].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[3].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[4].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[5].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[6].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[7].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[8].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[9].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[10].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[11].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[12].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[13].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[14].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[15].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[16].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[17].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[18].last_updated": "2026-08-02T09:01:34.917Z",
+    "location_mapping[19].last_updated": "2026-08-02T09:01:34.917Z",
+    "job_data.roles[0].posted_date": "2026-08-02",
+    "job_data.roles[1].posted_date": "2026-08-02",
+    "job_data.roles[2].posted_date": "2026-08-02",
+    "job_data.roles[3].posted_date": "2026-08-02",
+    "job_data.roles[4].posted_date": "2026-08-02",
+    "job_data.roles[5].posted_date": "2026-08-02",
+    "job_data.roles[6].posted_date": "2026-08-02",
+    "job_data.roles[7].posted_date": "2026-08-02",
+    "job_data.roles[8].posted_date": "2026-08-02",
+    "job_data.roles[9].posted_date": "2026-08-02",
+    "job_data.roles[10].posted_date": "2026-08-02",
+    "job_data.roles[11].posted_date": "2026-08-02",
+    "job_data.roles[12].posted_date": "2026-08-02",
+    "job_data.roles[13].posted_date": "2026-08-02",
+    "job_data.roles[14].posted_date": "2026-08-02",
+    "job_data.roles[15].posted_date": "2026-08-02",
+    "job_data.roles[16].posted_date": "2026-08-02",
+    "job_data.roles[17].posted_date": "2026-08-02",
+    "job_data.roles[18].posted_date": "2026-08-02",
+    "job_data.roles[19].posted_date": "2026-08-02",
+    "job_data.roles[20].posted_date": "2026-08-02",
+    "job_data.roles[21].posted_date": "2026-08-02",
+    "job_data.roles[22].posted_date": "2026-08-02",
+    "job_data.roles[23].posted_date": "2026-08-02",
+    "job_data.roles[24].posted_date": "2026-08-02",
+    "job_data.roles[25].posted_date": "2026-08-02",
+    "job_data.roles[26].posted_date": "2026-08-02",
+    "job_data.roles[27].posted_date": "2026-08-02",
+    "job_data.roles[28].posted_date": "2026-08-02",
+    "job_data.roles[29].posted_date": "2026-08-02",
+    "job_data.roles[30].posted_date": "2026-08-02",
+    "job_data.roles[31].posted_date": "2026-08-02",
+    "job_data.roles[32].posted_date": "2026-08-02",
+    "job_data.roles[33].posted_date": "2026-08-02",
+    "job_data.roles[34].posted_date": "2026-08-02",
+    "job_data.roles[35].posted_date": "2026-08-02",
+    "job_data.roles[36].posted_date": "2026-08-02",
+    "job_data.roles[37].posted_date": "2026-08-02",
+    "job_data.roles[38].posted_date": "2026-08-02",
+    "job_data.roles[39].posted_date": "2026-08-02",
+    "job_data.roles[40].posted_date": "2026-08-02",
+    "job_data.roles[41].posted_date": "2026-08-02",
+    "job_data.roles[42].posted_date": "2026-08-02",
+    "job_data.roles[43].posted_date": "2026-08-02",
+    "job_data.roles[44].posted_date": "2026-08-02",
+    "job_data.roles[45].posted_date": "2026-08-02",
+    "job_data.roles[46].posted_date": "2026-08-02",
+    "job_data.roles[47].posted_date": "2026-08-02",
+    "job_data.roles[48].posted_date": "2026-08-02",
+    "job_data.roles[49].posted_date": "2026-08-02",
+    "job_data.roles[50].posted_date": "2026-08-02",
+    "job_data.roles[51].posted_date": "2026-08-02",
+    "job_data.roles[52].posted_date": "2026-08-02",
+    "job_data.roles[53].posted_date": "2026-08-02",
+    "job_data.roles[54].posted_date": "2026-08-02",
+    "job_data.roles[55].posted_date": "2026-08-02",
+    "job_data.roles[56].posted_date": "2026-08-02",
+    "job_data.roles[57].posted_date": "2026-08-02",
+    "job_data.roles[58].posted_date": "2026-08-02",
+    "job_data.roles[59].posted_date": "2026-08-02",
+    "job_data.roles[60].posted_date": "2026-08-02",
+    "job_data.roles[61].posted_date": "2026-08-02",
+    "job_data.roles[62].posted_date": "2026-08-02",
+    "job_data.roles[63].posted_date": "2026-08-02",
+    "job_data.roles[64].posted_date": "2026-08-02",
+    "job_data.roles[65].posted_date": "2026-08-02",
+    "job_data.roles[66].posted_date": "2026-08-02",
+    "job_data.roles[67].posted_date": "2026-08-02",
+    "job_data.roles[68].posted_date": "2026-08-02",
+    "job_data.roles[69].posted_date": "2026-08-02",
+    "job_data.roles[70].posted_date": "2026-08-02",
+    "job_data.roles[71].posted_date": "2026-08-02",
+    "job_data.roles[72].posted_date": "2026-08-02",
+    "job_data.roles[73].posted_date": "2026-08-02",
+    "job_data.roles[74].posted_date": "2026-08-02",
+    "job_data.roles[75].posted_date": "2026-08-02",
+    "job_data.roles[76].posted_date": "2026-08-02",
+    "job_data.roles[77].posted_date": "2026-08-02",
+    "job_data.roles[78].posted_date": "2026-08-02",
+    "job_data.roles[79].posted_date": "2026-08-02",
+    "job_data.roles[80].posted_date": "2026-08-02",
+    "job_data.roles[81].posted_date": "2026-08-02",
+    "job_data.roles[82].posted_date": "2026-08-02",
+    "job_data.roles[83].posted_date": "2026-08-02",
+    "job_data.roles[84].posted_date": "2026-08-02",
+    "job_data.roles[85].posted_date": "2026-08-02",
+    "job_data.roles[86].posted_date": "2026-08-02",
+    "job_data.roles[87].posted_date": "2026-08-02",
+    "job_data.roles[88].posted_date": "2026-08-02",
+    "job_data.roles[89].posted_date": "2026-08-02",
+    "job_data.roles[90].posted_date": "2026-08-02",
+    "job_data.roles[91].posted_date": "2026-08-02",
+    "job_data.roles[92].posted_date": "2026-08-02",
+    "job_data.roles[93].posted_date": "2026-08-02",
+    "job_data.roles[94].posted_date": "2026-08-02",
+    "job_data.roles[95].posted_date": "2026-08-02",
+    "job_data.roles[96].posted_date": "2026-08-02",
+    "job_data.roles[97].posted_date": "2026-08-02",
+    "job_data.roles[98].posted_date": "2026-08-02",
+    "job_data.roles[99].posted_date": "2026-08-02",
+    "job_data.roles[100].posted_date": "2026-08-02",
+    "job_data.roles[101].posted_date": "2026-08-02",
+    "job_data.roles[102].posted_date": "2026-08-02",
+    "job_data.roles[103].posted_date": "2026-08-02",
+    "job_data.roles[104].posted_date": "2026-08-02",
+    "job_data.roles[105].posted_date": "2026-08-02",
+    "job_data.roles[106].posted_date": "2026-08-02",
+    "job_data.roles[107].posted_date": "2026-08-02",
+    "job_data.roles[108].posted_date": "2026-08-02",
+    "job_data.roles[109].posted_date": "2026-08-02",
+    "job_data.roles[110].posted_date": "2026-08-02",
+    "job_data.roles[111].posted_date": "2026-08-02",
+    "job_data.roles[112].posted_date": "2026-08-02",
+    "job_data.roles[113].posted_date": "2026-08-02",
+    "job_data.roles[114].posted_date": "2026-08-02",
+    "job_data.roles[114].title_updated_timestamp": "2026-09-21T18:17:02.076Z",
+    "job_data.roles[115].posted_date": "2026-08-02",
+    "job_data.roles[116].posted_date": "2026-08-02",
+    "job_data.roles[117].posted_date": "2026-08-02",
+    "job_data.roles[117].title_updated_timestamp": "2026-09-21T18:18:10.771Z",
+    "job_data.roles[118].posted_date": "2026-08-02",
+    "job_data.roles[119].posted_date": "2026-08-02",
+    "job_data.roles[119].title_updated_timestamp": "2026-09-21T18:19:06.871Z",
+    "job_data.roles[120].posted_date": "2026-08-02",
+    "job_data.roles[121].posted_date": "2026-08-02",
+    "job_data.roles[121].title_updated_timestamp": "2026-09-21T18:19:52.308Z",
+    "job_data.roles[122].posted_date": "2026-08-02",
+    "job_data.roles[122].title_updated_timestamp": "2026-09-21T18:30:32.197Z",
+    "job_data.roles[123].posted_date": "2026-08-02",
+    "job_data.roles[123].title_updated_timestamp": "2026-09-21T18:20:13.340Z",
+    "job_data.roles[124].posted_date": "2026-08-02",
+    "job_data.roles[124].title_updated_timestamp": "2026-09-21T18:20:43.999Z",
+    "job_data.roles[125].posted_date": "2026-08-02",
+    "job_data.roles[125].title_updated_timestamp": "2026-09-21T18:21:09.579Z",
+    "job_data.roles[126].posted_date": "2026-08-02",
+    "job_data.roles[126].title_updated_timestamp": "2026-09-21T18:21:33.619Z",
+    "job_data.roles[127].posted_date": "2026-08-02",
+    "job_data.roles[127].title_updated_timestamp": "2026-09-21T18:21:54.782Z",
+    "job_data.roles[128].posted_date": "2026-08-02",
+    "job_data.roles[128].title_updated_timestamp": "2026-08-02T09:25:15.252Z",
+    "job_data.roles[129].posted_date": "2026-08-02",
+    "job_data.roles[130].posted_date": "2026-08-02",
+    "job_data.roles[130].title_updated_timestamp": "2026-09-21T18:22:51.371Z",
+    "job_data.roles[131].posted_date": "2026-08-02",
+    "job_data.roles[132].posted_date": "2026-08-02",
+    "job_data.roles[133].posted_date": "2026-08-16",
+    "job_data.roles[134].posted_date": "2026-08-16",
+    "job_data.roles[135].posted_date": "2026-08-16",
+    "job_data.roles[136].posted_date": "2026-08-16",
+    "job_data.roles[137].posted_date": "2026-08-16",
+    "job_data.roles[138].posted_date": "2026-08-16",
+    "job_data.roles[139].posted_date": "2026-08-16",
+    "job_data.roles[140].posted_date": "2026-08-16",
+    "job_data.roles[141].posted_date": "2026-08-16",
+    "job_data.roles[142].posted_date": "2026-08-16",
+    "job_data.roles[143].posted_date": "2026-08-16",
+    "job_data.roles[144].posted_date": "2026-08-16",
+    "job_data.roles[145].posted_date": "2026-08-16",
+    "job_data.roles[146].posted_date": "2026-08-16",
+    "job_data.roles[147].posted_date": "2026-08-16",
+    "job_data.roles[148].posted_date": "2026-08-16",
+    "job_data.roles[149].posted_date": "2026-08-16",
+    "job_data.roles[150].posted_date": "2026-08-16",
+    "job_data.roles[151].posted_date": "2026-08-16",
+    "job_data.roles[152].posted_date": "2026-08-16",
+    "job_data.roles[153].posted_date": "2026-08-16",
+    "job_data.roles[154].posted_date": "2026-08-16",
+    "job_data.roles[155].posted_date": "2026-08-16",
+    "job_data.roles[156].posted_date": "2026-08-16",
+    "job_data.roles[157].posted_date": "2026-08-16",
+    "job_data.roles[158].posted_date": "2026-08-16",
+    "job_data.roles[159].posted_date": "2026-08-16",
+    "job_data.roles[160].posted_date": "2026-08-16",
+    "job_data.roles[161].posted_date": "2026-08-16",
+    "job_data.roles[162].posted_date": "2026-08-16",
+    "job_data.roles[163].posted_date": "2026-08-16",
+    "job_data.roles[164].posted_date": "2026-08-16",
+    "job_data.roles[165].posted_date": "2026-08-16",
+    "job_data.roles[166].posted_date": "2026-08-16",
+    "job_data.roles[167].posted_date": "2026-08-16",
+    "job_data.roles[168].posted_date": "2026-08-31",
+    "job_data.roles[168].title_updated_timestamp": "2026-09-21T18:23:14.661Z",
+    "job_data.roles[169].posted_date": "2026-08-31",
+    "job_data.roles[170].posted_date": "2026-08-31",
+    "job_data.roles[171].posted_date": "2026-08-31",
+    "job_data.roles[172].posted_date": "2026-08-31",
+    "job_data.roles[173].posted_date": "2026-08-31",
+    "job_data.roles[174].posted_date": "2026-08-31",
+    "job_data.roles[175].posted_date": "2026-08-31",
+    "job_data.roles[176].posted_date": "2026-08-31",
+    "job_data.roles[177].posted_date": "2026-08-31",
+    "job_data.roles[178].posted_date": "2026-08-31",
+    "job_data.roles[179].posted_date": "2026-08-31",
+    "job_data.roles[180].posted_date": "2026-08-31",
+    "job_data.roles[181].posted_date": "2026-08-31",
+    "job_data.roles[182].posted_date": "2026-08-31",
+    "job_data.roles[183].posted_date": "2026-08-31",
+    "job_data.roles[184].posted_date": "2026-08-31",
+    "job_data.roles[185].posted_date": "2026-08-31",
+    "job_data.roles[186].posted_date": "2026-08-31",
+    "job_data.roles[187].posted_date": "2026-08-31",
+    "job_data.roles[188].posted_date": "2026-08-31",
+    "job_data.roles[189].posted_date": "2026-09-14",
+    "job_data.roles[189].title_updated_timestamp": "2026-09-14T15:26:02.692Z",
+    "job_data.roles[190].posted_date": "2026-09-14",
+    "job_data.roles[191].posted_date": "2026-09-14",
+    "job_data.roles[192].posted_date": "2026-09-14",
+    "job_data.roles[193].posted_date": "2026-09-14",
+    "job_data.roles[194].posted_date": "2026-09-14",
+    "job_data.roles[195].posted_date": "2026-09-14",
+    "job_data.roles[196].posted_date": "2026-09-14",
+    "job_data.roles[197].posted_date": "2026-09-14",
+    "job_data.roles[198].posted_date": "2026-09-14",
+    "job_data.roles[199].posted_date": "2026-09-14",
+    "job_data.roles[200].posted_date": "2026-09-14",
+    "job_data.roles[201].posted_date": "2026-09-14",
+    "job_data.roles[202].posted_date": "2026-09-14",
+    "job_data.roles[203].posted_date": "2026-09-14",
+    "job_data.roles[204].posted_date": "2026-09-14",
+    "job_data.roles[204].title_updated_timestamp": "2026-09-21T18:23:53.897Z",
+    "job_data.roles[205].posted_date": "2026-09-14",
+    "job_data.roles[205].title_updated_timestamp": "2026-09-21T18:24:19.480Z",
+    "job_data.roles[206].posted_date": "2026-09-14",
+    "job_data.roles[207].posted_date": "2026-09-14",
+    "job_data.roles[207].title_updated_timestamp": "2026-09-21T18:25:07.838Z",
+    "job_data.roles[208].posted_date": "2026-09-14",
+    "job_data.roles[209].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:33:20.585Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.health-insurance.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.dental-insurance.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.vision-insurance.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.life-insurance.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.retirement-401k.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.parental-leave.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.childcare-support.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.meal-allowance.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.lifestyle-spending-account.last_updated": "2026-08-02T09:28:27.838Z",
+    "benefits.equity-stock.last_updated": "2026-08-02T09:28:27.838Z"
+  }
+}

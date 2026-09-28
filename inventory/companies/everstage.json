@@ -1,0 +1,677 @@
+{
+  "slug": "everstage",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/92707.1a65e58d11344b25.js",
+  "observed_at": "2026-09-28T08:31:25.974495+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 22504,
+    "sha256": "2ba1a163c93fe8f321d5ca9f885afbba9312d8efffc9124b02b990280944e25c",
+    "elapsed_seconds": 0.161,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:25 GMT",
+      "etag": "\"3707b6e783fb10717a5e621f48bbab9c\"",
+      "last-modified": "Mon, 28 Sep 2026 07:55:49 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Everstage",
+    "company_name_legal": "Everstage",
+    "founded_year": 2020,
+    "website_url": "https://www.everstage.com",
+    "careers_url": "https://everstage.freshteam.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 170
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 9,
+    "last_updated": "2026-09-14T12:49:49.090Z",
+    "crawl_status": "success",
+    "source": "Freshteam Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 9,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "freshteam_job_id",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Organic Growth Lead (SEO / AEO)",
+      "apply_url": "https://everstage.freshteam.com/jobs/4kmoQHL2WSAg/organic-growth-lead-seo-aeo",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "SDET - QA Automation Engineer",
+      "apply_url": "https://everstage.freshteam.com/jobs/hHteWuWxkBTe/sdet-qa-automation-engineer",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Technical Software Architect (Remote)",
+      "apply_url": "https://everstage.freshteam.com/jobs/ne_Upu_cWC_-/senior-technical-software-architect-remote",
+      "location_ids": [
+        "coimbatore_office"
+      ],
+      "location_display": "Coimbatore, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Business Development Representative (Outbound)",
+      "apply_url": "https://everstage.freshteam.com/jobs/dHx_ocerdOQ4/business-development-representative-outbound",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Implementation Engineer (Senior/Lead, US Region)",
+      "apply_url": "https://everstage.freshteam.com/jobs/ZTSarrilmMB2/implementation-engineer-senior-lead-us-region",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Manager/Senior Manager, Customer Success (Enterprise) (Remote)",
+      "apply_url": "https://everstage.freshteam.com/jobs/Vlji3CDrTTgz/manager-senior-manager-customer-success-enterprise-remote",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India / Bengaluru, India / Hyderabad, India",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://everstage.freshteam.com/jobs/4OVvlvJlffR8/senior-product-manager",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://everstage.freshteam.com/jobs/JEoW9PjyZmQE/product-designer",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null
+    },
+    {
+      "title": "Product Manager - Website",
+      "title_original": "Product Manager, Website",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-19T17:47:47.720Z",
+      "apply_url": "https://everstage.freshteam.com/jobs/zZXh99ilye8i/product-manager-website",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India / Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Product Manager, Website focuses on owning the product roadmap for the website, collaborating with various teams to enhance user experience and drive growth. This aligns closely with product management responsibilities, which include defining product strategy and overseeing development."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0275,
+      "longitude": 80.2492,
+      "exact_address": "No.18, South Beach Avenue 1st Street, MRC Nagar, Chennai, Tamil Nadu 600028, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_remote",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "coimbatore_office",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "exact_address": "Coimbatore, Tamil Nadu, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-01-27T13:15:38.639Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-27T13:15:38.639Z",
+    "total_funding_raised": "$45 million",
+    "total_funding_raised_last_updated": "2026-01-27T13:15:38.639Z",
+    "key_investors": [
+      {
+        "name": "Eight Roads",
+        "domain": "eightroads.com"
+      },
+      {
+        "name": "3one4 Capital",
+        "domain": "3one4capital.com"
+      },
+      {
+        "name": "Elevation Capital",
+        "domain": "elevationcapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Eight Roads",
+        "logo_url": "/investor-logos/eight-roads.png"
+      },
+      {
+        "name": "3one4 Capital",
+        "logo_url": "/investor-logos/3one4.png"
+      },
+      {
+        "name": "Elevation Capital",
+        "logo_url": "/investor-logos/elevation-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-27T13:15:38.639Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[27].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Freshteam Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-27T13:15:38.639Z",
+    "company_basic_information.website_url_last_updated": "2026-01-27T13:15:38.639Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-27T13:15:38.639Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-27T13:15:38.639Z",
+    "company_basic_information.last_updated": "2026-01-27",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-27T13:19:24.940Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-27T13:19:39.581Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-06T19:13:45.814Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:24:08.715Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-27T13:19:56.529Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-01-27T18:59:57.888Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-06T19:13:56.331Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:24:14.161Z",
+    "social_media.x_url_last_verified": "2026-01-27T13:20:35.316Z",
+    "social_media.linkedin_url_last_verified": "2026-01-27T13:21:06.684Z",
+    "social_media.instagram_url_last_verified": "2026-01-27T18:59:09.284Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-01-27T13:15:38.639Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-27T13:15:38.639Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-27T13:15:38.639Z",
+    "financial_information.investor_logos_last_updated": "2026-01-27T13:15:38.639Z",
+    "location_mapping[0].last_updated": "2026-01-27T13:15:38.639Z",
+    "location_mapping[27].last_updated": "2026-05-22T13:07:00.823Z",
+    "job_data.roles[8].title_updated_timestamp": "2026-06-19T17:47:47.720Z",
+    "job_data.last_updated": "2026-09-14T12:49:49.090Z"
+  }
+}

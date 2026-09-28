@@ -1,0 +1,2938 @@
+{
+  "slug": "heidi-health",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/84157.b1a10e0cfe05b148.js",
+  "observed_at": "2026-09-28T08:32:35.858491+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 86435,
+    "sha256": "bf2ac3015399a3658306933f10c231f3565367edce1ff096cb5c0bc6bf1ae29d",
+    "elapsed_seconds": 0.172,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:35 GMT",
+      "etag": "\"3201038dfb8f1f05227f991ce7c3f117\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:36 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Heidi Health",
+    "company_name_legal": "Heidi Health Pty Ltd",
+    "founded_year": 2019,
+    "website_url": "https://www.heidihealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/heidihealth.com.au",
+    "investor_portfolio_page": null,
+    "id": 14
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 110,
+    "last_updated": "2026-09-14T09:53:40.817Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 110,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive - Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/5139980a-392f-4312-a9c6-0b30ac768a3e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5139980a-392f-4312-a9c6-0b30ac768a3e"
+    },
+    {
+      "title": "Account Executive (Enterprise)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5",
+      "location_ids": [
+        "brisbane_office"
+      ],
+      "location_display": "Brisbane, Australia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ebb59341-ef24-44b5-b3ef-c85b8cdbd1c5"
+    },
+    {
+      "title": "Clinical Associate",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/d03435d7-e503-4e0f-8ae7-daab721e2a95",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d03435d7-e503-4e0f-8ae7-daab721e2a95"
+    },
+    {
+      "title": "Clinical Enablement Associate",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e68540b1-f4ec-459b-b3dc-86456f15938b",
+      "location_ids": [
+        "johannesburg_office",
+        "cape_town_office",
+        "pretoria_office",
+        "durban_office"
+      ],
+      "location_display": "Remote, South Africa",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e68540b1-f4ec-459b-b3dc-86456f15938b"
+    },
+    {
+      "title": "Commercial Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/3f1d24d8-cea8-44b1-8deb-8cba36597cde",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3f1d24d8-cea8-44b1-8deb-8cba36597cde"
+    },
+    {
+      "title": "Commercial Analyst - DACH Market",
+      "title_original": "Commercial Analyst, DACH",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T15:39:00.278Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/de693765-56a1-41fe-8b14-c4f3f2922090",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "de693765-56a1-41fe-8b14-c4f3f2922090",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Analyst involve sourcing and qualifying leads, initiating outreach, and scheduling meetings for Account Executives, which are core functions of a sales role. The job focuses on generating leads and managing sales cycles, indicating a clear alignment with sales activities."
+    },
+    {
+      "title": "Commercial Analyst, France",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/b3ac6234-5bef-4b7f-b799-6b72ee44056c",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "b3ac6234-5bef-4b7f-b799-6b72ee44056c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Analyst include sourcing and qualifying leads, initiating outreach, and scheduling meetings for Account Executives, which are all key functions within a sales role. The job focuses on generating leads and managing sales cycles, aligning closely with sales activities."
+    },
+    {
+      "title": "Commercial Specialist - Australia",
+      "title_original": "Commercial Specialist (AU)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T13:50:56.307Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/9e96d80f-e51f-4673-abf8-a3db6582f084",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9e96d80f-e51f-4673-abf8-a3db6582f084",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Commercial Specialist role focus on supporting bid processes, market intelligence, and enterprise sales operations, which are all closely aligned with sales activities. The job involves preparing responses for tenders, maintaining competitive positioning, and supporting deal owners, indicating a strong emphasis on sales functions."
+    },
+    {
+      "title": "Customer Success Associate",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/a97bb7fa-6a9a-405a-91fa-8c5c93c5d46d",
+      "location_ids": [
+        "cape_town_office"
+      ],
+      "location_display": "Cape Town, South Africa",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a97bb7fa-6a9a-405a-91fa-8c5c93c5d46d"
+    },
+    {
+      "title": "Customer Success Lead",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/a1fb51c2-d5bc-4166-b6fe-0579886b3c19",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a1fb51c2-d5bc-4166-b6fe-0579886b3c19"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/f9a4618e-de06-4293-887d-322008f13236",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f9a4618e-de06-4293-887d-322008f13236"
+    },
+    {
+      "title": "Customer Success Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e0ea7198-b8a3-4248-bf99-bea3b7f8b6e8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e0ea7198-b8a3-4248-bf99-bea3b7f8b6e8"
+    },
+    {
+      "title": "Deployed Product Manager, Health Systems",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/26951dae-8f0a-46d5-9c09-b4dfe458d2a8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "26951dae-8f0a-46d5-9c09-b4dfe458d2a8"
+    },
+    {
+      "title": "Enterprise Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/59a7de9a-0665-4519-b371-03091c7b9242",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "59a7de9a-0665-4519-b371-03091c7b9242"
+    },
+    {
+      "title": "Forward Deployed Engineer - Ireland",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/9b28b999-2c4a-4ed8-ad60-48897a91255e",
+      "location_ids": [
+        "dublin_office",
+        "cork_office"
+      ],
+      "location_display": "Remote, Ireland",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9b28b999-2c4a-4ed8-ad60-48897a91255e"
+    },
+    {
+      "title": "Forward Deployed Engineer - UK",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/02ad14b7-a9bb-45e3-a90f-631179f86d8d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "02ad14b7-a9bb-45e3-a90f-631179f86d8d"
+    },
+    {
+      "title": "Head of GTM Operations",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/bdb8d524-9f21-4035-bbf9-79186a31c58b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "bdb8d524-9f21-4035-bbf9-79186a31c58b"
+    },
+    {
+      "title": "Head Of Implementation",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4d6af18a-a2b7-442f-8a22-7539da8bac4f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4d6af18a-a2b7-442f-8a22-7539da8bac4f"
+    },
+    {
+      "title": "Head of Product, North America",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/1b072fa0-83da-40c2-8160-164c66813720",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1b072fa0-83da-40c2-8160-164c66813720"
+    },
+    {
+      "title": "Lead Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/cde90d57-737b-4305-8dab-703ea685c1b8",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "cde90d57-737b-4305-8dab-703ea685c1b8"
+    },
+    {
+      "title": "Marketing Lead",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/39c0c4a8-2e29-4efd-a2ab-3062b15cb3ae",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "39c0c4a8-2e29-4efd-a2ab-3062b15cb3ae"
+    },
+    {
+      "title": "New Business Representative - Healthcare Sales",
+      "title_original": "New Business Representative",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T14:47:00.167Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e88d4490-abd1-43a7-a81e-3ff8e6b49209",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e88d4490-abd1-43a7-a81e-3ff8e6b49209",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the New Business Representative focus on converting inbound demand into a qualified sales pipeline, running product demos, and qualifying opportunities for the sales team. These tasks are directly aligned with sales functions, emphasizing lead generation and customer engagement."
+    },
+    {
+      "title": "Partnerships Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/1a2fe7c1-d7f8-4c65-945c-efccf2a4a0bf",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1a2fe7c1-d7f8-4c65-945c-efccf2a4a0bf"
+    },
+    {
+      "title": "Sales Director, US",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/b9863b71-a84b-4dc5-bf07-c473f129fb3c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "b9863b71-a84b-4dc5-bf07-c473f129fb3c"
+    },
+    {
+      "title": "Sales Lead",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/7f5c091e-5cfb-4b52-a59c-b59b2ec30526",
+      "location_ids": [
+        "tokyo_office",
+        "osaka_office",
+        "kyoto_office"
+      ],
+      "location_display": "Remote, Japan",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7f5c091e-5cfb-4b52-a59c-b59b2ec30526"
+    },
+    {
+      "title": "Senior Backend Engineer - UK",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/76723d60-69ac-4368-a97d-4ce125d3c822",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "76723d60-69ac-4368-a97d-4ce125d3c822"
+    },
+    {
+      "title": "Senior DevOps Engineer - Azure",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/5a1ed103-241b-4b4e-bc20-23f14f1e3837",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5a1ed103-241b-4b4e-bc20-23f14f1e3837"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/c9630062-2664-4859-8b20-f58c9f63ddfa",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c9630062-2664-4859-8b20-f58c9f63ddfa"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - UK",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/5a0d7a56-bfd0-443d-8123-29db65679a59",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5a0d7a56-bfd0-443d-8123-29db65679a59"
+    },
+    {
+      "title": "Senior Solutions Engineer - Healthtech",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/58447f81-a189-4209-bcd7-5fdf62f93d74",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "58447f81-a189-4209-bcd7-5fdf62f93d74"
+    },
+    {
+      "title": "Social Media Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/b473a3c1-20c7-4fc7-a4f7-4cd9a31e1f54",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "b473a3c1-20c7-4fc7-a4f7-4cd9a31e1f54"
+    },
+    {
+      "title": "Staff Frontend Solution Architect",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/c6b7c2b6-5b9b-47b4-8e65-ba866225c95f",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c6b7c2b6-5b9b-47b4-8e65-ba866225c95f"
+    },
+    {
+      "title": "Technical Program Manager, Integrations - Health Systems",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/3ec2c152-3983-4471-834a-60c8e1f6c993",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3ec2c152-3983-4471-834a-60c8e1f6c993"
+    },
+    {
+      "title": "UK&I Partnerships Lead",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/965decb5-121e-443d-88d4-d2587b49f8bc",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "965decb5-121e-443d-88d4-d2587b49f8bc"
+    },
+    {
+      "title": "Backend Software Engineer - New Bets",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/68074198-b723-4db9-af97-5f33392593f4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "68074198-b723-4db9-af97-5f33392593f4"
+    },
+    {
+      "title": "Bid Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/53e0f504-72ff-4591-9a2f-917ba15a1bd5#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "53e0f504-72ff-4591-9a2f-917ba15a1bd5"
+    },
+    {
+      "title": "Bid Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/53e0f504-72ff-4591-9a2f-917ba15a1bd5#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "53e0f504-72ff-4591-9a2f-917ba15a1bd5"
+    },
+    {
+      "title": "Clinical Coding Specialist (Australia)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/0ac1835a-8faa-446c-b0b2-a581ca21e50c#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0ac1835a-8faa-446c-b0b2-a581ca21e50c"
+    },
+    {
+      "title": "Clinical Coding Specialist (Australia)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/0ac1835a-8faa-446c-b0b2-a581ca21e50c#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0ac1835a-8faa-446c-b0b2-a581ca21e50c"
+    },
+    {
+      "title": "Customer Success Manager, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4d9b8a5e-53e4-452c-a2ec-337657acf8a7#loc-0",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4d9b8a5e-53e4-452c-a2ec-337657acf8a7"
+    },
+    {
+      "title": "Customer Success Manager, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4d9b8a5e-53e4-452c-a2ec-337657acf8a7#loc-1",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4d9b8a5e-53e4-452c-a2ec-337657acf8a7"
+    },
+    {
+      "title": "Customer Success Manager (SMB)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e021b6f2-b290-4ff2-9936-9ece86912eef#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e021b6f2-b290-4ff2-9936-9ece86912eef"
+    },
+    {
+      "title": "Customer Success Manager (SMB)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e021b6f2-b290-4ff2-9936-9ece86912eef#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e021b6f2-b290-4ff2-9936-9ece86912eef"
+    },
+    {
+      "title": "Customer Systems Lead - Healthcare",
+      "title_original": "Customer Systems Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:43:44.640Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/506948f3-315c-4a68-b96c-e67bc43d3fbc#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "506948f3-315c-4a68-b96c-e67bc43d3fbc",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Customer Systems Lead focuses primarily on managing customer systems, improving customer experiences, and streamlining workflows for customer-facing teams. This aligns closely with the responsibilities typical of a Customer Success department, where the goal is to enhance customer satisfaction and operational efficiency."
+    },
+    {
+      "title": "Customer Systems Lead - Healthcare",
+      "title_original": "Customer Systems Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:44:02.005Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/506948f3-315c-4a68-b96c-e67bc43d3fbc#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "506948f3-315c-4a68-b96c-e67bc43d3fbc",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Customer Systems Lead revolve around managing customer systems, improving customer experiences, and streamlining workflows for customer-facing teams. This aligns closely with the Customer Success department, as the role focuses on enhancing the customer journey and operational efficiency."
+    },
+    {
+      "title": "Data Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/7db3578f-d767-4aa4-8cf4-10fe1caa53c3#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7db3578f-d767-4aa4-8cf4-10fe1caa53c3"
+    },
+    {
+      "title": "Data Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/7db3578f-d767-4aa4-8cf4-10fe1caa53c3#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7db3578f-d767-4aa4-8cf4-10fe1caa53c3"
+    },
+    {
+      "title": "Deployed Product Manager, Health Systems",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/47924685-8546-4f4d-a748-17965bd2f550#loc-0",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "47924685-8546-4f4d-a748-17965bd2f550"
+    },
+    {
+      "title": "Deployed Product Manager, Health Systems",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/47924685-8546-4f4d-a748-17965bd2f550#loc-1",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "47924685-8546-4f4d-a748-17965bd2f550"
+    },
+    {
+      "title": "Design Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/391fe188-6b95-4aa1-bf46-22d8bceb9f4b#loc-0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "391fe188-6b95-4aa1-bf46-22d8bceb9f4b"
+    },
+    {
+      "title": "Design Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/391fe188-6b95-4aa1-bf46-22d8bceb9f4b#loc-1",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "391fe188-6b95-4aa1-bf46-22d8bceb9f4b"
+    },
+    {
+      "title": "Design Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/391fe188-6b95-4aa1-bf46-22d8bceb9f4b#loc-2",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "391fe188-6b95-4aa1-bf46-22d8bceb9f4b"
+    },
+    {
+      "title": "Design Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/31e03395-c3a1-46c3-955c-ed9f50c2e8d7#loc-0",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "31e03395-c3a1-46c3-955c-ed9f50c2e8d7"
+    },
+    {
+      "title": "Design Quality Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/31e03395-c3a1-46c3-955c-ed9f50c2e8d7#loc-1",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "31e03395-c3a1-46c3-955c-ed9f50c2e8d7"
+    },
+    {
+      "title": "Director of Product Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/67bf789b-e6bb-4429-93f6-9e0d81c0d5fe",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "67bf789b-e6bb-4429-93f6-9e0d81c0d5fe"
+    },
+    {
+      "title": "Engineering Lead - Reliability & Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/1e1d9ce4-1d62-4175-ba3b-cceb7e4cd2ef#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1e1d9ce4-1d62-4175-ba3b-cceb7e4cd2ef"
+    },
+    {
+      "title": "Engineering Lead - Reliability & Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/1e1d9ce4-1d62-4175-ba3b-cceb7e4cd2ef#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1e1d9ce4-1d62-4175-ba3b-cceb7e4cd2ef"
+    },
+    {
+      "title": "Enterprise Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/01331cc9-80e4-4459-bac8-d6120c0f7e9b#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "01331cc9-80e4-4459-bac8-d6120c0f7e9b"
+    },
+    {
+      "title": "Enterprise Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/01331cc9-80e4-4459-bac8-d6120c0f7e9b#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "01331cc9-80e4-4459-bac8-d6120c0f7e9b"
+    },
+    {
+      "title": "GTM",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/2c9e3440-d347-4d13-96f4-ef7f4b847492",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2c9e3440-d347-4d13-96f4-ef7f4b847492"
+    },
+    {
+      "title": "GTM Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/835ccbd5-6fc2-424e-b2b8-8d25f71c0c97",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "835ccbd5-6fc2-424e-b2b8-8d25f71c0c97"
+    },
+    {
+      "title": "Head of Customer Education",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4e3532d7-a0e8-48d7-b547-91aa39ceb854#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4e3532d7-a0e8-48d7-b547-91aa39ceb854"
+    },
+    {
+      "title": "Head of Customer Education",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4e3532d7-a0e8-48d7-b547-91aa39ceb854#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4e3532d7-a0e8-48d7-b547-91aa39ceb854"
+    },
+    {
+      "title": "Head of Enterprise Customer Success",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/66eead48-384b-4afc-99da-77c886e0fc20#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "66eead48-384b-4afc-99da-77c886e0fc20"
+    },
+    {
+      "title": "Head of Enterprise Customer Success",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/66eead48-384b-4afc-99da-77c886e0fc20#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "66eead48-384b-4afc-99da-77c886e0fc20"
+    },
+    {
+      "title": "Head of GTM Operations",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/9c3c1868-9f46-46e5-bf47-354c7c43c979#loc-0",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9c3c1868-9f46-46e5-bf47-354c7c43c979"
+    },
+    {
+      "title": "Head of GTM Operations",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/9c3c1868-9f46-46e5-bf47-354c7c43c979#loc-1",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9c3c1868-9f46-46e5-bf47-354c7c43c979"
+    },
+    {
+      "title": "Head of Implementation",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e4535bcb-d143-477d-9c56-bcd59147571e#loc-0",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e4535bcb-d143-477d-9c56-bcd59147571e"
+    },
+    {
+      "title": "Head of Implementation",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e4535bcb-d143-477d-9c56-bcd59147571e#loc-1",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e4535bcb-d143-477d-9c56-bcd59147571e"
+    },
+    {
+      "title": "Mid Level AI Models Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/0253c879-0267-43c8-99f5-e62c810cc0af#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0253c879-0267-43c8-99f5-e62c810cc0af"
+    },
+    {
+      "title": "Mid Level AI Models Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/0253c879-0267-43c8-99f5-e62c810cc0af#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0253c879-0267-43c8-99f5-e62c810cc0af"
+    },
+    {
+      "title": "Product Manager, Revenue Cycle",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/3bfd4a84-72a4-4c32-a1d2-0d1f4f7ee184#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3bfd4a84-72a4-4c32-a1d2-0d1f4f7ee184"
+    },
+    {
+      "title": "Product Manager, Revenue Cycle",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/3bfd4a84-72a4-4c32-a1d2-0d1f4f7ee184#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3bfd4a84-72a4-4c32-a1d2-0d1f4f7ee184"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/2c42d512-ae07-488b-ae74-d74c61c24678#loc-0",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2c42d512-ae07-488b-ae74-d74c61c24678"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/2c42d512-ae07-488b-ae74-d74c61c24678#loc-1",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2c42d512-ae07-488b-ae74-d74c61c24678"
+    },
+    {
+      "title": "Senior AI Models Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab"
+    },
+    {
+      "title": "Senior AI Models Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f2a33fd0-e4bc-4e0b-84e3-c136a32af0ab"
+    },
+    {
+      "title": "Senior DevOps Engineer - GCP",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/7a30be9f-ba82-48a6-8f6c-b226ad2d1c48#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7a30be9f-ba82-48a6-8f6c-b226ad2d1c48"
+    },
+    {
+      "title": "Senior DevOps Engineer - GCP",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/7a30be9f-ba82-48a6-8f6c-b226ad2d1c48#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7a30be9f-ba82-48a6-8f6c-b226ad2d1c48"
+    },
+    {
+      "title": "Senior LLMOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4f287875-c13f-483c-af50-d48f7d637d73#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4f287875-c13f-483c-af50-d48f7d637d73"
+    },
+    {
+      "title": "Senior LLMOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/4f287875-c13f-483c-af50-d48f7d637d73#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "4f287875-c13f-483c-af50-d48f7d637d73"
+    },
+    {
+      "title": "Senior Localisation Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/ea5b66c6-c1d5-48e5-b985-129fc01d02cc#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ea5b66c6-c1d5-48e5-b985-129fc01d02cc"
+    },
+    {
+      "title": "Senior Localisation Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/ea5b66c6-c1d5-48e5-b985-129fc01d02cc#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "ea5b66c6-c1d5-48e5-b985-129fc01d02cc"
+    },
+    {
+      "title": "Senior People Partner - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/dd2bfd7e-bc9c-46bd-bebf-83ff63d5ffe9",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "dd2bfd7e-bc9c-46bd-bebf-83ff63d5ffe9"
+    },
+    {
+      "title": "Senior Product Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/5d352f63-74c2-458c-b40d-0666881f263f#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5d352f63-74c2-458c-b40d-0666881f263f"
+    },
+    {
+      "title": "Senior Product Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/5d352f63-74c2-458c-b40d-0666881f263f#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5d352f63-74c2-458c-b40d-0666881f263f"
+    },
+    {
+      "title": "Senior Product Manager - New Bets",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/2c2317e2-3ce0-41ff-92e7-1338022eb6e1",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2c2317e2-3ce0-41ff-92e7-1338022eb6e1"
+    },
+    {
+      "title": "Senior Software Engineer - Desktop App",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/738c99ed-0a85-467f-821c-1beae5565148#loc-0",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "738c99ed-0a85-467f-821c-1beae5565148"
+    },
+    {
+      "title": "Senior Software Engineer - Desktop App",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/738c99ed-0a85-467f-821c-1beae5565148#loc-1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "738c99ed-0a85-467f-821c-1beae5565148"
+    },
+    {
+      "title": "Senior Software Engineer - Robotic Process Automation",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/797ab212-3cc6-4dd0-8646-908241fc8f34",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "robotics",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "797ab212-3cc6-4dd0-8646-908241fc8f34"
+    },
+    {
+      "title": "Vendor Management Lead - Software Procurement",
+      "title_original": "Vendor Management Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:44:20.537Z",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/73b63cb6-b34b-4780-86f2-1d717b5ac9c9",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "73b63cb6-b34b-4780-86f2-1d717b5ac9c9",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Vendor Management Lead revolve around managing third-party software spend, negotiating contracts, and building budgets, which are all key functions within the finance department. The role also involves financial literacy and reporting, further solidifying its classification under finance."
+    },
+    {
+      "title": "Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e215c184-9a76-4f7e-ad91-8ce82d098527",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e215c184-9a76-4f7e-ad91-8ce82d098527"
+    },
+    {
+      "title": "Accounts Receivable Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/2b718746-6cb0-4230-a0e0-05cd98373724",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2b718746-6cb0-4230-a0e0-05cd98373724"
+    },
+    {
+      "title": "Accounts Receivable Specialist (AMER)",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/d7c9f423-c6b7-4788-a577-fed2c8bef2a2",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d7c9f423-c6b7-4788-a577-fed2c8bef2a2"
+    },
+    {
+      "title": "APAC Payroll Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/e650e14f-d42a-4cf0-9063-2ad27406b764",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e650e14f-d42a-4cf0-9063-2ad27406b764"
+    },
+    {
+      "title": "Automation & Lifecycle Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/47f384c6-d850-4f15-b48a-3be07b948904",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "47f384c6-d850-4f15-b48a-3be07b948904"
+    },
+    {
+      "title": "Clinical Form Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/f938424c-f018-402f-acb3-5961813579b4",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "medical",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f938424c-f018-402f-acb3-5961813579b4"
+    },
+    {
+      "title": "Commercial Lead - Clinical Trials",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/d43551da-7ea9-47c4-a747-8d7a2c4256a3",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d43551da-7ea9-47c4-a747-8d7a2c4256a3"
+    },
+    {
+      "title": "Customer Success Manager, West",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/cd46c71d-277a-4587-b992-5b6eb1f696c8",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cd46c71d-277a-4587-b992-5b6eb1f696c8"
+    },
+    {
+      "title": "Digital Designer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/a597fbd6-0805-407e-bab5-d26b0f769668",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a597fbd6-0805-407e-bab5-d26b0f769668"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/275b3280-2e55-4069-9f42-32d049c97c55",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "275b3280-2e55-4069-9f42-32d049c97c55"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/406e5e54-d125-4e8a-a601-dd06998f4001",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "406e5e54-d125-4e8a-a601-dd06998f4001"
+    },
+    {
+      "title": "Finance Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/80e69e71-62ac-4975-9df8-d93d0a0679ce",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "80e69e71-62ac-4975-9df8-d93d0a0679ce"
+    },
+    {
+      "title": "FP&A Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/a6ab283e-d27b-4066-af79-cce362985d3e",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a6ab283e-d27b-4066-af79-cce362985d3e"
+    },
+    {
+      "title": "Global Communications Ops Manager",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/85099f71-1f11-4a60-a8f8-4997be685ff2",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "85099f71-1f11-4a60-a8f8-4997be685ff2"
+    },
+    {
+      "title": "Head of Product Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/40db06ad-0f7f-4f14-95bb-d2c8d36a6774",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "40db06ad-0f7f-4f14-95bb-d2c8d36a6774"
+    },
+    {
+      "title": "Partnerships Associate",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/fb77fa71-8fe1-452f-928a-221d515dea3f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fb77fa71-8fe1-452f-928a-221d515dea3f"
+    },
+    {
+      "title": "Product Operations",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/6d2e2042-49f1-46ee-b844-8e73a45009b1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6d2e2042-49f1-46ee-b844-8e73a45009b1"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/1fb42cde-a802-4cc9-97ec-96716a9faf04",
+      "location_ids": [
+        "melbourne_office"
+      ],
+      "location_display": "Melbourne, Australia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1fb42cde-a802-4cc9-97ec-96716a9faf04"
+    },
+    {
+      "title": "Senior Revenue Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/heidihealth.com.au/16dc97e5-3241-40ab-979d-1422e080ee91",
+      "location_ids": [
+        "makati_city_office"
+      ],
+      "location_display": "Makati City, Philippines",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16dc97e5-3241-40ab-979d-1422e080ee91"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales",
+        "customer-success",
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "medical",
+        "content-production",
+        "data",
+        "engineering",
+        "finance",
+        "legal",
+        "qa",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "japan_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "london",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.4915,
+      "longitude": -0.2642,
+      "exact_address": "C/O Paul Beare Ltd, 100 Bollo Lane, London, W4 5LX, United Kingdom",
+      "departments": [
+        "sales",
+        "medical",
+        "customer-success",
+        "other",
+        "engineering",
+        "design",
+        "marketing",
+        "operations",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8265,
+      "longitude": 144.9838,
+      "exact_address": "24-26 Cubitt Street, Level 5, Cremorne, Melbourne, Victoria, Australia - 3121",
+      "departments": [
+        "other",
+        "medical",
+        "content-production",
+        "data",
+        "engineering",
+        "finance",
+        "legal",
+        "qa",
+        "ai",
+        "marketing"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7348,
+      "longitude": -73.9919,
+      "exact_address": "Floor 10, 41 E 11th St, New York, NY, United States - 10003",
+      "departments": [
+        "medical",
+        "customer-success",
+        "design",
+        "other",
+        "sales",
+        "operations",
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "medical",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "other",
+        "marketing",
+        "operations",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "other",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "medical",
+        "content-production",
+        "data",
+        "engineering",
+        "other",
+        "finance",
+        "legal",
+        "marketing",
+        "qa",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6461,
+      "longitude": -79.3902,
+      "exact_address": "111 Peter Street, Suite 702, Toronto, ON, Canada - M5V 2H1",
+      "departments": [
+        "sales",
+        "marketing",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "south_africa_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "South Africa",
+      "departments": [
+        "sales",
+        "customer-success",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "makati_city_office",
+      "city": "Makati City",
+      "state": "Metro Manila",
+      "country": "Philippines",
+      "latitude": 14.5547,
+      "longitude": 121.0244,
+      "exact_address": "Makati City, Metro Manila, Philippines",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "exact_address": "Abu Dhabi, United Arab Emirates",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cairo_office",
+      "city": "Cairo",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "exact_address": "Cairo, Egypt",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cape_town_office",
+      "city": "Cape Town",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "exact_address": "Cape Town, South Africa",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "doha_office",
+      "city": "Doha",
+      "state": null,
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "exact_address": "Doha, Qatar",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lagos_office",
+      "city": "Lagos",
+      "state": null,
+      "country": "Nigeria",
+      "latitude": 6.5244,
+      "longitude": 3.3792,
+      "exact_address": "Lagos, Nigeria",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nairobi_office",
+      "city": "Nairobi",
+      "state": null,
+      "country": "Kenya",
+      "latitude": -1.2864,
+      "longitude": 36.8172,
+      "exact_address": "Nairobi, Kenya",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "exact_address": "Riyadh, Saudi Arabia",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pretoria_office",
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "country": "South Africa",
+      "latitude": -25.7479,
+      "longitude": 28.2293,
+      "exact_address": "Pretoria, Gauteng, South Africa",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "durban_office",
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "country": "South Africa",
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "exact_address": "Durban, KwaZulu-Natal, South Africa",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cork_office",
+      "city": "Cork",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 51.8985,
+      "longitude": -8.4756,
+      "exact_address": "Cork, Ireland",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jerusalem_office",
+      "city": "Jerusalem",
+      "state": null,
+      "country": "Israel",
+      "latitude": 31.7683,
+      "longitude": 35.2137,
+      "exact_address": "Jerusalem, Israel",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kuwait_city_office",
+      "city": "Kuwait City",
+      "state": null,
+      "country": "Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "exact_address": "Kuwait City, Kuwait",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kyoto_office",
+      "city": "Kyoto",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "exact_address": "Kyoto, Japan",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "osaka_office",
+      "city": "Osaka",
+      "state": null,
+      "country": "Japan",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "exact_address": "Osaka, Japan",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "perth_office",
+      "city": "Perth",
+      "state": "Western Australia",
+      "country": "Australia",
+      "latitude": -31.9505,
+      "longitude": 115.8605,
+      "exact_address": "Perth, Western Australia, Australia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-01-07T10:45:18.776Z",
+    "current_valuation_usd": "$465 million",
+    "current_valuation_usd_last_updated": "2026-01-07T10:45:18.776Z",
+    "total_funding_raised": "$96.6 million",
+    "total_funding_raised_last_updated": "2026-01-07T10:45:18.776Z",
+    "key_investors": [
+      {
+        "name": "Point72 Private Investments",
+        "domain": "point72.com"
+      },
+      {
+        "name": "Blackbird Ventures",
+        "domain": "blackbird.vc"
+      },
+      {
+        "name": "Headline",
+        "domain": "headline.com"
+      },
+      {
+        "name": "Latitude",
+        "domain": "latitude.io"
+      },
+      {
+        "name": "LocalGlobe",
+        "domain": "localglobe.vc"
+      },
+      {
+        "name": "Anthology",
+        "domain": null
+      },
+      {
+        "name": "HESTA",
+        "domain": null
+      },
+      {
+        "name": "Possible Ventures",
+        "domain": "possibleventures.com"
+      },
+      {
+        "name": "Archangel Ventures",
+        "domain": "archangel.vc"
+      },
+      {
+        "name": "January Capital",
+        "domain": "januarycapital.com"
+      },
+      {
+        "name": "Menlo Ventures",
+        "domain": "menlovc.com"
+      },
+      {
+        "name": "Anthropic",
+        "domain": "anthropic.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Point72 Private Investments",
+        "logo_url": "/investor-logos/point72-private-investments.png"
+      },
+      {
+        "name": "Blackbird Ventures",
+        "logo_url": "/investor-logos/blackbird-ventures.png"
+      },
+      {
+        "name": "Headline",
+        "logo_url": "/investor-logos/headline.png"
+      },
+      {
+        "name": "Latitude",
+        "logo_url": "/investor-logos/latitude.png"
+      },
+      {
+        "name": "LocalGlobe",
+        "logo_url": "/investor-logos/localglobe.png"
+      },
+      {
+        "name": "Anthology",
+        "logo_url": "/investor-logos/anthology.png"
+      },
+      {
+        "name": "HESTA",
+        "logo_url": "/investor-logos/hesta.png"
+      },
+      {
+        "name": "Possible Ventures",
+        "logo_url": "/investor-logos/possible-ventures.png"
+      },
+      {
+        "name": "Archangel Ventures",
+        "logo_url": "/investor-logos/archangel-ventures.png"
+      },
+      {
+        "name": "January Capital",
+        "logo_url": "/investor-logos/january-capital.png"
+      },
+      {
+        "name": "Menlo Ventures",
+        "logo_url": "/investor-logos/menlo-ventures.png"
+      },
+      {
+        "name": "Anthropic",
+        "logo_url": "/investor-logos/anthropic.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-07T10:45:18.776Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "privilege-leave",
+    "learning-development",
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-07T10:45:18.776Z",
+    "company_basic_information.website_url_last_updated": "2026-01-07T10:45:18.776Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-07T10:45:18.776Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-07T10:45:18.776Z",
+    "company_basic_information.last_updated": "2026-01-07",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-08T13:37:24.312Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-08T13:37:46.492Z",
+    "leadership.founders[0].description_last_updated": "2026-01-17T10:52:17.994Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-17T11:16:47.549Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-07T15:27:43.476Z",
+    "leadership.founders[1].description_last_updated": "2026-01-17T10:52:23.376Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-17T11:16:55.271Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-01-07T15:28:11.856Z",
+    "leadership.founders[2].description_last_updated": "2026-01-17T10:52:29.998Z",
+    "leadership.founders[2].image_url_last_updated": "2026-01-17T11:17:03.845Z",
+    "social_media.x_url_last_verified": "2026-01-07T15:29:07.898Z",
+    "social_media.linkedin_url_last_verified": "2026-01-07T15:30:07.106Z",
+    "social_media.instagram_url_last_verified": "2026-01-08T13:38:23.512Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:00:57.631Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2026-01-07T10:45:18.776Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-07T10:45:18.776Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-07T10:45:18.776Z",
+    "financial_information.investor_logos_last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[0].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[1].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[2].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[3].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[4].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[5].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[6].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[7].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[8].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[9].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[10].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[11].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[12].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[13].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[14].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[15].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[16].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[17].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[18].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[19].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[20].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[21].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[22].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[23].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[24].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[25].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[26].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[27].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[28].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[29].last_updated": "2026-01-07T10:45:18.776Z",
+    "location_mapping[30].last_updated": "2026-03-05T10:20:54.599Z",
+    "location_mapping[51].last_updated": "2026-05-02T18:36:22.576Z",
+    "location_mapping[52].last_updated": "2026-05-02T18:36:22.576Z",
+    "job_data.roles[0].posted_date": "2026-08-31",
+    "job_data.roles[1].posted_date": "2026-08-31",
+    "job_data.roles[2].posted_date": "2026-08-31",
+    "job_data.roles[3].posted_date": "2026-08-31",
+    "job_data.roles[4].posted_date": "2026-08-31",
+    "job_data.roles[5].posted_date": "2026-08-31",
+    "job_data.roles[5].title_updated_timestamp": "2026-08-16T15:39:00.278Z",
+    "job_data.roles[6].posted_date": "2026-08-31",
+    "job_data.roles[7].posted_date": "2026-08-31",
+    "job_data.roles[7].title_updated_timestamp": "2026-08-02T13:50:56.307Z",
+    "job_data.roles[8].posted_date": "2026-08-31",
+    "job_data.roles[9].posted_date": "2026-08-31",
+    "job_data.roles[10].posted_date": "2026-08-31",
+    "job_data.roles[11].posted_date": "2026-08-31",
+    "job_data.roles[12].posted_date": "2026-08-31",
+    "job_data.roles[13].posted_date": "2026-08-31",
+    "job_data.roles[14].posted_date": "2026-08-31",
+    "job_data.roles[15].posted_date": "2026-08-31",
+    "job_data.roles[16].posted_date": "2026-08-31",
+    "job_data.roles[17].posted_date": "2026-08-31",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-08-31",
+    "job_data.roles[21].posted_date": "2026-08-31",
+    "job_data.roles[21].title_updated_timestamp": "2026-08-16T14:47:00.167Z",
+    "job_data.roles[22].posted_date": "2026-08-31",
+    "job_data.roles[23].posted_date": "2026-08-31",
+    "job_data.roles[24].posted_date": "2026-08-31",
+    "job_data.roles[25].posted_date": "2026-08-31",
+    "job_data.roles[26].posted_date": "2026-08-31",
+    "job_data.roles[27].posted_date": "2026-08-31",
+    "job_data.roles[28].posted_date": "2026-08-31",
+    "job_data.roles[29].posted_date": "2026-08-31",
+    "job_data.roles[30].posted_date": "2026-08-31",
+    "job_data.roles[31].posted_date": "2026-08-31",
+    "job_data.roles[32].posted_date": "2026-08-31",
+    "job_data.roles[33].posted_date": "2026-08-31",
+    "job_data.roles[34].posted_date": "2026-08-31",
+    "job_data.roles[35].posted_date": "2026-08-31",
+    "job_data.roles[36].posted_date": "2026-08-31",
+    "job_data.roles[37].posted_date": "2026-08-31",
+    "job_data.roles[38].posted_date": "2026-08-31",
+    "job_data.roles[39].posted_date": "2026-08-31",
+    "job_data.roles[40].posted_date": "2026-08-31",
+    "job_data.roles[41].posted_date": "2026-08-31",
+    "job_data.roles[42].posted_date": "2026-08-31",
+    "job_data.roles[43].posted_date": "2026-08-31",
+    "job_data.roles[43].title_updated_timestamp": "2026-08-31T11:43:44.640Z",
+    "job_data.roles[44].posted_date": "2026-08-31",
+    "job_data.roles[44].title_updated_timestamp": "2026-08-31T11:44:02.005Z",
+    "job_data.roles[45].posted_date": "2026-08-31",
+    "job_data.roles[46].posted_date": "2026-08-31",
+    "job_data.roles[47].posted_date": "2026-08-31",
+    "job_data.roles[48].posted_date": "2026-08-31",
+    "job_data.roles[49].posted_date": "2026-08-31",
+    "job_data.roles[50].posted_date": "2026-08-31",
+    "job_data.roles[51].posted_date": "2026-08-31",
+    "job_data.roles[52].posted_date": "2026-08-31",
+    "job_data.roles[53].posted_date": "2026-08-31",
+    "job_data.roles[54].posted_date": "2026-08-31",
+    "job_data.roles[55].posted_date": "2026-08-31",
+    "job_data.roles[56].posted_date": "2026-08-31",
+    "job_data.roles[57].posted_date": "2026-08-31",
+    "job_data.roles[58].posted_date": "2026-08-31",
+    "job_data.roles[59].posted_date": "2026-08-31",
+    "job_data.roles[60].posted_date": "2026-08-31",
+    "job_data.roles[61].posted_date": "2026-08-31",
+    "job_data.roles[62].posted_date": "2026-08-31",
+    "job_data.roles[63].posted_date": "2026-08-31",
+    "job_data.roles[64].posted_date": "2026-08-31",
+    "job_data.roles[65].posted_date": "2026-08-31",
+    "job_data.roles[66].posted_date": "2026-08-31",
+    "job_data.roles[67].posted_date": "2026-08-31",
+    "job_data.roles[68].posted_date": "2026-08-31",
+    "job_data.roles[69].posted_date": "2026-08-31",
+    "job_data.roles[70].posted_date": "2026-08-31",
+    "job_data.roles[71].posted_date": "2026-08-31",
+    "job_data.roles[72].posted_date": "2026-08-31",
+    "job_data.roles[73].posted_date": "2026-08-31",
+    "job_data.roles[74].posted_date": "2026-08-31",
+    "job_data.roles[75].posted_date": "2026-08-31",
+    "job_data.roles[76].posted_date": "2026-08-31",
+    "job_data.roles[77].posted_date": "2026-08-31",
+    "job_data.roles[78].posted_date": "2026-08-31",
+    "job_data.roles[79].posted_date": "2026-08-31",
+    "job_data.roles[80].posted_date": "2026-08-31",
+    "job_data.roles[81].posted_date": "2026-08-31",
+    "job_data.roles[82].posted_date": "2026-08-31",
+    "job_data.roles[83].posted_date": "2026-08-31",
+    "job_data.roles[84].posted_date": "2026-08-31",
+    "job_data.roles[85].posted_date": "2026-08-31",
+    "job_data.roles[86].posted_date": "2026-08-31",
+    "job_data.roles[87].posted_date": "2026-08-31",
+    "job_data.roles[88].posted_date": "2026-08-31",
+    "job_data.roles[89].posted_date": "2026-08-31",
+    "job_data.roles[90].posted_date": "2026-08-31",
+    "job_data.roles[90].title_updated_timestamp": "2026-08-31T11:44:20.537Z",
+    "job_data.roles[91].posted_date": "2026-09-14",
+    "job_data.roles[92].posted_date": "2026-09-14",
+    "job_data.roles[93].posted_date": "2026-09-14",
+    "job_data.roles[94].posted_date": "2026-09-14",
+    "job_data.roles[95].posted_date": "2026-09-14",
+    "job_data.roles[96].posted_date": "2026-09-14",
+    "job_data.roles[97].posted_date": "2026-09-14",
+    "job_data.roles[98].posted_date": "2026-09-14",
+    "job_data.roles[99].posted_date": "2026-09-14",
+    "job_data.roles[100].posted_date": "2026-09-14",
+    "job_data.roles[101].posted_date": "2026-09-14",
+    "job_data.roles[102].posted_date": "2026-09-14",
+    "job_data.roles[103].posted_date": "2026-09-14",
+    "job_data.roles[104].posted_date": "2026-09-14",
+    "job_data.roles[105].posted_date": "2026-09-14",
+    "job_data.roles[106].posted_date": "2026-09-14",
+    "job_data.roles[107].posted_date": "2026-09-14",
+    "job_data.roles[108].posted_date": "2026-09-14",
+    "job_data.roles[109].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T09:53:40.817Z"
+  }
+}

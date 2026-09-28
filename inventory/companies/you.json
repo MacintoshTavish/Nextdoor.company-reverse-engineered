@@ -1,0 +1,355 @@
+{
+  "slug": "you",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/6979.432194b32e50ec29.js",
+  "observed_at": "2026-09-28T08:38:32.211301+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 11373,
+    "sha256": "d1f15db8502923702630ac9e14f876835066278601240bc16d9abcbae36032ef",
+    "elapsed_seconds": 0.163,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:32 GMT",
+      "etag": "\"d3adceb61bb2162df06eff491889e513\"",
+      "last-modified": "Mon, 28 Sep 2026 08:16:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "You",
+    "company_name_legal": "You",
+    "founded_year": "2020",
+    "website_url": "https://you.co",
+    "careers_url": "https://apply.workable.com/youtrip",
+    "investor_portfolio_page": null,
+    "id": 232
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-24T10:31:06.535Z",
+    "crawl_status": "success",
+    "source": "Workable",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode",
+    "workable_job_id"
+  ],
+  "jobs": [
+    {
+      "title": "IT System Administrator",
+      "apply_url": "https://apply.workable.com/youtrip/j/576C7E1EFE/",
+      "location_ids": [
+        "chennai_office",
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India / Tamil Nadu, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer (Backend)",
+      "apply_url": "https://apply.workable.com/youtrip/j/54F1FCD19A/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer II (Backend)",
+      "apply_url": "https://apply.workable.com/youtrip/j/0314F951E6/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://apply.workable.com/youtrip/j/CC73E8DB94/",
+      "location_ids": [
+        "chennai_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Chennai, India / Tamil Nadu, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - Mobile App Development",
+      "apply_url": "https://apply.workable.com/youtrip/j/780EB04619/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full time",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering",
+        "security",
+        "qa",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bangkok_office",
+      "city": "Bangkok",
+      "state": null,
+      "country": "Thailand",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "exact_address": "Bangkok, Thailand",
+      "departments": [
+        "marketing",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "engineering",
+        "finance",
+        "legal",
+        "marketing",
+        "other",
+        "product",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "operations",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "taguig_office",
+      "city": "Taguig",
+      "state": "Metro Manila",
+      "country": "Philippines",
+      "latitude": 14.5176,
+      "longitude": 121.0509,
+      "exact_address": "Taguig, Metro Manila, Philippines",
+      "departments": [
+        "design",
+        "hr",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "petaling_jaya_office",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "country": "Malaysia",
+      "latitude": 3.1073,
+      "longitude": 101.6067,
+      "exact_address": "Petaling Jaya, Selangor, Malaysia",
+      "departments": [
+        "finance",
+        "legal",
+        "operations",
+        "marketing",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "wan_chai_office",
+      "city": "Wan Chai",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.277,
+      "longitude": 114.1733,
+      "exact_address": "Wan Chai, Hong Kong",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "pasig_office",
+      "city": "Pasig",
+      "state": "Metro Manila",
+      "country": "Philippines",
+      "latitude": 14.5764,
+      "longitude": 121.0851,
+      "exact_address": "Pasig, Metro Manila, Philippines",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-04-03T06:06:48.964Z",
+    "current_valuation_usd": "$1.5 billion",
+    "current_valuation_usd_last_updated": "2026-04-03T06:06:48.964Z",
+    "total_funding_raised": "$199 million",
+    "total_funding_raised_last_updated": "2026-04-03T06:06:48.964Z",
+    "key_investors": [
+      {
+        "name": "Cox Enterprises",
+        "domain": ""
+      },
+      {
+        "name": "Richard Socher",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Cox Enterprises",
+        "logo_url": "/investor-logos/cox-enterprises.png"
+      },
+      {
+        "name": "Richard Socher",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-03T06:06:48.964Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Workable",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-02T09:22:41.212Z",
+    "company_basic_information.website_url_last_updated": "2026-04-02T09:22:41.212Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-02T09:22:41.212Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-02T09:22:41.212Z",
+    "company_basic_information.last_updated": "2026-04-02",
+    "company_basic_information.founded_year_last_updated": "2026-04-03T04:54:20.200Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-02T13:34:59.162Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-03T04:45:48.414Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T12:32:45.603Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T09:59:55.033Z",
+    "social_media.x_url_last_verified": "2026-04-02T13:35:28.204Z",
+    "social_media.linkedin_url_last_verified": "2026-04-02T13:37:30.194Z",
+    "social_media.instagram_url_last_verified": "2026-04-02T13:37:54.901Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-04-03T06:06:48.964Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-03T06:06:48.964Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-03T06:06:48.964Z",
+    "financial_information.investor_logos_last_updated": "2026-04-03T06:06:48.964Z",
+    "location_mapping[4].last_updated": "2026-05-02T18:36:53.296Z",
+    "location_mapping[5].last_updated": "2026-05-02T18:36:53.296Z",
+    "location_mapping[6].last_updated": "2026-09-09T16:39:29.856Z",
+    "location_mapping[7].last_updated": "2026-09-09T16:39:31.564Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:31:06.535Z"
+  }
+}

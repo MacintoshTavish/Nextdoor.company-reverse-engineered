@@ -1,0 +1,837 @@
+{
+  "slug": "axionray",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/30659.2f2ca48a46072ced.js",
+  "observed_at": "2026-09-28T08:29:18.204438+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 21656,
+    "sha256": "8ff690e35d7f1aeb5361db0abc44b823b9687a6c290fb06f764524898b3fb6cf",
+    "elapsed_seconds": 0.442,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:18 GMT",
+      "etag": "\"a0757724388fa4a3bfe6e64b0499ca42\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:18 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Axion",
+    "company_name_legal": "Axionray Inc.",
+    "founded_year": 2020,
+    "website_url": "https://www.axion.com/",
+    "careers_url": "https://jobs.ashbyhq.com/axion",
+    "investor_portfolio_page": null,
+    "id": 61
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 12,
+    "last_updated": "2026-09-14T12:23:18.946Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 12,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Director, Customer Success",
+      "apply_url": "https://jobs.ashbyhq.com/axion/58f6362e-2f4c-4e4a-9a5d-6e0b90b5403c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": "$225k-255k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-26",
+      "ashby_job_id": "58f6362e-2f4c-4e4a-9a5d-6e0b90b5403c"
+    },
+    {
+      "title": "Senior Human Resources Business Partner (HRBP)",
+      "apply_url": "https://jobs.ashbyhq.com/axion/ba3817f9-0690-4b58-985c-1cdadd42719d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": "$140k-170k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-16",
+      "ashby_job_id": "ba3817f9-0690-4b58-985c-1cdadd42719d"
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/axion/bbf4a041-5933-47dc-9dda-c35f7e960598",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": "$190k-210k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-02",
+      "ashby_job_id": "bbf4a041-5933-47dc-9dda-c35f7e960598"
+    },
+    {
+      "title": "Senior Product Manager, Core Product",
+      "apply_url": "https://jobs.ashbyhq.com/axion/63cde14c-3b79-4074-be58-433a3627c3ad",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": "$210k-230k",
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-14",
+      "ashby_job_id": "63cde14c-3b79-4074-be58-433a3627c3ad"
+    },
+    {
+      "title": "Staff Software Engineer, Agentic Platform",
+      "apply_url": "https://jobs.ashbyhq.com/axion/e4eb4db7-1426-4fa3-91d4-5b42de86fe37",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$250k-270k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "e4eb4db7-1426-4fa3-91d4-5b42de86fe37"
+    },
+    {
+      "title": "AI Solutions Director",
+      "apply_url": "https://jobs.ashbyhq.com/axion/3fd8abb7-f9a8-4583-9b10-6b90827923db",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": "$190k-225k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-11",
+      "ashby_job_id": "3fd8abb7-f9a8-4583-9b10-6b90827923db",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI Solutions Director involve managing customer accounts, driving adoption of AI solutions, and ensuring measurable outcomes post-launch, which aligns closely with customer success management. The role emphasizes delivering value to customers and coordinating teams to achieve this, making customer success the most prominent category."
+    },
+    {
+      "title": "Quality Insights Lead - Customer Success",
+      "title_original": "Quality Insights Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-23T21:13:21.552Z",
+      "apply_url": "https://jobs.ashbyhq.com/axion/2185eae0-5ab7-4589-89b8-a7faa14221af",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": "$60k-100k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-23",
+      "ashby_job_id": "2185eae0-5ab7-4589-89b8-a7faa14221af",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Quality Insights Lead involve managing customer relationships post-onboarding, ensuring customer success, and driving adoption of the platform. This aligns closely with the customer success category, as the role focuses on delivering value to clients and supporting their ongoing needs."
+    },
+    {
+      "title": "Strategic Solutions Director",
+      "apply_url": "https://jobs.ashbyhq.com/axion/d88966f7-d0f7-4326-9d22-8b81dfb8fa98",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": "$175k-205k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-11",
+      "ashby_job_id": "d88966f7-d0f7-4326-9d22-8b81dfb8fa98",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Strategic Solutions Director primarily focuses on owning senior customer relationships, driving commercial outcomes, and ensuring customer retention and growth. These responsibilities align closely with the customer success function, which emphasizes managing customer relationships and ensuring they derive value from the company's offerings."
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/axion/e2c39d08-d336-4e06-b28b-c139e923ba23",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "e2c39d08-d336-4e06-b28b-c139e923ba23"
+    },
+    {
+      "title": "Senior/Staff Software Engineer, Data Platform",
+      "apply_url": "https://jobs.ashbyhq.com/axion/682bf0bf-bff0-4836-8295-51c8d6289a17",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "682bf0bf-bff0-4836-8295-51c8d6289a17"
+    },
+    {
+      "title": "Director of Product, Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/axion/f9dfdba5-f07b-4201-9acf-96ce54d9ca61",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f9dfdba5-f07b-4201-9acf-96ce54d9ca61"
+    },
+    {
+      "title": "Staff Software Engineer, Data Intelligence",
+      "apply_url": "https://jobs.ashbyhq.com/axion/da0155c4-4e04-4e34-9d61-089d6c19dc9f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "da0155c4-4e04-4e34-9d61-089d6c19dc9f"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9732,
+      "longitude": 77.5946,
+      "exact_address": "201 and 202, Second Floor, #3 Prestige Sigma, Vittal Mallya Road, Mahatma Gandhi Road, Bangalore North, Bengaluru, Karnataka, India - 560001",
+      "departments": [
+        "engineering",
+        "sales",
+        "product",
+        "GTM"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5253,
+      "longitude": -0.0851,
+      "exact_address": "1 Mark Square, London, England, United Kingdom - EC2A 4EG",
+      "departments": [
+        "engineering",
+        "sales",
+        "product",
+        "GTM"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.717617,
+      "longitude": -73.964542,
+      "exact_address": "10 Grand Street, 11th Floor, Brooklyn, New York, United States - 11211",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hartford_office",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "country": "United States",
+      "latitude": 41.7658,
+      "longitude": -72.6734,
+      "exact_address": "Hartford, Connecticut, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-17T14:01:20.048Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-17T14:01:20.048Z",
+    "total_funding_raised": "$25 million",
+    "total_funding_raised_last_updated": "2025-10-17T14:01:20.048Z",
+    "key_investors": [
+      {
+        "name": "Bessemer Venture Partners",
+        "domain": "bvp.com"
+      },
+      {
+        "name": "RTX Ventures",
+        "domain": "rtx.com"
+      },
+      {
+        "name": "Amplo",
+        "domain": "amplo.com"
+      },
+      {
+        "name": "Inspired Capital",
+        "domain": "inspiredcapital.com"
+      },
+      {
+        "name": "Boeing",
+        "domain": "boeing.com"
+      },
+      {
+        "name": "Tinicum Venture Partners",
+        "domain": "tinicum.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Bessemer Venture Partners",
+        "logo_url": "/investor-logos/bessemer-venture-partners.png"
+      },
+      {
+        "name": "RTX Ventures",
+        "logo_url": "/investor-logos/rtx-ventures.png"
+      },
+      {
+        "name": "Amplo",
+        "logo_url": "/investor-logos/amplo.png"
+      },
+      {
+        "name": "Inspired Capital",
+        "logo_url": "/investor-logos/inspired-capital.png"
+      },
+      {
+        "name": "Boeing",
+        "logo_url": "/investor-logos/boeing.png"
+      },
+      {
+        "name": "Tinicum Venture Partners",
+        "logo_url": "/investor-logos/tinicum-venture-partners.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-17T14:01:20.048Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "privilege-leave",
+    "equity-stock",
+    "bonus",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[26].source": "phase3_residual_resolution",
+    "location_mapping[27].source": "phase3_residual_resolution",
+    "location_mapping[28].source": "phase3_residual_resolution",
+    "location_mapping[29].source": "phase3_residual_resolution",
+    "location_mapping[30].source": "phase3_residual_resolution",
+    "location_mapping[31].source": "phase3_residual_resolution",
+    "location_mapping[32].source": "phase3_residual_resolution",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-09T18:35:38.083Z",
+    "company_basic_information.website_url_last_updated": "2025-12-09T18:35:03.529Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-09T18:34:01.692Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.654Z",
+    "company_basic_information.last_updated": "2025-10-17",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-17T14:01:20.048Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-17T14:01:20.048Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:25:22.597Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:45:58.007Z",
+    "leadership.last_updated": "2025-10-17T14:08:54.801Z",
+    "social_media.x_url_last_verified": "2025-10-17T14:01:20.048Z",
+    "social_media.linkedin_url_last_verified": "2025-10-17T14:01:20.048Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:02:53.283Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-17T14:01:20.048Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-17T14:01:20.048Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-17T14:01:20.048Z",
+    "financial_information.investor_logos_last_updated": "2025-10-17T14:01:20.048Z",
+    "location_mapping[0].last_updated": "2025-10-17T14:10:48.449Z",
+    "location_mapping[1].last_updated": "2025-10-17T14:10:58.737Z",
+    "location_mapping[2].last_updated": "2025-10-17T14:11:05.392Z",
+    "location_mapping[26].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[27].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[28].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[29].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[30].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[31].last_updated": "2026-05-24T03:03:26.255535",
+    "location_mapping[32].last_updated": "2026-05-24T03:03:26.255535",
+    "job_data.roles[0].posted_date": "2026-05-26",
+    "job_data.roles[1].posted_date": "2026-06-16",
+    "job_data.roles[2].posted_date": "2026-06-02",
+    "job_data.roles[3].posted_date": "2026-04-14",
+    "job_data.roles[4].posted_date": "2026-06-22",
+    "job_data.roles[5].posted_date": "2026-05-11",
+    "job_data.roles[6].posted_date": "2026-03-23",
+    "job_data.roles[6].title_updated_timestamp": "2026-05-23T21:13:21.552Z",
+    "job_data.roles[7].posted_date": "2026-05-11",
+    "job_data.roles[8].posted_date": "2026-08-17",
+    "job_data.roles[9].posted_date": "2026-08-31",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:23:18.946Z",
+    "benefits.privilege-leave.last_updated": "2026-01-06T14:03:39.062Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T14:03:39.062Z",
+    "benefits.bonus.last_updated": "2026-01-06T14:03:39.062Z",
+    "benefits.meal-allowance.last_updated": "2026-01-06T14:03:39.062Z"
+  }
+}

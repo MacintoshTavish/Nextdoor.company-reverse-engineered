@@ -1,0 +1,1061 @@
+{
+  "slug": "tennr",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/4835.d002f0491631ba21.js",
+  "observed_at": "2026-09-28T08:37:21.109112+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 32748,
+    "sha256": "5a4672e37b396d058fec7af936c5b80b2ac2fe56223b79948833028411b62c07",
+    "elapsed_seconds": 0.181,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:21 GMT",
+      "etag": "\"74da3e026445c50b2b24ebd953003d8b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:13:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Tennr",
+    "company_name_legal": "Tennr Inc",
+    "founded_year": 2021,
+    "website_url": "https://tennr.com",
+    "careers_url": "https://jobs.ashbyhq.com/tennr",
+    "investor_portfolio_page": null,
+    "id": 277
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 23,
+    "last_updated": "2026-09-14T12:36:12.989Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 23,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/9aae43bf-3303-468e-aae0-038b7fb395f3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$170k-190k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-23",
+      "ashby_job_id": "9aae43bf-3303-468e-aae0-038b7fb395f3"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/6a47f165-5c4c-4834-9ddb-b1b8084148cf",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "$305k-330k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-02",
+      "ashby_job_id": "6a47f165-5c4c-4834-9ddb-b1b8084148cf"
+    },
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/35e4db16-9ca2-4532-acf3-176a2ce983b0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$170k-190k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-13",
+      "ashby_job_id": "35e4db16-9ca2-4532-acf3-176a2ce983b0"
+    },
+    {
+      "title": "Enterprise Embedded Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$160k-180k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-24",
+      "ashby_job_id": "a439c5b8-1686-4b90-b2bc-cffd761e002d"
+    },
+    {
+      "title": "Account Partner",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/e9a66334-e68f-44e1-8bba-a65b5b9fc337",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-07",
+      "ashby_job_id": "e9a66334-e68f-44e1-8bba-a65b5b9fc337"
+    },
+    {
+      "title": "Enterprise Account Partner",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/21e28e06-44d9-4053-818f-7e8917f29fde",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-07",
+      "ashby_job_id": "21e28e06-44d9-4053-818f-7e8917f29fde"
+    },
+    {
+      "title": "Paralegal",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/30c6045c-39c3-41bb-a6e3-1bf5e809b972",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-10",
+      "ashby_job_id": "30c6045c-39c3-41bb-a6e3-1bf5e809b972"
+    },
+    {
+      "title": "Platform Strategist - Healthcare Operations",
+      "title_original": "Platform Strategist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:28:34.629Z",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/206f4ab0-0ee1-41c0-ad82-9916e86d84fa",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "206f4ab0-0ee1-41c0-ad82-9916e86d84fa",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Platform Strategist at Tennr primarily involves acting as a strategic partner and advisor to executive operators in healthcare, focusing on understanding client needs and ensuring they achieve value from the services provided. This aligns closely with customer success, as the role emphasizes managing relationships and tracking outcomes to drive client satisfaction and growth."
+    },
+    {
+      "title": "Senior Solutions Consultant",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/4b30492a-d32f-45a6-a612-2133204f6c27",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-10",
+      "ashby_job_id": "4b30492a-d32f-45a6-a612-2133204f6c27"
+    },
+    {
+      "title": "Enterprise Solutions Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/0c7c0d2c-7eb8-4584-8635-ccc548a60619",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "0c7c0d2c-7eb8-4584-8635-ccc548a60619"
+    },
+    {
+      "title": "Senior Backend Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/a0387208-fabd-453c-96f1-dcfe77f3af07",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "a0387208-fabd-453c-96f1-dcfe77f3af07"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/7197dd0b-7ff4-432e-a9f8-9536efce1ad5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "7197dd0b-7ff4-432e-a9f8-9536efce1ad5"
+    },
+    {
+      "title": "Clinical Criteria Escalations Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/fcb8c374-6fae-454a-baa2-a3e39188f639",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "medical",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "fcb8c374-6fae-454a-baa2-a3e39188f639"
+    },
+    {
+      "title": "Healthcare Industry Reporter and Storyteller - Content Production",
+      "title_original": "Healthcare Industry Reporter and Storyteller",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T18:14:57.023Z",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/b077e659-bc47-42b4-a09a-affc12fcfc6a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "b077e659-bc47-42b4-a09a-affc12fcfc6a",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on researching, writing, and delivering content related to the healthcare industry, which aligns closely with content production. The job emphasizes storytelling and producing valuable material for audiences, indicating a strong focus on content creation rather than marketing or sales."
+    },
+    {
+      "title": "Manager, Channel Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/a4d96d95-191c-4c33-8fe6-08cf3cacffc1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "a4d96d95-191c-4c33-8fe6-08cf3cacffc1"
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/684d3960-7838-4e8a-a80b-97692a4be429",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "684d3960-7838-4e8a-a80b-97692a4be429"
+    },
+    {
+      "title": "Delivery Manager - Healthcare SaaS",
+      "title_original": "Delivery Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:53:48.788Z",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/d5d44d1b-946a-4bef-93d9-6bf1f2b2a789",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d5d44d1b-946a-4bef-93d9-6bf1f2b2a789",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Delivery Manager focuses on managing deployments, ensuring customer training, and driving account growth, which aligns closely with customer success responsibilities. The emphasis on stakeholder engagement and ensuring customers are enabled on products further supports this classification."
+    },
+    {
+      "title": "Event Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/32942a08-ece5-45d2-877f-6184903e6277",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "32942a08-ece5-45d2-877f-6184903e6277"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/e8abd81d-8a24-44b0-85c9-68cc4573895c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e8abd81d-8a24-44b0-85c9-68cc4573895c"
+    },
+    {
+      "title": "Talent Acquisition Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/9704475a-e7ae-4a81-92ff-2ebf92077c2b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9704475a-e7ae-4a81-92ff-2ebf92077c2b"
+    },
+    {
+      "title": "Payor Intelligence Analyst - Healthcare Data",
+      "title_original": "Payor Intelligence Sr. Analyst",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:26:46.476Z",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/2f664e64-a9dc-4eba-8120-72051598471e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2f664e64-a9dc-4eba-8120-72051598471e",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Payor Intelligence Sr. Analyst involve building and owning payor entity mapping, interpreting complex datasets, and establishing frameworks that support the company's products. This aligns closely with data analysis and management, making 'data' the most appropriate category."
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/c5928e76-7a96-45bb-989b-9f7207031a8b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c5928e76-7a96-45bb-989b-9f7207031a8b"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/tennr/77166b21-9d4a-4af1-a45f-c224d596ab3b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77166b21-9d4a-4af1-a45f-c224d596ab3b"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7235,
+      "longitude": -74.0078,
+      "exact_address": "345 Hudson St, Floor 4, New York, NY, United States - 10013",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales",
+        "content-production",
+        "product",
+        "operations",
+        "consulting",
+        "hr"
+      ],
+      "employee_count": "120+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "content-production"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-05-07T08:04:38.606Z",
+    "current_valuation_usd": "$605 million",
+    "current_valuation_usd_last_updated": "2026-05-07T08:04:38.606Z",
+    "total_funding_raised": "$159.75 million",
+    "total_funding_raised_last_updated": "2026-05-07T08:04:38.606Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Foundation Capital",
+        "domain": ""
+      },
+      {
+        "name": "ICONIQ Growth",
+        "domain": ""
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Foundation Capital",
+        "logo_url": "/investor-logos/foundation-capital.png"
+      },
+      {
+        "name": "ICONIQ Growth",
+        "logo_url": "/investor-logos/iconiq-growth.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-07T08:04:38.606Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "unlimited-pto",
+    "health-insurance",
+    "retirement-401k",
+    "parental-leave",
+    "meal-allowance",
+    "equity-stock",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "ai",
+    "business_details.industry_domains_source": "manual-edit",
+    "location_mapping[26].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-07T08:04:38.606Z",
+    "company_basic_information.website_url_last_updated": "2026-05-07T08:04:38.606Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-07T08:04:38.606Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-07T08:04:38.606Z",
+    "company_basic_information.last_updated": "2026-05-07",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-05-07T08:15:00.000Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-05-07T08:10:18.168Z",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:36:52.622Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T08:14:49.632Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-05-07T08:11:38.724Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:36:57.966Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T08:15:09.115Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-05-07T08:12:28.679Z",
+    "leadership.founders[2].description_last_updated": "2026-06-07T20:37:04.678Z",
+    "leadership.founders[2].image_url_last_updated": "2026-06-08T08:15:28.948Z",
+    "social_media.x_url_last_verified": "2026-05-07T08:15:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-05-07T08:13:07.732Z",
+    "business_details.industry_category_last_updated": "2026-05-07T08:04:38.606Z",
+    "business_details.industry_domains_last_updated": "2026-05-07T08:20:00.000Z",
+    "financial_information.funding_stage_last_updated": "2026-05-07T08:04:38.606Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-07T08:04:38.606Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-07T08:04:38.606Z",
+    "financial_information.investor_logos_last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[0].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[1].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[2].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[3].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[4].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[5].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[6].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[7].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[8].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[9].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[10].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[11].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[12].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[13].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[14].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[15].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[16].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[17].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[18].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[19].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[20].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[21].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[22].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[23].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[24].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[25].last_updated": "2026-05-07T08:04:38.606Z",
+    "location_mapping[26].last_updated": "2026-05-23T21:25:06.911Z",
+    "job_data.roles[0].posted_date": "2026-01-23",
+    "job_data.roles[1].posted_date": "2025-09-02",
+    "job_data.roles[2].posted_date": "2026-03-13",
+    "job_data.roles[3].posted_date": "2026-06-24",
+    "job_data.roles[4].posted_date": "2026-07-07",
+    "job_data.roles[5].posted_date": "2026-07-07",
+    "job_data.roles[6].posted_date": "2026-07-10",
+    "job_data.roles[7].posted_date": "2026-07-09",
+    "job_data.roles[7].title_updated_timestamp": "2026-09-21T18:28:34.629Z",
+    "job_data.roles[8].posted_date": "2026-07-10",
+    "job_data.roles[9].posted_date": "2026-08-02",
+    "job_data.roles[10].posted_date": "2026-08-02",
+    "job_data.roles[11].posted_date": "2026-08-02",
+    "job_data.roles[12].posted_date": "2026-08-16",
+    "job_data.roles[13].posted_date": "2026-08-16",
+    "job_data.roles[13].title_updated_timestamp": "2026-08-16T18:14:57.023Z",
+    "job_data.roles[14].posted_date": "2026-08-16",
+    "job_data.roles[15].posted_date": "2026-08-16",
+    "job_data.roles[16].posted_date": "2026-08-31",
+    "job_data.roles[16].title_updated_timestamp": "2026-08-31T11:53:48.788Z",
+    "job_data.roles[17].posted_date": "2026-08-31",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-09-14",
+    "job_data.roles[20].title_updated_timestamp": "2026-09-14T15:26:46.476Z",
+    "job_data.roles[21].posted_date": "2026-09-14",
+    "job_data.roles[22].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:36:12.989Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.retirement-401k.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.meal-allowance.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:14:43.482Z",
+    "benefits.bonus.last_updated": "2026-06-06T18:14:43.482Z"
+  }
+}

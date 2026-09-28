@@ -1,0 +1,3916 @@
+{
+  "slug": "mistral-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/10555.94b8e8b880480a79.js",
+  "observed_at": "2026-09-28T08:34:03.049672+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 111911,
+    "sha256": "257855d30b6b4a6b5d745ef13f32129fcf595f2d3417ae5806b8fefcdf8c74fb",
+    "elapsed_seconds": 0.561,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:34:02 GMT",
+      "etag": "\"cd1b3862d8b68149d9d2671edfde90cd\"",
+      "last-modified": "Mon, 28 Sep 2026 08:34:02 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Mistral AI",
+    "company_name_legal": "Mistral AI SAS",
+    "founded_year": 2023,
+    "website_url": "https://mistral.ai",
+    "careers_url": "https://jobs.ashbyhq.com/mistral.ai",
+    "investor_portfolio_page": null,
+    "id": 229
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 199,
+    "last_updated": "2026-09-19T16:48:17.106Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 199,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive Enterprise, Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/631f2d1a-ff61-4fe8-a2a0-8a64fd8c5296",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "631f2d1a-ff61-4fe8-a2a0-8a64fd8c5296"
+    },
+    {
+      "title": "Account Executive Enterprise, Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1e640af1-36da-4057-bd37-462425313f1b",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1e640af1-36da-4057-bd37-462425313f1b"
+    },
+    {
+      "title": "Accounting Manager (R2R)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/64f559a0-646c-47b3-82d0-5545ec8bf2fd",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "64f559a0-646c-47b3-82d0-5545ec8bf2fd"
+    },
+    {
+      "title": "AI Deployment Lead",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/efc69d78-a698-4435-9f64-ea09b0297655",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "efc69d78-a698-4435-9f64-ea09b0297655"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4b088dc3-d21a-4eab-8151-5159e0254ca7",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4b088dc3-d21a-4eab-8151-5159e0254ca7"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/cf71adbb-c7c3-42d3-bf64-8e1283b6403f",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "cf71adbb-c7c3-42d3-bf64-8e1283b6403f"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/24ebf260-3b53-4f2e-9ed2-1d1864cd3729",
+      "location_ids": [
+        "abu_dhabi_office"
+      ],
+      "location_display": "Abu Dhabi, UAE",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "24ebf260-3b53-4f2e-9ed2-1d1864cd3729"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ed6195b4-2621-4ef0-9a33-d0b2d6950de4",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ed6195b4-2621-4ef0-9a33-d0b2d6950de4"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4f7e2c43-638d-4595-9d10-da4708128fa7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4f7e2c43-638d-4595-9d10-da4708128fa7"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fd33527d-d23f-4389-ac27-cf702615eecd",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fd33527d-d23f-4389-ac27-cf702615eecd"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d8bf9485-6fc8-4dec-87b4-63c417e71c65",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montréal",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d8bf9485-6fc8-4dec-87b4-63c417e71c65"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ce5c2671-6db3-499c-928f-ea5a919d566e",
+      "location_ids": [
+        "luxembourg_office"
+      ],
+      "location_display": "Luxembourg, Luxembourg",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ce5c2671-6db3-499c-928f-ea5a919d566e"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/314a71c5-b254-4ea7-978e-8da983d37a30",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "314a71c5-b254-4ea7-978e-8da983d37a30"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a15456be-735f-470d-b312-8f2742c9884f"
+    },
+    {
+      "title": "AI Deployment Strategist, Cybersecurity - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/937fa938-f91d-4989-993e-80a2ec87890e",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "937fa938-f91d-4989-993e-80a2ec87890e"
+    },
+    {
+      "title": "AI Deployment Strategist, Physics - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f8b8ed83-d80f-4142-816e-054d23121d75",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "f8b8ed83-d80f-4142-816e-054d23121d75"
+    },
+    {
+      "title": "AI Deployment Strategist, Science - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ea944567-a5ea-4628-afa1-2c1354807a75",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ea944567-a5ea-4628-afa1-2c1354807a75"
+    },
+    {
+      "title": "AI Engineer, Product",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/50c74749-9fbc-471f-a647-f6cd22423ccf",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "50c74749-9fbc-471f-a647-f6cd22423ccf"
+    },
+    {
+      "title": "AI Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e663da6d-b70e-40e3-a4e9-551ba3d1ca4c",
+      "location_ids": [
+        "warsaw_office"
+      ],
+      "location_display": "Warsaw, Poland",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e663da6d-b70e-40e3-a4e9-551ba3d1ca4c"
+    },
+    {
+      "title": "AI Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/865fced4-d279-4073-848d-f078c0053155",
+      "location_ids": [
+        "zurich_office"
+      ],
+      "location_display": "Zurich, Switzerland",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "865fced4-d279-4073-848d-f078c0053155"
+    },
+    {
+      "title": "AI Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/9fc579c8-784c-4b91-bcd0-392f35d13100",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "9fc579c8-784c-4b91-bcd0-392f35d13100"
+    },
+    {
+      "title": "AI Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/efef411a-91fb-44b1-b01b-bd1275e9231c",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "efef411a-91fb-44b1-b01b-bd1275e9231c"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/771c4006-5be5-42b2-b37a-5fee9fd960b4",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "771c4006-5be5-42b2-b37a-5fee9fd960b4"
+    },
+    {
+      "title": "Applied AI Engineer, CyberSecurity",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/647be1ec-19d1-421c-9c49-6bbf12c0c93a",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "647be1ec-19d1-421c-9c49-6bbf12c0c93a"
+    },
+    {
+      "title": "Applied AI Engineer, CyberSecurity - Montreal",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fb6dce2f-5198-4327-b26c-93d407a781d0",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montréal",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fb6dce2f-5198-4327-b26c-93d407a781d0"
+    },
+    {
+      "title": "Applied AI Engineer, Fullstack",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b08b805c-0b22-4171-8f6a-71e982bed817",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b08b805c-0b22-4171-8f6a-71e982bed817"
+    },
+    {
+      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d1887bfd-8d44-46d6-b253-cadc1b1aeb11",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d1887bfd-8d44-46d6-b253-cadc1b1aeb11"
+    },
+    {
+      "title": "Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0b0c3fab-5c79-43e7-b66c-de7fef7d28b7",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0b0c3fab-5c79-43e7-b66c-de7fef7d28b7"
+    },
+    {
+      "title": "Applied AI Engineer, Site Reliability Engineer - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/395b93c4-2185-4c83-990f-5325cd739e0e",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "395b93c4-2185-4c83-990f-5325cd739e0e"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montréal",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fe76010a-6384-4eae-ba08-1a6aa530ecbb"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6ca94f06-e353-4f4f-91e2-56264fcb8863"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2ec2dacd-1117-479b-a4c1-efa9df530798",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2ec2dacd-1117-479b-a4c1-efa9df530798"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8ba58450-68eb-4009-a34b-b9d402414f39",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8ba58450-68eb-4009-a34b-b9d402414f39"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/37108a18-4eaa-4554-af3c-39e3556191cb",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "37108a18-4eaa-4554-af3c-39e3556191cb"
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fcdb8407-20b9-4179-81b6-f2ca2c79a39b"
+    },
+    {
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0b342cda-4a57-4604-9d5b-48373e8e85ea",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0b342cda-4a57-4604-9d5b-48373e8e85ea"
+    },
+    {
+      "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "43b8b35d-a87d-4ebc-83db-1dfeba2b37c8"
+    },
+    {
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montréal",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf"
+    },
+    {
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6f5451cb-ecb6-45af-8a03-6bb658c6c5a1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6f5451cb-ecb6-45af-8a03-6bb658c6c5a1"
+    },
+    {
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4758abfb-12fb-401e-8c3b-896361d7036d"
+    },
+    {
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0d281150-b40e-4a6b-a533-a424b04d44e3",
+      "location_ids": [
+        "abu_dhabi_office"
+      ],
+      "location_display": "Abu Dhabi, UAE",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0d281150-b40e-4a6b-a533-a424b04d44e3"
+    },
+    {
+      "title": "Applied AI, Use-case, Software Engineer (Harness)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b19778b5-bba5-4428-bfbe-51800597b8b7",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b19778b5-bba5-4428-bfbe-51800597b8b7"
+    },
+    {
+      "title": "Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1722cba1-bc85-467a-994d-980905aca031",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1722cba1-bc85-467a-994d-980905aca031"
+    },
+    {
+      "title": "Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "5d15e1fe-789d-451d-8521-568906620c21"
+    },
+    {
+      "title": "Applied Scientist / Research Engineer, AI4Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/556595b2-d78b-486e-a3b2-14ad533f8caa",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "556595b2-d78b-486e-a3b2-14ad533f8caa"
+    },
+    {
+      "title": "Applied Scientist/Research Engineer, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2ed434c7-2e1d-4acd-acb2-01edaa4a1208",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2ed434c7-2e1d-4acd-acb2-01edaa4a1208"
+    },
+    {
+      "title": "Applied Scientist / Research Engineer (Internship)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "de46ba8b-00cb-4618-83df-66e15a78434e"
+    },
+    {
+      "title": "Code Data Annotation Quality Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/efc7b2c9-bc21-481e-aea4-af24423964ad",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "efc7b2c9-bc21-481e-aea4-af24423964ad"
+    },
+    {
+      "title": "Commercial Legal Counsel, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/88736b27-7c50-4ec6-b4ce-51e5cc7e9e1a",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "88736b27-7c50-4ec6-b4ce-51e5cc7e9e1a"
+    },
+    {
+      "title": "Communications Lead, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e287f268-20c1-4cee-a2e3-0420c06512ba",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e287f268-20c1-4cee-a2e3-0420c06512ba"
+    },
+    {
+      "title": "CyberSecurity, Offensive Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/dcf889f0-2f46-45e6-9394-51f9b62f3fe9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "dcf889f0-2f46-45e6-9394-51f9b62f3fe9"
+    },
+    {
+      "title": "CyberSecurity, Platform Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/94097082-dd90-439e-8685-0dd07df0bb1d",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "94097082-dd90-439e-8685-0dd07df0bb1d"
+    },
+    {
+      "title": "CyberSecurity, Product Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5749843e-8469-4703-901b-c98b6fe0fc20",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "5749843e-8469-4703-901b-c98b6fe0fc20"
+    },
+    {
+      "title": "Data Annotation Quality Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2c064469-0e4b-479a-86dc-f94089a39ca4",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2c064469-0e4b-479a-86dc-f94089a39ca4"
+    },
+    {
+      "title": "Datacenter Hardware Engineer, HPC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a022798e-e20b-4752-b712-61ba05af6b37",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a022798e-e20b-4752-b712-61ba05af6b37"
+    },
+    {
+      "title": "Deputy Director, Safety & Security HQ",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d5d4567a-1a71-4769-86df-10c9f7e87583",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d5d4567a-1a71-4769-86df-10c9f7e87583"
+    },
+    {
+      "title": "Director of Internal Control",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8b255772-6909-44a4-b57f-696d58bd33de",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8b255772-6909-44a4-b57f-696d58bd33de"
+    },
+    {
+      "title": "Enablement Lead - Sales Programs",
+      "title_original": "Enablement Lead, Programs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-08T06:28:42.321Z",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0953b3e4-1210-45b1-9622-4e25ee881fcb",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0953b3e4-1210-45b1-9622-4e25ee881fcb",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Enablement Lead involve designing and implementing go-to-market (GTM) enablement programs for sales teams, which directly aligns with sales functions. The role focuses on creating scalable systems for sales training, curriculum development, and operational support for sales personnel, indicating a strong emphasis on sales enablement."
+    },
+    {
+      "title": "Engineering Lead, Inference",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6dfcbf55-d854-4723-85e4-f44f3032fc63",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6dfcbf55-d854-4723-85e4-f44f3032fc63"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e8ea6de2-5eb0-4abc-bad6-724da592c6c8",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e8ea6de2-5eb0-4abc-bad6-724da592c6c8"
+    },
+    {
+      "title": "Engineering Team Lead, DevEx",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4a158704-0293-4bb6-b9e8-223134b300d9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4a158704-0293-4bb6-b9e8-223134b300d9"
+    },
+    {
+      "title": "Field Hardware Engineer, HPC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/7993dcae-fa99-4fab-ba91-ff003fc589c6",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "7993dcae-fa99-4fab-ba91-ff003fc589c6"
+    },
+    {
+      "title": "General/Senior Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3ce61028-20fb-4612-b29c-a6152aca12ec",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3ce61028-20fb-4612-b29c-a6152aca12ec"
+    },
+    {
+      "title": "Group Financial Controller",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/9e468b6c-de66-4f34-8351-fed93bc29310",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "9e468b6c-de66-4f34-8351-fed93bc29310"
+    },
+    {
+      "title": "Head of Partner Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ddf0f314-20d6-4660-bd17-ce45676ccbd8",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ddf0f314-20d6-4660-bd17-ce45676ccbd8"
+    },
+    {
+      "title": "Head of Sales Enablement, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/c0b30af5-714f-405b-a2f2-c6a52f53d6f4",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "c0b30af5-714f-405b-a2f2-c6a52f53d6f4"
+    },
+    {
+      "title": "HR People Ops, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/c6bf09ac-2cfa-4834-8c56-be4deb044f4e",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "c6bf09ac-2cfa-4834-8c56-be4deb044f4e"
+    },
+    {
+      "title": "HR People Ops EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0bc58dd4-f8a6-4b4a-aa1c-d93e2567f041",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0bc58dd4-f8a6-4b4a-aa1c-d93e2567f041"
+    },
+    {
+      "title": "HR People Ops France",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e1efda00-adfe-442f-930d-31a92fa328d6",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e1efda00-adfe-442f-930d-31a92fa328d6"
+    },
+    {
+      "title": "HR People Ops, North America",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/598b895d-393a-4780-a8aa-7ea7586ce34b",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "598b895d-393a-4780-a8aa-7ea7586ce34b"
+    },
+    {
+      "title": "Infrastructure Solution Architect",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ea4ff9e5-3ccd-4eab-982c-46c1de9ade67",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "ea4ff9e5-3ccd-4eab-982c-46c1de9ade67"
+    },
+    {
+      "title": "IT Specialist, North America",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/043a53ed-c301-4180-8cd0-56252306dad1",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "043a53ed-c301-4180-8cd0-56252306dad1"
+    },
+    {
+      "title": "Lead Applied AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a50e295c-c615-4b72-a482-2987a4d10e91"
+    },
+    {
+      "title": "Lead Applied AI Engineer, Fullstack",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "52fc0112-06d1-49cb-9863-05df53db6642"
+    },
+    {
+      "title": "Lead Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "826dd35b-03dc-4f5b-bfa2-2d3c91003154"
+    },
+    {
+      "title": "Learning & Development",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d70c3c7f-07a8-449d-8bc0-fcaf97b22163",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d70c3c7f-07a8-449d-8bc0-fcaf97b22163"
+    },
+    {
+      "title": "Legal Counsel, Banking / Financing",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/82b2036e-01f0-4f2b-bf15-3c713a6f00e1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "82b2036e-01f0-4f2b-bf15-3c713a6f00e1"
+    },
+    {
+      "title": "Legal Counsel, Patent Attorney",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/cc1f476c-046f-4fe3-98f1-49b2ea193b51",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "cc1f476c-046f-4fe3-98f1-49b2ea193b51"
+    },
+    {
+      "title": "Onboarding Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/deb0e225-6e51-40f9-b26a-7b34d03914c3",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "deb0e225-6e51-40f9-b26a-7b34d03914c3"
+    },
+    {
+      "title": "Partner Solution Architect - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6d7c09b9-a65a-4f03-8bea-53fe2f1be01f",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6d7c09b9-a65a-4f03-8bea-53fe2f1be01f"
+    },
+    {
+      "title": "Partner Technical Enablement, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1547bfba-7f9d-48e0-b667-e5d644fd1adb",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "1547bfba-7f9d-48e0-b667-e5d644fd1adb"
+    },
+    {
+      "title": "Pentester, Offensive Forward Deployment Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/913aec39-9838-43f4-bc8e-49583e9eb169",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "913aec39-9838-43f4-bc8e-49583e9eb169"
+    },
+    {
+      "title": "Pentester, Offensive Forward Deployment Engineer - Montreal",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/721c8d8c-0e8d-4ae5-9404-5bd5be941c06",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montréal",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "721c8d8c-0e8d-4ae5-9404-5bd5be941c06"
+    },
+    {
+      "title": "Privacy Legal Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/354402a4-0a87-4bae-96af-a0bd4f5f26b2",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "354402a4-0a87-4bae-96af-a0bd4f5f26b2"
+    },
+    {
+      "title": "Procurement Category Manager (IT and Data)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fcad6d7e-b7bf-4e95-ba54-240d7e6e0b70",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "fcad6d7e-b7bf-4e95-ba54-240d7e6e0b70"
+    },
+    {
+      "title": "Product Manager, Studio",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a25b36ac-5283-49b7-b58d-482810ac0258",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a25b36ac-5283-49b7-b58d-482810ac0258"
+    },
+    {
+      "title": "Product Manager, Vibe",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/036efa0f-73c4-4737-b4ad-c4e834e5b31c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "036efa0f-73c4-4737-b4ad-c4e834e5b31c"
+    },
+    {
+      "title": "Product Marketing Manager, Science",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/696c62ac-9e3b-490b-813c-9a0fe0c8b6ae",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "696c62ac-9e3b-490b-813c-9a0fe0c8b6ae"
+    },
+    {
+      "title": "Product Monetization & Pricing Lead",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f5a35065-c310-4f6e-9b1d-1143a4528550",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "f5a35065-c310-4f6e-9b1d-1143a4528550"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a5a1436f-a5a2-4133-b217-6afc85483559",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a5a1436f-a5a2-4133-b217-6afc85483559"
+    },
+    {
+      "title": "Research Engineer, Code Agents Infra",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/af7c3cf8-f4f4-4a16-80e9-fdfb0c14104d",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "af7c3cf8-f4f4-4a16-80e9-fdfb0c14104d"
+    },
+    {
+      "title": "Research Engineer, Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4c19b931-3a95-48b3-ac96-9e4c52f5a603",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4c19b931-3a95-48b3-ac96-9e4c52f5a603"
+    },
+    {
+      "title": "Research Engineer, Data Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8c71b069-0eda-40d1-8cb1-4094fd9c81de",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8c71b069-0eda-40d1-8cb1-4094fd9c81de"
+    },
+    {
+      "title": "Research Engineer, Machine Learning",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0e578cff-741d-4870-9c2c-aac85f9de266"
+    },
+    {
+      "title": "Research Engineer, Machine Learning",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b087ffe4-3f55-4072-9ff8-9f5f17b4121d",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b087ffe4-3f55-4072-9ff8-9f5f17b4121d"
+    },
+    {
+      "title": "Research Engineer,  Robotics",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "25944723-62e2-498e-8149-a588907c39d6"
+    },
+    {
+      "title": "Research Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5d444fcb-4101-44a7-9996-45819443d640",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "5d444fcb-4101-44a7-9996-45819443d640"
+    },
+    {
+      "title": "Research Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e91d8785-a4a1-4fc5-b214-21d285005cd0",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "e91d8785-a4a1-4fc5-b214-21d285005cd0"
+    },
+    {
+      "title": "RFP & Bid Manager, AI Solutions",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/de55e9e0-d97d-4b14-aa6c-911efe187403",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "de55e9e0-d97d-4b14-aa6c-911efe187403"
+    },
+    {
+      "title": "Security Compliance Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3fbccc6e-277e-437c-b1c0-8ea0cb34d98c",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3fbccc6e-277e-437c-b1c0-8ea0cb34d98c"
+    },
+    {
+      "title": "Senior Commercial Legal Counsel, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6965ef6b-4d11-4010-a791-8eeadaa02110",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "6965ef6b-4d11-4010-a791-8eeadaa02110"
+    },
+    {
+      "title": "Senior Product Marketing Manager, Solutions",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/735e45b5-91f7-4c2e-a519-06c43245d711",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "735e45b5-91f7-4c2e-a519-06c43245d711"
+    },
+    {
+      "title": "Senior/Staff Applied AI Engineer, Devops",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8085c274-0b90-46a2-a676-d67a9cb93795",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8085c274-0b90-46a2-a676-d67a9cb93795"
+    },
+    {
+      "title": "Senior Technical Writer / Developer Educator",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/81f093c9-d49d-4353-85da-c758cd1f383f",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "content-production",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "81f093c9-d49d-4353-85da-c758cd1f383f"
+    },
+    {
+      "title": "Senior Third-Party Risk Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/029a7f5b-cbbf-42b7-bda9-5e29e1a8dcc4",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "029a7f5b-cbbf-42b7-bda9-5e29e1a8dcc4"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/a9ce2f99-cd6d-4982-a68a-c7dc615a5e6c",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a9ce2f99-cd6d-4982-a68a-c7dc615a5e6c"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/eee4adb0-9589-4eb4-8aab-cc84cd244013",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "eee4adb0-9589-4eb4-8aab-cc84cd244013"
+    },
+    {
+      "title": "Site Reliability Engineer, Mistral Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/4b25c97e-ab58-4148-9126-9d4e2c41aaf7",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "4b25c97e-ab58-4148-9126-9d4e2c41aaf7"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2a9cce3a-3e9f-4e09-8acf-6f211c54bba7",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "2a9cce3a-3e9f-4e09-8acf-6f211c54bba7"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/80f8c81d-394f-4892-8f06-97a880563cc7",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "80f8c81d-394f-4892-8f06-97a880563cc7"
+    },
+    {
+      "title": "Software Engineer, DevEx",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3a707d53-1ffd-4b0a-b7a8-114a382d93df",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3a707d53-1ffd-4b0a-b7a8-114a382d93df"
+    },
+    {
+      "title": "Software Engineer, Enterprise Agents",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/09b94877-8b34-4371-b1d8-6a0b71845ed9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "09b94877-8b34-4371-b1d8-6a0b71845ed9"
+    },
+    {
+      "title": "Software Engineer,  Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/c0d319b2-eeef-471f-b4b1-db1f6c56289c",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "c0d319b2-eeef-471f-b4b1-db1f6c56289c"
+    },
+    {
+      "title": "Software Engineer (Golang), Mistral Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d3363667-04ff-4dea-b211-47b94f5ee999",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d3363667-04ff-4dea-b211-47b94f5ee999"
+    },
+    {
+      "title": "Software Engineer Network Automation, Data Center Fabrics",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5fd0c5bf-92b0-4f46-bf81-23276a63bcfd",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "5fd0c5bf-92b0-4f46-bf81-23276a63bcfd"
+    },
+    {
+      "title": "Software Engineer, New Grad",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b7470435-0600-4597-a9b9-bb4ebb569283",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b7470435-0600-4597-a9b9-bb4ebb569283"
+    },
+    {
+      "title": "Solution Operations Manager, People Growth",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/42d1ca33-737b-4f68-8783-acc2e4df0731",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "42d1ca33-737b-4f68-8783-acc2e4df0731"
+    },
+    {
+      "title": "Solution Operations Manager, Revenue Growth",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/7a95bd55-84fc-40c6-ba0f-d2b0426ad3f1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "7a95bd55-84fc-40c6-ba0f-d2b0426ad3f1"
+    },
+    {
+      "title": "Strategic Data & Licensing Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b4e9b991-6a5d-447c-9da6-917f0ef079db",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "b4e9b991-6a5d-447c-9da6-917f0ef079db"
+    },
+    {
+      "title": "Talent Acquisition Lead",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/22de21e6-b279-4171-a362-c9cc64bdb542",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "22de21e6-b279-4171-a362-c9cc64bdb542"
+    },
+    {
+      "title": "Talent Acquisition, North America (Contractor)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/15a21229-ecf8-41a4-b010-6e95a1210cf2",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "15a21229-ecf8-41a4-b010-6e95a1210cf2"
+    },
+    {
+      "title": "Talent Acquisition Specialist, EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8df5ff7d-6fd1-425e-8116-113feca29129",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8df5ff7d-6fd1-425e-8116-113feca29129"
+    },
+    {
+      "title": "Technical Marketing Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3c2b1888-930a-4410-b62f-83945fb097c6",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "3c2b1888-930a-4410-b62f-83945fb097c6"
+    },
+    {
+      "title": "Technical Program Manager, Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f1776857-196e-4eaa-80f0-cec349dd01a9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "f1776857-196e-4eaa-80f0-cec349dd01a9"
+    },
+    {
+      "title": "Technical Program Manager, HPC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d47d4440-f583-4560-94e7-0638bb2b9e53",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d47d4440-f583-4560-94e7-0638bb2b9e53"
+    },
+    {
+      "title": "Technical Program Manager, Human Data Annotation (Code)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/96bb130b-996c-4ebf-8047-a90b31dc5de1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "96bb130b-996c-4ebf-8047-a90b31dc5de1"
+    },
+    {
+      "title": "Technical Program Manager, Science Operations, Code",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/af97e839-c7dc-42c4-b344-0e2b3c3ced4d",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "af97e839-c7dc-42c4-b344-0e2b3c3ced4d"
+    },
+    {
+      "title": "Workplace Project Manager - Paris",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0603166c-48ce-4bbb-98a4-537f3b512f93",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "0603166c-48ce-4bbb-98a4-537f3b512f93"
+    },
+    {
+      "title": "Account Executive Enterprise Public Sector, Iberia",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5a6b0492-507b-48c4-8573-290c3c761bf9",
+      "location_ids": [
+        "madrid_office"
+      ],
+      "location_display": "Madrid, Spain",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "5a6b0492-507b-48c4-8573-290c3c761bf9"
+    },
+    {
+      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - Paris",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1e616545-2209-4e12-930e-54c5e47c50b5",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "1e616545-2209-4e12-930e-54c5e47c50b5"
+    },
+    {
+      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "ee9d2f24-527c-4ad8-b50e-6dbacee081f4"
+    },
+    {
+      "title": "AI Deployment Strategist - USA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/22fee4f2-f6c9-4516-a0cd-92d6aeb21a52",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "22fee4f2-f6c9-4516-a0cd-92d6aeb21a52"
+    },
+    {
+      "title": "AI Scientist - Agentic Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "f090ef1d-372e-40dc-bf46-ce0bf2850204"
+    },
+    {
+      "title": "AI Scientist - Physics Models",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3fb3a425-b151-4ad6-be40-7049249f919a",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "3fb3a425-b151-4ad6-be40-7049249f919a"
+    },
+    {
+      "title": "Applied AI Engineer, Prototyping",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/52e1cc10-dfe0-4361-81c1-227f70f61e20",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "52e1cc10-dfe0-4361-81c1-227f70f61e20"
+    },
+    {
+      "title": "Consolidation Manager - Finance",
+      "title_original": "Consolidation Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-21T19:08:59.307Z",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/dbf1bb97-7f3b-475f-8e56-620680b16d31",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "dbf1bb97-7f3b-475f-8e56-620680b16d31",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Consolidation Manager involve building and managing the IFRS consolidation function, which is a core finance activity. The role requires expertise in financial reporting, consolidation rules, and multi-currency environments, all of which are essential components of finance and accounts."
+    },
+    {
+      "title": "Data Engineer, Senior",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "16a5a705-f08d-4e1a-9c2a-b6778d17afa7"
+    },
+    {
+      "title": "Field Marketing Manager, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b485bde4-1c68-450f-9b28-622b55650da8",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "b485bde4-1c68-450f-9b28-622b55650da8"
+    },
+    {
+      "title": "Field Marketing Manager, Northern Europe",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/561b67b5-26e9-4198-9711-af83046e5d39",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "561b67b5-26e9-4198-9711-af83046e5d39"
+    },
+    {
+      "title": "Product Manager, Enterprise Controls",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f10d218f-3d4b-4a64-b852-b26adcd3e773",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "f10d218f-3d4b-4a64-b852-b26adcd3e773"
+    },
+    {
+      "title": "Recruiting Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/bfcdaedc-be9c-48a9-9165-f7e234923cfd",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "bfcdaedc-be9c-48a9-9165-f7e234923cfd"
+    },
+    {
+      "title": "Security Compliance, GRC Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/08180fbd-e24c-4e82-b37a-2c3310702832",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "08180fbd-e24c-4e82-b37a-2c3310702832"
+    },
+    {
+      "title": "Software Engineer Network Automation, WAN & Edge",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b5249209-1516-4ef7-bd34-5b5cb15f2dfd",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "b5249209-1516-4ef7-bd34-5b5cb15f2dfd"
+    },
+    {
+      "title": "Talent Acquisition Specialist - EMEA (Contractor)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/638d761a-b754-4064-9933-395d49f3558f",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "638d761a-b754-4064-9933-395d49f3558f"
+    },
+    {
+      "title": "Account Executive, Enterprise, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e8c11635-0cdc-40f9-94f7-3ca43344f3c9",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e8c11635-0cdc-40f9-94f7-3ca43344f3c9"
+    },
+    {
+      "title": "Account Executive — Nordics Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d963ddd3-5dae-4673-8001-fe68622df9a4",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d963ddd3-5dae-4673-8001-fe68622df9a4"
+    },
+    {
+      "title": "AI Compute Engineer, Fleet Health & Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5762dbcd-f106-491b-93da-9f4cacc0f26a",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5762dbcd-f106-491b-93da-9f4cacc0f26a"
+    },
+    {
+      "title": "AI Compute Engineer, Fleet Health & Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8edf24c6-7d7c-41eb-a7e9-cdc710704faf",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "8edf24c6-7d7c-41eb-a7e9-cdc710704faf"
+    },
+    {
+      "title": "AI Developer Relations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "c1d29d94-c1d5-4168-92fd-a01cc176e471"
+    },
+    {
+      "title": "Customer Success, North America",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/0e5c8c5b-9d88-4cdb-b525-294bf329526c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0e5c8c5b-9d88-4cdb-b525-294bf329526c"
+    },
+    {
+      "title": "Engineering Team Lead, Backend",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/56c046a0-98d1-4c44-a3c0-5d0e9b2c2c87",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "56c046a0-98d1-4c44-a3c0-5d0e9b2c2c87"
+    },
+    {
+      "title": "Engineering Team Lead, Mistral Cloud",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ae703973-630a-4c85-8739-92901e74ecb5",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ae703973-630a-4c85-8739-92901e74ecb5"
+    },
+    {
+      "title": "Partnership Development Manager GSI DACH",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/98a9db0b-7606-4c42-abdf-b972aa157ff3",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "98a9db0b-7606-4c42-abdf-b972aa157ff3"
+    },
+    {
+      "title": "Procurement Category Manager (Workplace and Marketing)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/505fa238-b9d0-4277-8a26-36a0b1df04b1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "505fa238-b9d0-4277-8a26-36a0b1df04b1"
+    },
+    {
+      "title": "Public Affairs, Head of Germany",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/7b7f4718-a517-4a2f-8e6e-ef8b0508c84c",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7b7f4718-a517-4a2f-8e6e-ef8b0508c84c"
+    },
+    {
+      "title": "Reseach Engineer, Full Stack",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c"
+    },
+    {
+      "title": "Research Engineer, Forge",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1808c0af-7352-4d0b-9e35-d3d6704e4759",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "1808c0af-7352-4d0b-9e35-d3d6704e4759"
+    },
+    {
+      "title": "Research Engineer, ML Platform",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/51c1df24-53f1-4ec9-9523-cd40c88e00cf",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "51c1df24-53f1-4ec9-9523-cd40c88e00cf"
+    },
+    {
+      "title": "Staff AI Deployment Strategist - DACH",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e1c3ff8a-07f7-433c-acb0-9709e845418e",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e1c3ff8a-07f7-433c-acb0-9709e845418e"
+    },
+    {
+      "title": "Staff AI Deployment Strategist - UK & Nordics",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2c1ff089-db74-467c-b17d-608713e43699",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "2c1ff089-db74-467c-b17d-608713e43699"
+    },
+    {
+      "title": "Strategic Partner Lead, SAP",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/8cff0296-3d73-49e8-b24e-507e10f35853",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "8cff0296-3d73-49e8-b24e-507e10f35853"
+    },
+    {
+      "title": "Talent Acquisition, GTM - North America",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/e334f268-1929-4882-b69a-655dfe066114",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e334f268-1929-4882-b69a-655dfe066114"
+    },
+    {
+      "title": "Talent Acquisition Specialist , GTM & Corporate - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3e23cc7f-56cb-4934-9d50-8e89a3d10560",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3e23cc7f-56cb-4934-9d50-8e89a3d10560"
+    },
+    {
+      "title": "Workplace Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/c0215b73-450d-461e-a74b-5cbb8cfe57da",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "c0215b73-450d-461e-a74b-5cbb8cfe57da"
+    },
+    {
+      "title": "Account Executive Enterprise, KSA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1c44d8a5-a19d-4026-aa62-b2142d9cfd07",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "1c44d8a5-a19d-4026-aa62-b2142d9cfd07"
+    },
+    {
+      "title": "Account Executive - Enterprise (Nordics)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5b98c3c6-28eb-4cc1-8ac4-f0165ea99ce8",
+      "location_ids": [
+        "stockholm_office"
+      ],
+      "location_display": "Stockholm, Sweden",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5b98c3c6-28eb-4cc1-8ac4-f0165ea99ce8"
+    },
+    {
+      "title": "Account Executive Enterprise Public Sector, UAE",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2b8a5eb0-1a52-4c42-a1a4-8281f8ecb38f",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "2b8a5eb0-1a52-4c42-a1a4-8281f8ecb38f"
+    },
+    {
+      "title": "Account Executive Enterprise, Turkey",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d997ada7-0101-4e25-b52a-869ab648e409",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "d997ada7-0101-4e25-b52a-869ab648e409"
+    },
+    {
+      "title": "Account Executive, Enterprise, UK - London",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6a075ed1-3d62-4a79-a133-65f8038c44ca",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "6a075ed1-3d62-4a79-a133-65f8038c44ca"
+    },
+    {
+      "title": "Account Executive, Enterprise, UK - (Public Sector)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/92bec998-453a-46e5-a037-1c732321ae3f",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "92bec998-453a-46e5-a037-1c732321ae3f"
+    },
+    {
+      "title": "AI Deployment Strategist, Australia",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/85ed2c20-ef3f-4ba3-adf5-a81e48012062",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "85ed2c20-ef3f-4ba3-adf5-a81e48012062"
+    },
+    {
+      "title": "Applied AI Engineer, AI for Mistral",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b85acb55-fe6d-4f63-80bb-6309dd26ec58",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b85acb55-fe6d-4f63-80bb-6309dd26ec58"
+    },
+    {
+      "title": "Applied AI Engineer, Australia",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ece48460-4c38-4f0e-880d-7dae96b2ad7d",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "ece48460-4c38-4f0e-880d-7dae96b2ad7d"
+    },
+    {
+      "title": "Applied Scientist (Internship in Paris or London)",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/60ab6a5e-9b02-4ae7-a0fb-4c7d9ec0fdf8",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "60ab6a5e-9b02-4ae7-a0fb-4c7d9ec0fdf8"
+    },
+    {
+      "title": "Compute Solution Architect",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/6addff7a-13f6-4e21-bac3-ac823566ede6",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "6addff7a-13f6-4e21-bac3-ac823566ede6"
+    },
+    {
+      "title": "Customer Success, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/fe861cdd-7b32-411e-b596-4bcaba99cb5c",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "fe861cdd-7b32-411e-b596-4bcaba99cb5c"
+    },
+    {
+      "title": "Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/1d04f989-fa28-45bb-ac4f-60d4bf3f38bc",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "1d04f989-fa28-45bb-ac4f-60d4bf3f38bc"
+    },
+    {
+      "title": "Enterprise Sales Manager",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/bc22e675-cd5a-4933-99f5-690bd41e300c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "bc22e675-cd5a-4933-99f5-690bd41e300c"
+    },
+    {
+      "title": "Field CTO, DACH",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/49c9d573-2aab-41ae-a4b9-7aa712b3de03",
+      "location_ids": [
+        "munich_office"
+      ],
+      "location_display": "Munich, Germany",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "49c9d573-2aab-41ae-a4b9-7aa712b3de03"
+    },
+    {
+      "title": "Field Marketing Manager - ASEAN",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f37ed15b-f987-4bda-966b-0a1788dc7da7",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "f37ed15b-f987-4bda-966b-0a1788dc7da7"
+    },
+    {
+      "title": "Head of, Financial Systems Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/5ad87243-8890-4724-b98d-5fe962840d7e",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5ad87243-8890-4724-b98d-5fe962840d7e"
+    },
+    {
+      "title": "Partner Manager GSI France & South Europe",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/abfb0fc5-1d8e-4390-8666-64304594fd92",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "abfb0fc5-1d8e-4390-8666-64304594fd92"
+    },
+    {
+      "title": "Partner Manager GSI UKI & Northern Europe",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/9a26b368-268b-4830-9859-904d586c72cf",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "9a26b368-268b-4830-9859-904d586c72cf"
+    },
+    {
+      "title": "Partner Sales Manager, Cloudera",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/267e2592-1ede-41dd-8e12-58a13ac46b9f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "267e2592-1ede-41dd-8e12-58a13ac46b9f"
+    },
+    {
+      "title": "Partner Sales Manager Cloudera APAC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/85bda3e4-b955-4dbe-b9d0-fbdb713702a7",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "85bda3e4-b955-4dbe-b9d0-fbdb713702a7"
+    },
+    {
+      "title": "Partner Sales Manager, Cloud providers, META",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/09f7a20c-eb20-45f7-9edf-604930e42c21",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "09f7a20c-eb20-45f7-9edf-604930e42c21"
+    },
+    {
+      "title": "Partner Solution Architect - MENA",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/b9575492-5cd8-45cf-b572-5f04eb1b388b",
+      "location_ids": [
+        "abu_dhabi_office"
+      ],
+      "location_display": "Abu Dhabi, UAE",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b9575492-5cd8-45cf-b572-5f04eb1b388b"
+    },
+    {
+      "title": "Product Director, Studio",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2de8b334-0420-4647-bbf3-2a65ce3381a6",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "2de8b334-0420-4647-bbf3-2a65ce3381a6"
+    },
+    {
+      "title": "Product Manager, Context",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/53965754-7ac7-4c43-b756-47a54e4474c9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "53965754-7ac7-4c43-b756-47a54e4474c9"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/21c73a32-0fd3-41d0-92a2-aaf2654a341a",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "21c73a32-0fd3-41d0-92a2-aaf2654a341a"
+    },
+    {
+      "title": "Solution Operations Manager, Strategic Accounts",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/ff7ed398-275b-41d6-9c83-11484d2d0f98",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "ff7ed398-275b-41d6-9c83-11484d2d0f98"
+    },
+    {
+      "title": "Solution Operations Manager, Value & Ops Excellence",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/2df2088b-09a8-4f0f-bc53-cca5bc031412",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "2df2088b-09a8-4f0f-bc53-cca5bc031412"
+    },
+    {
+      "title": "Talent Acquisition, Research - North America",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/685e4183-7744-4f7e-94fb-1a7b587409ab",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, USA",
+      "role_department": "hr",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "685e4183-7744-4f7e-94fb-1a7b587409ab"
+    },
+    {
+      "title": "Technical Program Manager, Science Operations",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/d547c15c-b047-4b44-a6c5-8f03523e31b0",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "d547c15c-b047-4b44-a6c5-8f03523e31b0"
+    },
+    {
+      "title": "Technical Recruiter, APAC",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/69e04ad2-f097-4b6d-a477-f9070c67ad16",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "69e04ad2-f097-4b6d-a477-f9070c67ad16"
+    },
+    {
+      "title": "Technical Support Engineer (L2) - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/03bd50da-9ffb-4031-ad96-501bd2323bf1",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "03bd50da-9ffb-4031-ad96-501bd2323bf1"
+    },
+    {
+      "title": "VP, Demand Generation",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/3fdd4fe3-1136-401f-9301-5f3750ede372",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "3fdd4fe3-1136-401f-9301-5f3750ede372"
+    },
+    {
+      "title": "VP, Global Developer Relations",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/f3e60b63-24a5-4cfc-8a57-b3cd67d47435",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "f3e60b63-24a5-4cfc-8a57-b3cd67d47435"
+    },
+    {
+      "title": "Workplace Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/95c23f16-c461-42e0-a7b7-7c90dbdbb08d",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "95c23f16-c461-42e0-a7b7-7c90dbdbb08d"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "exact_address": "Abu Dhabi, United Arab Emirates",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "sales",
+        "engineering",
+        "marketing",
+        "operations",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "casablanca_office",
+      "city": "Casablanca",
+      "state": null,
+      "country": "Morocco",
+      "latitude": 33.5731,
+      "longitude": -7.5898,
+      "exact_address": "Casablanca, Morocco",
+      "departments": [
+        "sales",
+        "operations",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lausanne_office",
+      "city": "Lausanne",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 46.5197,
+      "longitude": 6.6323,
+      "exact_address": "Lausanne, Switzerland",
+      "departments": [
+        "ai",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "london",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5142,
+      "longitude": -0.0916,
+      "exact_address": "11 Old Jewry, 8th Floor, London, England, EC2R 8DU",
+      "departments": [
+        "sales",
+        "other",
+        "engineering",
+        "ai",
+        "marketing",
+        "operations",
+        "legal",
+        "product",
+        "data"
+      ],
+      "employee_count": "1-10"
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "sales",
+        "engineering",
+        "marketing",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "marseille_office",
+      "city": "Marseille",
+      "state": null,
+      "country": "France",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "exact_address": "Marseille, France",
+      "departments": [
+        "engineering",
+        "customer-support",
+        "operations",
+        "ai",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales",
+        "engineering",
+        "marketing",
+        "operations",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "hr",
+        "other",
+        "marketing",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4419,
+      "longitude": -122.143,
+      "exact_address": "Palo Alto, California, United States",
+      "departments": [
+        "sales",
+        "hr",
+        "legal",
+        "other",
+        "engineering",
+        "research",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.8614,
+      "longitude": 2.3478,
+      "exact_address": "15 Rue des Halles, 75001 Paris, Île-de-France, France",
+      "departments": [
+        "sales",
+        "other",
+        "administration",
+        "legal",
+        "ai",
+        "security",
+        "data",
+        "engineering",
+        "qa",
+        "customer-support",
+        "product",
+        "finance",
+        "hr",
+        "operations",
+        "marketing",
+        "research",
+        "robotics",
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4442,
+      "longitude": -122.1645,
+      "exact_address": "325 Lytton Ave Ste 300, Palo Alto, CA 94301, United States",
+      "departments": [
+        "sales",
+        "marketing"
+      ],
+      "employee_count": "1+"
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2855,
+      "longitude": 103.8514,
+      "exact_address": "4 Battery Road #25-01 Bank of China Building, Singapore 049908",
+      "departments": [
+        "operations",
+        "ai",
+        "data"
+      ],
+      "employee_count": "1+"
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "research",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zürich",
+      "state": "Zürich",
+      "country": "Switzerland",
+      "latitude": 47.3795,
+      "longitude": 8.5359,
+      "exact_address": "Klausstrasse 33, 8008 Zürich, Switzerland",
+      "departments": [
+        "engineering",
+        "research",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "luxembourg_office",
+      "city": "Luxembourg",
+      "state": "Luxembourg",
+      "country": "Luxembourg",
+      "latitude": 49.6125,
+      "longitude": 6.1294,
+      "exact_address": "9 Rue de Bitbourg, L-1273 Luxembourg",
+      "departments": [
+        "engineering",
+        "design",
+        "ai",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "borlnge_office",
+      "city": "Borlänge",
+      "state": "Dalarna",
+      "country": "Sweden",
+      "latitude": 60.4856,
+      "longitude": 15.4372,
+      "exact_address": "Borlänge, Dalarna, Sweden",
+      "departments": [
+        "operations"
+      ]
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "canberra_office",
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "latitude": -35.2809,
+      "longitude": 149.13,
+      "exact_address": "Canberra, Australian Capital Territory, Australia",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "linz_office",
+      "city": "Linz",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.3069,
+      "longitude": 14.2858,
+      "exact_address": "Linz, Austria",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-03-27T09:25:04.045Z",
+    "current_valuation_usd": "$12.9 billion",
+    "current_valuation_usd_last_updated": "2026-03-27T09:25:04.045Z",
+    "total_funding_raised": "$3 billion",
+    "total_funding_raised_last_updated": "2026-03-27T09:25:04.045Z",
+    "key_investors": [
+      {
+        "name": "ASML",
+        "domain": "asml.com"
+      },
+      {
+        "name": "DST Global",
+        "domain": "dst-global.com"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Bpifrance",
+        "domain": "bpifrance.fr"
+      },
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Samsung Venture Investment Corporation",
+        "domain": "samsungventures.com"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "domain": "salesforceventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "ASML",
+        "logo_url": "/investor-logos/asml.png"
+      },
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Bpifrance",
+        "logo_url": "/investor-logos/bpifrance.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Samsung Venture Investment Corporation",
+        "logo_url": "/investor-logos/samsung-venture-investment.png"
+      },
+      {
+        "name": "Salesforce Ventures",
+        "logo_url": "/investor-logos/salesforce-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-27T09:25:04.045Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "meal-allowance",
+    "gym-membership",
+    "commute-allowance",
+    "parental-leave",
+    "visa-sponsorship",
+    "health-insurance",
+    "retirement-401k",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-27T09:25:04.045Z",
+    "company_basic_information.website_url_last_updated": "2026-03-27T09:25:04.045Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-27T09:25:04.045Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-27T09:25:04.045Z",
+    "company_basic_information.last_updated": "2026-03-27",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-29T18:50:18.170Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-29T18:50:55.146Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T09:38:11.735Z",
+    "leadership.last_updated": "2026-03-29T18:48:09.854Z",
+    "social_media.x_url_last_verified": "2026-03-28T16:47:21.790Z",
+    "social_media.linkedin_url_last_verified": "2026-03-28T16:48:03.992Z",
+    "social_media.instagram_url_last_verified": "2026-03-29T19:06:00.506Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-27T09:25:04.045Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-27T09:25:04.045Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-27T09:25:04.045Z",
+    "financial_information.investor_logos_last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[0].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[1].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[2].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[3].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[4].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[5].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[6].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[7].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[8].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[9].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[10].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[11].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[12].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[13].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[14].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[15].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[16].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[17].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[18].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[19].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[20].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[21].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[22].last_updated": "2026-03-27T09:25:04.045Z",
+    "location_mapping[23].last_updated": "2026-03-27T09:25:04.045Z",
+    "job_data.roles[0].posted_date": "2026-08-07",
+    "job_data.roles[1].posted_date": "2026-08-07",
+    "job_data.roles[2].posted_date": "2026-08-07",
+    "job_data.roles[3].posted_date": "2026-08-07",
+    "job_data.roles[4].posted_date": "2026-08-07",
+    "job_data.roles[5].posted_date": "2026-08-07",
+    "job_data.roles[6].posted_date": "2026-08-07",
+    "job_data.roles[7].posted_date": "2026-08-07",
+    "job_data.roles[8].posted_date": "2026-08-07",
+    "job_data.roles[9].posted_date": "2026-08-07",
+    "job_data.roles[10].posted_date": "2026-08-07",
+    "job_data.roles[11].posted_date": "2026-08-07",
+    "job_data.roles[12].posted_date": "2026-08-07",
+    "job_data.roles[13].posted_date": "2026-08-07",
+    "job_data.roles[14].posted_date": "2026-08-07",
+    "job_data.roles[15].posted_date": "2026-08-07",
+    "job_data.roles[16].posted_date": "2026-08-07",
+    "job_data.roles[17].posted_date": "2026-08-07",
+    "job_data.roles[18].posted_date": "2026-08-07",
+    "job_data.roles[19].posted_date": "2026-08-07",
+    "job_data.roles[20].posted_date": "2026-08-07",
+    "job_data.roles[21].posted_date": "2026-08-07",
+    "job_data.roles[22].posted_date": "2026-08-07",
+    "job_data.roles[23].posted_date": "2026-08-07",
+    "job_data.roles[24].posted_date": "2026-08-07",
+    "job_data.roles[25].posted_date": "2026-08-07",
+    "job_data.roles[26].posted_date": "2026-08-07",
+    "job_data.roles[27].posted_date": "2026-08-07",
+    "job_data.roles[28].posted_date": "2026-08-07",
+    "job_data.roles[29].posted_date": "2026-08-07",
+    "job_data.roles[30].posted_date": "2026-08-07",
+    "job_data.roles[31].posted_date": "2026-08-07",
+    "job_data.roles[32].posted_date": "2026-08-07",
+    "job_data.roles[33].posted_date": "2026-08-07",
+    "job_data.roles[34].posted_date": "2026-08-07",
+    "job_data.roles[35].posted_date": "2026-08-07",
+    "job_data.roles[36].posted_date": "2026-08-07",
+    "job_data.roles[37].posted_date": "2026-08-07",
+    "job_data.roles[38].posted_date": "2026-08-07",
+    "job_data.roles[39].posted_date": "2026-08-07",
+    "job_data.roles[40].posted_date": "2026-08-07",
+    "job_data.roles[41].posted_date": "2026-08-07",
+    "job_data.roles[42].posted_date": "2026-08-07",
+    "job_data.roles[43].posted_date": "2026-08-07",
+    "job_data.roles[44].posted_date": "2026-08-07",
+    "job_data.roles[45].posted_date": "2026-08-07",
+    "job_data.roles[46].posted_date": "2026-08-07",
+    "job_data.roles[47].posted_date": "2026-08-07",
+    "job_data.roles[48].posted_date": "2026-08-07",
+    "job_data.roles[49].posted_date": "2026-08-07",
+    "job_data.roles[50].posted_date": "2026-08-07",
+    "job_data.roles[51].posted_date": "2026-08-07",
+    "job_data.roles[52].posted_date": "2026-08-07",
+    "job_data.roles[53].posted_date": "2026-08-07",
+    "job_data.roles[54].posted_date": "2026-08-07",
+    "job_data.roles[55].posted_date": "2026-08-07",
+    "job_data.roles[56].posted_date": "2026-08-07",
+    "job_data.roles[57].posted_date": "2026-08-07",
+    "job_data.roles[57].title_updated_timestamp": "2026-08-08T06:28:42.321Z",
+    "job_data.roles[58].posted_date": "2026-08-07",
+    "job_data.roles[59].posted_date": "2026-08-07",
+    "job_data.roles[60].posted_date": "2026-08-07",
+    "job_data.roles[61].posted_date": "2026-08-07",
+    "job_data.roles[62].posted_date": "2026-08-07",
+    "job_data.roles[63].posted_date": "2026-08-07",
+    "job_data.roles[64].posted_date": "2026-08-07",
+    "job_data.roles[65].posted_date": "2026-08-07",
+    "job_data.roles[66].posted_date": "2026-08-07",
+    "job_data.roles[67].posted_date": "2026-08-07",
+    "job_data.roles[68].posted_date": "2026-08-07",
+    "job_data.roles[69].posted_date": "2026-08-07",
+    "job_data.roles[70].posted_date": "2026-08-07",
+    "job_data.roles[71].posted_date": "2026-08-07",
+    "job_data.roles[72].posted_date": "2026-08-07",
+    "job_data.roles[73].posted_date": "2026-08-07",
+    "job_data.roles[74].posted_date": "2026-08-07",
+    "job_data.roles[75].posted_date": "2026-08-07",
+    "job_data.roles[76].posted_date": "2026-08-07",
+    "job_data.roles[77].posted_date": "2026-08-07",
+    "job_data.roles[78].posted_date": "2026-08-07",
+    "job_data.roles[79].posted_date": "2026-08-07",
+    "job_data.roles[80].posted_date": "2026-08-07",
+    "job_data.roles[81].posted_date": "2026-08-07",
+    "job_data.roles[82].posted_date": "2026-08-07",
+    "job_data.roles[83].posted_date": "2026-08-07",
+    "job_data.roles[84].posted_date": "2026-08-07",
+    "job_data.roles[85].posted_date": "2026-08-07",
+    "job_data.roles[86].posted_date": "2026-08-07",
+    "job_data.roles[87].posted_date": "2026-08-07",
+    "job_data.roles[88].posted_date": "2026-08-07",
+    "job_data.roles[89].posted_date": "2026-08-07",
+    "job_data.roles[90].posted_date": "2026-08-07",
+    "job_data.roles[91].posted_date": "2026-08-07",
+    "job_data.roles[92].posted_date": "2026-08-07",
+    "job_data.roles[93].posted_date": "2026-08-07",
+    "job_data.roles[94].posted_date": "2026-08-07",
+    "job_data.roles[95].posted_date": "2026-08-07",
+    "job_data.roles[96].posted_date": "2026-08-07",
+    "job_data.roles[97].posted_date": "2026-08-07",
+    "job_data.roles[98].posted_date": "2026-08-07",
+    "job_data.roles[99].posted_date": "2026-08-07",
+    "job_data.roles[100].posted_date": "2026-08-07",
+    "job_data.roles[101].posted_date": "2026-08-07",
+    "job_data.roles[102].posted_date": "2026-08-07",
+    "job_data.roles[103].posted_date": "2026-08-07",
+    "job_data.roles[104].posted_date": "2026-08-07",
+    "job_data.roles[105].posted_date": "2026-08-07",
+    "job_data.roles[106].posted_date": "2026-08-07",
+    "job_data.roles[107].posted_date": "2026-08-07",
+    "job_data.roles[108].posted_date": "2026-08-07",
+    "job_data.roles[109].posted_date": "2026-08-07",
+    "job_data.roles[110].posted_date": "2026-08-07",
+    "job_data.roles[111].posted_date": "2026-08-07",
+    "job_data.roles[112].posted_date": "2026-08-07",
+    "job_data.roles[113].posted_date": "2026-08-07",
+    "job_data.roles[114].posted_date": "2026-08-07",
+    "job_data.roles[115].posted_date": "2026-08-07",
+    "job_data.roles[116].posted_date": "2026-08-07",
+    "job_data.roles[117].posted_date": "2026-08-07",
+    "job_data.roles[118].posted_date": "2026-08-07",
+    "job_data.roles[119].posted_date": "2026-08-07",
+    "job_data.roles[120].posted_date": "2026-08-07",
+    "job_data.roles[121].posted_date": "2026-08-07",
+    "job_data.roles[122].posted_date": "2026-08-07",
+    "job_data.roles[123].posted_date": "2026-08-07",
+    "job_data.roles[124].posted_date": "2026-08-07",
+    "job_data.roles[125].posted_date": "2026-08-07",
+    "job_data.roles[126].posted_date": "2026-08-07",
+    "job_data.roles[127].posted_date": "2026-08-07",
+    "job_data.roles[128].posted_date": "2026-08-21",
+    "job_data.roles[129].posted_date": "2026-08-21",
+    "job_data.roles[130].posted_date": "2026-08-21",
+    "job_data.roles[131].posted_date": "2026-08-21",
+    "job_data.roles[132].posted_date": "2026-08-21",
+    "job_data.roles[133].posted_date": "2026-08-21",
+    "job_data.roles[134].posted_date": "2026-08-21",
+    "job_data.roles[135].posted_date": "2026-08-21",
+    "job_data.roles[135].title_updated_timestamp": "2026-08-21T19:08:59.307Z",
+    "job_data.roles[136].posted_date": "2026-08-21",
+    "job_data.roles[137].posted_date": "2026-08-21",
+    "job_data.roles[138].posted_date": "2026-08-21",
+    "job_data.roles[139].posted_date": "2026-08-21",
+    "job_data.roles[140].posted_date": "2026-08-21",
+    "job_data.roles[141].posted_date": "2026-08-21",
+    "job_data.roles[142].posted_date": "2026-08-21",
+    "job_data.roles[143].posted_date": "2026-08-21",
+    "job_data.roles[144].posted_date": "2026-09-05",
+    "job_data.roles[145].posted_date": "2026-09-05",
+    "job_data.roles[146].posted_date": "2026-09-05",
+    "job_data.roles[147].posted_date": "2026-09-05",
+    "job_data.roles[148].posted_date": "2026-09-05",
+    "job_data.roles[149].posted_date": "2026-09-05",
+    "job_data.roles[150].posted_date": "2026-09-05",
+    "job_data.roles[151].posted_date": "2026-09-05",
+    "job_data.roles[152].posted_date": "2026-09-05",
+    "job_data.roles[153].posted_date": "2026-09-05",
+    "job_data.roles[154].posted_date": "2026-09-05",
+    "job_data.roles[155].posted_date": "2026-09-05",
+    "job_data.roles[156].posted_date": "2026-09-05",
+    "job_data.roles[157].posted_date": "2026-09-05",
+    "job_data.roles[158].posted_date": "2026-09-05",
+    "job_data.roles[159].posted_date": "2026-09-05",
+    "job_data.roles[160].posted_date": "2026-09-05",
+    "job_data.roles[161].posted_date": "2026-09-05",
+    "job_data.roles[162].posted_date": "2026-09-05",
+    "job_data.roles[163].posted_date": "2026-09-05",
+    "job_data.roles[164].posted_date": "2026-09-19",
+    "job_data.roles[165].posted_date": "2026-09-19",
+    "job_data.roles[166].posted_date": "2026-09-19",
+    "job_data.roles[167].posted_date": "2026-09-19",
+    "job_data.roles[168].posted_date": "2026-09-19",
+    "job_data.roles[169].posted_date": "2026-09-19",
+    "job_data.roles[170].posted_date": "2026-09-19",
+    "job_data.roles[171].posted_date": "2026-09-19",
+    "job_data.roles[172].posted_date": "2026-09-19",
+    "job_data.roles[173].posted_date": "2026-09-19",
+    "job_data.roles[174].posted_date": "2026-09-19",
+    "job_data.roles[175].posted_date": "2026-09-19",
+    "job_data.roles[176].posted_date": "2026-09-19",
+    "job_data.roles[177].posted_date": "2026-09-19",
+    "job_data.roles[178].posted_date": "2026-09-19",
+    "job_data.roles[179].posted_date": "2026-09-19",
+    "job_data.roles[180].posted_date": "2026-09-19",
+    "job_data.roles[181].posted_date": "2026-09-19",
+    "job_data.roles[182].posted_date": "2026-09-19",
+    "job_data.roles[183].posted_date": "2026-09-19",
+    "job_data.roles[184].posted_date": "2026-09-19",
+    "job_data.roles[185].posted_date": "2026-09-19",
+    "job_data.roles[186].posted_date": "2026-09-19",
+    "job_data.roles[187].posted_date": "2026-09-19",
+    "job_data.roles[188].posted_date": "2026-09-19",
+    "job_data.roles[189].posted_date": "2026-09-19",
+    "job_data.roles[190].posted_date": "2026-09-19",
+    "job_data.roles[191].posted_date": "2026-09-19",
+    "job_data.roles[192].posted_date": "2026-09-19",
+    "job_data.roles[193].posted_date": "2026-09-19",
+    "job_data.roles[194].posted_date": "2026-09-19",
+    "job_data.roles[195].posted_date": "2026-09-19",
+    "job_data.roles[196].posted_date": "2026-09-19",
+    "job_data.roles[197].posted_date": "2026-09-19",
+    "job_data.roles[198].posted_date": "2026-09-19",
+    "job_data.last_updated": "2026-09-19T16:48:17.106Z",
+    "benefits.equity-stock.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.meal-allowance.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.gym-membership.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.commute-allowance.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.parental-leave.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.visa-sponsorship.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.health-insurance.last_updated": "2026-04-19T17:14:37.712Z",
+    "benefits.retirement-401k.last_updated": "2026-04-19T17:14:37.712Z"
+  }
+}

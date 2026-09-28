@@ -1,0 +1,1659 @@
+{
+  "slug": "suno",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/49907.ab2e0cf4d60312d0.js",
+  "observed_at": "2026-09-28T08:37:04.942461+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 51255,
+    "sha256": "edbd658646411dbdab6c06b430dc3b773a5d5be45289aa703f9df6a7fa7871d6",
+    "elapsed_seconds": 0.181,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:04 GMT",
+      "etag": "\"83ba56029988845c38c40296d2371c1e\"",
+      "last-modified": "Mon, 28 Sep 2026 08:16:09 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Suno",
+    "company_name_legal": "Suno, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://suno.com",
+    "careers_url": "https://jobs.ashbyhq.com/suno",
+    "investor_portfolio_page": null,
+    "id": 329
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 66,
+    "last_updated": "2026-09-14T12:34:54.937Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 66,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Lead, ML Data Operations",
+      "apply_url": "https://jobs.ashbyhq.com/suno/a4acfa20-8618-476b-b0b0-993a90a62f27",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-16",
+      "ashby_job_id": "a4acfa20-8618-476b-b0b0-993a90a62f27"
+    },
+    {
+      "title": "Paid Social Creative Strategist (Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/984a5e2f-9370-4912-95f5-17ea1988171c",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-07-16",
+      "ashby_job_id": "984a5e2f-9370-4912-95f5-17ea1988171c"
+    },
+    {
+      "title": "Product Manager, ML Research",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6d3fe0a1-6d85-4e72-abe9-09f782cb13c2",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-17",
+      "ashby_job_id": "6d3fe0a1-6d85-4e72-abe9-09f782cb13c2"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/5cce8a82-88ff-410f-b4b4-c719891637ae",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-10",
+      "ashby_job_id": "5cce8a82-88ff-410f-b4b4-c719891637ae"
+    },
+    {
+      "title": "Senior / Staff Data Scientist, Growth Product",
+      "apply_url": "https://jobs.ashbyhq.com/suno/7b81d3fa-8a84-4d3a-b681-a6b06974e01e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "7b81d3fa-8a84-4d3a-b681-a6b06974e01e"
+    },
+    {
+      "title": "Senior / Staff Data Scientist, Mobile Consumer Create",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f99ae445-cfc9-440b-8b81-046bf071d2d7",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-10",
+      "ashby_job_id": "f99ae445-cfc9-440b-8b81-046bf071d2d7"
+    },
+    {
+      "title": "Director of Accounting",
+      "apply_url": "https://jobs.ashbyhq.com/suno/03a79cb2-d19a-4b98-90a1-bb2fc2c0b63f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "03a79cb2-d19a-4b98-90a1-bb2fc2c0b63f"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/ad0f0357-c973-4e55-8fa6-2426856e3501",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-07",
+      "ashby_job_id": "ad0f0357-c973-4e55-8fa6-2426856e3501"
+    },
+    {
+      "title": "iOS Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/d72ec5a5-49ad-4525-baea-fb3090614c9b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-02-18",
+      "ashby_job_id": "d72ec5a5-49ad-4525-baea-fb3090614c9b"
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/suno/1e23d125-d72c-49b6-891d-77d62c96cd13",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2024-05-21",
+      "ashby_job_id": "1e23d125-d72c-49b6-891d-77d62c96cd13"
+    },
+    {
+      "title": "People Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/a2fce665-31b4-4665-b5ab-140673ffaba3",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "a2fce665-31b4-4665-b5ab-140673ffaba3"
+    },
+    {
+      "title": "Senior Benefits & Compensation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/e12f9b35-a16f-4661-a208-6701a7d93b6f",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "e12f9b35-a16f-4661-a208-6701a7d93b6f"
+    },
+    {
+      "title": "Senior Counsel, Legal and Business Affairs",
+      "apply_url": "https://jobs.ashbyhq.com/suno/15c2ea28-6d8c-48cf-b528-84909ea0ec0a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "15c2ea28-6d8c-48cf-b528-84909ea0ec0a"
+    },
+    {
+      "title": "Senior Data Scientist, Content + Social",
+      "apply_url": "https://jobs.ashbyhq.com/suno/11036f7e-adf7-45ef-baf4-e4c3c334039d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-10",
+      "ashby_job_id": "11036f7e-adf7-45ef-baf4-e4c3c334039d"
+    },
+    {
+      "title": "Senior Graphic Designer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/b01a7dae-95ed-4357-a46e-5f65041dcb38",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-26",
+      "ashby_job_id": "b01a7dae-95ed-4357-a46e-5f65041dcb38"
+    },
+    {
+      "title": "Senior Manager of Customer Support",
+      "apply_url": "https://jobs.ashbyhq.com/suno/d268f2b0-b8cb-4f1c-9d7a-3700c029180f",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "d268f2b0-b8cb-4f1c-9d7a-3700c029180f"
+    },
+    {
+      "title": "Senior/Staff Design Engineer, iOS",
+      "apply_url": "https://jobs.ashbyhq.com/suno/e7169fc2-c1c5-416a-a4aa-48190e1febfd",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-15",
+      "ashby_job_id": "e7169fc2-c1c5-416a-a4aa-48190e1febfd"
+    },
+    {
+      "title": "Senior / Staff Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6b7837b7-72ec-46a3-9b21-74c1dfa997b6",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-05",
+      "ashby_job_id": "6b7837b7-72ec-46a3-9b21-74c1dfa997b6"
+    },
+    {
+      "title": "Senior / Staff Software Engineer, AI Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/suno/44860a61-5d54-4ba4-b48e-4378d3040da3",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "44860a61-5d54-4ba4-b48e-4378d3040da3"
+    },
+    {
+      "title": "Senior / Staff Software Engineer, Android",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f5826898-f3d2-4d11-aa03-17ecac31f28f",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "f5826898-f3d2-4d11-aa03-17ecac31f28f"
+    },
+    {
+      "title": "Senior / Staff Software Engineer, iOS",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6ae1d382-e70b-4c30-9fab-32d14d52497b",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-02",
+      "ashby_job_id": "6ae1d382-e70b-4c30-9fab-32d14d52497b"
+    },
+    {
+      "title": "Software Engineer, Android",
+      "apply_url": "https://jobs.ashbyhq.com/suno/8a5c628e-0b44-492d-8ed4-39efae717b18",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-02-13",
+      "ashby_job_id": "8a5c628e-0b44-492d-8ed4-39efae717b18"
+    },
+    {
+      "title": "Software Engineer, Fullstack, Pro-Create",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f8fd9d3e-4ef7-471a-9205-9f7ca5c36c81",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-03",
+      "ashby_job_id": "f8fd9d3e-4ef7-471a-9205-9f7ca5c36c81"
+    },
+    {
+      "title": "Software Engineer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/suno/56372310-e8cd-4406-b843-394128dac97d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-06-30",
+      "ashby_job_id": "56372310-e8cd-4406-b843-394128dac97d"
+    },
+    {
+      "title": "Software Engineer, Growth Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6f27a62f-02ac-46c0-8e77-347cf28881ed",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "6f27a62f-02ac-46c0-8e77-347cf28881ed"
+    },
+    {
+      "title": "Software Engineer, Trust & Safety",
+      "apply_url": "https://jobs.ashbyhq.com/suno/dba162e0-97f1-4efe-b4ff-c7d671a01b11",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-02",
+      "ashby_job_id": "dba162e0-97f1-4efe-b4ff-c7d671a01b11"
+    },
+    {
+      "title": "Staff / Senior Software Engineer, Platform Teams",
+      "apply_url": "https://jobs.ashbyhq.com/suno/9e6da9b6-8562-4d9e-ae8e-c3319f76bdba",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2024-04-23",
+      "ashby_job_id": "9e6da9b6-8562-4d9e-ae8e-c3319f76bdba"
+    },
+    {
+      "title": "Staff / Senior Software Engineer, Product Teams",
+      "apply_url": "https://jobs.ashbyhq.com/suno/adb5c5ef-5897-4acb-8014-0a7f162742d8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2024-04-23",
+      "ashby_job_id": "adb5c5ef-5897-4acb-8014-0a7f162742d8"
+    },
+    {
+      "title": "Staff Software Engineer - Billing & Subscription",
+      "apply_url": "https://jobs.ashbyhq.com/suno/16c7d5bf-e43c-4319-bdfc-6a7dbdf58e43",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-02",
+      "ashby_job_id": "16c7d5bf-e43c-4319-bdfc-6a7dbdf58e43"
+    },
+    {
+      "title": "Staff Software Engineer, Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/suno/fd50a42b-a5f9-4dc3-8c3f-763f4e06b4d8",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2024-04-23",
+      "ashby_job_id": "fd50a42b-a5f9-4dc3-8c3f-763f4e06b4d8"
+    },
+    {
+      "title": "Creative Director, Marketing Campaigns",
+      "apply_url": "https://jobs.ashbyhq.com/suno/4c4563b4-7e53-44cf-a261-7515fe575337",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4c4563b4-7e53-44cf-a261-7515fe575337"
+    },
+    {
+      "title": "Senior Counsel, Product",
+      "apply_url": "https://jobs.ashbyhq.com/suno/97ff0da1-233e-4655-aa7b-cfd594d1f1e2",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "97ff0da1-233e-4655-aa7b-cfd594d1f1e2"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/690b3c89-1dc3-4b91-a889-db25af5a2b8d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "690b3c89-1dc3-4b91-a889-db25af5a2b8d"
+    },
+    {
+      "title": "Senior People Partner",
+      "apply_url": "https://jobs.ashbyhq.com/suno/3edcd2be-0faa-45f1-a667-7b9d5f03a038",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3edcd2be-0faa-45f1-a667-7b9d5f03a038"
+    },
+    {
+      "title": "Songwriting Camp Manager - Music Production",
+      "title_original": "Songwriting Camp Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T17:34:54.889Z",
+      "apply_url": "https://jobs.ashbyhq.com/suno/ab1857fc-6daa-49f2-b1d3-acbf15a16aca",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "ab1857fc-6daa-49f2-b1d3-acbf15a16aca",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Songwriting Camp Manager involve managing writing camps and studio activations, which are centered around music production and creative facilitation. The role requires a strong background in music production and the ability to translate technical concepts into creative inspiration, aligning closely with content production in the music industry."
+    },
+    {
+      "title": "Sr. Manager, Social Impact & Education (Music)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f530a9e6-e111-447e-a20f-0b6ce79776df",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "f530a9e6-e111-447e-a20f-0b6ce79776df"
+    },
+    {
+      "title": "Sr. Paid Social Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/847c09f5-60bd-40a7-8065-f553fe6a6360",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "847c09f5-60bd-40a7-8065-f553fe6a6360"
+    },
+    {
+      "title": "Sr. Performance Marketing Manager, Paid Social",
+      "apply_url": "https://jobs.ashbyhq.com/suno/3824c2c9-cc54-4bd4-a368-22849fc57539",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "3824c2c9-cc54-4bd4-a368-22849fc57539"
+    },
+    {
+      "title": "Director, Business Development, Publishing Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/suno/b6ee10bd-4f08-48ad-81d2-74d5f4c642bd",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "b6ee10bd-4f08-48ad-81d2-74d5f4c642bd"
+    },
+    {
+      "title": "Director, Business Development, Publishing Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f4bfe672-895a-4cff-93d0-2408afa49f22",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "f4bfe672-895a-4cff-93d0-2408afa49f22"
+    },
+    {
+      "title": "Graphic Designer, Performance Marketing (Contractor)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/8ec095a8-286e-4c6a-aeb2-3ec0c6319c48",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "8ec095a8-286e-4c6a-aeb2-3ec0c6319c48"
+    },
+    {
+      "title": "Growth Product Manager, Consumer Subscription",
+      "apply_url": "https://jobs.ashbyhq.com/suno/dbc8011c-67d0-4ca5-9204-ec6a6b465462",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "dbc8011c-67d0-4ca5-9204-ec6a6b465462"
+    },
+    {
+      "title": "Lead Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/c4cdb6ad-5cf1-42ce-b0f3-94b507f72ee2",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "c4cdb6ad-5cf1-42ce-b0f3-94b507f72ee2"
+    },
+    {
+      "title": "Marketing Designer, Performance Creative (Contractor)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/f3f67f4d-16f0-4221-a430-45f73e5a4eb9",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "f3f67f4d-16f0-4221-a430-45f73e5a4eb9"
+    },
+    {
+      "title": "Program Lead, Suno Emerging Creator Program (Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/7e998cfb-93bb-4515-9e29-a56618bafce2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Contract",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "7e998cfb-93bb-4515-9e29-a56618bafce2"
+    },
+    {
+      "title": "Senior Conversion Rate Optimization Manager (CRO Marketing)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/12b86885-63c7-446c-ab5e-514fe8adba01",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "12b86885-63c7-446c-ab5e-514fe8adba01"
+    },
+    {
+      "title": "Senior / Staff Application Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/b576d1f5-7267-46a8-9c5b-6cd604925981",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "b576d1f5-7267-46a8-9c5b-6cd604925981"
+    },
+    {
+      "title": "Staff Detection & Response Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/suno/57060694-5b78-452f-a2e7-fe2b545272f5",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "57060694-5b78-452f-a2e7-fe2b545272f5"
+    },
+    {
+      "title": "Director, Editorial & Curation",
+      "apply_url": "https://jobs.ashbyhq.com/suno/7d292561-ebb2-4ee1-b98d-f8850819403d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7d292561-ebb2-4ee1-b98d-f8850819403d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Director, Editorial & Curation primarily focuses on setting the editorial vision, curating music, and overseeing content development within the platform. The responsibilities include managing editorial frameworks, collaborating with product and engineering teams, and representing the editorial voice, all of which align closely with content production."
+    },
+    {
+      "title": "Growth Marketing Manager, Conversion",
+      "apply_url": "https://jobs.ashbyhq.com/suno/fc1a2f15-3511-4fa5-9d3a-3eadfc7499e8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "fc1a2f15-3511-4fa5-9d3a-3eadfc7499e8"
+    },
+    {
+      "title": "Manager, Music Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/suno/31fe4dab-20a5-4da3-be50-07d874b28b97",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "31fe4dab-20a5-4da3-be50-07d874b28b97"
+    },
+    {
+      "title": "Office Coordinator (NYC)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/621912ff-becc-42fa-9cb6-f6417162c80f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "621912ff-becc-42fa-9cb6-f6417162c80f"
+    },
+    {
+      "title": "Partnerships and Customer Success Manager (Contractor)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/68a376bc-5fee-431c-9285-61e2ccfd87a3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "68a376bc-5fee-431c-9285-61e2ccfd87a3"
+    },
+    {
+      "title": "Senior Designer, Creative Studio & Brand Campaigns (Contract)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/38e2a0ea-302b-4059-8e86-8b36ef08b352",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Contract",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "38e2a0ea-302b-4059-8e86-8b36ef08b352"
+    },
+    {
+      "title": "Senior SEM Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/8347f54e-1089-41a2-9496-2ab207341291",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8347f54e-1089-41a2-9496-2ab207341291"
+    },
+    {
+      "title": "Senior / Staff Data Scientist, Trust & Safety",
+      "apply_url": "https://jobs.ashbyhq.com/suno/2058717a-ac2a-4092-9c83-dc7f3241e789",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2058717a-ac2a-4092-9c83-dc7f3241e789"
+    },
+    {
+      "title": "Social Media Community Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/2d13c0b6-69f6-4264-978e-ff08115bcb3b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2d13c0b6-69f6-4264-978e-ff08115bcb3b"
+    },
+    {
+      "title": "Strategic Partner Manager, Music Business Development",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6e24662c-2018-46df-b8a9-8790486265ec",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6e24662c-2018-46df-b8a9-8790486265ec"
+    },
+    {
+      "title": "Director, Trust & Safety",
+      "apply_url": "https://jobs.ashbyhq.com/suno/9ed2cea6-b250-4b49-bd75-b761793af0f8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "9ed2cea6-b250-4b49-bd75-b761793af0f8",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Director, Trust & Safety primarily involves leading enforcement operations, policy development, and managing vendor programs, which are all key aspects of operations. The responsibilities also include overseeing enforcement economics and regulatory compliance, further aligning with operational functions."
+    },
+    {
+      "title": "Music Studio Demos and Songwriting Camps Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/7e59cd98-7f25-417a-815b-4a4debba124f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7e59cd98-7f25-417a-815b-4a4debba124f"
+    },
+    {
+      "title": "Office Manager (CAM)",
+      "apply_url": "https://jobs.ashbyhq.com/suno/ad00b31d-1d02-4545-acc7-6467fe1bf7c8",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ad00b31d-1d02-4545-acc7-6467fe1bf7c8"
+    },
+    {
+      "title": "Payroll Accounting Manager",
+      "apply_url": "https://jobs.ashbyhq.com/suno/4e8a2c50-d3c2-4d19-ad91-ddaea1ca927e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4e8a2c50-d3c2-4d19-ad91-ddaea1ca927e"
+    },
+    {
+      "title": "Product Manager, Teams & Business Products",
+      "apply_url": "https://jobs.ashbyhq.com/suno/b8230947-2109-4672-821f-368539c678a7",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b8230947-2109-4672-821f-368539c678a7"
+    },
+    {
+      "title": "Senior / Staff Data Scientist, Growth Monetization",
+      "apply_url": "https://jobs.ashbyhq.com/suno/5444295f-78b1-490e-a9a1-f93120d06f77",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "5444295f-78b1-490e-a9a1-f93120d06f77"
+    },
+    {
+      "title": "Senior/Staff Software Engineer, Artists & Creators",
+      "apply_url": "https://jobs.ashbyhq.com/suno/6eea0863-41c3-4bce-b54e-7a1ae1670166",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6eea0863-41c3-4bce-b54e-7a1ae1670166"
+    },
+    {
+      "title": "Sr. Growth Marketing Manager, Paid Social Media",
+      "apply_url": "https://jobs.ashbyhq.com/suno/32eaac2d-5530-44bf-b0f1-a0e1e82ecf15",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "32eaac2d-5530-44bf-b0f1-a0e1e82ecf15"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "boston_office",
+      "city": "Cambridge",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.372371,
+      "longitude": -71.118125,
+      "exact_address": "17 Dunster Street, Floor 4, Harvard Square, Cambridge, Massachusetts, United States - 02138",
+      "departments": [
+        "engineering",
+        "ai",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.985,
+      "longitude": -118.469,
+      "exact_address": "Venice, Los Angeles, California, United States",
+      "departments": [
+        "marketing",
+        "other",
+        "design",
+        "product",
+        "legal"
+      ],
+      "employee_count": "200+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7465006,
+      "longitude": -74.0013737,
+      "exact_address": "Chelsea, Manhattan, New York, New York, United States - 10011",
+      "departments": [
+        "engineering",
+        "finance",
+        "marketing",
+        "hr",
+        "data",
+        "customer-success",
+        "operations",
+        "design"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "security",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-06-06T13:05:45.796Z",
+    "current_valuation_usd": "$5.4 billion",
+    "current_valuation_usd_last_updated": "2026-06-06T13:05:45.796Z",
+    "total_funding_raised": "$775 million",
+    "total_funding_raised_last_updated": "2026-06-06T13:05:45.796Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Alkeon Capital",
+        "domain": "alkeoncapital.com"
+      },
+      {
+        "name": "Union Square Ventures",
+        "domain": "usv.com"
+      },
+      {
+        "name": "Forerunner Ventures",
+        "domain": "forerunnerventures.com"
+      },
+      {
+        "name": "Schroders Capital",
+        "domain": "schroderscapital.com"
+      },
+      {
+        "name": "Menlo Ventures",
+        "domain": "menlovc.com"
+      },
+      {
+        "name": "Quiet Capital",
+        "domain": "quiet.com"
+      },
+      {
+        "name": "Bond Capital",
+        "domain": "bond.vc"
+      },
+      {
+        "name": "NVentures",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Matrix",
+        "domain": "matrix.vc"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Alkeon Capital",
+        "logo_url": "/investor-logos/alkeon-capital.png"
+      },
+      {
+        "name": "Union Square Ventures",
+        "logo_url": "/investor-logos/union-square-ventures.png"
+      },
+      {
+        "name": "Forerunner Ventures",
+        "logo_url": "/investor-logos/forerunner-ventures.png"
+      },
+      {
+        "name": "Schroders Capital",
+        "logo_url": "/investor-logos/schroders-capital.png"
+      },
+      {
+        "name": "Menlo Ventures",
+        "logo_url": "/investor-logos/menlo-ventures.png"
+      },
+      {
+        "name": "Quiet Capital",
+        "logo_url": "/investor-logos/quiet-capital.png"
+      },
+      {
+        "name": "Bond Capital",
+        "logo_url": "/investor-logos/bond-capital.png"
+      },
+      {
+        "name": "NVentures",
+        "logo_url": "/investor-logos/nventures.png"
+      },
+      {
+        "name": "Matrix",
+        "logo_url": "/investor-logos/matrix.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-06T13:05:45.796Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "retirement-401k",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "health-savings-account",
+    "privilege-leave",
+    "unlimited-pto",
+    "sick-leave",
+    "parental-leave",
+    "learning-development",
+    "commute-allowance",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[3].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[4].source": "ai_inference_upsert",
+    "location_mapping[5].source": "ai_inference_upsert",
+    "location_mapping[6].source": "ai_inference_upsert",
+    "location_mapping[7].source": "ai_inference_upsert",
+    "location_mapping[8].source": "ai_inference_upsert",
+    "location_mapping[9].source": "ai_inference_upsert",
+    "location_mapping[10].source": "ai_inference_upsert",
+    "location_mapping[11].source": "ai_inference_upsert",
+    "location_mapping[12].source": "ai_inference_upsert",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-06T13:05:45.796Z",
+    "company_basic_information.website_url_last_updated": "2026-06-06T13:05:45.796Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-06T13:05:45.796Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-06T13:05:45.796Z",
+    "company_basic_information.last_updated": "2026-06-06",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-06",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-06",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:59:28.720Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T10:05:07.500Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-06-06",
+    "leadership.founders[1].x_twitter_last_verified": "2026-06-06",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:59:46.755Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T10:05:12.814Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-06-06",
+    "leadership.founders[2].x_twitter_last_verified": "2026-06-06",
+    "leadership.founders[2].image_url_last_updated": "2026-06-09T10:00:05.222Z",
+    "leadership.founders[2].description_last_updated": "2026-06-09T10:05:18.425Z",
+    "leadership.founders[3].linkedin_last_verified": "2026-06-06",
+    "leadership.founders[3].x_twitter_last_verified": "2026-06-06",
+    "leadership.founders[3].image_url_last_updated": "2026-06-09T10:00:23.559Z",
+    "leadership.founders[3].description_last_updated": "2026-06-09T10:05:24.709Z",
+    "social_media.x_url_last_updated": "2026-06-06T13:05:45.796Z",
+    "social_media.x_url_last_verified": "2026-06-06",
+    "social_media.linkedin_url_last_updated": "2026-06-06T13:05:45.796Z",
+    "social_media.linkedin_url_last_verified": "2026-06-06",
+    "social_media.instagram_url_last_updated": "2026-06-06T13:05:45.796Z",
+    "social_media.instagram_url_last_verified": "2026-06-06",
+    "business_details.industry_domains_last_updated": "2026-06-06",
+    "financial_information.funding_stage_last_updated": "2026-06-06T13:05:45.796Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-06T13:05:45.796Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-06T13:05:45.796Z",
+    "financial_information.investor_logos_last_updated": "2026-06-06T13:05:45.796Z",
+    "location_mapping[0].last_updated": "2026-06-06T13:05:45.796Z",
+    "location_mapping[1].last_updated": "2026-06-06T13:05:45.796Z",
+    "location_mapping[2].last_updated": "2026-06-06T13:05:45.796Z",
+    "location_mapping[3].last_updated": "2026-06-06T13:05:45.796Z",
+    "location_mapping[4].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[5].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[6].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[7].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[8].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[9].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[10].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[11].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[12].last_updated": "2026-06-21T08:48:14.380Z",
+    "location_mapping[13].last_updated": "2026-06-21T08:48:14.380Z",
+    "job_data.roles[0].posted_date": "2026-07-16",
+    "job_data.roles[1].posted_date": "2026-07-16",
+    "job_data.roles[2].posted_date": "2026-07-17",
+    "job_data.roles[3].posted_date": "2026-07-10",
+    "job_data.roles[4].posted_date": "2026-07-13",
+    "job_data.roles[5].posted_date": "2026-07-10",
+    "job_data.roles[6].posted_date": "2026-06-29",
+    "job_data.roles[7].posted_date": "2026-03-07",
+    "job_data.roles[8].posted_date": "2025-02-18",
+    "job_data.roles[9].posted_date": "2024-05-21",
+    "job_data.roles[10].posted_date": "2026-06-30",
+    "job_data.roles[11].posted_date": "2026-06-30",
+    "job_data.roles[12].posted_date": "2026-06-17",
+    "job_data.roles[13].posted_date": "2026-04-10",
+    "job_data.roles[14].posted_date": "2026-06-26",
+    "job_data.roles[15].posted_date": "2026-06-29",
+    "job_data.roles[16].posted_date": "2026-06-15",
+    "job_data.roles[17].posted_date": "2026-05-05",
+    "job_data.roles[18].posted_date": "2026-07-01",
+    "job_data.roles[19].posted_date": "2026-06-03",
+    "job_data.roles[20].posted_date": "2026-06-02",
+    "job_data.roles[21].posted_date": "2025-02-13",
+    "job_data.roles[22].posted_date": "2026-04-03",
+    "job_data.roles[23].posted_date": "2025-06-30",
+    "job_data.roles[24].posted_date": "2026-06-22",
+    "job_data.roles[25].posted_date": "2026-06-02",
+    "job_data.roles[26].posted_date": "2024-04-23",
+    "job_data.roles[27].posted_date": "2024-04-23",
+    "job_data.roles[28].posted_date": "2026-03-02",
+    "job_data.roles[29].posted_date": "2024-04-23",
+    "job_data.roles[30].posted_date": "2026-08-02",
+    "job_data.roles[31].posted_date": "2026-08-02",
+    "job_data.roles[32].posted_date": "2026-08-02",
+    "job_data.roles[33].posted_date": "2026-08-02",
+    "job_data.roles[34].posted_date": "2026-08-02",
+    "job_data.roles[34].title_updated_timestamp": "2026-08-02T17:34:54.889Z",
+    "job_data.roles[35].posted_date": "2026-08-02",
+    "job_data.roles[36].posted_date": "2026-08-02",
+    "job_data.roles[37].posted_date": "2026-08-02",
+    "job_data.roles[38].posted_date": "2026-08-16",
+    "job_data.roles[39].posted_date": "2026-08-16",
+    "job_data.roles[40].posted_date": "2026-08-16",
+    "job_data.roles[41].posted_date": "2026-08-16",
+    "job_data.roles[42].posted_date": "2026-08-16",
+    "job_data.roles[43].posted_date": "2026-08-16",
+    "job_data.roles[44].posted_date": "2026-08-16",
+    "job_data.roles[45].posted_date": "2026-08-16",
+    "job_data.roles[46].posted_date": "2026-08-16",
+    "job_data.roles[47].posted_date": "2026-08-16",
+    "job_data.roles[48].posted_date": "2026-08-31",
+    "job_data.roles[49].posted_date": "2026-08-31",
+    "job_data.roles[50].posted_date": "2026-08-31",
+    "job_data.roles[51].posted_date": "2026-08-31",
+    "job_data.roles[52].posted_date": "2026-08-31",
+    "job_data.roles[53].posted_date": "2026-08-31",
+    "job_data.roles[54].posted_date": "2026-08-31",
+    "job_data.roles[55].posted_date": "2026-08-31",
+    "job_data.roles[56].posted_date": "2026-08-31",
+    "job_data.roles[57].posted_date": "2026-08-31",
+    "job_data.roles[58].posted_date": "2026-09-14",
+    "job_data.roles[59].posted_date": "2026-09-14",
+    "job_data.roles[60].posted_date": "2026-09-14",
+    "job_data.roles[61].posted_date": "2026-09-14",
+    "job_data.roles[62].posted_date": "2026-09-14",
+    "job_data.roles[63].posted_date": "2026-09-14",
+    "job_data.roles[64].posted_date": "2026-09-14",
+    "job_data.roles[65].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:34:54.937Z",
+    "benefits.equity-stock.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.retirement-401k.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.dental-insurance.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.vision-insurance.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.health-savings-account.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.privilege-leave.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.sick-leave.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.parental-leave.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.learning-development.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.commute-allowance.last_updated": "2026-06-07T19:51:07.181Z",
+    "benefits.meal-allowance.last_updated": "2026-06-07T19:51:07.181Z"
+  }
+}

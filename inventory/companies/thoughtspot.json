@@ -1,0 +1,466 @@
+{
+  "slug": "thoughtspot",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/24555.5bcb190ad22294d8.js",
+  "observed_at": "2026-09-28T08:37:32.132970+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 17443,
+    "sha256": "dc928158252013e911c163a85c4f798fdaf12ca72e1783495e43cd1d92409b3f",
+    "elapsed_seconds": 0.44,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:32 GMT",
+      "etag": "\"b7a0d4142c4d92aad43e4bd45881b05a\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:32 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "ThoughtSpot",
+    "company_name_legal": "ThoughtSpot, Inc.",
+    "founded_year": 2012,
+    "website_url": "https://www.thoughtspot.com",
+    "careers_url": "https://thoughtspot.wd5.myworkdayjobs.com/careers",
+    "investor_portfolio_page": null,
+    "id": 135
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-18T16:05:21.489Z",
+    "crawl_status": "success",
+    "source": "Workday",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9128,
+      "longitude": 77.6512,
+      "exact_address": "IndiQube Orion, 3rd Floor, 24th Main Road, Garden Layout, 2nd Sector, HSR Layout, Haralukunte Village, Begur Hobli, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "other",
+        "engineering",
+        "product",
+        "ai",
+        "customer-support",
+        "design"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "customer-success",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8796,
+      "longitude": -87.63043,
+      "exact_address": "125 S Clark Street, Suite 1700, Chicago, Illinois, United States - 60603",
+      "departments": [
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "distributed_office",
+      "city": "Distributed",
+      "state": null,
+      "country": "United States",
+      "latitude": 39.8283,
+      "longitude": -98.5795,
+      "exact_address": "Distributed, United States",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.4011,
+      "longitude": 78.3839,
+      "exact_address": "3rd Floor, B3 Lobby, B-Block, Q City, Rajiv Gandhi Nagar, Gachibowli, Hyderabad, Telangana, India - 500032",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "london",
+      "state": "City of London",
+      "country": "United Kingdom",
+      "latitude": 51.5142,
+      "longitude": -0.0885,
+      "exact_address": "1st Floor North, 1 Angel Court, London, City of London, United Kingdom - EC2R 7HJ",
+      "departments": [
+        "sales",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mountain_view_office",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3861,
+      "longitude": -122.0839,
+      "exact_address": "Mountain View, California, United States",
+      "departments": [
+        "marketing",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "exact_address": "Phoenix, Arizona, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "trivandrum_office",
+      "city": "trivandrum",
+      "state": "Kerala",
+      "country": "India",
+      "latitude": 8.5254,
+      "longitude": 76.954,
+      "exact_address": "2nd Floor, Aspinwall House, Kowdiar Kuravankonam Road, Thiruvananthapuram, Kerala, India",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2025-12-15T08:18:37.628Z",
+    "current_valuation_usd": "$4.2 billion",
+    "current_valuation_usd_last_updated": "2025-12-15T08:18:37.628Z",
+    "total_funding_raised": "$675 million",
+    "total_funding_raised_last_updated": "2025-12-15T08:18:37.628Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lspv.com"
+      },
+      {
+        "name": "BlackRock",
+        "domain": "blackrock.com"
+      },
+      {
+        "name": "DST Global",
+        "domain": "dst-global.com"
+      },
+      {
+        "name": "March Capital",
+        "domain": "marchcp.com"
+      },
+      {
+        "name": "Boldface",
+        "domain": "boldface.vc"
+      },
+      {
+        "name": "GIC",
+        "domain": "gic.com.sg"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      },
+      {
+        "name": "NewView Capital",
+        "domain": "newviewcapital.com"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "domain": "redpoint.com"
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "Storm Ventures",
+        "domain": "stormventures.com"
+      },
+      {
+        "name": "Riverside Ventures",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "BlackRock",
+        "logo_url": "/investor-logos/blackrock.png"
+      },
+      {
+        "name": "DST Global",
+        "logo_url": "/investor-logos/dst-global.png"
+      },
+      {
+        "name": "March Capital",
+        "logo_url": "/investor-logos/march-capital.png"
+      },
+      {
+        "name": "Boldface",
+        "logo_url": "/investor-logos/boldface.png"
+      },
+      {
+        "name": "GIC",
+        "logo_url": "/investor-logos/gic.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      },
+      {
+        "name": "NewView Capital",
+        "logo_url": "/investor-logos/newview.png"
+      },
+      {
+        "name": "Redpoint Ventures",
+        "logo_url": "/investor-logos/redpoint.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "Storm Ventures",
+        "logo_url": "/investor-logos/storm-ventures.png"
+      },
+      {
+        "name": "Riverside Ventures",
+        "logo_url": "/investor-logos/riverside-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-15T08:18:37.628Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Workday",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-15T08:18:37.628Z",
+    "company_basic_information.website_url_last_updated": "2025-12-15T08:18:37.628Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-15T08:18:37.628Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-15T08:18:37.628Z",
+    "company_basic_information.last_updated": "2025-12-15",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-15T16:39:19.259Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:33:24.591Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:38:30.438Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-15T16:39:48.646Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-15T16:40:08.006Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:33:35.142Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:38:35.636Z",
+    "social_media.x_url_last_verified": "2025-12-15T16:41:05.214Z",
+    "social_media.linkedin_url_last_verified": "2025-12-15T16:41:36.887Z",
+    "social_media.instagram_url_last_verified": "2025-12-15T16:41:53.790Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:49.821Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-15T08:18:37.628Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-15T08:18:37.628Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-15T08:18:37.628Z",
+    "financial_information.investor_logos_last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[0].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[1].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[2].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[3].last_updated": "2026-04-01T00:00:00.000Z",
+    "location_mapping[4].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[5].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[6].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[7].last_updated": "2025-12-15T08:18:37.628Z",
+    "location_mapping[8].last_updated": "2026-02-19T00:00:00.000Z",
+    "location_mapping[9].last_updated": "2025-12-15T08:18:37.628Z",
+    "job_data.last_updated": "2026-09-18T16:05:21.489Z",
+    "benefits.flexible-hours.last_updated": "2026-01-11T21:25:13.696Z",
+    "benefits.remote-work.last_updated": "2026-01-11T21:25:13.696Z"
+  }
+}

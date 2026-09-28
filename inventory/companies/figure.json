@@ -1,0 +1,1884 @@
+{
+  "slug": "figure",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/91381.b881c0095e48983f.js",
+  "observed_at": "2026-09-28T08:31:47.644589+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 48007,
+    "sha256": "9a5285f1c5d93ec20507238359afaced14ff958330dc679ebae8247c8b7e971d",
+    "elapsed_seconds": 0.484,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:47 GMT",
+      "etag": "\"929053a11b55ef476ef88fdbca531f34\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:47 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Figure",
+    "company_name_legal": "Figure AI, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://www.figure.ai",
+    "careers_url": "https://job-boards.greenhouse.io/figureai",
+    "investor_portfolio_page": null,
+    "id": 356
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 97,
+    "last_updated": "2026-09-26T18:03:14.681Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 97,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Systems Integration Engineer - Actuation Systems",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4626247006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Systems Integration Engineer - Hand Subsystem",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4612612006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Android",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4660876006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Backend",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4685172006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Data Infrastructure",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4345915006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Generative AI",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671699006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Localization and Mapping",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4696533006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Modeling",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671712006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Perception",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4007375006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Pretraining",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671704006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Reinforcement Learning",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671707006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Robot Learning",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4649851006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Training Performance",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4705296006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, Video Pretraining",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671703006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix AI Engineer, XR",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4699095006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Fabricator",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4439202006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Fabricator role primarily involves fabricating complex parts and assemblies, maintaining equipment, and supporting manufacturing processes, which aligns closely with operations. The responsibilities also include collaborating with engineering and manufacturing teams, further emphasizing the operational aspect of the role."
+    },
+    {
+      "title": "Manufacturing Electrical Test Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4573670006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4375064006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Manufacturing Equipment Technician",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4553552006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Manufacturing Equipment Technician role primarily involves supporting manufacturing processes, maintaining equipment, and improving assembly lines, which aligns closely with operations. The responsibilities focus on troubleshooting, maintenance, and process validation, all of which are key aspects of manufacturing operations."
+    },
+    {
+      "title": "Manufacturing Software Test Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4414646006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Manufacturing Test Engineer, PCBA",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4574399006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Material Planning Manager - Electronics Manufacturing",
+      "title_original": "Material Planning Manager, Electronics",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-31T15:18:57.180Z",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4699237006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Material Planning Manager revolve around materials planning, inventory management, and ensuring production readiness, which are all key aspects of operations. The role requires collaboration with various departments to maintain production schedules and optimize inventory, further solidifying its classification under operations."
+    },
+    {
+      "title": "Quality Engineering Technician, BotQ",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4587570006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Quality Engineer, Metrology",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4626806006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Software Engineer, Manufacturing Systems",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4692559006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Supplier Quality Engineer, BotQ",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4660300006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Deployment Engineer - Commercial Sites",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4674403006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Field Service Technician - Commercial Site Team",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4683847006",
+      "location_ids": [
+        "fontana_office"
+      ],
+      "location_display": "Fontana, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator - Commercial Launch Team",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4665205006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator - Commercial Site Team",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4674402006",
+      "location_ids": [
+        "reno_office"
+      ],
+      "location_display": "Reno, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator - Commercial Site Team (LA)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4698238006",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator & Data Creator — Fontana, CA (Customer Site)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4700899006",
+      "location_ids": [
+        "fontana_office"
+      ],
+      "location_display": "Fontana, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Logistics & Dispatch Manager",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702689006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Material Handler, Commercial Operations",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4710235006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Operations & Logistics Coordinator (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702556006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico / CDMX",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Site Lead - Commercial Robotics Operations",
+      "title_original": "Site Lead - Commercial Site Team",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-03T10:37:29.251Z",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4683845006",
+      "location_ids": [
+        "fontana_office"
+      ],
+      "location_display": "Fontana, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Site Lead involve managing onsite operations for the deployment and maintenance of humanoid robots, which aligns closely with operations management. The role requires overseeing daily production operations, service, and team leadership at the customer site."
+    },
+    {
+      "title": "Warehouse Manager, Commercial Operations",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4706787006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "AI Training Infrastructure Engineer – Humanoid Whole Body Control",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4674754006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Reinforcement Learning Engineer – Whole Body Control",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "State Estimation Engineer - Data Collection Systems",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4706280006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "AI Data Operations Manager",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4698164006",
+      "location_ids": [
+        "dubai_office",
+        "abu_dhabi_office",
+        "sharjah_office"
+      ],
+      "location_display": "Remote, UAE",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Deployment Engineer (Data Collection)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4696724006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix Data Creator",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4585080006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix Data Creator",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
+      "location_ids": [
+        "los_angeles_office"
+      ],
+      "location_display": "Los Angeles, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Helix Data Creator (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4708450006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Pilot",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4369739006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Lead, Data Operations Global Expansion",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4696355006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Ops Facilitator - Pilot Support Team",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4697431006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Project Coordinator, Data Quality",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4696350006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Project Lead, Data Creators (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702544006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Project Lead, Data Creators involve leading day-to-day operations, managing team workflows, and ensuring production goals are met, which aligns closely with operations. The role focuses on coordinating the collection of data, resolving real-time issues, and ensuring compliance with operational standards."
+    },
+    {
+      "title": "Shift Coordinator, Data Creators (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4701747006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Shift Coordinator involve managing daily data collection operations, sequencing work among Data Creators, and ensuring production goals are met. This aligns closely with the operations category as it focuses on overseeing the operational aspects of data collection in a dynamic environment."
+    },
+    {
+      "title": "Humanoid Environment Specialist - Robotics Data Collection",
+      "title_original": "Humanoid Environment Specialist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-31T15:18:35.104Z",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4677955006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Humanoid Environment Specialist involve setting up environments for data collection to train humanoid robots, which directly relates to the robotics field. The role focuses on ensuring that the robots learn from diverse real-world scenarios, emphasizing the application of robotics technology."
+    },
+    {
+      "title": "Technical Coordinator, Data Creators (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702551006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Technical Coordinator involve managing hardware, inventory, maintenance, and technical support in the operations unit. This role focuses on ensuring the operational efficiency of data capture equipment, which aligns closely with the operations category."
+    },
+    {
+      "title": "Technical Coordinator, Data Creators (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4701748006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Technical Coordinator involve managing hardware, maintenance, and technical support within the data operations unit, which aligns closely with operations. The role focuses on ensuring the technical aspects of data capture equipment are functioning optimally, which is critical for operational efficiency."
+    },
+    {
+      "title": "User Support Lead",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4703943006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Electrical Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4313470006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Electrical Engineer, Actuator Systems",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4688381006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Facilities Coordinator (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702553006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Facilities Coordinator (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702533006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Facilities Technician",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4613444006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Operations & Logistics Coordinator (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702541006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Finance Manager (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4705464006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Mechanical Engineer, Softgoods/Plastics",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4596421006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Gear Design Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4705588006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Wire Harness Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4697402006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator (Afternoon Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4644956006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator (Morning Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4406268006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Humanoid Robot Operator (Night Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4644962006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Robot Service Technician (Morning Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4392728006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Robot Service Technician (Night Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4655837006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Electrical Engineering Intern [Fall 2026]",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "IT Client Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4710288006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "IT Operations Specialist (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702863006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "IT Operations Specialist (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702538006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "People Lead (CDMX)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702555006",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "People Lead (SP)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4702540006",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "São Paulo, Brazil",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior People Operations Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4708750006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4409868006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Firmware Integration Engineer, Asia",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4698860006",
+      "location_ids": [
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Remote, Asia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Sr/Staff Graphics Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4692556006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Staff AI Inference and Acceleration Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4692572006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Staff Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4614747006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Gear Machinist",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4690458006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Product Compliance Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4315521006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Security Engineer, Application Security",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4620050006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Security Engineer, Product and Device Security",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4555450006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Software Engineer, Privacy & Data Governance",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4690871006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Technical Program Manager, Security & Privacy",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4707189006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Demand Planner",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4699238006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Global Supply Manager - Semiconductors",
+      "title_original": "Global Supply Manager, EE and Semiconductors",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-03T10:44:03.172Z",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4648671006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Global Supply Manager revolve around strategic sourcing, supply chain management, and supplier relationship management, which are all key functions within operations. The role requires extensive experience in global sourcing and commodity management, particularly in the semiconductor sector, further solidifying its classification under operations."
+    },
+    {
+      "title": "Electrical Validation Engineer – Hand Subsystem",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4615252006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Engineering Technician",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4711258006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Production Lead (Swing Shift)",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4595829006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Special Projects Intern [Fall 2026]",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4694889006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "IT Operations Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4716299006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Security Engineer, Enterprise Security",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4714390006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Security Engineer - Infrastructure Security",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4714381006",
+      "location_ids": [
+        "san_jose_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "los_angeles_office",
+      "city": "San Jose",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.42398,
+      "longitude": -121.94963,
+      "exact_address": "3960 North First Street, San Jose, California, United States - 95134",
+      "departments": [
+        "engineering",
+        "operations",
+        "other"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "san_jose_office",
+      "city": "San Jose",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.313897,
+      "longitude": -121.914321,
+      "exact_address": "1290 Parkmoor Avenue, San Jose, California, United States - 95126",
+      "departments": [
+        "ai",
+        "qa",
+        "engineering",
+        "other",
+        "operations",
+        "robotics",
+        "marketing",
+        "data",
+        "sales",
+        "finance",
+        "legal",
+        "security"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "reno_office",
+      "city": "Reno",
+      "state": "Nevada",
+      "country": "United States",
+      "latitude": 39.5187839,
+      "longitude": -119.8167267,
+      "exact_address": "450 Marsh Ave, Reno, NV 89509",
+      "departments": [
+        "engineering",
+        "robotics",
+        "it",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "irvine_office",
+      "city": "Irvine",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.755261399999995,
+      "longitude": -122.4183665,
+      "exact_address": "2601 Mission St #404, San Francisco, CA 94110",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pasadena_office",
+      "city": "pasadena",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.1498603,
+      "longitude": -118.1461612,
+      "exact_address": "215 N Marengo Ave, Pasadena, CA 91101",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santa_monica_office",
+      "city": "Santa Monica",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.00086,
+      "longitude": -118.48041,
+      "exact_address": "3310 Main Street, Suite A, Santa Monica, California, United States - 90405",
+      "departments": [
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "spartanburg_office",
+      "city": "Spartanburg",
+      "state": "South Carolina",
+      "country": "United States",
+      "latitude": 34.9496,
+      "longitude": -81.932,
+      "exact_address": "Spartanburg, South Carolina, United States",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "exact_address": "Abu Dhabi, United Arab Emirates",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sharjah_office",
+      "city": "Sharjah",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "exact_address": "Sharjah, United Arab Emirates",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "other",
+        "administration",
+        "operations",
+        "it",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "fontana_office",
+      "city": "Fontana",
+      "state": "California",
+      "country": "USA",
+      "latitude": 34.0922,
+      "longitude": -117.435,
+      "exact_address": "Fontana, CA, USA",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-07-03T06:14:22.569Z",
+    "current_valuation_usd": "$39 billion",
+    "current_valuation_usd_last_updated": "2026-07-03T06:14:22.569Z",
+    "total_funding_raised": "$1.8 billion",
+    "total_funding_raised_last_updated": "2026-07-03T06:14:22.569Z",
+    "key_investors": [
+      {
+        "name": "Parkway Venture Capital",
+        "domain": ""
+      },
+      {
+        "name": "LG Technology Ventures",
+        "domain": ""
+      },
+      {
+        "name": "OpenAI Startup Fund",
+        "domain": "openai.com"
+      },
+      {
+        "name": "Macquarie Capital",
+        "domain": ""
+      },
+      {
+        "name": "T-Mobile Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Tamarack",
+        "domain": ""
+      },
+      {
+        "name": "Align Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Intel Capital",
+        "domain": "intel.com"
+      },
+      {
+        "name": "Salesforce",
+        "domain": "salesforceventures.com"
+      },
+      {
+        "name": "Microsoft",
+        "domain": "microsoft.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Parkway Venture Capital",
+        "logo_url": "/investor-logos/parkway-venture-capital.png"
+      },
+      {
+        "name": "LG Technology Ventures",
+        "logo_url": "/investor-logos/lg-technology-ventures.png"
+      },
+      {
+        "name": "OpenAI Startup Fund",
+        "logo_url": "/investor-logos/openai-startup-fund.png"
+      },
+      {
+        "name": "Macquarie Capital",
+        "logo_url": "/investor-logos/macquarie-capital.png"
+      },
+      {
+        "name": "T-Mobile Ventures",
+        "logo_url": "/investor-logos/tmobile-ventures.png"
+      },
+      {
+        "name": "Tamarack",
+        "logo_url": "/investor-logos/tamarack.png"
+      },
+      {
+        "name": "Align Ventures",
+        "logo_url": "/investor-logos/align-ventures.png"
+      },
+      {
+        "name": "Intel Capital",
+        "logo_url": "/investor-logos/intel-capital.png"
+      },
+      {
+        "name": "Salesforce",
+        "logo_url": "/investor-logos/salesforce.png"
+      },
+      {
+        "name": "Microsoft",
+        "logo_url": "/investor-logos/microsoft.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Amazon",
+        "logo_url": "/investor-logos/amazon.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-03T06:14:22.569Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "searchapi-maps",
+    "location_mapping[2].location_source_query": "Figure office reno",
+    "location_mapping[3].location_source": "searchapi-maps",
+    "location_mapping[3].location_source_query": "Figure office Irvine California",
+    "location_mapping[4].location_source": "searchapi-maps",
+    "location_mapping[4].location_source_query": "Figure office pasadena California",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "city-default-fallback",
+    "location_mapping[16].source": "city_default_fallback",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-03T06:14:22.569Z",
+    "company_basic_information.website_url_last_updated": "2026-07-03T06:14:22.569Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-03T06:14:22.569Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-03T06:14:22.569Z",
+    "company_basic_information.last_updated": "2026-07-03",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-03T16:30:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-03T16:30:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-03T12:19:20.174Z",
+    "leadership.founders[0].description_last_updated": "2026-07-03T12:20:49.383Z",
+    "social_media.x_url_last_updated": "2026-07-03T06:14:22.569Z",
+    "social_media.x_url_last_verified": "2026-07-03T16:30:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-03T06:14:22.569Z",
+    "social_media.linkedin_url_last_verified": "2026-07-03T16:30:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-03T16:30:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-07-03T16:30:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-03",
+    "financial_information.funding_stage_last_updated": "2026-07-03T06:14:22.569Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-03T06:14:22.569Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-03T06:14:22.569Z",
+    "financial_information.investor_logos_last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[0].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[1].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[2].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[3].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[4].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[5].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[6].last_updated": "2026-07-03T06:14:22.569Z",
+    "location_mapping[16].last_updated": "2026-08-14T13:53:51.301Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.roles[15].posted_date": "2026-09-26",
+    "job_data.roles[16].posted_date": "2026-09-26",
+    "job_data.roles[17].posted_date": "2026-09-26",
+    "job_data.roles[18].posted_date": "2026-09-26",
+    "job_data.roles[19].posted_date": "2026-09-26",
+    "job_data.roles[20].posted_date": "2026-09-26",
+    "job_data.roles[21].posted_date": "2026-09-26",
+    "job_data.roles[21].title_updated_timestamp": "2026-07-31T15:18:57.180Z",
+    "job_data.roles[22].posted_date": "2026-09-26",
+    "job_data.roles[23].posted_date": "2026-09-26",
+    "job_data.roles[24].posted_date": "2026-09-26",
+    "job_data.roles[25].posted_date": "2026-09-26",
+    "job_data.roles[26].posted_date": "2026-09-26",
+    "job_data.roles[27].posted_date": "2026-09-26",
+    "job_data.roles[28].posted_date": "2026-09-26",
+    "job_data.roles[29].posted_date": "2026-09-26",
+    "job_data.roles[30].posted_date": "2026-09-26",
+    "job_data.roles[31].posted_date": "2026-09-26",
+    "job_data.roles[32].posted_date": "2026-09-26",
+    "job_data.roles[33].posted_date": "2026-09-26",
+    "job_data.roles[34].posted_date": "2026-09-26",
+    "job_data.roles[35].posted_date": "2026-09-26",
+    "job_data.roles[35].title_updated_timestamp": "2026-07-03T10:37:29.251Z",
+    "job_data.roles[36].posted_date": "2026-09-26",
+    "job_data.roles[37].posted_date": "2026-09-26",
+    "job_data.roles[38].posted_date": "2026-09-26",
+    "job_data.roles[39].posted_date": "2026-09-26",
+    "job_data.roles[40].posted_date": "2026-09-26",
+    "job_data.roles[41].posted_date": "2026-09-26",
+    "job_data.roles[42].posted_date": "2026-09-26",
+    "job_data.roles[43].posted_date": "2026-09-26",
+    "job_data.roles[44].posted_date": "2026-09-26",
+    "job_data.roles[45].posted_date": "2026-09-26",
+    "job_data.roles[46].posted_date": "2026-09-26",
+    "job_data.roles[47].posted_date": "2026-09-26",
+    "job_data.roles[48].posted_date": "2026-09-26",
+    "job_data.roles[49].posted_date": "2026-09-26",
+    "job_data.roles[50].posted_date": "2026-09-26",
+    "job_data.roles[51].posted_date": "2026-09-26",
+    "job_data.roles[51].title_updated_timestamp": "2026-07-31T15:18:35.104Z",
+    "job_data.roles[52].posted_date": "2026-09-26",
+    "job_data.roles[53].posted_date": "2026-09-26",
+    "job_data.roles[54].posted_date": "2026-09-26",
+    "job_data.roles[55].posted_date": "2026-09-26",
+    "job_data.roles[56].posted_date": "2026-09-26",
+    "job_data.roles[57].posted_date": "2026-09-26",
+    "job_data.roles[58].posted_date": "2026-09-26",
+    "job_data.roles[59].posted_date": "2026-09-26",
+    "job_data.roles[60].posted_date": "2026-09-26",
+    "job_data.roles[61].posted_date": "2026-09-26",
+    "job_data.roles[62].posted_date": "2026-09-26",
+    "job_data.roles[63].posted_date": "2026-09-26",
+    "job_data.roles[64].posted_date": "2026-09-26",
+    "job_data.roles[65].posted_date": "2026-09-26",
+    "job_data.roles[66].posted_date": "2026-09-26",
+    "job_data.roles[67].posted_date": "2026-09-26",
+    "job_data.roles[68].posted_date": "2026-09-26",
+    "job_data.roles[69].posted_date": "2026-09-26",
+    "job_data.roles[70].posted_date": "2026-09-26",
+    "job_data.roles[71].posted_date": "2026-09-26",
+    "job_data.roles[72].posted_date": "2026-09-26",
+    "job_data.roles[73].posted_date": "2026-09-26",
+    "job_data.roles[74].posted_date": "2026-09-26",
+    "job_data.roles[75].posted_date": "2026-09-26",
+    "job_data.roles[76].posted_date": "2026-09-26",
+    "job_data.roles[77].posted_date": "2026-09-26",
+    "job_data.roles[78].posted_date": "2026-09-26",
+    "job_data.roles[79].posted_date": "2026-09-26",
+    "job_data.roles[80].posted_date": "2026-09-26",
+    "job_data.roles[81].posted_date": "2026-09-26",
+    "job_data.roles[82].posted_date": "2026-09-26",
+    "job_data.roles[83].posted_date": "2026-09-26",
+    "job_data.roles[84].posted_date": "2026-09-26",
+    "job_data.roles[85].posted_date": "2026-09-26",
+    "job_data.roles[86].posted_date": "2026-09-26",
+    "job_data.roles[87].posted_date": "2026-09-26",
+    "job_data.roles[88].posted_date": "2026-09-26",
+    "job_data.roles[89].posted_date": "2026-09-26",
+    "job_data.roles[89].title_updated_timestamp": "2026-07-03T10:44:03.172Z",
+    "job_data.roles[90].posted_date": "2026-09-26",
+    "job_data.roles[91].posted_date": "2026-09-26",
+    "job_data.roles[92].posted_date": "2026-09-26",
+    "job_data.roles[93].posted_date": "2026-09-26",
+    "job_data.roles[94].posted_date": "2026-09-26",
+    "job_data.roles[95].posted_date": "2026-09-26",
+    "job_data.roles[96].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T18:03:14.681Z"
+  }
+}

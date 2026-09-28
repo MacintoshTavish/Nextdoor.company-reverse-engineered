@@ -1,0 +1,588 @@
+{
+  "slug": "arta-finance",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/3771.03f2e9620fbc5c6d.js",
+  "observed_at": "2026-09-28T08:29:00.497495+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28922,
+    "sha256": "c9091e2cd1997dc03b9c6df175caaf309b184c00b581b94c4f430accdaeffcdd",
+    "elapsed_seconds": 0.402,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:00 GMT",
+      "etag": "\"319aa5865515a675e53958aad9a0adbb\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:00 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Arta Finance",
+    "company_name_legal": "Arta Finance",
+    "founded_year": 2021,
+    "website_url": "https://artafinance.com",
+    "careers_url": "https://jobs.ashbyhq.com/artafinance",
+    "investor_portfolio_page": null,
+    "id": 279
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 11,
+    "last_updated": "2026-09-18T15:39:21.008Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 11,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Machine Learning Engineer, AI Agent Platform",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/e95453a9-c191-4d35-86d2-1a50063f45ea",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-13",
+      "ashby_job_id": "e95453a9-c191-4d35-86d2-1a50063f45ea"
+    },
+    {
+      "title": "VP of Product, B2B Wealth Platform",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/e8aaa25e-fa31-4198-9fe5-fdcdafb20b56",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-14",
+      "ashby_job_id": "e8aaa25e-fa31-4198-9fe5-fdcdafb20b56"
+    },
+    {
+      "title": "Backend / Systems Agentic Engineer (SG)",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/3d51dca2-505a-4db5-a705-7d793f7a418b",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-26",
+      "ashby_job_id": "3d51dca2-505a-4db5-a705-7d793f7a418b"
+    },
+    {
+      "title": "Full-Stack Agentic Engineer (SG)",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/29b4cfa6-c421-4444-8c50-5823f8c9d010",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-26",
+      "ashby_job_id": "29b4cfa6-c421-4444-8c50-5823f8c9d010"
+    },
+    {
+      "title": "Relationship Manager (Contract-to-Hire) - Singapore",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/e29a4919-550d-41f4-9971-4b2dfe9cf9d5",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "e29a4919-550d-41f4-9971-4b2dfe9cf9d5"
+    },
+    {
+      "title": "Associate Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/09e2c110-b6c6-4fb3-a043-6b4a5fe48ec1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "09e2c110-b6c6-4fb3-a043-6b4a5fe48ec1"
+    },
+    {
+      "title": "Backend Software Engineer, Trading Systems & Data Platform",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "6575896b-cc08-4626-924b-95eabaee5138"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/4191d233-1f68-4313-8bac-091f06b7822c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "4191d233-1f68-4313-8bac-091f06b7822c"
+    },
+    {
+      "title": "Project Manager – B2B Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/84851ebe-55f5-42a7-b26b-f127f9b12403",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "84851ebe-55f5-42a7-b26b-f127f9b12403"
+    },
+    {
+      "title": "Senior Quant Research Engineer, Trading & Portfolio Optimization",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/1af1122d-10df-4d16-a286-750f6cf990b6",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "1af1122d-10df-4d16-a286-750f6cf990b6"
+    },
+    {
+      "title": "Software Engineer, Data Infrastructure and Performance Metrics",
+      "apply_url": "https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "fc8e559b-48c3-46ba-b169-2ea808acb860"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston District Office (Regulatory), Boston, Massachusetts, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7733,
+      "longitude": -80.192,
+      "exact_address": "333 SE 2nd Ave Suite 2000, Miami, Florida, United States - 33131",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "sales",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2855,
+      "longitude": 103.8523,
+      "exact_address": "21 Collyer Quay #07-103, Singapore - 049320",
+      "departments": [
+        "product",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mountain_view_hq",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3931,
+      "longitude": -122.0783,
+      "exact_address": "153 Castro St Ste 200, Mountain View, California, United States - 94041",
+      "departments": [
+        "engineering",
+        "ai",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "106+"
+    }
+  ],
+  "founder_count": 9,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-05-11T19:43:36.987Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-05-11T19:43:36.987Z",
+    "total_funding_raised": "$90 million",
+    "total_funding_raised_last_updated": "2026-05-11T19:43:36.987Z",
+    "key_investors": [
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      },
+      {
+        "name": "Ribbit Capital",
+        "domain": "ribbitcap.com"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Ribbit Capital",
+        "logo_url": "/investor-logos/ribbit.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-11T19:43:36.987Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "health-savings-account",
+    "parental-leave",
+    "privilege-leave",
+    "equity-stock",
+    "meal-allowance",
+    "flexible-hours",
+    "remote-work",
+    "phone-reimbursement",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[4].linkedin_verified_by": "ai",
+    "leadership.founders[4].description_source": "perplexity-sonar-pro",
+    "leadership.founders[4].image_source": "linkedin_profile",
+    "leadership.founders[5].linkedin_verified_by": "ai",
+    "leadership.founders[5].description_source": "perplexity-sonar-pro",
+    "leadership.founders[5].image_source": "linkedin_profile",
+    "leadership.founders[6].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[6].description_source": "perplexity-sonar-pro",
+    "leadership.founders[6].image_source": "linkedin_profile",
+    "leadership.founders[7].linkedin_verified_by": "ai",
+    "leadership.founders[7].description_source": "perplexity-sonar-pro",
+    "leadership.founders[7].image_source": "linkedin_profile",
+    "leadership.founders[8].linkedin_verified_by": "ai",
+    "leadership.founders[8].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "manual-edit",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-11T19:43:36.987Z",
+    "company_basic_information.website_url_last_updated": "2026-05-11T19:43:36.987Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-11T19:43:36.987Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-11T19:43:36.987Z",
+    "company_basic_information.last_updated": "2026-05-11",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-05-11T20:17:03.788Z",
+    "leadership.founders[0].description_last_updated": "2026-06-07T20:37:44.194Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T13:54:55.896Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-05-11T20:17:46.600Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-05-11T20:18:00.495Z",
+    "leadership.founders[1].description_last_updated": "2026-06-07T20:37:49.993Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T13:56:38.393Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-05-11T20:18:36.731Z",
+    "leadership.founders[2].description_last_updated": "2026-06-07T20:37:56.356Z",
+    "leadership.founders[2].image_url_last_updated": "2026-06-08T13:57:00.407Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-05-11T20:19:11.767Z",
+    "leadership.founders[3].description_last_updated": "2026-06-07T20:38:01.397Z",
+    "leadership.founders[3].image_url_last_updated": "2026-06-08T13:57:20.961Z",
+    "leadership.founders[4].linkedin_url_last_verified": "2026-05-11T20:19:44.740Z",
+    "leadership.founders[4].description_last_updated": "2026-06-07T20:38:06.926Z",
+    "leadership.founders[4].image_url_last_updated": "2026-06-08T13:57:43.051Z",
+    "leadership.founders[5].linkedin_url_last_verified": "2026-05-11T20:20:23.168Z",
+    "leadership.founders[5].description_last_updated": "2026-06-07T20:38:13.450Z",
+    "leadership.founders[5].image_url_last_updated": "2026-06-08T13:58:04.414Z",
+    "leadership.founders[6].description_last_updated": "2026-06-07T20:38:20.449Z",
+    "leadership.founders[6].image_url_last_updated": "2026-06-08T13:58:24.364Z",
+    "leadership.founders[7].linkedin_url_last_verified": "2026-05-11T20:21:39.560Z",
+    "leadership.founders[7].description_last_updated": "2026-06-07T20:38:26.164Z",
+    "leadership.founders[7].image_url_last_updated": "2026-06-08T13:58:45.306Z",
+    "leadership.founders[8].linkedin_url_last_verified": "2026-05-11T20:23:06.700Z",
+    "leadership.founders[8].description_last_updated": "2026-06-07T20:38:31.543Z",
+    "social_media.x_url_last_verified": "2026-05-11T20:24:02.436Z",
+    "social_media.linkedin_url_last_verified": "2026-05-11T20:24:33.643Z",
+    "business_details.industry_category_last_updated": "2026-05-11T19:43:36.987Z",
+    "business_details.industry_domains_last_updated": "2026-05-12T00:00:00.000Z",
+    "financial_information.funding_stage_last_updated": "2026-05-11T19:43:36.987Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-11T19:43:36.987Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-11T19:43:36.987Z",
+    "financial_information.investor_logos_last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[0].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[1].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[2].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[3].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[4].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[5].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[6].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[7].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[8].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[9].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[10].last_updated": "2026-05-11T19:43:36.987Z",
+    "location_mapping[11].last_updated": "2026-05-11T19:43:36.987Z",
+    "job_data.roles[0].posted_date": "2026-04-13",
+    "job_data.roles[1].posted_date": "2026-05-14",
+    "job_data.roles[2].posted_date": "2026-05-26",
+    "job_data.roles[3].posted_date": "2026-05-26",
+    "job_data.roles[4].posted_date": "2026-06-17",
+    "job_data.roles[5].posted_date": "2026-08-06",
+    "job_data.roles[6].posted_date": "2026-08-06",
+    "job_data.roles[7].posted_date": "2026-08-06",
+    "job_data.roles[8].posted_date": "2026-08-06",
+    "job_data.roles[9].posted_date": "2026-08-06",
+    "job_data.roles[10].posted_date": "2026-09-03",
+    "job_data.last_updated": "2026-09-18T15:39:21.008Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.health-savings-account.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.privilege-leave.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.meal-allowance.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.flexible-hours.last_updated": "2026-06-06T18:15:42.747Z",
+    "benefits.remote-work.last_updated": "2026-06-06T18:15:42.747Z"
+  }
+}

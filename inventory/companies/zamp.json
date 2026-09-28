@@ -1,0 +1,486 @@
+{
+  "slug": "zamp",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/42181.933653bf85053bb0.js",
+  "observed_at": "2026-09-28T08:38:36.223703+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19212,
+    "sha256": "1e1b23c06dba59ccc7b4ec9dd068fe9baab60e1ec84c6ce9bd44b601df958b61",
+    "elapsed_seconds": 0.405,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:36 GMT",
+      "etag": "\"bca51bb3be5803a24e6e6bbb853dd886\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:36 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Zamp",
+    "company_name_legal": "Zamp Inc",
+    "founded_year": 2020,
+    "website_url": "https://www.zamp.ai",
+    "careers_url": "https://careers.kula.ai/zamp-ai",
+    "investor_portfolio_page": null,
+    "id": 110
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 10,
+    "last_updated": "2026-09-14T13:09:16.493Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 10,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Software Engineer - Frontend",
+      "apply_url": "https://careers.kula.ai/zamp-ai/14359/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "INR",
+        "min": 3000000,
+        "max": 4500000,
+        "period": "year",
+        "display": "₹30–45 LPA",
+        "confidence": "medium",
+        "reason": "Based on data available as of July 2026, the annual base salary for a Senior Software Engineer - Frontend at Zamp in Bengaluru typically falls in the range of ₹30 lakh to ₹45 lakh per year.",
+        "citations": [
+          "https://www.ambitionbox.com/salaries/zamp-salaries/senior-software-developer",
+          "https://www.ambitionbox.com/salaries/zamp-salaries/bengaluru-location",
+          "https://www.levels.fyi/companies/zamp/salaries/software-engineer",
+          "https://pathvio.in/salary/senior-software-engineer-india",
+          "https://6figr.com/in/salary/zamp",
+          "https://www.ambitionbox.com/salaries/zamp-salaries"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-07-21T05:14:36.776Z"
+      },
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "Technical Architect",
+      "apply_url": "https://careers.kula.ai/zamp-ai/14861/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://careers.kula.ai/zamp-ai/14898/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "Senior Software Engineer - Backend",
+      "apply_url": "https://careers.kula.ai/zamp-ai/34309/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "AI Product Manager",
+      "apply_url": "https://careers.kula.ai/zamp-ai/40108/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "Founder's Office, Strategy & Operations",
+      "apply_url": "https://careers.kula.ai/zamp-ai/14858/",
+      "location_ids": [
+        "bengaluru_office",
+        "gurgaon_office"
+      ],
+      "location_display": "India; Gurugram, India",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "AI Solutions Analyst",
+      "apply_url": "https://careers.kula.ai/zamp-ai/19526/",
+      "location_ids": [
+        "bengaluru_office",
+        "gurgaon_office"
+      ],
+      "location_display": "India; Gurugram, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "General Manager - AI Solutions",
+      "title_original": "General Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-07T12:15:30.759Z",
+      "apply_url": "https://careers.kula.ai/zamp-ai/25234/",
+      "location_ids": [
+        "bengaluru_office",
+        "hyderabad_office"
+      ],
+      "location_display": "India; Hyderabad, India",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of General Manager at Zamp involves significant responsibilities akin to running a business, including full P&L responsibility, driving customer success, and contributing to company-wide strategy. This entrepreneurial aspect aligns closely with the Entrepreneurs & Founders category, as the position requires a driven, entrepreneurial leader to build and manage a pod within the company."
+    },
+    {
+      "title": "Client Partner",
+      "apply_url": "https://careers.kula.ai/zamp-ai/51406/",
+      "location_ids": [
+        "indianapolis_office",
+        "minneapolis_office"
+      ],
+      "location_display": "United States; Minneapolis, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    },
+    {
+      "title": "Forward Deployed Infrastructure Engineer",
+      "apply_url": "https://careers.kula.ai/zamp-ai/53309/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-08-31"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering",
+        "entrepreneurs",
+        "other",
+        "hr",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "other",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "other",
+        "entrepreneurs"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "other",
+        "entrepreneurs"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "indianapolis_office",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "country": "United States",
+      "latitude": 39.7684,
+      "longitude": -86.1581,
+      "exact_address": "Indianapolis, Indiana, United States",
+      "departments": [
+        "other",
+        "entrepreneurs"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_mateo_office",
+      "city": "San Mateo",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.563,
+      "longitude": -122.3255,
+      "exact_address": "San Mateo, California, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "entrepreneurs"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "exact_address": "Minneapolis, Minnesota, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-02T06:54:45.443Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-02T06:54:45.443Z",
+    "total_funding_raised": "$10 million",
+    "total_funding_raised_last_updated": "2025-12-02T06:54:45.443Z",
+    "key_investors": [
+      {
+        "name": "Valor Equity Partners",
+        "domain": "valorequity.com"
+      },
+      {
+        "name": "Venus Williams",
+        "domain": null
+      },
+      {
+        "name": "Day One Ventures",
+        "domain": "dayoneventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Valor Equity Partners",
+        "logo_url": "/investor-logos/valor-equity-partners.png"
+      },
+      {
+        "name": "Venus Williams",
+        "logo_url": "/investor-logos/venus-williams.png"
+      },
+      {
+        "name": "Day One Ventures",
+        "logo_url": "/investor-logos/day-one.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-02T06:54:45.443Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_run_rate_usd": "mid-millions",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "learning-development",
+    "meal-allowance",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.roles[0].salary_estimated.citations": [
+      "https://www.ambitionbox.com/salaries/zamp-salaries/senior-software-developer",
+      "https://www.ambitionbox.com/salaries/zamp-salaries/bengaluru-location",
+      "https://www.levels.fyi/companies/zamp/salaries/software-engineer",
+      "https://pathvio.in/salary/senior-software-engineer-india",
+      "https://6figr.com/in/salary/zamp",
+      "https://www.ambitionbox.com/salaries/zamp-salaries"
+    ],
+    "job_data.roles[0].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-02T06:54:45.443Z",
+    "company_basic_information.website_url_last_updated": "2025-12-02T06:54:45.443Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-02T06:54:45.443Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-02T06:54:45.443Z",
+    "company_basic_information.last_updated": "2025-12-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-02T14:37:48.919Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-02T14:38:05.389Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T07:59:35.306Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:05:31.990Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-02T14:38:37.677Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T07:59:45.574Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:05:38.212Z",
+    "social_media.instagram_url_last_verified": "2025-12-02T14:39:50.217Z",
+    "social_media.x_url_last_verified": "2025-12-02T14:40:40.414Z",
+    "social_media.linkedin_url_last_verified": "2025-12-02T14:40:47.476Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:17:57.829Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-02T06:54:45.443Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-02T06:54:45.443Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-02T06:54:45.443Z",
+    "financial_information.investor_logos_last_updated": "2025-12-02T06:54:45.443Z",
+    "location_mapping[0].last_updated": "2025-12-02T06:54:45.443Z",
+    "location_mapping[1].last_updated": "2025-12-02T06:54:45.443Z",
+    "job_data.roles[0].posted_date": "2026-08-31",
+    "job_data.roles[0].salary_estimated.fetched_at": "2026-07-21T05:14:36.776Z",
+    "job_data.roles[1].posted_date": "2026-08-31",
+    "job_data.roles[2].posted_date": "2026-08-31",
+    "job_data.roles[3].posted_date": "2026-08-31",
+    "job_data.roles[4].posted_date": "2026-08-31",
+    "job_data.roles[5].posted_date": "2026-08-31",
+    "job_data.roles[6].posted_date": "2026-08-31",
+    "job_data.roles[7].posted_date": "2026-08-31",
+    "job_data.roles[7].title_updated_timestamp": "2026-06-07T12:15:30.759Z",
+    "job_data.roles[8].posted_date": "2026-08-31",
+    "job_data.roles[9].posted_date": "2026-08-31",
+    "job_data.last_updated": "2026-09-14T13:09:16.493Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T08:05:30.233Z",
+    "benefits.health-insurance.last_updated": "2026-01-07T08:05:30.233Z",
+    "benefits.learning-development.last_updated": "2026-01-07T08:05:30.233Z",
+    "benefits.meal-allowance.last_updated": "2026-01-07T08:05:30.233Z",
+    "benefits.team-events.last_updated": "2026-01-07T08:05:30.233Z"
+  }
+}

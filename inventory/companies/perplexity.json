@@ -1,0 +1,2526 @@
+{
+  "slug": "perplexity",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/64585.650c239437969e93.js",
+  "observed_at": "2026-09-28T08:35:13.437684+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 86174,
+    "sha256": "1de9df631b39ab66490de8261cc6fe9696368ec77446d9128dbd36f291acce6c",
+    "elapsed_seconds": 0.18,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:13 GMT",
+      "etag": "\"78bf95a13e1eb501d639a0881f81c210\"",
+      "last-modified": "Mon, 28 Sep 2026 08:14:35 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Perplexity",
+    "company_name_legal": "Perplexity AI, Inc.",
+    "founded_year": 2022,
+    "website_url": "https://www.perplexity.ai",
+    "careers_url": "https://jobs.ashbyhq.com/Perplexity",
+    "investor_portfolio_page": null,
+    "id": 124
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 121,
+    "last_updated": "2026-09-24T09:49:05.331Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 121,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Engineer, Applied ML",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$200k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-19",
+      "ashby_job_id": "3c656963-876a-458d-bca6-916a42a24c1a"
+    },
+    {
+      "title": "AI Inference Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$200k-350k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2024-06-10",
+      "ashby_job_id": "8a976851-9bef-4b07-8d36-567fa9540aef"
+    },
+    {
+      "title": "AI Inference Engineer (London)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-17",
+      "ashby_job_id": "e4777627-ff8f-4257-8612-3a016bb58592"
+    },
+    {
+      "title": "AI Infra Engineer (San Francisco)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$190k-250k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-15",
+      "ashby_job_id": "598e1f7d-b802-4de2-99ac-90eb2bc33315"
+    },
+    {
+      "title": "AI Researcher",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$200k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-19",
+      "ashby_job_id": "8fe61c73-0daf-4432-a47d-44714c1ef764"
+    },
+    {
+      "title": "Backend Software Engineer - Search, Crawler Team (London, Belgrade, Berlin)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-28",
+      "ashby_job_id": "94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": "$150k-190k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-06",
+      "ashby_job_id": "9a570310-305d-4f4e-9807-b8862b31194b"
+    },
+    {
+      "title": "Search Senior Backend/Infrastructure Engineer  (London, Belgrade, Berlin)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-03-07",
+      "ashby_job_id": "dd80ab52-34bd-42af-aa5e-6283b7e6c194"
+    },
+    {
+      "title": "Search Senior Machine Learning Engineer (London, Belgrade, Berlin)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-03-25",
+      "ashby_job_id": "0190699f-010b-44f2-8399-278899fef018"
+    },
+    {
+      "title": "Senior C++ Developer - Search Core (London, Belgrade, Berlin)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-03-31",
+      "ashby_job_id": "27aa1a14-bc59-4613-a65a-38598695076f"
+    },
+    {
+      "title": "Software Engineer - Security",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$200k-300k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-02",
+      "ashby_job_id": "6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
+    },
+    {
+      "title": "Executive & Internal Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$190k-240k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-15",
+      "ashby_job_id": "2df92d4a-48eb-422f-af9c-4a963fd6135c"
+    },
+    {
+      "title": "Internship - Search Backend Infra Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-13",
+      "ashby_job_id": "be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+    },
+    {
+      "title": "Internship - Search Machine Learning Engineer (Belgrade)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-13",
+      "ashby_job_id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$220k-290k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-15",
+      "ashby_job_id": "5ec96ca1-319a-4b85-99ce-e06629099cf9"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$90k-130k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-22",
+      "ashby_job_id": "a5b97109-222d-49e1-b2ac-e101487a5ddd"
+    },
+    {
+      "title": "Software Engineer - Data Flywheel",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$210k-385k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-13",
+      "ashby_job_id": "7755eb0a-0f51-4286-b75e-591e44c741bc"
+    },
+    {
+      "title": "Analytics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": "$210k-330k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-20",
+      "ashby_job_id": "fed8d2c4-9c82-43ad-a168-434146c759ff"
+    },
+    {
+      "title": "Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": "$210k-330k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-20",
+      "ashby_job_id": "d680e788-14d3-43f6-8ce8-5df486ca32d0"
+    },
+    {
+      "title": "Demand Generation",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/2be717cb-ad3e-4052-a464-79b107a70406",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-215k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-17",
+      "ashby_job_id": "2be717cb-ad3e-4052-a464-79b107a70406"
+    },
+    {
+      "title": "IT Systems Administrator",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/18509f15-ab49-450d-8a01-4b280e464ad0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": "$150k-180k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-02",
+      "ashby_job_id": "18509f15-ab49-450d-8a01-4b280e464ad0"
+    },
+    {
+      "title": "Offensive Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": "$250k-350k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-02",
+      "ashby_job_id": "69fd6a56-0050-44f7-9ed2-2c3a7320908d"
+    },
+    {
+      "title": "Internship - Search Machine Learning Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-08",
+      "ashby_job_id": "71168628-1998-47d3-87a9-be7bc56a430d"
+    },
+    {
+      "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-13",
+      "ashby_job_id": "60deb376-51b5-46c6-9e17-55377a5ef34e"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Computer)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-22",
+      "ashby_job_id": "4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Monetization)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-23",
+      "ashby_job_id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4"
+    },
+    {
+      "title": "Product Manager (Builder)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": "$230k-330k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-21",
+      "ashby_job_id": "f25e190e-0508-4707-b575-fcaed358dc13"
+    },
+    {
+      "title": "Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/acd466ba-536f-49da-968a-15b8c53298f8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-400k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-13",
+      "ashby_job_id": "acd466ba-536f-49da-968a-15b8c53298f8"
+    },
+    {
+      "title": "Scaled Enterprise Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": "$150k-175k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-16",
+      "ashby_job_id": "fdc2ea75-c198-4a9e-9c0a-df835ed61ed0"
+    },
+    {
+      "title": "Sales Systems Engineer, Enterprise Operations",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$200k-230k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-19",
+      "ashby_job_id": "6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc"
+    },
+    {
+      "title": "Commercial Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/e0e8188a-9c92-4795-82a5-7384f1b25bc7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": "$140k-220k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-08",
+      "ashby_job_id": "e0e8188a-9c92-4795-82a5-7384f1b25bc7"
+    },
+    {
+      "title": "Engineering Manager (API Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/29625b7a-5470-463b-8446-21fac84e80b9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$300k-405k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-11",
+      "ashby_job_id": "29625b7a-5470-463b-8446-21fac84e80b9"
+    },
+    {
+      "title": "Member of Creative Studio (Producer, Brand & Creative)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": "$180k-210k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "678d1162-e650-4d6d-9532-b287255c00fb"
+    },
+    {
+      "title": "Member of Creative Studio (Web Designer - Marketing & Landing Pages)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": "$180k-210k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "7ae341c4-411e-468c-bc26-bbdd8e55d388"
+    },
+    {
+      "title": "Member of Technical Staff (AI Software Engineer, Multimodal)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-06",
+      "ashby_job_id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81"
+    },
+    {
+      "title": "Member of Technical Staff (ML Engineer, Recommendations & User Modeling)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-06",
+      "ashby_job_id": "affd3040-91e4-4e0c-bd2f-4b022c613f91"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Acceleration)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$250k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-08",
+      "ashby_job_id": "f45ba174-7e99-4743-9d19-6e4d3e196458"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, API Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-11",
+      "ashby_job_id": "3f800e42-7c48-4f9a-9b12-43ee23e52516"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "7795683f-6c5f-40cd-af2d-51294edddd4b"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "0d722589-0f8c-4500-ae79-d3bba5c8a0ea"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "e7ab0be5-68ba-4a2c-abb1-ee33886d955d"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Data Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "2e73bc78-684c-47c5-95df-e9973a10e0b6"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Storage Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "b404e73c-5aff-4151-a1a8-6593fb6ccabf"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Connector Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": "$220k-405k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-15",
+      "ashby_job_id": "daafcaba-cc39-487a-b941-d7a407753788"
+    },
+    {
+      "title": "Product Marketing Manager, API",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/dd9c7675-1369-4320-afdb-c8caef22ce3a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": "$220k-290k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "dd9c7675-1369-4320-afdb-c8caef22ce3a"
+    },
+    {
+      "title": "Sr. Technical Sourcer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/1523826c-80ca-4e32-95f2-ddd6604afd26",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": "$150k-185k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-19",
+      "ashby_job_id": "1523826c-80ca-4e32-95f2-ddd6604afd26"
+    },
+    {
+      "title": "Design Systems Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3d277236-2cf3-4a59-b435-71540cc05712",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "3d277236-2cf3-4a59-b435-71540cc05712"
+    },
+    {
+      "title": "Governance, Risk & Compliance Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-08",
+      "ashby_job_id": "977b626c-5546-42c6-95c8-4e2350ec41c9"
+    },
+    {
+      "title": "Internal Communications Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/8f2873af-9149-4037-a36f-2dda73cee1a0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "8f2873af-9149-4037-a36f-2dda73cee1a0"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Agentic Enterprise)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "2c5fdd71-472a-4c62-bc53-deafb66e7941"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Integrations)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "ea87532c-69a0-497d-9cf3-04cc2a6c6410"
+    },
+    {
+      "title": "Senior Editor",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/ebd5d9b3-39c4-498b-85a6-2f565e001d7e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "ebd5d9b3-39c4-498b-85a6-2f565e001d7e"
+    },
+    {
+      "title": "Social Media Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "9740bc68-7297-4d69-ae54-3be81ae3745a"
+    },
+    {
+      "title": "AI Strategist, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "31dfcb60-a0df-4983-b3a4-d653cdc0aa8f"
+    },
+    {
+      "title": "AI Strategist, Legal",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "fb1815de-07d9-4933-8746-979dbcb00870"
+    },
+    {
+      "title": "Associate Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/08f1a218-bdff-4cdd-aefe-0d55529b1ece",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "08f1a218-bdff-4cdd-aefe-0d55529b1ece"
+    },
+    {
+      "title": "Business Development Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/82ccb259-a9e7-4fb0-bf9a-04be588e015f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "82ccb259-a9e7-4fb0-bf9a-04be588e015f"
+    },
+    {
+      "title": "Enterprise Product Growth Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b349ec0e-be02-47b0-8595-8de0dbb074c5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "b349ec0e-be02-47b0-8595-8de0dbb074c5"
+    },
+    {
+      "title": "GTM Strategy & Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b75db90b-ca13-4a2f-aac4-c7764b631540",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "b75db90b-ca13-4a2f-aac4-c7764b631540"
+    },
+    {
+      "title": "Member of Data Staff (AI Builder)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/a14c4626-ed07-4151-a923-3a710fb66de2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "a14c4626-ed07-4151-a923-3a710fb66de2"
+    },
+    {
+      "title": "Member of Technical Staff (Secure Intelligence Institute)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "32a36cae-ad73-4198-9354-a72b141ff055"
+    },
+    {
+      "title": "Partner Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "d5bc2302-202f-4596-9c4d-8720d1e79064"
+    },
+    {
+      "title": "Program Manager, Talent Acquisition",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/8ede25ea-9212-4007-bb99-feae4d1a3014",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-27",
+      "ashby_job_id": "8ede25ea-9212-4007-bb99-feae4d1a3014"
+    },
+    {
+      "title": "Account Executive, API",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/5551fd7b-9ede-460e-9b38-4328c476a521",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "5551fd7b-9ede-460e-9b38-4328c476a521"
+    },
+    {
+      "title": "Design Engineer, Growth & Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "fbbd496b-1d14-4396-b31d-38fbea0dc666"
+    },
+    {
+      "title": "Legal and Operations Engineering Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/971c4e14-6a13-4cd3-a473-015e29541a15",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "971c4e14-6a13-4cd3-a473-015e29541a15"
+    },
+    {
+      "title": "Member of Technical Staff (Model Behavior)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "2c6ae16b-d03e-4e33-9d32-362c5388e956"
+    },
+    {
+      "title": "Revenue Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "03f8f956-1cb3-4945-81d1-73b7ff048d4e"
+    },
+    {
+      "title": "Sales Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/cf0c3486-3fdc-4045-aece-9459cb7d7a6d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-11",
+      "ashby_job_id": "cf0c3486-3fdc-4045-aece-9459cb7d7a6d"
+    },
+    {
+      "title": "Engineering Site Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "c6c857f3-c0db-4d93-aeed-638b9f9d4eb6"
+    },
+    {
+      "title": "Litigation Paralegal",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b4e14a27-4aa7-4913-91e8-ca88e6310e80",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "b4e14a27-4aa7-4913-91e8-ca88e6310e80"
+    },
+    {
+      "title": "Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "19d8bcfd-e493-4b3a-b8fd-11a2a6502da2"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, AI Systems)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/7dedcdea-42be-4bb0-b603-791146ff73f0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "7dedcdea-42be-4bb0-b603-791146ff73f0"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Design System)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "78675022-c4a7-41d2-9259-7c59be4de93c"
+    },
+    {
+      "title": "Principal Counsel, Corporate",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/25fb9e90-e164-4a50-b35f-535572f35a30",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "25fb9e90-e164-4a50-b35f-535572f35a30"
+    },
+    {
+      "title": "Senior Content Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/f05bd47b-bed8-4f00-9d9c-026c72578e82",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "f05bd47b-bed8-4f00-9d9c-026c72578e82"
+    },
+    {
+      "title": "Solutions Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "9e3a4516-b893-4579-9a6a-3720658e4b6d"
+    },
+    {
+      "title": "Sr. Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/d0b3d839-a0bf-43cc-a19f-d1c2627bef1b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "d0b3d839-a0bf-43cc-a19f-d1c2627bef1b"
+    },
+    {
+      "title": "Technical Recruiter, AI",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "ef269656-94ef-463a-ae0e-6102ca3a94dd"
+    },
+    {
+      "title": "Technical Recruiter (London, Serbia)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/d38e4b28-6ced-46b0-bb58-37ba49776e77",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "d38e4b28-6ced-46b0-bb58-37ba49776e77"
+    },
+    {
+      "title": "Technical Sourcer, AI",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-25",
+      "ashby_job_id": "3d7ef710-b1f6-4a80-af57-946f9bccd35b"
+    },
+    {
+      "title": "Applied AI Architect, Perplexity Computer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4fba58de-a168-4948-9d82-a7d4b38f45f2"
+    },
+    {
+      "title": "Brand Designer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "04d73be4-8a69-4e62-9b0d-e9b7968cf860"
+    },
+    {
+      "title": "Counsel, Product",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/5930b6bf-b4b1-4134-a183-832d69dd085f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5930b6bf-b4b1-4134-a183-832d69dd085f"
+    },
+    {
+      "title": "Director, Litigation",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/ea29039d-3900-43d3-a555-ff790677cbe9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ea29039d-3900-43d3-a555-ff790677cbe9"
+    },
+    {
+      "title": "Enablement Specialist, Perplexity Computer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3163a2c9-f9d3-4596-bf88-0c55298bd027",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "3163a2c9-f9d3-4596-bf88-0c55298bd027",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Enablement Specialist role primarily focuses on designing and delivering onboarding and adoption programs for enterprise customers, which aligns closely with customer success initiatives. The responsibilities emphasize helping customers achieve sustained product use and overcoming adoption barriers, which are key aspects of customer success."
+    },
+    {
+      "title": "Field Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
+    },
+    {
+      "title": "Internship - Machine Learning Research Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b9e1ff15-d52a-46d5-abf0-26460f2a116c"
+    },
+    {
+      "title": "Lead Product Designer, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82"
+    },
+    {
+      "title": "Lead Product Designer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7"
+    },
+    {
+      "title": "Member of Technical Staff (Search Quality Analyst)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b00cbb00-f672-4909-a7be-bbd02c7d7b5f"
+    },
+    {
+      "title": "Member of Technical Staff (Software Engineer, Infrastructure)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "76c9b39f-aecc-4247-b5f5-ebcd02dff7c3"
+    },
+    {
+      "title": "Member of Technical Staff (TPM, Inference)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0c5d5a82-bfed-4786-b411-79073979af07"
+    },
+    {
+      "title": "Motion Designer",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "39d520eb-6b81-4b61-8b23-5efcdac4cad9"
+    },
+    {
+      "title": "Product Manager, AI Capabilities",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7f880194-7276-4b46-8a50-58b48da8882e"
+    },
+    {
+      "title": "Product Manager, Core Experience",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "6f3c5131-2efa-400c-8248-44203a4dbfbb"
+    },
+    {
+      "title": "Product Manager, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "fa088d92-b08b-43f7-9232-275b0ae08827"
+    },
+    {
+      "title": "Product Manager, Mobile Apps",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "3c9c051f-e6ca-4a70-9abf-1f640e154ee1"
+    },
+    {
+      "title": "Product Manager, SMB Growth",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
+    },
+    {
+      "title": "Public Policy Associate",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/846e6848-dfb5-4f60-ac5d-5803f6a5e73d",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington D.C.",
+      "role_department": "public-policy",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "846e6848-dfb5-4f60-ac5d-5803f6a5e73d"
+    },
+    {
+      "title": "Strategic Finance Lead - AI",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f4d81f6b-958c-4bc0-a9aa-9850c3508ca9"
+    },
+    {
+      "title": "Strategic Finance Lead - Compute",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/39250c5d-1670-4a63-8a66-bfd495c85e6f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "39250c5d-1670-4a63-8a66-bfd495c85e6f"
+    },
+    {
+      "title": "Virtual Events Manager",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/76e72775-69db-4aea-b03b-a87d5a589f58",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "76e72775-69db-4aea-b03b-a87d5a589f58"
+    },
+    {
+      "title": "Commercial Counsel/Senior Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "09a2f0e5-c38c-49ee-a5af-9a179e137a44"
+    },
+    {
+      "title": "Consumer Support Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6628bead-dec0-4ed2-8aef-5a036815d2a0",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "6628bead-dec0-4ed2-8aef-5a036815d2a0"
+    },
+    {
+      "title": "Engineering Manager (TLM, Agents)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/656b4b2e-5670-411c-9091-f355983a92a0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "656b4b2e-5670-411c-9091-f355983a92a0"
+    },
+    {
+      "title": "Enterprise Customer Support Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/229b066a-afb2-4eca-86ac-e20f38d11a19",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "229b066a-afb2-4eca-86ac-e20f38d11a19"
+    },
+    {
+      "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "daa9120e-94ff-46e0-b4bd-4d2d290cb409"
+    },
+    {
+      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "a172ada5-1a6e-4646-8e0d-26747422af24"
+    },
+    {
+      "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "5c561bd0-c180-4ee1-b079-647f3c20bdc0"
+    },
+    {
+      "title": "Member of Technical Staff (Machine Learning Research Engineer)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "1a3df802-9238-4827-ab1f-12a9d1e4b81c"
+    },
+    {
+      "title": "Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream)",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/89750227-f7fe-4e9f-bcdd-eada353163fd",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "89750227-f7fe-4e9f-bcdd-eada353163fd"
+    },
+    {
+      "title": "Payroll Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1"
+    },
+    {
+      "title": "Perplexity Research Fellowship",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ab076e26-adf1-414f-a006-7b1bdc9247c8"
+    },
+    {
+      "title": "Sales Leader, Sales Development, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3b6ad2b6-4310-48f1-a71f-dc344c94f2b0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3b6ad2b6-4310-48f1-a71f-dc344c94f2b0"
+    },
+    {
+      "title": "Senior Cinematographer, Brand Studio",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/38caef61-f8b9-4ba9-a640-870a1e77ba54",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "38caef61-f8b9-4ba9-a640-870a1e77ba54"
+    },
+    {
+      "title": "Sr. Business Recruiter, Communications & Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/759fc651-210a-48d5-8a9c-7f7789e20ab1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "759fc651-210a-48d5-8a9c-7f7789e20ab1"
+    },
+    {
+      "title": "Sr. Workplace Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/3077e11d-8008-4980-a901-84d8b7993bc9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3077e11d-8008-4980-a901-84d8b7993bc9"
+    },
+    {
+      "title": "Strategic Business Operations Lead, API",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "cf99602c-3f06-4443-bc8a-e03d0a67ad4c"
+    },
+    {
+      "title": "Technical Customer Success Manager, API",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/6754c9cc-89c2-4d7f-b966-66de6e8cac4b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "6754c9cc-89c2-4d7f-b966-66de6e8cac4b"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.51226,
+      "longitude": -0.07864,
+      "exact_address": "C/O Cogency Global (UK) Limited, 6 Lloyds Avenue, Unit 4CL, London, United Kingdom - EC3N 3AX",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7897,
+      "longitude": -122.3972,
+      "exact_address": "115 Sansome Street, Suite 900, San Francisco, California, 94104, United States",
+      "departments": [
+        "finance",
+        "ai",
+        "data",
+        "engineering",
+        "design",
+        "content-production",
+        "customer-support",
+        "other",
+        "customer-success",
+        "legal",
+        "marketing",
+        "product",
+        "qa",
+        "research",
+        "hr"
+      ],
+      "employee_count": "80+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "engineering",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belgrade_office",
+      "city": "Belgrade",
+      "state": null,
+      "country": "Serbia",
+      "latitude": 44.7866,
+      "longitude": 20.4489,
+      "exact_address": "Belgrade, Serbia",
+      "departments": [
+        "engineering",
+        "product",
+        "qa",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4419,
+      "longitude": -122.143,
+      "exact_address": "Palo Alto, California, United States",
+      "departments": [
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "public-policy"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2025-12-09T21:15:54.284Z",
+    "current_valuation_usd": "$20 billion",
+    "current_valuation_usd_last_updated": "2025-12-09T21:15:54.284Z",
+    "total_funding_raised": "$1.5 billion",
+    "total_funding_raised_last_updated": "2025-12-09T21:15:54.284Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "New Enterprise Associates",
+        "domain": "nea.com"
+      },
+      {
+        "name": "Elad Gil",
+        "domain": "eladgil.com"
+      },
+      {
+        "name": "Nat Friedman",
+        "domain": "natsp.in"
+      },
+      {
+        "name": "Bob Muglia",
+        "domain": "bobmuglia.com"
+      },
+      {
+        "name": "Susan Wojcicki",
+        "domain": "susanwojcicki.com"
+      },
+      {
+        "name": "Paul Buchheit",
+        "domain": "paulbuchheit.com"
+      },
+      {
+        "name": "Soleio",
+        "domain": "soleio.com"
+      },
+      {
+        "name": "Databricks Ventures",
+        "domain": "databricks.com"
+      },
+      {
+        "name": "Pieter Abbeel",
+        "domain": "pieterabbeel.com"
+      },
+      {
+        "name": "Yann LeCun",
+        "domain": "yann.lecun.com"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "domain": "karpathy.ai"
+      },
+      {
+        "name": "Ashish Vaswani",
+        "domain": "ashishvaswani.com"
+      },
+      {
+        "name": "Amjad Masad",
+        "domain": "amjadmasad.com"
+      },
+      {
+        "name": "Clem Delangue",
+        "domain": "clem.dev"
+      },
+      {
+        "name": "Jeff Bezos",
+        "domain": "amazon.com"
+      },
+      {
+        "name": "Tobi Lütke",
+        "domain": "shopify.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "domain": "softbank.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "New Enterprise Associates",
+        "logo_url": "/investor-logos/nea.png"
+      },
+      {
+        "name": "Elad Gil",
+        "logo_url": "/investor-logos/elad-gil.png"
+      },
+      {
+        "name": "Nat Friedman",
+        "logo_url": "/investor-logos/nat-friedman.png"
+      },
+      {
+        "name": "Bob Muglia",
+        "logo_url": "/investor-logos/bob-muglia.png"
+      },
+      {
+        "name": "Susan Wojcicki",
+        "logo_url": "/investor-logos/susan-wojcicki.png"
+      },
+      {
+        "name": "Paul Buchheit",
+        "logo_url": "/investor-logos/paul-buchheit.png"
+      },
+      {
+        "name": "Soleio",
+        "logo_url": "/investor-logos/angel-investors.png"
+      },
+      {
+        "name": "Databricks Ventures",
+        "logo_url": "/investor-logos/databricks-ventures.png"
+      },
+      {
+        "name": "Pieter Abbeel",
+        "logo_url": "/investor-logos/pieter-abbeel.png"
+      },
+      {
+        "name": "Yann LeCun",
+        "logo_url": "/investor-logos/yann-lecun.png"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "logo_url": "/investor-logos/andrej-karpathy.png"
+      },
+      {
+        "name": "Ashish Vaswani",
+        "logo_url": "/investor-logos/ashish-vaswani.png"
+      },
+      {
+        "name": "Amjad Masad",
+        "logo_url": "/investor-logos/amjad-masad.png"
+      },
+      {
+        "name": "Clem Delangue",
+        "logo_url": "/investor-logos/clem-delangue.png"
+      },
+      {
+        "name": "Jeff Bezos",
+        "logo_url": "/investor-logos/jeff-bezos.png"
+      },
+      {
+        "name": "Tobi Lütke",
+        "logo_url": "/investor-logos/tobi-ltke.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "logo_url": "/investor-logos/softbank-vision-fund-2.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-09T21:15:54.284Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$200 million",
+      "revenue_growth_rate": 20
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "gym-membership",
+    "commute-allowance",
+    "childcare-support",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "sankalp",
+    "leadership.founders[3].x_twitter_verified_by": "sankalp",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-09T21:15:54.284Z",
+    "company_basic_information.website_url_last_updated": "2025-12-09T21:15:54.284Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-09T21:15:54.284Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-09T21:15:54.284Z",
+    "company_basic_information.last_updated": "2025-12-09",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-10T10:46:49.976Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-10T10:47:11.405Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:29:07.821Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:36:21.064Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-10T10:47:29.903Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-10T10:47:47.873Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:29:18.301Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:36:26.492Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-12-10T10:48:07.804Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2025-12-10T11:32:57.945Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-04T08:29:28.665Z",
+    "leadership.founders[2].description_last_updated": "2026-02-04T08:36:31.592Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2025-12-10T12:40:11.687Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2025-12-10T12:40:50.577Z",
+    "leadership.founders[3].image_url_last_updated": "2026-02-04T08:29:39.377Z",
+    "leadership.founders[3].description_last_updated": "2026-02-04T08:36:37.166Z",
+    "social_media.x_url_last_verified": "2025-12-10T10:49:24.431Z",
+    "social_media.linkedin_url_last_verified": "2025-12-10T10:49:59.252Z",
+    "social_media.instagram_url_last_verified": "2025-12-10T10:50:15.617Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:18:10.329Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-09T21:15:54.284Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-09T21:15:54.284Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-09T21:15:54.284Z",
+    "financial_information.investor_logos_last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[0].last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[1].last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[2].last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[3].last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[4].last_updated": "2025-12-09T21:15:54.284Z",
+    "location_mapping[5].last_updated": "2025-12-10T11:17:37.336Z",
+    "job_data.roles[0].posted_date": "2025-09-19",
+    "job_data.roles[1].posted_date": "2024-06-10",
+    "job_data.roles[2].posted_date": "2025-11-17",
+    "job_data.roles[3].posted_date": "2025-07-15",
+    "job_data.roles[4].posted_date": "2025-09-19",
+    "job_data.roles[5].posted_date": "2025-07-28",
+    "job_data.roles[6].posted_date": "2025-10-06",
+    "job_data.roles[7].posted_date": "2025-03-07",
+    "job_data.roles[8].posted_date": "2025-03-25",
+    "job_data.roles[9].posted_date": "2025-03-31",
+    "job_data.roles[10].posted_date": "2025-12-02",
+    "job_data.roles[11].posted_date": "2026-01-15",
+    "job_data.roles[12].posted_date": "2026-01-13",
+    "job_data.roles[13].posted_date": "2026-01-13",
+    "job_data.roles[14].posted_date": "2026-01-15",
+    "job_data.roles[15].posted_date": "2026-01-22",
+    "job_data.roles[16].posted_date": "2026-02-13",
+    "job_data.roles[17].posted_date": "2026-02-20",
+    "job_data.roles[18].posted_date": "2026-02-20",
+    "job_data.roles[19].posted_date": "2026-03-17",
+    "job_data.roles[20].posted_date": "2026-04-02",
+    "job_data.roles[21].posted_date": "2026-04-02",
+    "job_data.roles[22].posted_date": "2026-04-08",
+    "job_data.roles[23].posted_date": "2026-04-13",
+    "job_data.roles[24].posted_date": "2026-04-22",
+    "job_data.roles[25].posted_date": "2026-04-23",
+    "job_data.roles[26].posted_date": "2026-04-21",
+    "job_data.roles[27].posted_date": "2026-05-13",
+    "job_data.roles[28].posted_date": "2026-05-16",
+    "job_data.roles[29].posted_date": "2026-05-19",
+    "job_data.roles[30].posted_date": "2026-06-08",
+    "job_data.roles[31].posted_date": "2026-06-11",
+    "job_data.roles[32].posted_date": "2026-06-03",
+    "job_data.roles[33].posted_date": "2026-06-03",
+    "job_data.roles[34].posted_date": "2026-06-06",
+    "job_data.roles[35].posted_date": "2026-06-06",
+    "job_data.roles[36].posted_date": "2026-06-08",
+    "job_data.roles[37].posted_date": "2026-06-11",
+    "job_data.roles[38].posted_date": "2026-06-03",
+    "job_data.roles[39].posted_date": "2026-06-03",
+    "job_data.roles[40].posted_date": "2026-06-04",
+    "job_data.roles[41].posted_date": "2026-06-03",
+    "job_data.roles[42].posted_date": "2026-06-03",
+    "job_data.roles[43].posted_date": "2026-06-15",
+    "job_data.roles[44].posted_date": "2026-06-17",
+    "job_data.roles[45].posted_date": "2026-06-19",
+    "job_data.roles[46].posted_date": "2026-07-09",
+    "job_data.roles[47].posted_date": "2026-07-08",
+    "job_data.roles[48].posted_date": "2026-07-01",
+    "job_data.roles[49].posted_date": "2026-07-09",
+    "job_data.roles[50].posted_date": "2026-07-09",
+    "job_data.roles[51].posted_date": "2026-07-01",
+    "job_data.roles[52].posted_date": "2026-07-01",
+    "job_data.roles[53].posted_date": "2026-07-27",
+    "job_data.roles[54].posted_date": "2026-07-27",
+    "job_data.roles[55].posted_date": "2026-07-27",
+    "job_data.roles[56].posted_date": "2026-07-27",
+    "job_data.roles[57].posted_date": "2026-07-27",
+    "job_data.roles[58].posted_date": "2026-07-27",
+    "job_data.roles[59].posted_date": "2026-07-27",
+    "job_data.roles[60].posted_date": "2026-07-27",
+    "job_data.roles[61].posted_date": "2026-07-27",
+    "job_data.roles[62].posted_date": "2026-07-27",
+    "job_data.roles[63].posted_date": "2026-08-11",
+    "job_data.roles[64].posted_date": "2026-08-11",
+    "job_data.roles[65].posted_date": "2026-08-11",
+    "job_data.roles[66].posted_date": "2026-08-11",
+    "job_data.roles[67].posted_date": "2026-08-11",
+    "job_data.roles[68].posted_date": "2026-08-11",
+    "job_data.roles[69].posted_date": "2026-08-25",
+    "job_data.roles[70].posted_date": "2026-08-25",
+    "job_data.roles[71].posted_date": "2026-08-25",
+    "job_data.roles[72].posted_date": "2026-08-25",
+    "job_data.roles[73].posted_date": "2026-08-25",
+    "job_data.roles[74].posted_date": "2026-08-25",
+    "job_data.roles[75].posted_date": "2026-08-25",
+    "job_data.roles[76].posted_date": "2026-08-25",
+    "job_data.roles[77].posted_date": "2026-08-25",
+    "job_data.roles[78].posted_date": "2026-08-25",
+    "job_data.roles[79].posted_date": "2026-08-25",
+    "job_data.roles[80].posted_date": "2026-08-25",
+    "job_data.roles[81].posted_date": "2026-09-09",
+    "job_data.roles[82].posted_date": "2026-09-09",
+    "job_data.roles[83].posted_date": "2026-09-09",
+    "job_data.roles[84].posted_date": "2026-09-09",
+    "job_data.roles[85].posted_date": "2026-09-09",
+    "job_data.roles[86].posted_date": "2026-09-09",
+    "job_data.roles[87].posted_date": "2026-09-09",
+    "job_data.roles[88].posted_date": "2026-09-09",
+    "job_data.roles[89].posted_date": "2026-09-09",
+    "job_data.roles[90].posted_date": "2026-09-09",
+    "job_data.roles[91].posted_date": "2026-09-09",
+    "job_data.roles[92].posted_date": "2026-09-09",
+    "job_data.roles[93].posted_date": "2026-09-09",
+    "job_data.roles[94].posted_date": "2026-09-09",
+    "job_data.roles[95].posted_date": "2026-09-09",
+    "job_data.roles[96].posted_date": "2026-09-09",
+    "job_data.roles[97].posted_date": "2026-09-09",
+    "job_data.roles[98].posted_date": "2026-09-09",
+    "job_data.roles[99].posted_date": "2026-09-09",
+    "job_data.roles[100].posted_date": "2026-09-09",
+    "job_data.roles[101].posted_date": "2026-09-09",
+    "job_data.roles[102].posted_date": "2026-09-09",
+    "job_data.roles[103].posted_date": "2026-09-09",
+    "job_data.roles[104].posted_date": "2026-09-24",
+    "job_data.roles[105].posted_date": "2026-09-24",
+    "job_data.roles[106].posted_date": "2026-09-24",
+    "job_data.roles[107].posted_date": "2026-09-24",
+    "job_data.roles[108].posted_date": "2026-09-24",
+    "job_data.roles[109].posted_date": "2026-09-24",
+    "job_data.roles[110].posted_date": "2026-09-24",
+    "job_data.roles[111].posted_date": "2026-09-24",
+    "job_data.roles[112].posted_date": "2026-09-24",
+    "job_data.roles[113].posted_date": "2026-09-24",
+    "job_data.roles[114].posted_date": "2026-09-24",
+    "job_data.roles[115].posted_date": "2026-09-24",
+    "job_data.roles[116].posted_date": "2026-09-24",
+    "job_data.roles[117].posted_date": "2026-09-24",
+    "job_data.roles[118].posted_date": "2026-09-24",
+    "job_data.roles[119].posted_date": "2026-09-24",
+    "job_data.roles[120].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:49:05.331Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.health-insurance.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.dental-insurance.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.vision-insurance.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.retirement-401k.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.gym-membership.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.commute-allowance.last_updated": "2026-01-06T13:49:21.067Z",
+    "benefits.childcare-support.last_updated": "2026-01-06T13:49:21.067Z"
+  }
+}

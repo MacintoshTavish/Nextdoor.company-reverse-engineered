@@ -1,0 +1,212 @@
+{
+  "slug": "raven",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/66447.01f67ac93f999ce1.js",
+  "observed_at": "2026-09-28T08:35:48.441737+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7273,
+    "sha256": "67fade853b54e9d3a6bd7c9dbee49ad70dbc247bad0eca40f1c2997656707c00",
+    "elapsed_seconds": 0.444,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:48 GMT",
+      "etag": "\"d71e3bfe8fbb6b5d13f1ef0f36404257\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:48 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Raven",
+    "company_name_legal": "Raven",
+    "founded_year": 2021,
+    "website_url": "https://startraven.com",
+    "careers_url": "https://www.ycombinator.com/companies/raven/jobs",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/raven",
+    "id": 47
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-18T16:00:15.219Z",
+    "crawl_status": "success",
+    "source": "Y Combinator Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "skills",
+    "title",
+    "visa_sponsorship",
+    "work_mode",
+    "yc_job_id",
+    "yc_role_type"
+  ],
+  "jobs": [
+    {
+      "title": "Software Engineer (Backend/AI)",
+      "apply_url": "https://www.ycombinator.com/companies/raven/jobs/7OMJHg2-software-engineer-backend-ai",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "₹2M - ₹4.5M INR",
+      "experience": "3+ years",
+      "commitment": "Full-time",
+      "posted_date": "2025-08-11"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.929979,
+      "longitude": 77.684985,
+      "exact_address": "WeWork Embassy TechVillage, Block L, Outer Ring Road, Bellandur, Bengaluru, Karnataka, 560103, India",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-07T17:55:00.525Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-07T17:55:00.525Z",
+    "total_funding_raised": "$16.5 million",
+    "total_funding_raised_last_updated": "2025-10-07T17:55:00.525Z",
+    "key_investors": [
+      {
+        "name": "Momenta Ventures",
+        "domain": "momenta.one"
+      },
+      {
+        "name": "Chartline Capital Partners",
+        "domain": "chartlinecapital.com"
+      },
+      {
+        "name": "Celtic House Venture Partners",
+        "domain": "celtic.vc"
+      },
+      {
+        "name": "Export Development Canada",
+        "domain": "edc.ca"
+      },
+      {
+        "name": "Tobi Lütke",
+        "domain": "shopify.com"
+      },
+      {
+        "name": "Rob Ashe",
+        "domain": "ibm.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Momenta Ventures",
+        "logo_url": "/investor-logos/momenta.png"
+      },
+      {
+        "name": "Chartline Capital Partners",
+        "logo_url": "/investor-logos/chartline-capital-partners.png"
+      },
+      {
+        "name": "Celtic House Venture Partners",
+        "logo_url": "/investor-logos/celtic-house-venture.png"
+      },
+      {
+        "name": "Export Development Canada",
+        "logo_url": "/investor-logos/export-development-canada.png"
+      },
+      {
+        "name": "Tobi Lütke",
+        "logo_url": "/investor-logos/tobi-ltke.png"
+      },
+      {
+        "name": "Rob Ashe",
+        "logo_url": "/investor-logos/rob-ashe.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-07T17:55:00.525Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Y Combinator Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-07T17:25:42.487Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T10:08:06.439Z",
+    "company_basic_information.last_updated": "2025-10-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T08:26:53.435Z",
+    "leadership.founders[0].description_last_updated": "2026-01-29T08:33:51.206Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T08:27:02.102Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:33:56.818Z",
+    "leadership.last_updated": "2025-10-07T18:16:15.007Z",
+    "social_media.linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:04:06.872Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-10-07T17:55:00.525Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-07T17:55:00.525Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-07T17:55:00.525Z",
+    "financial_information.investor_logos_last_updated": "2025-10-07T17:55:00.525Z",
+    "location_mapping[0].last_updated": "2025-10-02T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2025-08-11",
+    "job_data.last_updated": "2026-09-18T16:00:15.219Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T14:50:15.962Z"
+  }
+}

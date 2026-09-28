@@ -1,0 +1,897 @@
+{
+  "slug": "orkes",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/65803.1f270f18db02dda0.js",
+  "observed_at": "2026-09-28T08:35:02.710036+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23932,
+    "sha256": "594430cf4ab0658898d7a8cbeec06ad7512c18847f19cf76325e58efd6e8c2da",
+    "elapsed_seconds": 0.149,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:02 GMT",
+      "etag": "\"d758a17479a99047d2c82b2875dbbf10\"",
+      "last-modified": "Mon, 28 Sep 2026 08:15:30 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Orkes",
+    "company_name_legal": "Orkes Inc",
+    "founded_year": 2020,
+    "website_url": "https://orkes.io",
+    "careers_url": "https://job-boards.greenhouse.io/orkes",
+    "investor_portfolio_page": null,
+    "id": 415
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 21,
+    "last_updated": "2026-09-19T16:55:02.435Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 21,
+  "role_field_names": [
+    "apply_url",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Community Developer Lead",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5255683008",
+      "location_ids": [
+        "cupertino_office",
+        "seattle_office"
+      ],
+      "location_display": "Cupertino, USA / Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5203462008",
+      "location_ids": [
+        "cupertino_office"
+      ],
+      "location_display": "Cupertino, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Senior Backend Engineer (Full-Stack Capable)",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5378021008",
+      "location_ids": [
+        "santa_clara_office"
+      ],
+      "location_display": "Santa Clara, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Senior Frontend Engineer (Full-Stack Capable)",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5378025008",
+      "location_ids": [
+        "santa_clara_office"
+      ],
+      "location_display": "Santa Clara, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Senior Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5378028008",
+      "location_ids": [
+        "santa_clara_office"
+      ],
+      "location_display": "Santa Clara, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Senior/Staff Software Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4998231008",
+      "location_ids": [
+        "santa_clara_office",
+        "seattle_office"
+      ],
+      "location_display": "Santa Clara, USA / Seattle, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5221481008",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office",
+        "berlin_office",
+        "munich_office",
+        "vienna_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office"
+      ],
+      "location_display": "Remote, Australia / Middle Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4894213008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Technical Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5228109008",
+      "location_ids": [
+        "cupertino_office"
+      ],
+      "location_display": "Cupertino, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Demand Generation Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5106378008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote US",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Human Resources Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5202015008",
+      "location_ids": [
+        "santa_clara_office"
+      ],
+      "location_display": "Santa Clara, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4228192008",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4408641008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4633656008",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4942344008",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4570427008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4422314008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4942356008",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/4433616008",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5384602008",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "vienna_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office"
+      ],
+      "location_display": "Remote, Northwestern / Middle Europe",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-08-22"
+    },
+    {
+      "title": "Lead Technical Recruiter",
+      "apply_url": "https://job-boards.greenhouse.io/orkes/jobs/5396233008",
+      "location_ids": [
+        "santa_clara_office"
+      ],
+      "location_display": "Santa Clara, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-08-22"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "engineering",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cupertino_office",
+      "city": "Cupertino",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.323,
+      "longitude": -122.0322,
+      "exact_address": "Cupertino, California, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "los angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3825941,
+      "longitude": -121.9693274,
+      "exact_address": "2445 Augustine Dr, Santa Clara, CA 95054",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santa_clara_office",
+      "city": "Cupertino",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3234,
+      "longitude": -122.0308,
+      "exact_address": "20380 Town Center Ln, Suite 200, Cupertino, California, United States - 95014",
+      "departments": [
+        "engineering",
+        "security",
+        "hr",
+        "product",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "74"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "marketing",
+        "product",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering",
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3763,
+      "longitude": 8.538,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-08-08T10:42:17.547Z",
+    "current_valuation_usd": "$100M",
+    "current_valuation_usd_last_updated": "2026-08-08T10:42:17.547Z",
+    "total_funding_raised": "$80M",
+    "total_funding_raised_last_updated": "2026-08-08T11:30:00.000Z",
+    "key_investors": [
+      {
+        "name": "AVP",
+        "domain": "avpcap.com"
+      },
+      {
+        "name": "Prosperity7 Ventures",
+        "domain": "prosperity7vc.com"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "domain": "nexusvp.com"
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "Vertex Ventures US",
+        "domain": "vvus.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "AVP",
+        "logo_url": null
+      },
+      {
+        "name": "Prosperity7 Ventures",
+        "logo_url": null
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "logo_url": "/investor-logos/nexus-venture.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "Vertex Ventures US",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-08T10:42:17.547Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "manual-edit",
+    "location_mapping[8].location_source": "searchapi-maps",
+    "location_mapping[8].location_source_query": "Orkes office los angeles California",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[16].location_source": "middle-europe-region-expansion",
+    "location_mapping[17].location_source": "middle-europe-region-expansion",
+    "location_mapping[18].location_source": "middle-europe-region-expansion",
+    "location_mapping[19].location_source": "middle-europe-region-expansion",
+    "location_mapping[20].location_source": "middle-europe-region-expansion",
+    "location_mapping[21].location_source": "middle-europe-region-expansion",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-08T10:42:17.547Z",
+    "company_basic_information.website_url_last_updated": "2026-08-08T10:42:17.547Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-08T10:42:17.547Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-08T10:42:17.547Z",
+    "company_basic_information.last_updated": "2026-08-08",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-08-08T10:48:47.288Z",
+    "leadership.founders[0].description_last_updated": "2026-08-08T10:50:09.614Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-08T10:49:00.909Z",
+    "leadership.founders[1].description_last_updated": "2026-08-08T10:50:16.383Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-08-08T10:50:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-08T10:49:19.823Z",
+    "leadership.founders[2].description_last_updated": "2026-08-08T10:50:21.463Z",
+    "social_media.x_url_last_updated": "2026-08-08T10:42:17.547Z",
+    "social_media.x_url_last_verified": "2026-08-08T11:05:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-08-08T10:42:17.547Z",
+    "social_media.linkedin_url_last_verified": "2026-08-08T11:05:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-08-08T10:42:17.547Z",
+    "social_media.instagram_url_last_verified": "2026-08-08T11:05:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-08-08",
+    "financial_information.funding_stage_last_updated": "2026-08-08T10:42:17.547Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-08T10:42:17.547Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-08T11:30:00.000Z",
+    "financial_information.investor_logos_last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[0].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[1].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[2].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[3].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[4].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[5].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[6].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[7].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[8].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[9].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[10].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[11].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[12].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[13].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[14].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[15].last_updated": "2026-08-08T10:42:17.547Z",
+    "location_mapping[16].last_updated": "2026-08-08T11:20:00.000Z",
+    "location_mapping[17].last_updated": "2026-08-08T11:20:00.000Z",
+    "location_mapping[18].last_updated": "2026-08-08T11:20:00.000Z",
+    "location_mapping[19].last_updated": "2026-08-08T11:20:00.000Z",
+    "location_mapping[20].last_updated": "2026-08-08T11:20:00.000Z",
+    "location_mapping[21].last_updated": "2026-08-08T11:20:00.000Z",
+    "job_data.roles[0].posted_date": "2026-08-22",
+    "job_data.roles[1].posted_date": "2026-08-22",
+    "job_data.roles[2].posted_date": "2026-08-22",
+    "job_data.roles[3].posted_date": "2026-08-22",
+    "job_data.roles[4].posted_date": "2026-08-22",
+    "job_data.roles[5].posted_date": "2026-08-22",
+    "job_data.roles[6].posted_date": "2026-08-22",
+    "job_data.roles[7].posted_date": "2026-08-22",
+    "job_data.roles[8].posted_date": "2026-08-22",
+    "job_data.roles[9].posted_date": "2026-08-22",
+    "job_data.roles[10].posted_date": "2026-08-22",
+    "job_data.roles[11].posted_date": "2026-08-22",
+    "job_data.roles[12].posted_date": "2026-08-22",
+    "job_data.roles[13].posted_date": "2026-08-22",
+    "job_data.roles[14].posted_date": "2026-08-22",
+    "job_data.roles[15].posted_date": "2026-08-22",
+    "job_data.roles[16].posted_date": "2026-08-22",
+    "job_data.roles[17].posted_date": "2026-08-22",
+    "job_data.roles[18].posted_date": "2026-08-22",
+    "job_data.roles[19].posted_date": "2026-08-22",
+    "job_data.roles[20].posted_date": "2026-08-22",
+    "job_data.last_updated": "2026-09-19T16:55:02.435Z",
+    "benefits.health-insurance.last_updated": "2026-08-08T10:57:59.656Z",
+    "benefits.dental-insurance.last_updated": "2026-08-08T10:57:59.656Z",
+    "benefits.vision-insurance.last_updated": "2026-08-08T10:57:59.656Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-08T10:57:59.656Z",
+    "benefits.learning-development.last_updated": "2026-08-08T10:57:59.656Z"
+  }
+}

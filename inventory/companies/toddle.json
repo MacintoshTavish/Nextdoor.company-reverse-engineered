@@ -1,0 +1,1599 @@
+{
+  "slug": "toddle",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/17869.528603d4c713e05f.js",
+  "observed_at": "2026-09-28T08:37:37.480400+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 48553,
+    "sha256": "0a2349056c7d15313d3d66e3701df692d19f17bdb0cd35472c4e02686e0c9beb",
+    "elapsed_seconds": 0.471,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:37 GMT",
+      "etag": "\"d3bf45fe0294ee3d1c7bc90588c66aee\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:37 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Toddle",
+    "company_name_legal": "Toddle Learning Platforms Private Limited",
+    "founded_year": 2019,
+    "website_url": "https://toddleapp.com",
+    "careers_url": "https://toddle.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 158
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 24,
+    "last_updated": "2026-09-18T16:04:01.657Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 24,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/10054",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 to 5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "10054",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"Senior Product Designer\" matched pattern for design"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/54457",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 3 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "54457",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"Product Designer\" matched pattern for design"
+    },
+    {
+      "title": "Product Communications Specialist",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/82500",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0 - 1 Year",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "82500"
+    },
+    {
+      "title": "Junior Visual UI Designer",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/85790",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0 to 2 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "85790"
+    },
+    {
+      "title": "Product & Curriculum Specialist",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/87036",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 4 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "87036",
+      "department_classification_status": "rule_reclassified",
+      "department_classification_reasoning": "Was medical, which was never right. Caused by the job classifier testing includes('icu') as a bare substring, so curr-ICU-lum matched the Intensive Care Unit rule. That test was tightened to a word boundary on Sep 3, 2026 and a curriculum rule added to the academy-training block. Toddle is a school-software company, so a curriculum specialist here is squarely education work."
+    },
+    {
+      "title": "Associate Software Engineer, Frontend",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/70686",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0.6 months - 1.6 year",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "70686"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/10972",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1.6 - 3 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "10972"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/82000",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 5 years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "82000"
+    },
+    {
+      "title": "Senior Manager, Individuals & Societies",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/82426",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "82426"
+    },
+    {
+      "title": "Senior Manager, Product Marketing (US)",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/83874",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4 to 8 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "83874"
+    },
+    {
+      "title": "Manager, School Success, India",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/10485",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 4 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "10485"
+    },
+    {
+      "title": "Manager, School Success, Philippines",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/22698",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4 to 8 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "22698"
+    },
+    {
+      "title": "Manager, School Success, Egypt",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/42655",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "4 to 8 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "42655"
+    },
+    {
+      "title": "Manager, School Success, Latin America",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/53982",
+      "location_ids": [
+        "bogota_office",
+        "medellin_office",
+        "cali_office"
+      ],
+      "location_display": "Remote, Colombia",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 to 7 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "53982"
+    },
+    {
+      "title": "Manager, School Success, Hong Kong",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/71727",
+      "location_ids": [
+        "hong_kong_office"
+      ],
+      "location_display": "Hong Kong, Hong Kong",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 - 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "71727"
+    },
+    {
+      "title": "Manager, School Success, UAE",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/78217",
+      "location_ids": [
+        "dubai_office",
+        "abu_dhabi_office",
+        "sharjah_office"
+      ],
+      "location_display": "Remote, UAE",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 to 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "78217"
+    },
+    {
+      "title": "Manager, School Success, ANZ",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/83234",
+      "location_ids": [
+        "sydney_office",
+        "melbourne_office",
+        "brisbane_office"
+      ],
+      "location_display": "Remote, Australia",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2 - 6 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "83234"
+    },
+    {
+      "title": "Senior Manager - Mathematics Content Production",
+      "title_original": "Senior Manager, Mathematics",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-06T19:20:49.450Z",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/82540",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "82540",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Manager, Mathematics role focus on creating and reviewing educational content, ensuring alignment with IB standards, and managing a team of authors. This clearly aligns with the content production category as it involves significant content creation, editorial oversight, and quality assurance."
+    },
+    {
+      "title": "Associate Director - Growth Sales",
+      "title_original": "Associate Director (Growth)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-11T19:04:16.891Z",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/62430",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3 to 5 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "62430",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role focuses heavily on growth strategy, demand generation, partnerships, and revenue outcomes, which are core responsibilities associated with sales. The emphasis on building and scaling a business line and owning growth outcomes aligns closely with sales functions, particularly in a B2B context."
+    },
+    {
+      "title": "Data Services Assistant - Educational Data Management",
+      "title_original": "Data Services Assistant",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-06T19:20:23.993Z",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/79842",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "79842",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Data Services Assistant involve creating and configuring trial accounts, mapping academic standards, and interpreting curriculum documents, all of which are data-centric tasks. The role requires working with data on the Toddle platform and collaborating with the data services team, making 'data' the most appropriate category."
+    },
+    {
+      "title": "Intern, Product Designer",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/36030",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0 to 1 Year",
+      "commitment": "Part time",
+      "posted_date": null,
+      "keka_job_id": "36030"
+    },
+    {
+      "title": "Visual Designer",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/87967",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 - 4 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "87967"
+    },
+    {
+      "title": "Senior Manager, Content - Professional Learning",
+      "title_original": "Senior Manager, Content",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-18T16:28:15.684Z",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/88556",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4-7",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "88556",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Manager, Content role involve creating and delivering content for professional learning experiences, writing distribution copy, and developing high-quality content such as case studies and customer stories. This aligns closely with content production and management."
+    },
+    {
+      "title": "Onboarding Analyst - Customer Success",
+      "title_original": "Analyst, Onboarding",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-18T16:31:44.487Z",
+      "apply_url": "https://toddle.keka.com/careers/jobdetails/88026",
+      "location_ids": [
+        "bengaluru_remote",
+        "mumbai_remote",
+        "delhi_remote",
+        "pune_remote",
+        "hyderabad_remote",
+        "chennai_remote"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1 to 2 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "88026",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Analyst, Onboarding role focus on managing the onboarding process for schools, collaborating with various teams to enhance the onboarding experience, and tracking key performance indicators related to customer success. This aligns closely with the customer-success department as it emphasizes improving customer onboarding and satisfaction."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.6412,
+      "exact_address": "2nd Floor, No. 590, Phoenix Primus, 1st Cross Road, 12th Main, HAL Stage 2, Indiranagar, Bengaluru, Karnataka, India - 560038",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": "350+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "country": "Germany",
+      "latitude": 50.7335,
+      "longitude": 7.1558,
+      "exact_address": "Colmantstraße 15, 53115 Bonn, Germany",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5244,
+      "longitude": 77.1855,
+      "exact_address": "H.No. 722, Village Ghitorni, South Delhi, Delhi, India - 110033",
+      "departments": [
+        "engineering",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.7194,
+      "longitude": -103.3918,
+      "exact_address": "Av. Vallarta 6500, Piso 5, Providencia 3ra. Secc., Guadalajara, Jalisco, Mexico - 44630",
+      "departments": [
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": "Hong Kong",
+      "country": "Hong Kong",
+      "latitude": 22.2809,
+      "longitude": 114.1849,
+      "exact_address": "8/F, Room 801-802, Progress Commercial Building, 9 Irving Street, Causeway Bay, Hong Kong",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.7153,
+      "exact_address": "F-1122, Amber Block, Brigade Lakefront Apartment, Seetharampalya, EPIP Zone, Bengaluru, Karnataka, India - 560033",
+      "departments": [
+        "engineering",
+        "customer-support",
+        "qa",
+        "other"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "qa"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "exact_address": "Riyadh, Saudi Arabia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "",
+      "country": "Singapore",
+      "latitude": 1.2905,
+      "longitude": 103.8114,
+      "exact_address": "148 Mei Ling Street #23-113, Singapore - 140148",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": ""
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "egypt_office",
+      "city": "Giza",
+      "state": "Giza",
+      "country": "Egypt",
+      "latitude": 30.0131,
+      "longitude": 31.2089,
+      "exact_address": "5 El Amerikeya Towers, Central Spine, El Hosary Sq., 7th District, 6th of October, Giza, Inside Henida Commercial Center, 2nd Floor, Office 18, Egypt",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "alexandria_office",
+      "city": "Alexandria",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "exact_address": "Alexandria, Egypt",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cairo_office",
+      "city": "Cairo",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "exact_address": "Cairo, Egypt",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dammam_office",
+      "city": "Dammam",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "exact_address": "Dammam, Saudi Arabia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jeddah_office",
+      "city": "Jeddah",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "exact_address": "Jeddah, Saudi Arabia",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "ahmedabad_office",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "exact_address": "Ahmedabad, Gujarat, India",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "remote_asia_office",
+      "city": "South East Asia",
+      "state": null,
+      "country": "Asia",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Remote, South East Asia",
+      "departments": [
+        "sales",
+        "business-development"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "abu_dhabi_office",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "exact_address": "Abu Dhabi, United Arab Emirates",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sharjah_office",
+      "city": "Sharjah",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "exact_address": "Sharjah, United Arab Emirates",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cali_office",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "exact_address": "Cali, Valle del Cauca, Colombia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "medellin_office",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia",
+      "latitude": 6.2476,
+      "longitude": -75.5658,
+      "exact_address": "Medellín, Antioquia, Colombia",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_remote",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_remote",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_remote",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_remote",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_remote",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_remote",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-01-18T14:23:22.159Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-18T14:23:22.159Z",
+    "total_funding_raised": "$20 million",
+    "total_funding_raised_last_updated": "2026-01-18T14:23:22.159Z",
+    "key_investors": [
+      {
+        "name": "Peak XV Partners",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Tenacity Ventures",
+        "domain": "tenacity.vc"
+      },
+      {
+        "name": "Trifecta Capital",
+        "domain": "trifectacap.com"
+      },
+      {
+        "name": "Matrix Partners",
+        "domain": "matrixpartners.com"
+      },
+      {
+        "name": "Beenext",
+        "domain": "beenext.com"
+      },
+      {
+        "name": "Better Capital",
+        "domain": "bettercap.com"
+      },
+      {
+        "name": "Z47",
+        "domain": "z47.vc"
+      },
+      {
+        "name": "Titan Capital",
+        "domain": "titancap.com"
+      },
+      {
+        "name": "GSV Ventures",
+        "domain": "gsvvc.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Tenacity Ventures",
+        "logo_url": "/investor-logos/tenacity-ventures.png"
+      },
+      {
+        "name": "Trifecta Capital",
+        "logo_url": null
+      },
+      {
+        "name": "Matrix Partners",
+        "logo_url": "/investor-logos/matrix-partners.png"
+      },
+      {
+        "name": "Beenext",
+        "logo_url": "/investor-logos/beenext.png"
+      },
+      {
+        "name": "Better Capital",
+        "logo_url": "/investor-logos/better.png"
+      },
+      {
+        "name": "Z47",
+        "logo_url": "/investor-logos/z47.png"
+      },
+      {
+        "name": "Titan Capital",
+        "logo_url": "/investor-logos/titan.png"
+      },
+      {
+        "name": "GSV Ventures",
+        "logo_url": "/investor-logos/gsv-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-18T14:23:22.159Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "remote-work",
+    "flexible-hours",
+    "learning-development",
+    "unlimited-pto",
+    "sick-leave",
+    "casual-leave",
+    "parental-leave",
+    "benefits_scraping_source",
+    "coworking-allowance",
+    "life-event-leave"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].x_twitter_verified_by": "sankalp",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[56].source": "ai_inference_upsert",
+    "location_mapping[57].source": "ai_inference_upsert",
+    "location_mapping[58].source": "ai_inference_upsert",
+    "location_mapping[59].source": "ai_inference_upsert",
+    "location_mapping[60].source": "ai_inference_upsert",
+    "location_mapping[61].source": "ai_inference_upsert",
+    "job_data.roles[23].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-18T14:23:22.159Z",
+    "company_basic_information.website_url_last_updated": "2026-01-18T14:23:22.159Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-18T14:23:22.159Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-18T14:23:22.159Z",
+    "company_basic_information.last_updated": "2026-01-18",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-19T05:35:35.771Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:19:48.044Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-07T09:58:50.310Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-07T10:05:44.516Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-19T05:36:06.223Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-07T10:05:47.519Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:19:53.433Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-01-19T05:36:27.197Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2026-01-19T05:36:46.382Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-07T10:05:50.522Z",
+    "leadership.founders[2].description_last_updated": "2026-02-06T19:19:59.842Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-01-19T05:37:12.744Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2026-01-19T08:43:44.586Z",
+    "leadership.founders[3].image_url_last_updated": "2026-02-07T10:05:53.523Z",
+    "leadership.founders[3].description_last_updated": "2026-02-06T19:20:07.101Z",
+    "social_media.x_url_last_verified": "2026-01-19T05:37:55.849Z",
+    "social_media.linkedin_url_last_verified": "2026-01-19T05:38:29.391Z",
+    "social_media.instagram_url_last_verified": "2026-01-19T08:44:06.096Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-01-18T14:23:22.159Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-18T14:23:22.159Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-18T14:23:22.159Z",
+    "financial_information.investor_logos_last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[0].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[1].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[2].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[3].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[4].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[5].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[6].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[7].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[8].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[9].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[10].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[11].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[12].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[13].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[14].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[15].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[16].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[17].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[18].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[19].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[20].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[21].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[22].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[23].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[24].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[25].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[26].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[27].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[28].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[29].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[30].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[31].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[32].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[33].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[34].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[35].last_updated": "2026-01-18T14:23:22.159Z",
+    "location_mapping[50].last_updated": "2026-06-23T00:00:00.000Z",
+    "location_mapping[56].last_updated": "2026-09-18T16:31:44.487Z",
+    "location_mapping[57].last_updated": "2026-09-18T16:31:44.487Z",
+    "location_mapping[58].last_updated": "2026-09-18T16:31:44.487Z",
+    "location_mapping[59].last_updated": "2026-09-18T16:31:44.487Z",
+    "location_mapping[60].last_updated": "2026-09-18T16:31:44.487Z",
+    "location_mapping[61].last_updated": "2026-09-18T16:31:44.487Z",
+    "job_data.roles[17].title_updated_timestamp": "2026-08-06T19:20:49.450Z",
+    "job_data.roles[18].title_updated_timestamp": "2026-05-11T19:04:16.891Z",
+    "job_data.roles[19].title_updated_timestamp": "2026-08-06T19:20:23.993Z",
+    "job_data.roles[22].title_updated_timestamp": "2026-09-18T16:28:15.684Z",
+    "job_data.roles[23].title_updated_timestamp": "2026-09-18T16:31:44.487Z",
+    "job_data.last_updated": "2026-09-18T16:04:01.657Z",
+    "benefits.remote-work.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.flexible-hours.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.learning-development.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.unlimited-pto.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.sick-leave.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.casual-leave.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.parental-leave.last_updated": "2026-02-07T10:45:32.747Z",
+    "benefits.coworking-allowance.last_updated": "2026-08-28T18:18:26Z",
+    "benefits.life-event-leave.last_updated": "2026-08-28T18:18:26Z"
+  }
+}

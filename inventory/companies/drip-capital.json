@@ -1,0 +1,285 @@
+{
+  "slug": "drip-capital",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/60693.528eb494e1f82014.js",
+  "observed_at": "2026-09-28T08:31:04.331427+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 10541,
+    "sha256": "df6656ad502eddcae1c31204319d286333c748e6c1c6f13d78d69bcc6842461b",
+    "elapsed_seconds": 0.498,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:04 GMT",
+      "etag": "\"3cbeee7593f6dad15ab4e9feb76b215c\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:04 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Drip Capital",
+    "company_name_legal": "Drip Capital Inc.",
+    "founded_year": 2016,
+    "website_url": "https://dripcapital.com",
+    "careers_url": "https://dripcapital.hire.trakstar.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 366
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 4,
+    "last_updated": "2026-09-19T16:59:38.121Z",
+    "crawl_status": "success",
+    "source": "Trakstar",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 4,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "trakstar_job_id",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Internship - Back Office Operations",
+      "apply_url": "https://dripcapital.hire.trakstar.com/jobs/jobs/fk0z1i5/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Growth Marketing Executive",
+      "apply_url": "https://dripcapital.hire.trakstar.com/jobs/jobs/fk0z8f8/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Associate, Finance",
+      "apply_url": "https://dripcapital.hire.trakstar.com/jobs/jobs/fk0pfc9/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Backend Developer",
+      "apply_url": "https://dripcapital.hire.trakstar.com/jobs/jobs/fk0z6r8/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.11165,
+      "longitude": 72.86531,
+      "exact_address": "1221, Solitaire Corporate Park, Building No. 12, 2nd Floor, Survey No. 131A1A-A1I, Guru Hargovindji Marg, Chakala, Andheri East, Mumbai, Maharashtra, India - 400093",
+      "departments": [
+        "finance",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.42699,
+      "longitude": -122.14564,
+      "exact_address": "1885 El Camino Real, Palo Alto, California, United States - 94306",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kanpur_office",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 26.4499,
+      "longitude": 80.3319,
+      "exact_address": "Kanpur, Uttar Pradesh, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "moradabad_office",
+      "city": "Moradabad",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 28.8386,
+      "longitude": 78.7733,
+      "exact_address": "Moradabad, Uttar Pradesh, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jaipur_office",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "exact_address": "Jaipur, Rajasthan, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-07-09T20:03:46.516Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-07-09T20:03:46.516Z",
+    "total_funding_raised": "$525 million",
+    "total_funding_raised_last_updated": "2026-07-09T20:03:46.516Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-09T20:03:46.516Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Trakstar",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-09T20:03:46.516Z",
+    "company_basic_information.website_url_last_updated": "2026-07-09T20:03:46.516Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-09T20:03:46.516Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-09T20:03:46.516Z",
+    "company_basic_information.last_updated": "2026-07-09",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-09T20:09:42.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-09T20:09:42.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-09T20:20:20.865Z",
+    "leadership.founders[0].description_last_updated": "2026-07-09T20:20:57.052Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-09T20:09:42.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-09T20:09:42.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-09T20:20:40.634Z",
+    "leadership.founders[1].description_last_updated": "2026-07-09T20:21:02.252Z",
+    "social_media.x_url_last_updated": "2026-07-09T20:03:46.516Z",
+    "social_media.x_url_last_verified": "2026-07-09T20:09:42.000Z",
+    "social_media.linkedin_url_last_updated": "2026-07-09T20:03:46.516Z",
+    "social_media.linkedin_url_last_verified": "2026-07-09T20:09:42.000Z",
+    "social_media.instagram_url_last_updated": "2026-07-09T20:09:42.000Z",
+    "social_media.instagram_url_last_verified": "2026-07-09T20:09:42.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-09",
+    "financial_information.funding_stage_last_updated": "2026-07-09T20:03:46.516Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-09T20:03:46.516Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-09T20:03:46.516Z",
+    "financial_information.investor_logos_last_updated": "2026-07-09T20:03:46.516Z",
+    "location_mapping[0].last_updated": "2026-07-09T20:03:46.516Z",
+    "location_mapping[1].last_updated": "2026-07-09T20:03:46.516Z",
+    "job_data.last_updated": "2026-09-19T16:59:38.121Z"
+  }
+}

@@ -1,0 +1,2026 @@
+{
+  "slug": "metropolis",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/97125.67a6162b82783d73.js",
+  "observed_at": "2026-09-28T08:33:57.453099+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 56662,
+    "sha256": "22c752e0214d04e85bbf0ae7e6b8a380981f2643bfa5e55d66a32fb3d26468bb",
+    "elapsed_seconds": 0.187,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:57 GMT",
+      "etag": "\"4b60cbeb4c36eaf82f3b56c8f216cf9b\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:33 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Metropolis",
+    "company_name_legal": "Metropolis Technologies, Inc.",
+    "founded_year": 2017,
+    "website_url": "https://www.metropolis.io",
+    "careers_url": "https://job-boards.greenhouse.io/metropolis",
+    "investor_portfolio_page": null,
+    "id": 455
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 87,
+    "last_updated": "2026-09-20T17:42:49.542Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 87,
+  "role_field_names": [
+    "apply_url",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Manager - Central Cloud Infrastructure",
+      "title_original": "Manager, Central Cloud Infrastructure",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-20T18:41:11.226Z",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7747905003",
+      "location_ids": [
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on managing a team of cloud infrastructure engineers, overseeing cloud architecture, and ensuring security and compliance, which are all core engineering functions. The job requires extensive technical skills in cloud technologies and infrastructure management, further solidifying its classification under engineering."
+    },
+    {
+      "title": "Senior Central Cloud Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7768749003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Central Cloud Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7768752003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Central Cloud Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7768753003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Computer Vision",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7738229003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Machine Learning Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7710124003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7778311003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, Platform",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7778312003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Staff Technical Program Manager",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7803205003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Software Engineering",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7691388003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, AeroParker",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7738555003",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, AeroParker",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7746427003",
+      "location_ids": [
+        "stockport_office"
+      ],
+      "location_display": "Stockport, England, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, Product Foundations",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7746447003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Software Engineer, Product Foundations",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7748814003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Staff Software Engineer, AeroParker",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7738602003",
+      "location_ids": [
+        "stockport_office"
+      ],
+      "location_display": "Stockport, England, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Recognition Platform",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7931191003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Recognition Platform",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7931194003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Recognition Platform",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7931195003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Staff Software Engineer, Reliability",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7992483003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Applied AI",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7691347003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Director, Applied AI focus on leading the Applied AI organization, defining AI strategies, and building AI-powered systems. The role emphasizes technical leadership in AI, making it a clear fit for the AI department."
+    },
+    {
+      "title": "Director, Applied AI",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7694096003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Director, Applied AI focuses primarily on leading the Applied AI organization, defining AI strategies, and implementing AI solutions across various business processes. The emphasis on AI technologies, engineering depth, and the development of AI-powered systems clearly aligns this position with the AI department."
+    },
+    {
+      "title": "Senior AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7693671003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7693675003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7693674003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "CX Operations Enablement Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7872024003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Data Scientist",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7594931003",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Accountant",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7836201003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7919030003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7919029003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Financial Analyst - GTM",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7807292003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Financial Analyst - GTM",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7807295003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Atlanta)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7990415003",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, United States / Georgia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Revenue Economics Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7785694003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Revenue Economics Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7785695003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Revenue Economics Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7785696003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Revenue Economics Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7785698003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Corporate Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7919213003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Corporate Counsel",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7919212003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Growth Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7740728003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Growth Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7740732003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Account Manager",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7771926003",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7771927003",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Regional Manager, Milwaukee",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7796150003",
+      "location_ids": [
+        "milwaukee_office",
+        "chicago_office"
+      ],
+      "location_display": "Milwaukee / Wisconsin",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Regional Manager include overseeing financial health, achieving regional budgets, and driving new business growth through managing the full sales cycle, which includes lead generation and contract negotiations. These tasks align closely with sales functions, particularly in business development and account management."
+    },
+    {
+      "title": "Regional Sales Manager - Virginia",
+      "title_original": "Regional Manager, Virginia",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-20T18:42:36.675Z",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7887069003",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA / District of Columbia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Regional Manager include overseeing financial health, ensuring profitability, and driving new business growth through managing the full sales cycle and client relationships. These tasks align closely with sales functions, particularly in business development and account management."
+    },
+    {
+      "title": "Senior Manager, Strategic Partner Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7819640003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Strategic Partner Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7819641003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Manager, Strategic Partner Marketing",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7819642003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Vice President of Operations, New York",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7621202003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Learning Experience Designer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7782384003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Learning Experience Designer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7782388003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, Compensation",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7930914003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, Compensation",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7930915003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, Compensation",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7930918003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, People Solutions",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7992845003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, People Solutions",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7992846003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Manager, People Solutions",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7992849003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7732225003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7732229003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Product Manager II, Supply Growth",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7906914003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Cleveland)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993122003",
+      "location_ids": [
+        "cleveland_office"
+      ],
+      "location_display": "Cleveland, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Dallas)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810055003",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Dallas, United States / Texas",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Denver)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993112003",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA / Colorado",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Florida)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810077003",
+      "location_ids": [
+        "west_palm_beach_office"
+      ],
+      "location_display": "West Palm Beach, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Healthcare/GPO)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7780313003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Healthcare/GPO)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7780314003",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States / Illinois",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Healthcare/GPO)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7780315003",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA / Tennessee",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Healthcare/GPO)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7780316003",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Atlanta, United States / Georgia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Healthcare/GPO)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7780317003",
+      "location_ids": [
+        "houston_office",
+        "dallas_office"
+      ],
+      "location_display": "Houston, United States / Texas",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (Houston)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810054003",
+      "location_ids": [
+        "houston_office",
+        "dallas_office"
+      ],
+      "location_display": "Houston, United States / Texas",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (LA)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810070003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (New England)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993102003",
+      "location_ids": [
+        "providence_office"
+      ],
+      "location_display": "Providence, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (San Francisco)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810090003",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA / California",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Associate Account Executive (St. Louis)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993137003",
+      "location_ids": [
+        "saint_louis_office"
+      ],
+      "location_display": "Saint Louis, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Charlotte)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7810101003",
+      "location_ids": [
+        "charlotte_office",
+        "raleigh_office"
+      ],
+      "location_display": "Charlotte, USA / North Carolina",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Cincinnati)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993060003",
+      "location_ids": [
+        "cincinnati_office",
+        "chicago_office"
+      ],
+      "location_display": "Cincinnati, USA / Ohio",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Connecticut/Rhode Island)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993071003",
+      "location_ids": [
+        "hartford_office"
+      ],
+      "location_display": "Hartford, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Jacksonville)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993084003",
+      "location_ids": [
+        "jacksonville_office",
+        "miami_office"
+      ],
+      "location_display": "Jacksonville, USA / Florida",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Los Angeles)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993050003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Minneapolis/Milwaukee)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7536847003",
+      "location_ids": [
+        "minneapolis_office"
+      ],
+      "location_display": "Minneapolis, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Minneapolis/Milwaukee)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7536848003",
+      "location_ids": [
+        "milwaukee_office",
+        "chicago_office"
+      ],
+      "location_display": "Milwaukee / Wisconsin",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (New Jersey)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993090003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Pittsburgh)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993107003",
+      "location_ids": [
+        "pittsburgh_office",
+        "philadelphia_office"
+      ],
+      "location_display": "Pittsburgh, USA / Pennsylvania",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Director, Business Development (Virginia)",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7993095003",
+      "location_ids": [
+        "richmond_office"
+      ],
+      "location_display": "Richmond, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "GRC Analyst",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7807055003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Security Engineer, Infrastructure & Network Security",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7761223003",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Security Engineer, Infrastructure & Network Security",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7761227003",
+      "location_ids": [
+        "los_angeles_office",
+        "san_francisco_office"
+      ],
+      "location_display": "Los Angeles, USA / California",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    },
+    {
+      "title": "Senior Security Engineer, Product & Application Security",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/7761232003",
+      "location_ids": [
+        "seattle_office",
+        "washington_office"
+      ],
+      "location_display": "Seattle, United States / Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-20"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9920942,
+      "longitude": 77.7031648,
+      "exact_address": "12th Floor, Awfis, Summit B Brigade Metropolis, ITPL Main Rd, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "departments": [
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2389,
+      "longitude": -80.8399,
+      "exact_address": "Star Dog Lot - Event Parking, Entrance: 819 Johnson St, Charlotte, North Carolina, United States - 28206",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0607,
+      "longitude": 80.2425,
+      "exact_address": "No. 3, Jagannathan Road, Nungambakkam, Chennai, Tamil Nadu, India - 600034",
+      "departments": [
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.885312,
+      "longitude": -87.62294,
+      "exact_address": "200 East Randolph Street, Suite 7700, Chicago, Illinois, United States - 60601",
+      "departments": [
+        "marketing",
+        "sales",
+        "legal",
+        "customer-success",
+        "other",
+        "hr"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "cincinnati_office",
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 39.1029,
+      "longitude": -84.5134,
+      "exact_address": "315 E 9th St, Cincinnati, OH 45202, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cleveland_office",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 41.5009,
+      "longitude": -81.6884,
+      "exact_address": "900 Prospect Avenue East, Garage (entrances on East 9th Street and Prospect Avenue East), Downtown, Cleveland, Ohio, United States - 44115",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7839,
+      "longitude": -96.7993,
+      "exact_address": "500 North Akard Street, Downtown Dallas, Dallas, Texas, United States - 75201",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7325,
+      "longitude": -104.9409,
+      "exact_address": "Metropolis Apartments, 1011 North Colorado Boulevard, Congress Park, Denver, Colorado, United States - 80206",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hartford_office",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "country": "United States",
+      "latitude": 41.7658,
+      "longitude": -72.6734,
+      "exact_address": "Hartford, Connecticut, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "houston_office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.7627516,
+      "longitude": -95.3647183,
+      "exact_address": "Metropolis, 1001 Texas St, Suite 120, Houston, Texas, United States - 77002",
+      "departments": [
+        "engineering",
+        "product",
+        "operations",
+        "sales",
+        "customer_support"
+      ],
+      "employee_count": "1000+"
+    },
+    {
+      "location_id": "jacksonville_office",
+      "city": "Jacksonville Beach",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 30.2887785,
+      "longitude": -81.38978329999999,
+      "exact_address": "111 Beach Blvd, Jacksonville Beach, Florida, United States - 32250",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0469,
+      "longitude": -118.2624,
+      "exact_address": "877 Francisco Street, Suite 177, South Park, Los Angeles, California, United States - 90017",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "marketing",
+        "sales",
+        "customer-success",
+        "design",
+        "hr",
+        "security"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7775,
+      "longitude": -80.1884,
+      "exact_address": "Metropolis Parking Garage, Vizcayne Towers, SP+ Parking Lot 19 - Section 3, 243 NE 3rd St, Downtown, Miami, Florida, United States - 33132",
+      "departments": [
+        "sales",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9775,
+      "longitude": -93.269,
+      "exact_address": "50 South 6th Street, Suite 1320, Minneapolis, Minnesota, United States - 55402",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1609,
+      "longitude": -86.7783,
+      "exact_address": "Metropolis Technologies, Inc., 501 Commerce Street, Suite 1210, Nashville, Tennessee, United States - 37203",
+      "departments": [
+        "operations",
+        "finance",
+        "sales",
+        "legal",
+        "marketing",
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7298,
+      "longitude": -73.9957,
+      "exact_address": "510 LaGuardia Place, 4th Floor, New York, New York, United States - 10012",
+      "departments": [
+        "engineering",
+        "other",
+        "ai",
+        "sales",
+        "marketing",
+        "customer-success",
+        "design",
+        "hr",
+        "product",
+        "security"
+      ],
+      "employee_count": "2000+"
+    },
+    {
+      "location_id": "philadelphia_office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.93955,
+      "longitude": -75.16945,
+      "exact_address": "1061 S 15th St, Lincoln Square Main Garage, Philadelphia, Pennsylvania, United States - 19146",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "pittsburgh_office",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 40.4576,
+      "longitude": -79.927,
+      "exact_address": "5750 Centre Ave, Pittsburgh, Pennsylvania, United States - 15206",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.892688,
+      "longitude": -78.862053,
+      "exact_address": "3150 Elion Dr, Durham, NC 27703",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "richmond_office",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 37.6095,
+      "longitude": -77.4891,
+      "exact_address": "7519 Staples Mill Road, Richmond, Virginia, United States - 23228",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7952086,
+      "longitude": -122.3971506,
+      "exact_address": "101 A Clay St Ste 102, San Francisco, CA 94111, United States",
+      "departments": [
+        "engineering",
+        "ai",
+        "finance",
+        "marketing",
+        "sales",
+        "customer-success",
+        "design",
+        "hr",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6209,
+      "longitude": -122.3385,
+      "exact_address": "230 Westlake Ave N, South Lake Union, Seattle, Washington, United States - 98109",
+      "departments": [
+        "engineering",
+        "ai",
+        "product",
+        "other",
+        "finance",
+        "sales",
+        "customer-success",
+        "security"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9025,
+      "longitude": -77.0175,
+      "exact_address": "901 4th St NW, Washington, District of Columbia, United States - 20001",
+      "departments": [
+        "engineering",
+        "ai",
+        "product",
+        "other",
+        "finance",
+        "security"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "milwaukee_office",
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "country": "United States",
+      "latitude": 43.04138,
+      "longitude": -87.90662,
+      "exact_address": "Metropolis Parking Garage, 840 North Broadway, Juneau Town, Milwaukee, Wisconsin, United States - 53202",
+      "departments": [
+        "other",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "west_palm_beach_office",
+      "city": "West Palm Beach",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 26.7114,
+      "longitude": -80.0579,
+      "exact_address": "501 Evernia Street, Downtown, West Palm Beach, Florida, United States - 33401",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "providence_office",
+      "city": "Providence",
+      "state": "Rhode Island",
+      "country": "United States",
+      "latitude": 41.825,
+      "longitude": -71.405,
+      "exact_address": "Metropolis, Stillman Street, Providence, Rhode Island, United States - 02903",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "saint_louis_office",
+      "city": "Saint Louis",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 38.633696,
+      "longitude": -90.201024,
+      "exact_address": "Metropolis, 1010 Convention Plaza, Saint Louis, Missouri, United States - 63101",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "stockport_office",
+      "city": "Stockport",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 53.409,
+      "longitude": -2.1567,
+      "exact_address": "Merseyway Innovation Centre, Merseyway, Stockport, England, United Kingdom - SK1 1PN",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-09-20T18:15:28.439Z",
+    "current_valuation_usd": "$5B",
+    "current_valuation_usd_last_updated": "2026-09-20T18:15:28.439Z",
+    "total_funding_raised": "$4B",
+    "total_funding_raised_last_updated": "2026-09-20T18:15:28.439Z",
+    "key_investors": [
+      {
+        "name": "Assembly Ventures",
+        "domain": "assemblyventures.com"
+      },
+      {
+        "name": "3L Capital",
+        "domain": "3lcap.com"
+      },
+      {
+        "name": "RXR Realty",
+        "domain": "rxr.com"
+      },
+      {
+        "name": "DivcoWest",
+        "domain": "divcowest.com"
+      },
+      {
+        "name": "LionTree",
+        "domain": "liontree.com"
+      },
+      {
+        "name": "Starwood",
+        "domain": "starwoodcapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Assembly Ventures",
+        "logo_url": "/investor-logos/assembly-ventures.png"
+      },
+      {
+        "name": "3L Capital",
+        "logo_url": "/investor-logos/3l-capital.png"
+      },
+      {
+        "name": "RXR Realty",
+        "logo_url": "/investor-logos/rxr-realty.png"
+      },
+      {
+        "name": "DivcoWest",
+        "logo_url": "/investor-logos/divcowest.png"
+      },
+      {
+        "name": "LionTree",
+        "logo_url": "/investor-logos/liontree.png"
+      },
+      {
+        "name": "Starwood",
+        "logo_url": "/investor-logos/starwood.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-20T18:15:28.439Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "retirement-401k",
+    "disability-insurance",
+    "life-insurance",
+    "equity-stock",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[2].location_source": "searchapi-maps",
+    "location_mapping[2].location_source_query": "Metropolis office bengaluru",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "perplexity",
+    "location_mapping[12].location_source": "manual-correction-2026-09-21",
+    "location_mapping[13].location_source": "manual-correction-2026-09-21",
+    "location_mapping[13].location_source_query": "Metropolis office jacksonville",
+    "location_mapping[14].location_source": "perplexity",
+    "location_mapping[15].location_source": "perplexity",
+    "location_mapping[16].location_source": "perplexity",
+    "location_mapping[17].location_source": "perplexity",
+    "location_mapping[18].location_source": "perplexity",
+    "location_mapping[19].location_source": "perplexity",
+    "location_mapping[20].location_source": "perplexity",
+    "location_mapping[21].location_source": "searchapi-maps",
+    "location_mapping[21].location_source_query": "Metropolis office raleigh North Carolina",
+    "location_mapping[22].location_source": "perplexity",
+    "location_mapping[23].location_source": "searchapi-maps",
+    "location_mapping[23].location_source_query": "Metropolis office san francisco",
+    "location_mapping[24].location_source": "perplexity",
+    "location_mapping[25].location_source": "perplexity",
+    "location_mapping[26].location_source": "perplexity",
+    "location_mapping[27].location_source": "perplexity",
+    "location_mapping[28].location_source": "perplexity",
+    "location_mapping[29].location_source": "perplexity",
+    "location_mapping[30].location_source": "manual-correction-2026-09-21",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-20T18:15:28.439Z",
+    "company_basic_information.website_url_last_updated": "2026-09-20T18:15:28.439Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-20T18:15:28.439Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-20T18:15:28.439Z",
+    "company_basic_information.last_updated": "2026-09-20",
+    "leadership.founders[0].linkedin_last_verified": "2026-09-21T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-09-20T18:46:36.751Z",
+    "leadership.founders[0].description_last_updated": "2026-09-20T18:47:55.664Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-09-21T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-09-20T18:46:54.963Z",
+    "leadership.founders[1].description_last_updated": "2026-09-20T18:48:01.847Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-09-21T00:00:00.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-09-20T18:47:15.239Z",
+    "leadership.founders[2].description_last_updated": "2026-09-20T18:48:09.712Z",
+    "leadership.founders[3].linkedin_last_verified": "2026-09-21T00:00:00.000Z",
+    "leadership.founders[3].image_url_last_updated": "2026-09-20T18:47:35.162Z",
+    "leadership.founders[3].description_last_updated": "2026-09-20T18:48:18.169Z",
+    "social_media.x_url_last_updated": "2026-09-20T18:15:28.439Z",
+    "social_media.linkedin_url_last_updated": "2026-09-20T18:15:28.439Z",
+    "social_media.instagram_url_last_updated": "2026-09-21T00:00:00.000Z",
+    "social_media.x_url_last_verified": "2026-09-21T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2026-09-21T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-09-21T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-09-20",
+    "financial_information.funding_stage_last_updated": "2026-09-20T18:15:28.439Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-20T18:15:28.439Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-20T18:15:28.439Z",
+    "financial_information.investor_logos_last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[0].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[1].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[2].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[3].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[4].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[5].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[6].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[7].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[8].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[9].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[10].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[11].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[12].last_updated": "2026-09-20T18:49:55.674Z",
+    "location_mapping[13].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[14].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[15].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[16].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[17].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[18].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[19].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[20].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[21].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[22].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[23].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[24].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[25].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[26].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[27].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[28].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[29].last_updated": "2026-09-20T18:15:28.439Z",
+    "location_mapping[30].last_updated": "2026-09-21T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-20",
+    "job_data.roles[0].title_updated_timestamp": "2026-09-20T18:41:11.226Z",
+    "job_data.roles[1].posted_date": "2026-09-20",
+    "job_data.roles[2].posted_date": "2026-09-20",
+    "job_data.roles[3].posted_date": "2026-09-20",
+    "job_data.roles[4].posted_date": "2026-09-20",
+    "job_data.roles[5].posted_date": "2026-09-20",
+    "job_data.roles[6].posted_date": "2026-09-20",
+    "job_data.roles[7].posted_date": "2026-09-20",
+    "job_data.roles[8].posted_date": "2026-09-20",
+    "job_data.roles[9].posted_date": "2026-09-20",
+    "job_data.roles[10].posted_date": "2026-09-20",
+    "job_data.roles[11].posted_date": "2026-09-20",
+    "job_data.roles[12].posted_date": "2026-09-20",
+    "job_data.roles[13].posted_date": "2026-09-20",
+    "job_data.roles[14].posted_date": "2026-09-20",
+    "job_data.roles[15].posted_date": "2026-09-20",
+    "job_data.roles[16].posted_date": "2026-09-20",
+    "job_data.roles[17].posted_date": "2026-09-20",
+    "job_data.roles[18].posted_date": "2026-09-20",
+    "job_data.roles[19].posted_date": "2026-09-20",
+    "job_data.roles[20].posted_date": "2026-09-20",
+    "job_data.roles[21].posted_date": "2026-09-20",
+    "job_data.roles[22].posted_date": "2026-09-20",
+    "job_data.roles[23].posted_date": "2026-09-20",
+    "job_data.roles[24].posted_date": "2026-09-20",
+    "job_data.roles[25].posted_date": "2026-09-20",
+    "job_data.roles[26].posted_date": "2026-09-20",
+    "job_data.roles[27].posted_date": "2026-09-20",
+    "job_data.roles[28].posted_date": "2026-09-20",
+    "job_data.roles[29].posted_date": "2026-09-20",
+    "job_data.roles[30].posted_date": "2026-09-20",
+    "job_data.roles[31].posted_date": "2026-09-20",
+    "job_data.roles[32].posted_date": "2026-09-20",
+    "job_data.roles[33].posted_date": "2026-09-20",
+    "job_data.roles[34].posted_date": "2026-09-20",
+    "job_data.roles[35].posted_date": "2026-09-20",
+    "job_data.roles[36].posted_date": "2026-09-20",
+    "job_data.roles[37].posted_date": "2026-09-20",
+    "job_data.roles[38].posted_date": "2026-09-20",
+    "job_data.roles[39].posted_date": "2026-09-20",
+    "job_data.roles[40].posted_date": "2026-09-20",
+    "job_data.roles[41].posted_date": "2026-09-20",
+    "job_data.roles[42].posted_date": "2026-09-20",
+    "job_data.roles[43].posted_date": "2026-09-20",
+    "job_data.roles[43].title_updated_timestamp": "2026-09-20T18:42:36.675Z",
+    "job_data.roles[44].posted_date": "2026-09-20",
+    "job_data.roles[45].posted_date": "2026-09-20",
+    "job_data.roles[46].posted_date": "2026-09-20",
+    "job_data.roles[47].posted_date": "2026-09-20",
+    "job_data.roles[48].posted_date": "2026-09-20",
+    "job_data.roles[49].posted_date": "2026-09-20",
+    "job_data.roles[50].posted_date": "2026-09-20",
+    "job_data.roles[51].posted_date": "2026-09-20",
+    "job_data.roles[52].posted_date": "2026-09-20",
+    "job_data.roles[53].posted_date": "2026-09-20",
+    "job_data.roles[54].posted_date": "2026-09-20",
+    "job_data.roles[55].posted_date": "2026-09-20",
+    "job_data.roles[56].posted_date": "2026-09-20",
+    "job_data.roles[57].posted_date": "2026-09-20",
+    "job_data.roles[58].posted_date": "2026-09-20",
+    "job_data.roles[59].posted_date": "2026-09-20",
+    "job_data.roles[60].posted_date": "2026-09-20",
+    "job_data.roles[61].posted_date": "2026-09-20",
+    "job_data.roles[62].posted_date": "2026-09-20",
+    "job_data.roles[63].posted_date": "2026-09-20",
+    "job_data.roles[64].posted_date": "2026-09-20",
+    "job_data.roles[65].posted_date": "2026-09-20",
+    "job_data.roles[66].posted_date": "2026-09-20",
+    "job_data.roles[67].posted_date": "2026-09-20",
+    "job_data.roles[68].posted_date": "2026-09-20",
+    "job_data.roles[69].posted_date": "2026-09-20",
+    "job_data.roles[70].posted_date": "2026-09-20",
+    "job_data.roles[71].posted_date": "2026-09-20",
+    "job_data.roles[72].posted_date": "2026-09-20",
+    "job_data.roles[73].posted_date": "2026-09-20",
+    "job_data.roles[74].posted_date": "2026-09-20",
+    "job_data.roles[75].posted_date": "2026-09-20",
+    "job_data.roles[76].posted_date": "2026-09-20",
+    "job_data.roles[77].posted_date": "2026-09-20",
+    "job_data.roles[78].posted_date": "2026-09-20",
+    "job_data.roles[79].posted_date": "2026-09-20",
+    "job_data.roles[80].posted_date": "2026-09-20",
+    "job_data.roles[81].posted_date": "2026-09-20",
+    "job_data.roles[82].posted_date": "2026-09-20",
+    "job_data.roles[83].posted_date": "2026-09-20",
+    "job_data.roles[84].posted_date": "2026-09-20",
+    "job_data.roles[85].posted_date": "2026-09-20",
+    "job_data.roles[86].posted_date": "2026-09-20",
+    "job_data.last_updated": "2026-09-20T17:42:49.542Z",
+    "benefits.health-insurance.last_updated": "2026-09-20T18:45:54.091Z",
+    "benefits.retirement-401k.last_updated": "2026-09-20T18:45:54.091Z",
+    "benefits.disability-insurance.last_updated": "2026-09-20T18:45:54.091Z",
+    "benefits.life-insurance.last_updated": "2026-09-20T18:45:54.091Z",
+    "benefits.equity-stock.last_updated": "2026-09-20T18:45:54.091Z",
+    "benefits.bonus.last_updated": "2026-09-20T18:45:54.091Z"
+  }
+}

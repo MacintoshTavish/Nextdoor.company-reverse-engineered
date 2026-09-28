@@ -1,0 +1,552 @@
+{
+  "slug": "greylabs",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/28431.18636e335e0c2318.js",
+  "observed_at": "2026-09-28T08:32:22.564174+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19571,
+    "sha256": "99b6a788f6b521e8e3370fa1a33a22118485fad9d32c9e55ce92d27c4aa95717",
+    "elapsed_seconds": 0.209,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:22 GMT",
+      "etag": "\"a8e0e4d87831549e175d2e91410a7dc7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:13:59 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Greylabs",
+    "company_name_legal": "Greylabs AI Private Limited",
+    "founded_year": 2020,
+    "website_url": "https://greylabs.ai",
+    "careers_url": "https://careers.kula.ai/greylabs",
+    "investor_portfolio_page": null,
+    "id": 101
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 18,
+    "last_updated": "2026-09-24T10:18:24.121Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 18,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Regional Director - AI Delivery",
+      "apply_url": "https://careers.kula.ai/greylabs/14071",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office",
+        "gurgaon_office"
+      ],
+      "location_display": "India; Gurgaon, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Program Manager - AI Delivery",
+      "apply_url": "https://careers.kula.ai/greylabs/14868",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Enterprise Sales Consultant",
+      "apply_url": "https://careers.kula.ai/greylabs/14902",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office"
+      ],
+      "location_display": "India; Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://careers.kula.ai/greylabs/14932",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office"
+      ],
+      "location_display": "India; Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Success Strategist",
+      "apply_url": "https://careers.kula.ai/greylabs/17164",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office",
+        "gurgaon_office"
+      ],
+      "location_display": "India; Gurgaon, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AI Product Manager",
+      "apply_url": "https://careers.kula.ai/greylabs/32414",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office"
+      ],
+      "location_display": "India; Mumbai, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Talent Acquisition Lead - Product & Tech",
+      "apply_url": "https://careers.kula.ai/greylabs/33708",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office"
+      ],
+      "location_display": "India; Mumbai, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Lead Research Engineer - Voice & Language AI",
+      "apply_url": "https://careers.kula.ai/greylabs/34266",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director - Forward Deployed Engineering",
+      "apply_url": "https://careers.kula.ai/greylabs/35097",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office"
+      ],
+      "location_display": "India; Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Vice President - Sales",
+      "apply_url": "https://careers.kula.ai/greylabs/37634",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Workplace & Admin Partner - Office Operations",
+      "title_original": "Workplace & Admin Partner",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-24T10:46:19.518Z",
+      "apply_url": "https://careers.kula.ai/greylabs/37886",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Workplace & Admin Partner revolve around managing office operations, coordinating logistics, and supporting employee experience, which are all key functions of administration. The role emphasizes creating an organized workplace and ensuring smooth operations, aligning closely with administrative duties."
+    },
+    {
+      "title": "Software Engineer 3 - Full Stack",
+      "apply_url": "https://careers.kula.ai/greylabs/49008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Content Marketing Manager",
+      "apply_url": "https://careers.kula.ai/greylabs/50937",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Pre Sales Manager",
+      "apply_url": "https://careers.kula.ai/greylabs/51854",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Research Engineer - Voice & Language AI",
+      "apply_url": "https://careers.kula.ai/greylabs/51861",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Platform FDE ( Forward Deployment Engineer)",
+      "apply_url": "https://careers.kula.ai/greylabs/52481",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Procurement Manager",
+      "apply_url": "https://careers.kula.ai/greylabs/53951",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Forward Deployed Engineering - Lead",
+      "apply_url": "https://careers.kula.ai/greylabs/57503",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9916,
+      "longitude": 77.7274,
+      "exact_address": "Plot No.72 & 73, 4th Floor, Akshay Tech Park, EPIP Area, Hoodi Village, Whitefield, Bangalore, Karnataka, India - 560066",
+      "departments": [
+        "ai",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.110233,
+      "longitude": 72.918202,
+      "exact_address": "91springboard Vikhroli, Godrej & Boyce, Gate No 2, Vikhroli West, Mumbai, Maharashtra, India - 400079",
+      "departments": [
+        "sales",
+        "product",
+        "design",
+        "engineering",
+        "hr",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "gurgaon_office",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "exact_address": "Gurgaon, Haryana, India",
+      "departments": [
+        "sales",
+        "customer-success",
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 6,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-11-23T17:52:56.350Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-23T17:52:56.350Z",
+    "total_funding_raised": "$11.5 million",
+    "total_funding_raised_last_updated": "2025-11-23T17:52:56.350Z",
+    "key_investors": [
+      {
+        "name": "Elevation Capital",
+        "domain": "elevationcapital.com"
+      },
+      {
+        "name": "Z47",
+        "domain": "matrixpartners.in"
+      },
+      {
+        "name": "Narasimha Reddy (MoEngage)",
+        "domain": null
+      },
+      {
+        "name": "Nitin Gupta (Uni Cards)",
+        "domain": null
+      },
+      {
+        "name": "Anil Goteti (Scapia)",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Elevation Capital",
+        "logo_url": "/investor-logos/elevation-capital.png"
+      },
+      {
+        "name": "Z47",
+        "logo_url": "/investor-logos/z47.png"
+      },
+      {
+        "name": "Narasimha Reddy (MoEngage)",
+        "logo_url": "/investor-logos/narasimha-reddy-moengage.png"
+      },
+      {
+        "name": "Nitin Gupta (Uni Cards)",
+        "logo_url": "/investor-logos/nitin-gupta-uni-cards.png"
+      },
+      {
+        "name": "Anil Goteti (Scapia)",
+        "logo_url": "/investor-logos/anil-goteti-scapia.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-23T17:52:56.350Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].x_twitter_verified_by": "ai",
+    "leadership.founders[3].linkedin_verified_by": "ai",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[4].x_twitter_verified_by": "ai",
+    "leadership.founders[4].linkedin_verified_by": "sankalp",
+    "leadership.founders[4].image_source": "linkedin_profile",
+    "leadership.founders[4].description_source": "perplexity-sonar-pro",
+    "leadership.founders[5].linkedin_verified_by": "ai",
+    "leadership.founders[5].image_source": "linkedin_profile",
+    "leadership.founders[5].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-23T17:52:56.350Z",
+    "company_basic_information.website_url_last_updated": "2025-11-23T17:52:56.350Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-23T17:52:56.350Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-23T17:52:56.350Z",
+    "company_basic_information.last_updated": "2025-11-23",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-27T18:30:35.912Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-27T18:31:41.498Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T07:56:25.456Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:03:57.533Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-27T18:39:58.814Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-27T18:32:32.455Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T07:56:36.396Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:04:02.853Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-11-28T15:53:20.441Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2025-11-27T18:33:31.563Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-04T07:56:46.979Z",
+    "leadership.founders[2].description_last_updated": "2026-02-04T08:04:08.140Z",
+    "leadership.founders[3].x_twitter_url_last_verified": "2025-11-27T18:34:16.922Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2025-11-27T18:40:41.287Z",
+    "leadership.founders[3].image_url_last_updated": "2026-02-04T07:56:57.574Z",
+    "leadership.founders[3].description_last_updated": "2026-02-04T08:04:13.331Z",
+    "leadership.founders[4].linkedin_url_last_verified": "2025-11-28T10:31:40.000Z",
+    "leadership.founders[4].x_twitter_url_last_verified": "2025-11-27T18:35:09.584Z",
+    "leadership.founders[4].image_url_last_updated": "2026-02-04T07:57:08.004Z",
+    "leadership.founders[4].description_last_updated": "2026-02-04T08:04:18.817Z",
+    "leadership.founders[5].linkedin_url_last_verified": "2025-11-27T18:35:28.063Z",
+    "leadership.founders[5].x_twitter_url_last_verified": "2025-11-27T18:35:41.729Z",
+    "leadership.founders[5].image_url_last_updated": "2026-02-04T07:57:18.248Z",
+    "leadership.founders[5].description_last_updated": "2026-02-04T08:04:24.333Z",
+    "social_media.x_url_last_verified": "2025-11-27T18:36:02.124Z",
+    "social_media.linkedin_url_last_verified": "2025-11-27T18:36:29.018Z",
+    "social_media.instagram_url_last_verified": "2025-11-27T18:41:03.801Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:51.407Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-11-23T17:52:56.350Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-23T17:52:56.350Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-23T17:52:56.350Z",
+    "financial_information.investor_logos_last_updated": "2025-11-23T17:52:56.350Z",
+    "location_mapping[0].last_updated": "2025-11-23T17:52:56.350Z",
+    "location_mapping[1].last_updated": "2025-11-23T17:52:56.350Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[10].title_updated_timestamp": "2026-09-24T10:46:19.518Z",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:18:24.121Z",
+    "benefits.bonus.last_updated": "2026-01-06T18:49:08.497Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T18:49:08.497Z"
+  }
+}

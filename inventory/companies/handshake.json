@@ -1,0 +1,2058 @@
+{
+  "slug": "handshake",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/77551.f10af80c7200caa8.js",
+  "observed_at": "2026-09-28T08:32:30.753123+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 59985,
+    "sha256": "d166f23d5d3e0fffc445118cf21d2523d88d7306d4b2c865940b93500e23c1ff",
+    "elapsed_seconds": 0.491,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:30 GMT",
+      "etag": "\"b230377b48b860d78c9ec60a5d35577b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:30 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Handshake",
+    "company_name_legal": "Stryder Corp.",
+    "founded_year": 2014,
+    "website_url": "https://joinhandshake.com",
+    "careers_url": "https://jobs.ashbyhq.com/handshake",
+    "investor_portfolio_page": null,
+    "id": 291
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 82,
+    "last_updated": "2026-09-24T09:38:12.396Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 82,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_enhancement_rejected_by_guard",
+    "title_enhancement_rejected_reason",
+    "title_enhancement_rejected_suggestion",
+    "title_enhancement_rejected_timestamp",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Model Policy Trainer, Mental Health (Seattle)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/1e3a9711-d13c-4b79-8599-34dfb3133621",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "1e3a9711-d13c-4b79-8599-34dfb3133621",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI Red Teamer focus on stress-testing large language models (LLMs) and evaluating their safety and robustness, which aligns directly with the AI department. The role involves crafting adversarial prompts and exploring vulnerabilities in AI models, indicating a strong emphasis on AI research and safety."
+    },
+    {
+      "title": "Forward Deployed Engineer I",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f632f0c3-0b9c-49a7-984b-de92e18e6d0b"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/bb7eeb0b-5114-496f-925e-a790b162c3e4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "bb7eeb0b-5114-496f-925e-a790b162c3e4"
+    },
+    {
+      "title": "IT Support Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/92b1b4d0-aa14-494f-888c-b3a1400614f9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "92b1b4d0-aa14-494f-888c-b3a1400614f9"
+    },
+    {
+      "title": "Manager, Strategic Projects",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/23c2f266-cce4-44f0-ad2f-9a62cc9801d3",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "23c2f266-cce4-44f0-ad2f-9a62cc9801d3"
+    },
+    {
+      "title": "Manager, Strategic Projects",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/3e1f314d-a0dd-491a-9c8f-19f673ee3cbe",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "3e1f314d-a0dd-491a-9c8f-19f673ee3cbe"
+    },
+    {
+      "title": "Mid-Market Account Executive II",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/dabb98c5-e646-48a6-b76b-4a8f3e17b9f8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "dabb98c5-e646-48a6-b76b-4a8f3e17b9f8"
+    },
+    {
+      "title": "Mid-Market Account Executive II",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/2f7c5ec1-4f2f-4a5c-935f-eb00aff59487",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "2f7c5ec1-4f2f-4a5c-935f-eb00aff59487"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/5a93adbb-0502-4574-985a-8692cdde45b1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5a93adbb-0502-4574-985a-8692cdde45b1"
+    },
+    {
+      "title": "Senior AI Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/5fd7dcf2-d2a2-4d82-bc8a-82d701768b43",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5fd7dcf2-d2a2-4d82-bc8a-82d701768b43"
+    },
+    {
+      "title": "Senior Cloud Engineer, Agentic Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/bf9890b9-da32-46a5-979a-f9de3ebfb73c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "bf9890b9-da32-46a5-979a-f9de3ebfb73c"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/c57961b2-fdfa-4537-84b0-6416c42de9e4",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c57961b2-fdfa-4537-84b0-6416c42de9e4"
+    },
+    {
+      "title": "Senior Software Engineer, International Expansion",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/e1f105e9-f143-43d2-bb05-c0ab4edd52f7",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e1f105e9-f143-43d2-bb05-c0ab4edd52f7"
+    },
+    {
+      "title": "Senior Software Engineer, Machine Learning Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/85f8d830-ee05-4981-af23-e84a3025a946",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "85f8d830-ee05-4981-af23-e84a3025a946"
+    },
+    {
+      "title": "Senior Software Engineer, Operator Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/e3f93a22-f6dc-4a3a-b055-6bfe6db351c5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "e3f93a22-f6dc-4a3a-b055-6bfe6db351c5"
+    },
+    {
+      "title": "Software Engineer II, Reinforcement Learning Environments",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/da7bc8fc-4b7a-410a-aaa1-2faafed7c9fc",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "da7bc8fc-4b7a-410a-aaa1-2faafed7c9fc"
+    },
+    {
+      "title": "Staff Product Designer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/73418318-9ea4-49bc-a886-1bb4f6f8a637",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "73418318-9ea4-49bc-a886-1bb4f6f8a637"
+    },
+    {
+      "title": "Staff Software Engineer, Consumer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/9c1fe075-be13-468f-bc0f-c8cfb5d62581",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "9c1fe075-be13-468f-bc0f-c8cfb5d62581"
+    },
+    {
+      "title": "Strategic Projects Associate",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/8f8ed382-27c3-46d0-9c74-6293e9294cd4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "8f8ed382-27c3-46d0-9c74-6293e9294cd4"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/11193c7b-e34d-4a29-a14a-f1d4be438cf8",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "11193c7b-e34d-4a29-a14a-f1d4be438cf8"
+    },
+    {
+      "title": "Strategic Projects Lead, Coding/RLE",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/32793d99-af94-4966-bdb9-ab6866254e5b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "32793d99-af94-4966-bdb9-ab6866254e5b"
+    },
+    {
+      "title": "Strategic Projects Lead, Safety",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/9f946d08-5483-4ed7-9c29-27406ad4492f",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "9f946d08-5483-4ed7-9c29-27406ad4492f"
+    },
+    {
+      "title": "AI Model Policy Trainer, Generalist (Seattle)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/0b652757-a760-48c5-bd54-26464b3fd1d4",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0b652757-a760-48c5-bd54-26464b3fd1d4"
+    },
+    {
+      "title": "AI Model Policy Trainer, Image Evaluation - Seattle Onsite",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/4dcdfc01-076f-43f3-9bed-1acafd2c1cfa",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "4dcdfc01-076f-43f3-9bed-1acafd2c1cfa"
+    },
+    {
+      "title": "AI Red Teamer, CBRNE (Remote)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/87c44874-6f3d-4814-8721-f214ea5eceed",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "87c44874-6f3d-4814-8721-f214ea5eceed"
+    },
+    {
+      "title": "AI Red Teamer, Cybersecurity (Remote)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/7f607c0b-291d-4c17-9897-6d8c5d35eb00",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "7f607c0b-291d-4c17-9897-6d8c5d35eb00"
+    },
+    {
+      "title": "AI Safety Policy Evaluator, Violence & Threats | Seattle Onsite",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/58b7da0f-101d-419a-b1d3-f57716c5bec6",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "58b7da0f-101d-419a-b1d3-f57716c5bec6"
+    },
+    {
+      "title": "Applied AI Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/b777e140-6ccd-44e6-9709-5a43c4b1ca7a#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b777e140-6ccd-44e6-9709-5a43c4b1ca7a"
+    },
+    {
+      "title": "Applied AI Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/b777e140-6ccd-44e6-9709-5a43c4b1ca7a#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b777e140-6ccd-44e6-9709-5a43c4b1ca7a"
+    },
+    {
+      "title": "Assistant Controller",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/cf91ae55-f8c7-423d-a36f-ef2cb39cd43e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "cf91ae55-f8c7-423d-a36f-ef2cb39cd43e"
+    },
+    {
+      "title": "Data Analyst, Finance and Payments",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/11625d7a-36cc-48b9-808a-ae020c0bf535",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "11625d7a-36cc-48b9-808a-ae020c0bf535"
+    },
+    {
+      "title": "Data Partnerships Representative",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/d55015aa-6b91-447e-8fc5-707d86bc19aa",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "d55015aa-6b91-447e-8fc5-707d86bc19aa"
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/f2ed7bba-e887-474d-9bf2-894a47f0082f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f2ed7bba-e887-474d-9bf2-894a47f0082f"
+    },
+    {
+      "title": "Engagement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/f2ed7bba-e887-474d-9bf2-894a47f0082f#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f2ed7bba-e887-474d-9bf2-894a47f0082f"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/a4d765fd-567b-4d27-b614-a2735af19f0a#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a4d765fd-567b-4d27-b614-a2735af19f0a"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/a4d765fd-567b-4d27-b614-a2735af19f0a#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "a4d765fd-567b-4d27-b614-a2735af19f0a"
+    },
+    {
+      "title": "Forward Deployed Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/bd860a01-b630-4530-9e65-6d762e47e818#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "bd860a01-b630-4530-9e65-6d762e47e818"
+    },
+    {
+      "title": "Forward Deployed Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/bd860a01-b630-4530-9e65-6d762e47e818#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "bd860a01-b630-4530-9e65-6d762e47e818"
+    },
+    {
+      "title": "Forward Deployed Engineer, Handshake AI Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c91b7ebf-2c69-4d91-809d-a30ea0b9dc18"
+    },
+    {
+      "title": "Growth Operations Lead (India)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/ba86755b-c182-41a5-91de-497988a395b3",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ba86755b-c182-41a5-91de-497988a395b3"
+    },
+    {
+      "title": "Manager, Scaled Customer Success",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/66024b3f-179a-4c5d-8bac-a723859eddff",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "66024b3f-179a-4c5d-8bac-a723859eddff"
+    },
+    {
+      "title": "Manager, Strategic Programs - AI Operations",
+      "title_original": "Manager, Strategic Programs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-09T16:32:11.326Z",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/5c921f24-fb19-4343-997d-318b3d7c0942#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5c921f24-fb19-4343-997d-318b3d7c0942",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Manager, Strategic Programs role focus on building and scaling operational processes, quality control programs, and cross-functional collaboration to enhance project delivery. This aligns closely with the operations category, as the role is centered around improving efficiency and managing workflows."
+    },
+    {
+      "title": "Manager, Strategic Programs - AI Operations",
+      "title_original": "Manager, Strategic Programs",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-09T16:32:29.158Z",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/5c921f24-fb19-4343-997d-318b3d7c0942#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "5c921f24-fb19-4343-997d-318b3d7c0942",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Manager, Strategic Programs involve building and scaling operational processes, particularly in quality control and project management. This aligns closely with the operations category, as the role focuses on enhancing efficiency and managing workflows across the organization."
+    },
+    {
+      "title": "Mid-Market Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/99956455-d4f7-4044-9ebd-d7f0d469d165#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "99956455-d4f7-4044-9ebd-d7f0d469d165"
+    },
+    {
+      "title": "Mid-Market Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/99956455-d4f7-4044-9ebd-d7f0d469d165#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "99956455-d4f7-4044-9ebd-d7f0d469d165"
+    },
+    {
+      "title": "Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/ea453433-f11f-4f5e-b3b0-8f97c10fc1c0#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ea453433-f11f-4f5e-b3b0-8f97c10fc1c0"
+    },
+    {
+      "title": "Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/ea453433-f11f-4f5e-b3b0-8f97c10fc1c0#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "ea453433-f11f-4f5e-b3b0-8f97c10fc1c0"
+    },
+    {
+      "title": "Sales Development Representative, Data Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/8de5bb9e-0277-43a6-aed5-b702c5a168da",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Nashville, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "8de5bb9e-0277-43a6-aed5-b702c5a168da"
+    },
+    {
+      "title": "Senior Engagement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/0768448c-677f-404f-bccc-7d1583e5ee10#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0768448c-677f-404f-bccc-7d1583e5ee10"
+    },
+    {
+      "title": "Senior Engagement Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/0768448c-677f-404f-bccc-7d1583e5ee10#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "0768448c-677f-404f-bccc-7d1583e5ee10"
+    },
+    {
+      "title": "Senior Frontend Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/f0267113-e730-48fa-8ae4-6f2246fc1af3#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f0267113-e730-48fa-8ae4-6f2246fc1af3"
+    },
+    {
+      "title": "Senior Frontend Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/f0267113-e730-48fa-8ae4-6f2246fc1af3#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "f0267113-e730-48fa-8ae4-6f2246fc1af3"
+    },
+    {
+      "title": "Senior Product Designer II",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/2dd606c0-976f-4f22-b258-102a5ad3da4c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "2dd606c0-976f-4f22-b258-102a5ad3da4c"
+    },
+    {
+      "title": "Senior Software Engineer, Consumer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/aee8a130-794d-4103-8abd-3676f9c91060",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "aee8a130-794d-4103-8abd-3676f9c91060"
+    },
+    {
+      "title": "Senior Software Engineer, Frontend Platform",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/2d25a9c3-0482-430e-8be1-3fbb19e8bf43",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "2d25a9c3-0482-430e-8be1-3fbb19e8bf43"
+    },
+    {
+      "title": "Senior Software Engineer - Pay & Safety",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/60057740-e884-4025-9d02-e332f8feb867#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "60057740-e884-4025-9d02-e332f8feb867"
+    },
+    {
+      "title": "Senior Software Engineer - Pay & Safety",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/60057740-e884-4025-9d02-e332f8feb867#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "60057740-e884-4025-9d02-e332f8feb867"
+    },
+    {
+      "title": "Software Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/32f0d53c-5808-4b12-84ac-60e2bb9dd7ae#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "32f0d53c-5808-4b12-84ac-60e2bb9dd7ae"
+    },
+    {
+      "title": "Software Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/32f0d53c-5808-4b12-84ac-60e2bb9dd7ae#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "32f0d53c-5808-4b12-84ac-60e2bb9dd7ae"
+    },
+    {
+      "title": "Staff Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/b80bc193-ed11-468c-be6c-485cacd2b33c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "b80bc193-ed11-468c-be6c-485cacd2b33c"
+    },
+    {
+      "title": "Strategic Customer Success Manager, Federal",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/45b712a7-9b9b-4c4d-bc63-99cfb12d65ba#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "45b712a7-9b9b-4c4d-bc63-99cfb12d65ba"
+    },
+    {
+      "title": "Strategic Customer Success Manager, Federal",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/45b712a7-9b9b-4c4d-bc63-99cfb12d65ba#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "45b712a7-9b9b-4c4d-bc63-99cfb12d65ba"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c5753428-968f-4142-9dbc-49d419f0a020"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-09",
+      "ashby_job_id": "c5753428-968f-4142-9dbc-49d419f0a020"
+    },
+    {
+      "title": "AI Red Teamer (Remote)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/7788a34b-f112-467a-ba9a-b8245f8fccfb",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "7788a34b-f112-467a-ba9a-b8245f8fccfb",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI Red Teamer involve stress-testing large language models and probing for vulnerabilities, which directly aligns with AI safety and model robustness. The focus on adversarial prompt design and evaluation of AI outputs clearly categorizes this role within the AI department."
+    },
+    {
+      "title": "AI Red Teamer (Seattle)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/e15e3244-06f9-4c41-96c6-8860ad7594c5",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e15e3244-06f9-4c41-96c6-8860ad7594c5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the AI Red Teamer involve stress-testing large language models and identifying vulnerabilities, which directly aligns with the AI department's focus on artificial intelligence and machine learning. The role emphasizes creativity and adversarial problem-solving specifically in the context of AI safety and model robustness."
+    },
+    {
+      "title": "Business Development Representative, Government",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/71a4204a-d23e-476c-86e5-edb9e32a4e50",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "71a4204a-d23e-476c-86e5-edb9e32a4e50"
+    },
+    {
+      "title": "Lead Recruiter, India",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/d01f67e7-5658-4b75-a296-9765c708fbab",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "d01f67e7-5658-4b75-a296-9765c708fbab"
+    },
+    {
+      "title": "Member of Technical Staff, Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1"
+    },
+    {
+      "title": "Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/d547e216-2ca7-4087-9d57-bbce9f5bd6b4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "d547e216-2ca7-4087-9d57-bbce9f5bd6b4"
+    },
+    {
+      "title": "Operations Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/d16ea7e8-805b-4595-a025-85196c205413",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "d16ea7e8-805b-4595-a025-85196c205413"
+    },
+    {
+      "title": "Senior Director - AI Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/cd613f8d-a61c-4c2f-8e92-9064aa52099d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "cd613f8d-a61c-4c2f-8e92-9064aa52099d"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer (Bulgaria)",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/03769630-780c-4b80-a148-6925f75f9dd9",
+      "location_ids": [
+        "sofia_office"
+      ],
+      "location_display": "Sofia, Bulgaria",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "03769630-780c-4b80-a148-6925f75f9dd9"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer, Enterprise AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/e2625047-5b76-4d3b-bf44-82278625782e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "e2625047-5b76-4d3b-bf44-82278625782e"
+    },
+    {
+      "title": "Senior Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/7df8dd36-1a9f-4234-b656-10c7640471e0",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "7df8dd36-1a9f-4234-b656-10c7640471e0"
+    },
+    {
+      "title": "Senior Software Engineer, Agentic Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/1aa9394e-0080-42b2-8402-f2f5fe7fa15b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "1aa9394e-0080-42b2-8402-f2f5fe7fa15b"
+    },
+    {
+      "title": "SMB Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/ee214a23-e95a-46b1-a310-6d7bb418daca",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ee214a23-e95a-46b1-a310-6d7bb418daca"
+    },
+    {
+      "title": "Software Engineer I, Quality",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "2f936add-3a94-48d9-9759-90c1e2c64d3e"
+    },
+    {
+      "title": "Staff Product Designer, Autonomous Recruiting",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/cfce596f-d7be-4703-bcbe-6d8c94643dc3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "cfce596f-d7be-4703-bcbe-6d8c94643dc3"
+    },
+    {
+      "title": "Strategic Projects Associate, Safety",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/ab520a1e-0afc-42c8-854d-781917a30427",
+      "location_ids": [
+        "seattle_office"
+      ],
+      "location_display": "Seattle, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "ab520a1e-0afc-42c8-854d-781917a30427"
+    },
+    {
+      "title": "Strategic Projects Lead, Safety",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/3fd38766-ddc7-4de8-b800-d72dec77a684",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "3fd38766-ddc7-4de8-b800-d72dec77a684"
+    },
+    {
+      "title": "VP of Product, Handshake AI",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/b6589d22-4b21-4b63-bfa6-db9c112c908a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-24",
+      "ashby_job_id": "b6589d22-4b21-4b63-bfa6-db9c112c908a",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of VP of Product for Handshake AI focuses primarily on leading product strategy, managing product teams, and ensuring cross-functional collaboration, which are all key responsibilities of product management. The emphasis on defining product vision and roadmap aligns closely with the product department."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9147669,
+      "longitude": 77.66380459999999,
+      "exact_address": "Palm-402, SJR PARK VISTA, Off Harlur Rd, off Sarjapur Road, Amblipura, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 12.9675201,
+      "longitude": 79.95284509999999,
+      "exact_address": "XX93+245, Nenmeli, Chennai, Sriperumbudur, Tamil Nadu 602105, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5647191,
+      "longitude": 77.2003237,
+      "exact_address": "Shop No.1, Suvidha Market, Sarojani Nagar, New Delhi, Delhi 110029, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7495021,
+      "longitude": -104.9962986,
+      "exact_address": "1200 17th St, Denver, CO 80202, Floor 2, Denver, CO 80211",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.408081,
+      "longitude": 78.56052559999999,
+      "exact_address": "17-21/1, GIta Residency, Dharmapuri Colony, Uppal, Hyderabad, Telangana 500039, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "London SE1",
+      "country": "United Kingdom",
+      "latitude": 51.501808,
+      "longitude": -0.08274949999999999,
+      "exact_address": "52 Bermondsey St, London SE1 3XF, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7832273,
+      "longitude": -80.2814104,
+      "exact_address": "5201 Waterford District Dr 9th floor, Miami, FL 33126",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7247,
+      "longitude": -73.9969,
+      "exact_address": "627 Broadway, Level 9, New York, NY 10012, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "sales",
+        "it",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "orlando_office",
+      "city": "Orlando",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 28.5383,
+      "longitude": -81.3792,
+      "exact_address": "Orlando, Florida, United States",
+      "departments": [
+        "legal"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "customer-support",
+        "hr",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7902,
+      "longitude": -122.4036,
+      "exact_address": "Chevron Building, 225 Bush Street, Floor 12, San Francisco, California, United States - 94104",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "operations",
+        "content-production",
+        "design",
+        "sales",
+        "finance",
+        "marketing",
+        "product",
+        "hr",
+        "security",
+        "data"
+      ],
+      "employee_count": "800+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6182066,
+      "longitude": -122.3172603,
+      "exact_address": "1815 12th Ave E Ste #644, Seattle, WA 98122",
+      "departments": [
+        "ai",
+        "engineering",
+        "legal",
+        "academy-training",
+        "other",
+        "content-production",
+        "design",
+        "finance",
+        "data",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "exact_address": "Nashville, Tennessee, United States",
+      "departments": [
+        "sales",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sofia_office",
+      "city": "Sofia",
+      "state": null,
+      "country": "Bulgaria",
+      "latitude": 42.6977,
+      "longitude": 23.3219,
+      "exact_address": "Sofia, Bulgaria",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2026-05-17T11:25:33.578Z",
+    "current_valuation_usd": "$3.5 billion",
+    "current_valuation_usd_last_updated": "2026-05-25T11:20:00.000Z",
+    "total_funding_raised": "$434 million",
+    "total_funding_raised_last_updated": "2026-05-17T11:25:33.578Z",
+    "key_investors": [
+      {
+        "name": "Wildcat Venture Partners",
+        "domain": ""
+      },
+      {
+        "name": "Lowercase Capital",
+        "domain": ""
+      },
+      {
+        "name": "Spark Capital",
+        "domain": ""
+      },
+      {
+        "name": "Notable Capital",
+        "domain": "notablecap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Wildcat Venture Partners",
+        "logo_url": "/investor-logos/wildcat-venture-partners.png"
+      },
+      {
+        "name": "Lowercase Capital",
+        "logo_url": "/investor-logos/lowercase-capital.png"
+      },
+      {
+        "name": "Spark Capital",
+        "logo_url": "/investor-logos/spark-capital.png"
+      },
+      {
+        "name": "Notable Capital",
+        "logo_url": "/investor-logos/notable-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-17T11:25:33.578Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "retirement-401k",
+    "bonus",
+    "parental-leave",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "mental-health",
+    "lifestyle-spending-account",
+    "learning-development",
+    "commute-allowance",
+    "meal-allowance",
+    "gym-membership",
+    "flexible-hours",
+    "privilege-leave",
+    "team-events",
+    "childcare-support",
+    "phone-reimbursement",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "manual-edit",
+    "location_mapping[2].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[4].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[6].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[7].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[8].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[9].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[11].source": "searchapi-maps-backfill-2026-05-24",
+    "location_mapping[17].source": "searchapi-maps-backfill-2026-05-24",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-17T11:25:33.578Z",
+    "company_basic_information.website_url_last_updated": "2026-05-17T11:25:33.578Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-17T11:25:33.578Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-17T11:25:33.578Z",
+    "company_basic_information.last_updated": "2026-05-17",
+    "leadership.founders[0].linkedin_verified_at": "2026-05-17T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_verified_at": "2026-05-17T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T19:12:14.497Z",
+    "leadership.founders[0].description_last_updated": "2026-06-08T19:21:01.365Z",
+    "leadership.founders[1].linkedin_verified_at": "2026-05-17T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_verified_at": "2026-05-17T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T19:12:35.136Z",
+    "leadership.founders[1].description_last_updated": "2026-06-08T19:21:07.064Z",
+    "social_media.x_url_last_updated": "2026-05-17T11:25:33.578Z",
+    "social_media.x_url_verified_at": "2026-05-17T00:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-05-17T11:25:33.578Z",
+    "social_media.linkedin_url_verified_at": "2026-05-17T00:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-05-17T11:25:33.578Z",
+    "social_media.instagram_url_verified_at": "2026-05-17T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-17",
+    "financial_information.funding_stage_last_updated": "2026-05-17T11:25:33.578Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-25T11:20:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-17T11:25:33.578Z",
+    "financial_information.investor_logos_last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[0].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[1].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[2].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[3].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[4].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[5].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[6].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[7].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[8].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[9].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[10].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[11].last_updated": "2026-05-24T08:58:59.696Z",
+    "location_mapping[12].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[13].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[14].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[15].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[16].last_updated": "2026-05-17T11:25:33.578Z",
+    "location_mapping[17].last_updated": "2026-05-24T08:58:59.696Z",
+    "job_data.roles[0].posted_date": "2026-09-09",
+    "job_data.roles[1].posted_date": "2026-09-09",
+    "job_data.roles[2].posted_date": "2026-09-09",
+    "job_data.roles[3].posted_date": "2026-09-09",
+    "job_data.roles[4].posted_date": "2026-09-09",
+    "job_data.roles[5].posted_date": "2026-09-09",
+    "job_data.roles[6].posted_date": "2026-09-09",
+    "job_data.roles[7].posted_date": "2026-09-09",
+    "job_data.roles[8].posted_date": "2026-09-09",
+    "job_data.roles[9].posted_date": "2026-09-09",
+    "job_data.roles[10].posted_date": "2026-09-09",
+    "job_data.roles[11].posted_date": "2026-09-09",
+    "job_data.roles[12].posted_date": "2026-09-09",
+    "job_data.roles[13].posted_date": "2026-09-09",
+    "job_data.roles[14].posted_date": "2026-09-09",
+    "job_data.roles[15].posted_date": "2026-09-09",
+    "job_data.roles[16].posted_date": "2026-09-09",
+    "job_data.roles[17].posted_date": "2026-09-09",
+    "job_data.roles[18].posted_date": "2026-09-09",
+    "job_data.roles[19].posted_date": "2026-09-09",
+    "job_data.roles[20].posted_date": "2026-09-09",
+    "job_data.roles[21].posted_date": "2026-09-09",
+    "job_data.roles[22].posted_date": "2026-09-09",
+    "job_data.roles[23].posted_date": "2026-09-09",
+    "job_data.roles[24].posted_date": "2026-09-09",
+    "job_data.roles[25].posted_date": "2026-09-09",
+    "job_data.roles[26].posted_date": "2026-09-09",
+    "job_data.roles[27].posted_date": "2026-09-09",
+    "job_data.roles[28].posted_date": "2026-09-09",
+    "job_data.roles[29].posted_date": "2026-09-09",
+    "job_data.roles[30].posted_date": "2026-09-09",
+    "job_data.roles[31].posted_date": "2026-09-09",
+    "job_data.roles[32].posted_date": "2026-09-09",
+    "job_data.roles[33].posted_date": "2026-09-09",
+    "job_data.roles[34].posted_date": "2026-09-09",
+    "job_data.roles[35].posted_date": "2026-09-09",
+    "job_data.roles[36].posted_date": "2026-09-09",
+    "job_data.roles[37].posted_date": "2026-09-09",
+    "job_data.roles[38].posted_date": "2026-09-09",
+    "job_data.roles[39].posted_date": "2026-09-09",
+    "job_data.roles[40].posted_date": "2026-09-09",
+    "job_data.roles[41].posted_date": "2026-09-09",
+    "job_data.roles[41].title_updated_timestamp": "2026-09-09T16:32:11.326Z",
+    "job_data.roles[42].posted_date": "2026-09-09",
+    "job_data.roles[42].title_updated_timestamp": "2026-09-09T16:32:29.158Z",
+    "job_data.roles[43].posted_date": "2026-09-09",
+    "job_data.roles[44].posted_date": "2026-09-09",
+    "job_data.roles[45].posted_date": "2026-09-09",
+    "job_data.roles[46].posted_date": "2026-09-09",
+    "job_data.roles[47].posted_date": "2026-09-09",
+    "job_data.roles[48].posted_date": "2026-09-09",
+    "job_data.roles[49].posted_date": "2026-09-09",
+    "job_data.roles[50].posted_date": "2026-09-09",
+    "job_data.roles[51].posted_date": "2026-09-09",
+    "job_data.roles[52].posted_date": "2026-09-09",
+    "job_data.roles[53].posted_date": "2026-09-09",
+    "job_data.roles[54].posted_date": "2026-09-09",
+    "job_data.roles[55].posted_date": "2026-09-09",
+    "job_data.roles[56].posted_date": "2026-09-09",
+    "job_data.roles[57].posted_date": "2026-09-09",
+    "job_data.roles[58].posted_date": "2026-09-09",
+    "job_data.roles[59].posted_date": "2026-09-09",
+    "job_data.roles[60].posted_date": "2026-09-09",
+    "job_data.roles[61].posted_date": "2026-09-09",
+    "job_data.roles[62].posted_date": "2026-09-09",
+    "job_data.roles[63].posted_date": "2026-09-09",
+    "job_data.roles[64].posted_date": "2026-09-24",
+    "job_data.roles[65].posted_date": "2026-09-24",
+    "job_data.roles[66].posted_date": "2026-09-24",
+    "job_data.roles[67].posted_date": "2026-09-24",
+    "job_data.roles[68].posted_date": "2026-09-24",
+    "job_data.roles[69].posted_date": "2026-09-24",
+    "job_data.roles[70].posted_date": "2026-09-24",
+    "job_data.roles[71].posted_date": "2026-09-24",
+    "job_data.roles[72].posted_date": "2026-09-24",
+    "job_data.roles[73].posted_date": "2026-09-24",
+    "job_data.roles[74].posted_date": "2026-09-24",
+    "job_data.roles[75].posted_date": "2026-09-24",
+    "job_data.roles[76].posted_date": "2026-09-24",
+    "job_data.roles[77].posted_date": "2026-09-24",
+    "job_data.roles[78].posted_date": "2026-09-24",
+    "job_data.roles[79].posted_date": "2026-09-24",
+    "job_data.roles[80].posted_date": "2026-09-24",
+    "job_data.roles[81].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T09:38:12.396Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.retirement-401k.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.bonus.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.parental-leave.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.health-insurance.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.dental-insurance.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.vision-insurance.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.mental-health.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.lifestyle-spending-account.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.learning-development.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.commute-allowance.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.meal-allowance.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.gym-membership.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.flexible-hours.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.privilege-leave.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.team-events.last_updated": "2026-06-06T18:34:36.275Z",
+    "benefits.childcare-support.last_updated": "2026-06-06T18:34:36.275Z"
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "slug": "regrello",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/38085.9f64ae07df5d289f.js",
+  "observed_at": "2026-09-28T08:35:55.104036+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15598,
+    "sha256": "4145cb55bd187a7c417bbfb40a7b46be056566b9a41b0abe0bababacc851a5b2",
+    "elapsed_seconds": 0.398,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:35:55 GMT",
+      "etag": "\"5aa6bf2c1754a1a0a8fd1dd8b2a87bed\"",
+      "last-modified": "Mon, 28 Sep 2026 08:35:55 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Regrello",
+    "company_name_legal": "Regrello",
+    "founded_year": "2021",
+    "website_url": "https://www.regrello.com",
+    "careers_url": "https://jobs.lever.co/regrello",
+    "investor_portfolio_page": null,
+    "id": 114
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-14T13:12:49.414Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.847019,
+      "longitude": -84.420227,
+      "exact_address": "2556 Apple Valley Road, Atlanta, GA 30319, United States",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2711,
+      "longitude": -97.7437,
+      "exact_address": "501 West Avenue, Suite 2102, Downtown, Austin, Texas, United States - 78701",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "engineering",
+        "product",
+        "sales"
+      ],
+      "employee_count": "20-49"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "No. 26/27, 10th Upper Floor, Raheja Tower, MG Road, Bengaluru, Karnataka, India - 560001",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3458,
+      "longitude": -71.0896,
+      "exact_address": "800 Boylston St. Suite 1410, Boston, Massachusetts, United States - 02199",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "11-50"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8866,
+      "longitude": -87.6489,
+      "exact_address": "150 North Riverside Plaza, Suite 500, Chicago, Illinois, United States - 60606",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.626138,
+      "longitude": 77.229477,
+      "exact_address": "44, Backary Portion, 2nd Floor, Regal Building, New Delhi, Delhi, India - 110001",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.748588,
+      "longitude": -104.996784,
+      "exact_address": "1560 Blake Street, Unit 804, Denver, Colorado, United States - 80202",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7572,
+      "longitude": -80.2163,
+      "exact_address": "2929 SW 3rd Ave, Suite 210, Miami, Florida, United States - 33129",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "monterrey",
+      "state": "Baja California",
+      "country": "Mexico",
+      "latitude": 25.6866136,
+      "longitude": -100.3161126,
+      "exact_address": "Batáquez, Monterrey, Baja California, Mexico",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "1+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7896,
+      "longitude": -122.3971,
+      "exact_address": "415 Mission Street, 3rd Floor, San Francisco, California, United States - 94105",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "consulting",
+        "customer-success",
+        "product",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_bay_area_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7813,
+      "longitude": -122.4045,
+      "exact_address": "680 Folsom St, San Francisco, California, United States - 94107",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "11-50"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-03T12:17:53.912Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-03T12:17:53.912Z",
+    "total_funding_raised": "$25.2 million",
+    "total_funding_raised_last_updated": "2025-12-03T12:17:53.912Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Bloomberg Beta",
+        "domain": "bloombergbeta.com"
+      },
+      {
+        "name": "Dell Technologies Capital",
+        "domain": "delltechnologiescapital.com"
+      },
+      {
+        "name": "Position Ventures",
+        "domain": "positionventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Bloomberg Beta",
+        "logo_url": "/investor-logos/bloomberg-beta.png"
+      },
+      {
+        "name": "Dell Technologies Capital",
+        "logo_url": "/investor-logos/dell-technologies-capital.png"
+      },
+      {
+        "name": "Position Ventures",
+        "logo_url": "/investor-logos/position-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-03T12:17:53.912Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "privilege-leave",
+    "remote-work",
+    "visa-sponsorship",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-03T12:17:53.912Z",
+    "company_basic_information.website_url_last_updated": "2025-12-03T12:17:53.912Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-03T12:17:53.912Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-03T12:17:53.912Z",
+    "company_basic_information.last_updated": "2025-12-03",
+    "company_basic_information.founded_year_last_updated": "2025-12-04T13:51:07.512Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-03T14:06:48.939Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:01:12.522Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:06:25.030Z",
+    "social_media.x_url_last_verified": "2025-12-04T13:48:53.747Z",
+    "social_media.linkedin_url_last_verified": "2025-12-04T13:49:18.123Z",
+    "social_media.instagram_url_last_verified": "2025-12-04T13:50:24.128Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:43.008Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-03T12:17:53.912Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-03T12:17:53.912Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-03T12:17:53.912Z",
+    "financial_information.investor_logos_last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[0].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[1].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[2].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[3].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[4].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[5].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[6].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[7].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[8].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[9].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[10].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[11].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[12].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[13].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[14].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[15].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[16].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[17].last_updated": "2025-12-03T12:17:53.912Z",
+    "location_mapping[18].last_updated": "2025-12-04T14:30:00.000Z",
+    "job_data.last_updated": "2026-09-14T13:12:49.414Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.health-insurance.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.dental-insurance.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.vision-insurance.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.life-insurance.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.privilege-leave.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.remote-work.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.visa-sponsorship.last_updated": "2026-01-07T15:42:00.479Z",
+    "benefits.team-events.last_updated": "2026-01-07T15:42:00.479Z"
+  }
+}

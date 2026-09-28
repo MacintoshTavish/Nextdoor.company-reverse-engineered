@@ -1,0 +1,599 @@
+{
+  "slug": "wintermute",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/66921.90a9c8b8e23994b7.js",
+  "observed_at": "2026-09-28T08:38:18.650237+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20436,
+    "sha256": "9aae42936e66d4cb460ce0d8255c7bf03ed69527975c0ccb6622865a1c178ba0",
+    "elapsed_seconds": 0.17,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:18 GMT",
+      "etag": "\"054f2838b2803942cc0566bb6576b391\"",
+      "last-modified": "Mon, 28 Sep 2026 08:12:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Wintermute",
+    "company_name_legal": "Wintermute Trading Ltd",
+    "founded_year": 2017,
+    "website_url": "https://www.wintermute.com",
+    "careers_url": "https://jobs.lever.co/wintermute-trading",
+    "investor_portfolio_page": null,
+    "id": 331
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 21,
+    "last_updated": "2026-09-19T16:55:57.463Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 21,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Business Development & Partnerships — All Levels",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/4061bae9-2cde-4047-8fc2-eae2fb24c070",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "4061bae9-2cde-4047-8fc2-eae2fb24c070"
+    },
+    {
+      "title": "Business Development & Partnerships Director",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/bb850148-6459-4fa1-9ce8-07bf53036804",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "bb850148-6459-4fa1-9ce8-07bf53036804"
+    },
+    {
+      "title": "Institutional Business Development - Manager/Director",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/3db29d6b-7f7e-4251-a151-82933382473b",
+      "location_ids": [
+        "london_office",
+        "new_york_office"
+      ],
+      "location_display": "London, United Kingdom / New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "3db29d6b-7f7e-4251-a151-82933382473b"
+    },
+    {
+      "title": "DeFi Algorithmic Trader",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/cbc68e87-442f-4724-b3c5-c1f0bb3da80c",
+      "location_ids": [
+        "london_office",
+        "new_york_office",
+        "singapore_office"
+      ],
+      "location_display": "London, United Kingdom / New York, USA / Singapore, Singapore",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "cbc68e87-442f-4724-b3c5-c1f0bb3da80c"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/0281d99d-aaa5-4e87-8785-9e3a4fbbff16",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "0281d99d-aaa5-4e87-8785-9e3a4fbbff16"
+    },
+    {
+      "title": "Product Engineering - Team Lead",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/66a6c9f0-b504-4942-af22-b555969564e5",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "66a6c9f0-b504-4942-af22-b555969564e5"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/cc1ae0c6-7e19-4aa3-95aa-0d109b10edda",
+      "location_ids": [
+        "london_office",
+        "new_york_office"
+      ],
+      "location_display": "London, United Kingdom / New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "cc1ae0c6-7e19-4aa3-95aa-0d109b10edda"
+    },
+    {
+      "title": "C++ Quant Developer",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "4cab7a75-4304-4590-90c5-6755dbd97d36"
+    },
+    {
+      "title": "C++ Quant Developer - Options",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/89c2714e-7748-42ab-a03c-36fc821f7362",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "89c2714e-7748-42ab-a03c-36fc821f7362"
+    },
+    {
+      "title": "C++ Trading Platform Developer",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/8c31337e-9989-4cf2-9cab-e876cbc96f10",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "8c31337e-9989-4cf2-9cab-e876cbc96f10"
+    },
+    {
+      "title": "Core Developer (Python)",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/d059ea72-e3d2-42ce-bbb3-d47531e0c933",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "d059ea72-e3d2-42ce-bbb3-d47531e0c933"
+    },
+    {
+      "title": "Infrastructure Support Engineer",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/d59507d5-3a38-4d3a-b25e-9b39c89279fa",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "d59507d5-3a38-4d3a-b25e-9b39c89279fa"
+    },
+    {
+      "title": "Algorithmic Trader",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0",
+      "location_ids": [
+        "london_office",
+        "new_york_office"
+      ],
+      "location_display": "London, United Kingdom / New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "28c7e15f-b3a0-48c6-8322-2e9f25371fd0"
+    },
+    {
+      "title": "Graduate Algorithmic Trader 2027",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "d962dc39-8839-4e13-a37a-baba49e52b44"
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/a37ce8fb-afc7-4ede-ae93-ca1395228cda",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "a37ce8fb-afc7-4ede-ae93-ca1395228cda"
+    },
+    {
+      "title": "Options Trader",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/f0db771f-936b-4999-91d1-7a13fa0b8c25",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "f0db771f-936b-4999-91d1-7a13fa0b8c25",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Options Trader role involve trading options, analyzing market flows, and managing a crypto options portfolio, which are all core functions of the finance department, specifically within trading and investment management."
+    },
+    {
+      "title": "Prediction Markets Trader",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/76cca257-0961-4aa7-b234-eeb777196399",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "76cca257-0961-4aa7-b234-eeb777196399"
+    },
+    {
+      "title": "Quant Researcher (MFT Focus)",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/0874ca9b-7c02-4364-bb78-b7b04272351e",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "0874ca9b-7c02-4364-bb78-b7b04272351e"
+    },
+    {
+      "title": "Trading Analyst - Crypto Trading",
+      "title_original": "Trading Analyst",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-10T09:08:16.617Z",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/11823665-128e-452e-afbb-ce855f22ed86",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "11823665-128e-452e-afbb-ce855f22ed86",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Trading Analyst involve supporting traders, analyzing trading systems, and improving trading strategies, which are all closely aligned with finance and trading operations. The role requires a strong understanding of trading, market analysis, and quantitative skills, which are fundamental in the finance sector."
+    },
+    {
+      "title": "Business Development Manager (Sports/Prediction Markets)",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/42b799cd-95cb-4f12-89b1-7e22a7cbf7cc",
+      "location_ids": [
+        "london_office",
+        "new_york_office"
+      ],
+      "location_display": "London, United Kingdom / New York, USA / Remote",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "42b799cd-95cb-4f12-89b1-7e22a7cbf7cc"
+    },
+    {
+      "title": "Trader Assessment Day - Finance",
+      "title_original": "Wintermute Trader Assessment Day | October 2026",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-19T17:12:11.518Z",
+      "apply_url": "https://jobs.lever.co/wintermute-trading/61f162a0-b51b-44ed-b2b9-9d7260eee6f2",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Office",
+      "posted_date": "2026-09-19",
+      "lever_job_id": "61f162a0-b51b-44ed-b2b9-9d7260eee6f2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job posting is for a Trader Assessment Day, which indicates a focus on trading activities typically associated with finance roles. The primary responsibilities would likely involve evaluating candidates for trading positions, which are integral to the finance department."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.51451,
+      "longitude": -0.08876,
+      "exact_address": "41 Lothbury, London, United Kingdom - EC2R 7HF",
+      "departments": [
+        "sales",
+        "other",
+        "operations",
+        "engineering",
+        "product",
+        "customer-support",
+        "ai",
+        "research"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.739993,
+      "longitude": -73.990353,
+      "exact_address": "149 5th Avenue, 8th Floor, New York, New York, United States - 10010",
+      "departments": [
+        "sales",
+        "other",
+        "product",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Singapore",
+      "country": "Singapore",
+      "latitude": 1.28243,
+      "longitude": 103.84066,
+      "exact_address": "21B Bukit Pasoh Road, Singapore - 089835",
+      "departments": [
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "other"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-06-11T00:00:00.000Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-06-11T14:07:35.513Z",
+    "total_funding_raised": "$100 million",
+    "total_funding_raised_last_updated": "2026-06-11T14:07:35.513Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Pantera Capital",
+        "domain": "panteracapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Pantera Capital",
+        "logo_url": "/investor-logos/pantera-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-06-11T14:07:35.513Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "bonus",
+    "team-events",
+    "visa-sponsorship",
+    "relocation-assistance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "searchapi-google-ai-mode",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].description_source": "searchapi-google-ai-mode",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "searchapi-google-ai-mode",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-06-11T14:07:35.513Z",
+    "company_basic_information.website_url_last_updated": "2026-06-11T14:07:35.513Z",
+    "company_basic_information.careers_url_last_updated": "2026-06-11T14:07:35.513Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-06-11T14:07:35.513Z",
+    "company_basic_information.last_updated": "2026-06-11",
+    "leadership.founders[0].linkedin_last_verified": "2026-06-11",
+    "leadership.founders[0].x_twitter_last_verified": "2026-06-11",
+    "leadership.founders[0].image_url_last_updated": "2026-06-11T21:47:06.754Z",
+    "leadership.founders[0].description_last_updated": "2026-06-11T21:27:07.130Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-06-11",
+    "leadership.founders[1].x_twitter_last_verified": "2026-06-11",
+    "leadership.founders[1].description_last_updated": "2026-06-11T21:27:16.097Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-06-11",
+    "leadership.founders[2].x_twitter_last_verified": "2026-06-11",
+    "leadership.founders[2].image_url_last_updated": "2026-06-11T21:47:19.849Z",
+    "leadership.founders[2].description_last_updated": "2026-06-11T21:27:27.223Z",
+    "social_media.x_url_last_updated": "2026-06-11T14:07:35.513Z",
+    "social_media.linkedin_url_last_updated": "2026-06-11T14:07:35.513Z",
+    "social_media.instagram_url_last_updated": "2026-06-11T14:07:35.513Z",
+    "social_media.instagram_url_last_verified": "2026-06-11",
+    "social_media.x_url_last_verified": "2026-06-11",
+    "social_media.linkedin_url_last_verified": "2026-06-11",
+    "business_details.industry_domains_last_updated": "2026-06-11",
+    "financial_information.funding_stage_last_updated": "2026-06-11T00:00:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-06-11T14:07:35.513Z",
+    "financial_information.total_funding_raised_last_updated": "2026-06-11T14:07:35.513Z",
+    "financial_information.investor_logos_last_updated": "2026-06-11T14:07:35.513Z",
+    "location_mapping[0].last_updated": "2026-06-11T14:07:35.513Z",
+    "location_mapping[1].last_updated": "2026-06-11T14:07:35.513Z",
+    "location_mapping[2].last_updated": "2026-06-11T14:07:35.513Z",
+    "job_data.roles[0].posted_date": "2026-09-19",
+    "job_data.roles[1].posted_date": "2026-09-19",
+    "job_data.roles[2].posted_date": "2026-09-19",
+    "job_data.roles[3].posted_date": "2026-09-19",
+    "job_data.roles[4].posted_date": "2026-09-19",
+    "job_data.roles[5].posted_date": "2026-09-19",
+    "job_data.roles[6].posted_date": "2026-09-19",
+    "job_data.roles[7].posted_date": "2026-09-19",
+    "job_data.roles[8].posted_date": "2026-09-19",
+    "job_data.roles[9].posted_date": "2026-09-19",
+    "job_data.roles[10].posted_date": "2026-09-19",
+    "job_data.roles[11].posted_date": "2026-09-19",
+    "job_data.roles[12].posted_date": "2026-09-19",
+    "job_data.roles[13].posted_date": "2026-09-19",
+    "job_data.roles[14].posted_date": "2026-09-19",
+    "job_data.roles[15].posted_date": "2026-09-19",
+    "job_data.roles[16].posted_date": "2026-09-19",
+    "job_data.roles[17].posted_date": "2026-09-19",
+    "job_data.roles[18].posted_date": "2026-09-19",
+    "job_data.roles[18].title_updated_timestamp": "2026-07-10T09:08:16.617Z",
+    "job_data.roles[19].posted_date": "2026-09-19",
+    "job_data.roles[20].posted_date": "2026-09-19",
+    "job_data.roles[20].title_updated_timestamp": "2026-09-19T17:12:11.518Z",
+    "job_data.last_updated": "2026-09-19T16:55:57.463Z",
+    "benefits.health-insurance.last_updated": "2026-06-11T21:25:32.140Z",
+    "benefits.bonus.last_updated": "2026-06-11T21:25:32.140Z",
+    "benefits.team-events.last_updated": "2026-06-11T21:25:32.140Z",
+    "benefits.visa-sponsorship.last_updated": "2026-06-11T21:25:32.140Z",
+    "benefits.relocation-assistance.last_updated": "2026-06-11T21:25:32.140Z"
+  }
+}

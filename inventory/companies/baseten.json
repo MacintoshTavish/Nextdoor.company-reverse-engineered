@@ -1,0 +1,3574 @@
+{
+  "slug": "baseten",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/93007.f7a98f9d8df54b21.js",
+  "observed_at": "2026-09-28T08:29:22.933481+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 113470,
+    "sha256": "20031ee5111c2ed706c472b526e53d8c91176e2fdcabf8dd530560eb96a24a17",
+    "elapsed_seconds": 0.517,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:22 GMT",
+      "etag": "\"913a8ab467f1ae24e01469cee02c9e83\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:22 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Baseten",
+    "company_name_legal": "Baseten",
+    "founded_year": 2019,
+    "website_url": "https://baseten.co",
+    "careers_url": "https://jobs.ashbyhq.com/baseten",
+    "investor_portfolio_page": null,
+    "id": 434
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 202,
+    "last_updated": "2026-09-21T16:19:48.564Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 202,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Executive - AI Native",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/df2f0ebb-a84a-45c2-bc74-dc9589fcc1ae",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "df2f0ebb-a84a-45c2-bc74-dc9589fcc1ae"
+    },
+    {
+      "title": "Account Executive - AI Native",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1261fe76-f577-4b3d-aac8-df65846ae445",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1261fe76-f577-4b3d-aac8-df65846ae445"
+    },
+    {
+      "title": "Account Executive - Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/223f44cf-c7b8-416c-b694-e265579aa1c2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "223f44cf-c7b8-416c-b694-e265579aa1c2"
+    },
+    {
+      "title": "Account Executive - Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/75d81d67-465a-4d65-9745-d1c06b0c7aec",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "75d81d67-465a-4d65-9745-d1c06b0c7aec"
+    },
+    {
+      "title": "Account Executive - Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/8608bdbc-1b8b-4b69-a433-83864f151375",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "8608bdbc-1b8b-4b69-a433-83864f151375"
+    },
+    {
+      "title": "Account Executive - Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/0d1f68d4-ee6c-4b5f-9ef9-21a2dabbc152",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "0d1f68d4-ee6c-4b5f-9ef9-21a2dabbc152"
+    },
+    {
+      "title": "AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b13ec426-d09d-4122-8112-cf25adbd7d60"
+    },
+    {
+      "title": "AI Inference Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "db6477fc-111a-4340-bf00-525fe023e6f3"
+    },
+    {
+      "title": "AI Inference Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "db6477fc-111a-4340-bf00-525fe023e6f3"
+    },
+    {
+      "title": "AI Inference Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "db6477fc-111a-4340-bf00-525fe023e6f3"
+    },
+    {
+      "title": "AI Inference Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "db6477fc-111a-4340-bf00-525fe023e6f3"
+    },
+    {
+      "title": "Research Fellow - AI and Machine Learning",
+      "title_original": "Base Labs Fellowship",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-23T18:08:29.953Z",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Temporary",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "58d7d8e6-86ee-43a1-baec-3dddcb661d51",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily involves conducting research in AI and machine learning, which aligns closely with the responsibilities of a research fellow. The focus on producing rigorous, published research and the qualifications required (PhD in ML, AI, etc.) further support this classification."
+    },
+    {
+      "title": "Brand Designer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c2f8fe4f-07c1-4d43-ae5c-05f057842e57#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c2f8fe4f-07c1-4d43-ae5c-05f057842e57"
+    },
+    {
+      "title": "Brand Designer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c2f8fe4f-07c1-4d43-ae5c-05f057842e57#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c2f8fe4f-07c1-4d43-ae5c-05f057842e57"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "916e9d62-492a-4562-971f-3e97e3868392"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "916e9d62-492a-4562-971f-3e97e3868392"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "916e9d62-492a-4562-971f-3e97e3868392"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "916e9d62-492a-4562-971f-3e97e3868392"
+    },
+    {
+      "title": "Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c2ba6c50-d282-4478-98e9-668f94facde8"
+    },
+    {
+      "title": "Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c2ba6c50-d282-4478-98e9-668f94facde8"
+    },
+    {
+      "title": "Engineering Manager, Cloud Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/0870ed34-7365-4b9f-a50a-481783b8c266",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "0870ed34-7365-4b9f-a50a-481783b8c266"
+    },
+    {
+      "title": "Engineering Manager, Forward Deployed Engineering (LLM)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1b6fc00e-f3fa-440b-9e4e-3013f7a5010e"
+    },
+    {
+      "title": "Engineering Manager, Forward Deployed Engineering (LLM)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1b6fc00e-f3fa-440b-9e4e-3013f7a5010e"
+    },
+    {
+      "title": "Engineering Manager, Forward Deployed Engineering (LLM)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1b6fc00e-f3fa-440b-9e4e-3013f7a5010e"
+    },
+    {
+      "title": "Engineering Manager, Forward Deployed Engineering (LLM)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1b6fc00e-f3fa-440b-9e4e-3013f7a5010e"
+    },
+    {
+      "title": "Engineering Manager, Runtime Fabric",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/aae72bd3-6f75-4238-9741-95fec11facb9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "aae72bd3-6f75-4238-9741-95fec11facb9"
+    },
+    {
+      "title": "Executive Assistant to CTO (co-founder) & Head of Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c29da145-0f53-4842-9f52-32b93a5b2f43",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c29da145-0f53-4842-9f52-32b93a5b2f43"
+    },
+    {
+      "title": "Field Productivity & Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5a1c6228-3906-4ccc-9988-d9bd67383b9d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "5a1c6228-3906-4ccc-9988-d9bd67383b9d"
+    },
+    {
+      "title": "Field Productivity & Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5a1c6228-3906-4ccc-9988-d9bd67383b9d#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "5a1c6228-3906-4ccc-9988-d9bd67383b9d"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+    },
+    {
+      "title": "Forward Deployed Engineer (Training)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "11ab2593-6648-4943-ab4a-284fe7e89720"
+    },
+    {
+      "title": "Forward Deployed Engineer (Training)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "11ab2593-6648-4943-ab4a-284fe7e89720"
+    },
+    {
+      "title": "Frontend Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3622a1ee-50a9-4c45-af6e-aa12bd5de22f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3622a1ee-50a9-4c45-af6e-aa12bd5de22f"
+    },
+    {
+      "title": "Frontend Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3622a1ee-50a9-4c45-af6e-aa12bd5de22f#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3622a1ee-50a9-4c45-af6e-aa12bd5de22f"
+    },
+    {
+      "title": "Frontend Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3622a1ee-50a9-4c45-af6e-aa12bd5de22f#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3622a1ee-50a9-4c45-af6e-aa12bd5de22f"
+    },
+    {
+      "title": "Frontend Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3622a1ee-50a9-4c45-af6e-aa12bd5de22f#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3622a1ee-50a9-4c45-af6e-aa12bd5de22f"
+    },
+    {
+      "title": "Head of Environment",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/dbb12091-6cee-41b7-be98-ca0106e9fc14",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "dbb12091-6cee-41b7-be98-ca0106e9fc14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Head of Environment involve managing workplace operations, real estate strategy, and creating exceptional workplace experiences as the company scales. This aligns closely with the operations category, which encompasses business strategy and workplace management."
+    },
+    {
+      "title": "Immigration & Mobility Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9d293c95-898b-4dbe-9479-c8f0e0b35688#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9d293c95-898b-4dbe-9479-c8f0e0b35688"
+    },
+    {
+      "title": "Immigration & Mobility Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9d293c95-898b-4dbe-9479-c8f0e0b35688#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9d293c95-898b-4dbe-9479-c8f0e0b35688"
+    },
+    {
+      "title": "IT Support / Operations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c07eb44f-b5fa-4808-90b7-03b265d97836"
+    },
+    {
+      "title": "IT Support / Operations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c07eb44f-b5fa-4808-90b7-03b265d97836"
+    },
+    {
+      "title": "Manager, Startup Sales",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b1b5ab31-f90c-41f9-b9f2-13408b1c072b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b1b5ab31-f90c-41f9-b9f2-13408b1c072b"
+    },
+    {
+      "title": "Manager, Strategic Sales",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/4e507a15-c9bb-4877-b422-f3eb462a3732",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "4e507a15-c9bb-4877-b422-f3eb462a3732"
+    },
+    {
+      "title": "Marketing Technology & Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "43b6c299-d5df-4cf4-a816-142ba3014a9d"
+    },
+    {
+      "title": "Marketing Technology & Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/43b6c299-d5df-4cf4-a816-142ba3014a9d#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "43b6c299-d5df-4cf4-a816-142ba3014a9d"
+    },
+    {
+      "title": "Post-Training Research Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "68328a94-f785-463b-a3d7-b0dfc11839b5"
+    },
+    {
+      "title": "Post-Training Research Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8"
+    },
+    {
+      "title": "Procurement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b6a7e52e-be85-4f49-953d-d00e2a2f6143#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b6a7e52e-be85-4f49-953d-d00e2a2f6143"
+    },
+    {
+      "title": "Procurement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b6a7e52e-be85-4f49-953d-d00e2a2f6143#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b6a7e52e-be85-4f49-953d-d00e2a2f6143"
+    },
+    {
+      "title": "Product Manager, Developer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2d78fdcf-53e1-45d3-a047-2aefb5ad3153#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2d78fdcf-53e1-45d3-a047-2aefb5ad3153"
+    },
+    {
+      "title": "Product Manager, Developer Experience",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2d78fdcf-53e1-45d3-a047-2aefb5ad3153#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2d78fdcf-53e1-45d3-a047-2aefb5ad3153"
+    },
+    {
+      "title": "Product Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/342a4c0e-7da3-490e-927f-dffb51f847b2#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "342a4c0e-7da3-490e-927f-dffb51f847b2"
+    },
+    {
+      "title": "Product Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/342a4c0e-7da3-490e-927f-dffb51f847b2#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "342a4c0e-7da3-490e-927f-dffb51f847b2"
+    },
+    {
+      "title": "Product Manager, Inference Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3027e0bc-731f-4fef-b081-2031590766fd"
+    },
+    {
+      "title": "Product Manager, Inference Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3027e0bc-731f-4fef-b081-2031590766fd#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3027e0bc-731f-4fef-b081-2031590766fd"
+    },
+    {
+      "title": "Product Marketing Manager, Ecosystem Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/a34233b9-d4ed-4a8a-b942-e16df27f8935#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "a34233b9-d4ed-4a8a-b942-e16df27f8935"
+    },
+    {
+      "title": "Product Marketing Manager, Ecosystem Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/a34233b9-d4ed-4a8a-b942-e16df27f8935#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "a34233b9-d4ed-4a8a-b942-e16df27f8935"
+    },
+    {
+      "title": "Product Marketing Manager, Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/132295d6-eeb4-4655-9847-a7e9a586d273",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "132295d6-eeb4-4655-9847-a7e9a586d273"
+    },
+    {
+      "title": "Product Marketing Manager, Training",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/36a76195-a9fc-4b10-9963-532e8c168e6a#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "36a76195-a9fc-4b10-9963-532e8c168e6a"
+    },
+    {
+      "title": "Product Marketing Manager, Training",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/36a76195-a9fc-4b10-9963-532e8c168e6a#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "36a76195-a9fc-4b10-9963-532e8c168e6a"
+    },
+    {
+      "title": "Revenue Accounting Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9eb05eb7-75a8-415c-8370-a10005c0d2cc#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9eb05eb7-75a8-415c-8370-a10005c0d2cc"
+    },
+    {
+      "title": "Revenue Accounting Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9eb05eb7-75a8-415c-8370-a10005c0d2cc#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9eb05eb7-75a8-415c-8370-a10005c0d2cc"
+    },
+    {
+      "title": "Sales Development Representative - Inbound",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/49aaa88c-75b5-4d4e-b726-28bfecd4300e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "49aaa88c-75b5-4d4e-b726-28bfecd4300e"
+    },
+    {
+      "title": "Sales Development Representative - Outbound",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fdbbf773-0857-4771-8b90-f3dfa1d8683f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fdbbf773-0857-4771-8b90-f3dfa1d8683f"
+    },
+    {
+      "title": "Sales Development Representative - Outbound",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fdbbf773-0857-4771-8b90-f3dfa1d8683f#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fdbbf773-0857-4771-8b90-f3dfa1d8683f"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b85e4b1d-6531-46b5-bc8a-238f3761a50e"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b85e4b1d-6531-46b5-bc8a-238f3761a50e"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b85e4b1d-6531-46b5-bc8a-238f3761a50e"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "b85e4b1d-6531-46b5-bc8a-238f3761a50e"
+    },
+    {
+      "title": "Senior People Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ddbd38d0-1914-4bac-9381-75a72f5023ca",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ddbd38d0-1914-4bac-9381-75a72f5023ca"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ff008b8e-b38d-4941-b24f-9a48c970e7fb"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ff008b8e-b38d-4941-b24f-9a48c970e7fb"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ff008b8e-b38d-4941-b24f-9a48c970e7fb"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ff008b8e-b38d-4941-b24f-9a48c970e7fb"
+    },
+    {
+      "title": "Software Engineer - AI Developer Productivity",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e71e97a8-6367-4050-b6a9-42ce62ec78f1"
+    },
+    {
+      "title": "Software Engineer - AI Developer Productivity",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e71e97a8-6367-4050-b6a9-42ce62ec78f1"
+    },
+    {
+      "title": "Software Engineer - AI Developer Productivity",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e71e97a8-6367-4050-b6a9-42ce62ec78f1"
+    },
+    {
+      "title": "Software Engineer - AI Developer Productivity",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e71e97a8-6367-4050-b6a9-42ce62ec78f1"
+    },
+    {
+      "title": "Software Engineer - Baseten Inference Stack",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+    },
+    {
+      "title": "Software Engineer - Baseten Inference Stack",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+    },
+    {
+      "title": "Software Engineer - Baseten Inference Stack",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+    },
+    {
+      "title": "Software Engineer - Baseten Inference Stack",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+    },
+    {
+      "title": "Software Engineer - Billing & Internal Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d073254f-729c-471e-9a33-520358ead183"
+    },
+    {
+      "title": "Software Engineer - Billing & Internal Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d073254f-729c-471e-9a33-520358ead183"
+    },
+    {
+      "title": "Software Engineer - Billing & Internal Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d073254f-729c-471e-9a33-520358ead183"
+    },
+    {
+      "title": "Software Engineer - Billing & Internal Tooling",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d073254f-729c-471e-9a33-520358ead183"
+    },
+    {
+      "title": "Software Engineer - Capacity",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "902a7ddb-c21f-4272-aaab-879680697986"
+    },
+    {
+      "title": "Software Engineer - Continuous Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fb886b59-fdc3-4315-a9b3-c49808bcd2ce"
+    },
+    {
+      "title": "Software Engineer - Continuous Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fb886b59-fdc3-4315-a9b3-c49808bcd2ce"
+    },
+    {
+      "title": "Software Engineer - Continuous Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fb886b59-fdc3-4315-a9b3-c49808bcd2ce"
+    },
+    {
+      "title": "Software Engineer - Continuous Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fb886b59-fdc3-4315-a9b3-c49808bcd2ce"
+    },
+    {
+      "title": "Software Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+    },
+    {
+      "title": "Software Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+    },
+    {
+      "title": "Software Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+    },
+    {
+      "title": "Software Engineer - Dedicated Inference",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+    },
+    {
+      "title": "Software Engineer - Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e2638fb0-15c8-4109-b7ee-70df1325885d"
+    },
+    {
+      "title": "Software Engineer - Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e2638fb0-15c8-4109-b7ee-70df1325885d"
+    },
+    {
+      "title": "Software Engineer - Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e2638fb0-15c8-4109-b7ee-70df1325885d"
+    },
+    {
+      "title": "Software Engineer - Enterprise Platform",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e2638fb0-15c8-4109-b7ee-70df1325885d"
+    },
+    {
+      "title": "Software Engineer - GPU Kernels",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ddb5bc98-6116-49a2-802e-1c05398663f1"
+    },
+    {
+      "title": "Software Engineer - GPU Kernels",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ddb5bc98-6116-49a2-802e-1c05398663f1"
+    },
+    {
+      "title": "Software Engineer - GPU Kernels",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ddb5bc98-6116-49a2-802e-1c05398663f1"
+    },
+    {
+      "title": "Software Engineer - GPU Kernels",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ddb5bc98-6116-49a2-802e-1c05398663f1"
+    },
+    {
+      "title": "Software Engineer - GPU Networking & Distributed Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1f7d7fda-5540-4205-890b-cdbf774f0814"
+    },
+    {
+      "title": "Software Engineer - GPU Networking & Distributed Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1f7d7fda-5540-4205-890b-cdbf774f0814"
+    },
+    {
+      "title": "Software Engineer - GPU Networking & Distributed Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1f7d7fda-5540-4205-890b-cdbf774f0814"
+    },
+    {
+      "title": "Software Engineer - GPU Networking & Distributed Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "1f7d7fda-5540-4205-890b-cdbf774f0814"
+    },
+    {
+      "title": "Software Engineer - Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+    },
+    {
+      "title": "Software Engineer - Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+    },
+    {
+      "title": "Software Engineer - Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+    },
+    {
+      "title": "Software Engineer - Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+    },
+    {
+      "title": "Software Engineer - Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d29e748c-7209-460d-a024-8f77ae0a3d4d"
+    },
+    {
+      "title": "Software Engineer - Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d29e748c-7209-460d-a024-8f77ae0a3d4d"
+    },
+    {
+      "title": "Software Engineer - Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d29e748c-7209-460d-a024-8f77ae0a3d4d"
+    },
+    {
+      "title": "Software Engineer - Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "d29e748c-7209-460d-a024-8f77ae0a3d4d"
+    },
+    {
+      "title": "Software Engineer - Model Performance Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "75d7beac-0298-40fa-b206-2e0c0c08a64f"
+    },
+    {
+      "title": "Software Engineer - Model Performance Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "75d7beac-0298-40fa-b206-2e0c0c08a64f"
+    },
+    {
+      "title": "Software Engineer - Model Performance Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "75d7beac-0298-40fa-b206-2e0c0c08a64f"
+    },
+    {
+      "title": "Software Engineer - Model Performance Systems",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "75d7beac-0298-40fa-b206-2e0c0c08a64f"
+    },
+    {
+      "title": "Software Engineer - Model Products",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
+    },
+    {
+      "title": "Software Engineer - Model Products",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
+    },
+    {
+      "title": "Software Engineer - Model Products",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
+    },
+    {
+      "title": "Software Engineer - Model Products",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
+    },
+    {
+      "title": "Software Engineer - Observability",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3e925ab1-2089-4a79-989e-50479b546eda"
+    },
+    {
+      "title": "Software Engineer - Observability",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3e925ab1-2089-4a79-989e-50479b546eda"
+    },
+    {
+      "title": "Software Engineer - Observability",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3e925ab1-2089-4a79-989e-50479b546eda"
+    },
+    {
+      "title": "Software Engineer - Observability",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3e925ab1-2089-4a79-989e-50479b546eda"
+    },
+    {
+      "title": "Software Engineer - Testing Frameworks",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "78028a72-2431-4373-aaec-d6e2c9a1cc7d"
+    },
+    {
+      "title": "Software Engineer - Testing Frameworks",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "78028a72-2431-4373-aaec-d6e2c9a1cc7d"
+    },
+    {
+      "title": "Software Engineer - Testing Frameworks",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "78028a72-2431-4373-aaec-d6e2c9a1cc7d"
+    },
+    {
+      "title": "Software Engineer - Testing Frameworks",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "78028a72-2431-4373-aaec-d6e2c9a1cc7d"
+    },
+    {
+      "title": "Software Engineer - Training Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6f947409-2bc0-491a-81b3-507cdc95df85"
+    },
+    {
+      "title": "Software Engineer - Training Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6f947409-2bc0-491a-81b3-507cdc95df85"
+    },
+    {
+      "title": "Software Engineer - Training Product",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "126d54b4-a7bc-4456-bf4d-5d224e4f5d63"
+    },
+    {
+      "title": "Software Engineer - Training Product",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "126d54b4-a7bc-4456-bf4d-5d224e4f5d63"
+    },
+    {
+      "title": "Software Engineer - Voice AI (Inference Runtime)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6e396eb7-acb3-436a-89ec-05e755c477f2"
+    },
+    {
+      "title": "Software Engineer - Voice AI (Inference Runtime)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6e396eb7-acb3-436a-89ec-05e755c477f2"
+    },
+    {
+      "title": "Software Engineer - Voice AI (Inference Runtime)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6e396eb7-acb3-436a-89ec-05e755c477f2"
+    },
+    {
+      "title": "Software Engineer - Voice AI (Inference Runtime)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6e396eb7-acb3-436a-89ec-05e755c477f2"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c64515f9-a8f7-4633-9340-17cda56b1ef0#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c64515f9-a8f7-4633-9340-17cda56b1ef0"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c64515f9-a8f7-4633-9340-17cda56b1ef0#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c64515f9-a8f7-4633-9340-17cda56b1ef0"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c64515f9-a8f7-4633-9340-17cda56b1ef0#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c64515f9-a8f7-4633-9340-17cda56b1ef0"
+    },
+    {
+      "title": "Solutions Architect",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c64515f9-a8f7-4633-9340-17cda56b1ef0#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c64515f9-a8f7-4633-9340-17cda56b1ef0"
+    },
+    {
+      "title": "Solutions Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/bb48bf03-ca61-4d18-b2e3-d3997a9b0a0a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "bb48bf03-ca61-4d18-b2e3-d3997a9b0a0a"
+    },
+    {
+      "title": "Strategic Finance Associate / Sr. Associate",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/71a011b6-0f17-4c0a-b0ba-38deffce1adb#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "71a011b6-0f17-4c0a-b0ba-38deffce1adb"
+    },
+    {
+      "title": "Strategic Finance Associate / Sr. Associate",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/71a011b6-0f17-4c0a-b0ba-38deffce1adb#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "71a011b6-0f17-4c0a-b0ba-38deffce1adb"
+    },
+    {
+      "title": "Strategic Finance, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3677992a-2a97-4a55-98ce-e2719922f263#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3677992a-2a97-4a55-98ce-e2719922f263"
+    },
+    {
+      "title": "Strategic Finance, GTM",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/3677992a-2a97-4a55-98ce-e2719922f263#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "3677992a-2a97-4a55-98ce-e2719922f263"
+    },
+    {
+      "title": "Technical Program Manager, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/7d9d5a1f-3834-434e-b22f-4bd62317be3c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "7d9d5a1f-3834-434e-b22f-4bd62317be3c"
+    },
+    {
+      "title": "Workplace Operations",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9ed34cdb-7ee6-4060-baff-b3b610221d23",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9ed34cdb-7ee6-4060-baff-b3b610221d23"
+    },
+    {
+      "title": "Capacity Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/28291849-b57f-4813-a7e0-66b1050b2d1b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "28291849-b57f-4813-a7e0-66b1050b2d1b"
+    },
+    {
+      "title": "Data Scientist (Analytics)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/f160637f-b6bf-4f69-a8bd-862a3a3a8b0d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "f160637f-b6bf-4f69-a8bd-862a3a3a8b0d"
+    },
+    {
+      "title": "Delivery Director, Capacity Programs",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/74b4fde1-d4e9-4080-be05-48adf2b84f6a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "74b4fde1-d4e9-4080-be05-48adf2b84f6a",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Delivery Director, Capacity Programs focuses primarily on managing the end-to-end delivery lifecycle of large-scale compute infrastructure, which includes coordinating infrastructure engineering, capacity planning, and vendor management. These responsibilities align closely with operations, particularly in the context of infrastructure and project delivery."
+    },
+    {
+      "title": "Design Engineer (Brand Team)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/81d573b6-741c-4140-a36b-6892456eca73#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "81d573b6-741c-4140-a36b-6892456eca73"
+    },
+    {
+      "title": "Design Engineer (Brand Team)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/81d573b6-741c-4140-a36b-6892456eca73#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "81d573b6-741c-4140-a36b-6892456eca73"
+    },
+    {
+      "title": "Executive Assistant to CRO & Head of Strategic Sales",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/f9ccf52d-b45a-4890-828e-be8e6945deb3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "f9ccf52d-b45a-4890-828e-be8e6945deb3"
+    },
+    {
+      "title": "Executive Assistant to the Head of Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/90917db5-8555-4a69-91c2-3b5ddbdbdd56",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "90917db5-8555-4a69-91c2-3b5ddbdbdd56"
+    },
+    {
+      "title": "Field Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c6e86fec-9412-4d47-b23c-19da03003364#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c6e86fec-9412-4d47-b23c-19da03003364"
+    },
+    {
+      "title": "Field Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c6e86fec-9412-4d47-b23c-19da03003364#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "c6e86fec-9412-4d47-b23c-19da03003364"
+    },
+    {
+      "title": "Finance Systems Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/85ddf6dc-38ea-46df-8ab2-fe8826c92bf2#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "85ddf6dc-38ea-46df-8ab2-fe8826c92bf2"
+    },
+    {
+      "title": "Finance Systems Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/85ddf6dc-38ea-46df-8ab2-fe8826c92bf2#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "85ddf6dc-38ea-46df-8ab2-fe8826c92bf2"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5cd2f489-b9ee-428b-b252-94e83d55f107#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "5cd2f489-b9ee-428b-b252-94e83d55f107"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5cd2f489-b9ee-428b-b252-94e83d55f107#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "5cd2f489-b9ee-428b-b252-94e83d55f107"
+    },
+    {
+      "title": "GTM Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ca54940e-83a0-458c-a384-b57cb4b7f888",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ca54940e-83a0-458c-a384-b57cb4b7f888"
+    },
+    {
+      "title": "GTM Systems Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/7a999a4e-5e04-4432-a7fe-86ad1151e061#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "7a999a4e-5e04-4432-a7fe-86ad1151e061"
+    },
+    {
+      "title": "GTM Systems Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/7a999a4e-5e04-4432-a7fe-86ad1151e061#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "7a999a4e-5e04-4432-a7fe-86ad1151e061"
+    },
+    {
+      "title": "Marketing Analytics Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/ee8fd565-d505-49be-861f-d16995583d5a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "ee8fd565-d505-49be-861f-d16995583d5a"
+    },
+    {
+      "title": "Motion Designer (Brand Team)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2ae59494-97a5-4344-ae34-ffa3fab364be"
+    },
+    {
+      "title": "Motion Designer (Brand Team)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "2ae59494-97a5-4344-ae34-ffa3fab364be"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "382978bd-7eef-4657-a229-3381a1057b4e"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "382978bd-7eef-4657-a229-3381a1057b4e"
+    },
+    {
+      "title": "Product Marketing Manager, Model API",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/9245dd3e-b0b2-4620-a944-1b09e92b2e78",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "9245dd3e-b0b2-4620-a944-1b09e92b2e78"
+    },
+    {
+      "title": "Revenue Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/6d32aa11-ac93-4f90-8f62-bdeb79214ee5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "6d32aa11-ac93-4f90-8f62-bdeb79214ee5"
+    },
+    {
+      "title": "Revenue Strategy & Operations, Sr. Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5fdfe98f-c926-4af8-891a-79610b52ff96",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "5fdfe98f-c926-4af8-891a-79610b52ff96"
+    },
+    {
+      "title": "Sales Development Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e5ea31d5-a61f-4b91-957b-b2ddb1454bfb#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e5ea31d5-a61f-4b91-957b-b2ddb1454bfb"
+    },
+    {
+      "title": "Sales Development Manager",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e5ea31d5-a61f-4b91-957b-b2ddb1454bfb#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "e5ea31d5-a61f-4b91-957b-b2ddb1454bfb"
+    },
+    {
+      "title": "Software Engineer - Identity and Authorization",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "19972142-ec0b-4049-8d8f-6a341f57f938"
+    },
+    {
+      "title": "Software Engineer - Identity and Authorization",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "19972142-ec0b-4049-8d8f-6a341f57f938"
+    },
+    {
+      "title": "Software Engineer - Identity and Authorization",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "19972142-ec0b-4049-8d8f-6a341f57f938"
+    },
+    {
+      "title": "Software Engineer - Identity and Authorization",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "19972142-ec0b-4049-8d8f-6a341f57f938"
+    },
+    {
+      "title": "Technical Program Manager, Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "40bce839-10ad-4274-a988-7cee8e0f795e"
+    },
+    {
+      "title": "Technical Program Manager, Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "40bce839-10ad-4274-a988-7cee8e0f795e"
+    },
+    {
+      "title": "Technical Program Manager, Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "40bce839-10ad-4274-a988-7cee8e0f795e"
+    },
+    {
+      "title": "Technical Program Manager, Model Performance",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e#loc-3",
+      "location_ids": [
+        "montreal_office"
+      ],
+      "location_display": "Montreal, Canada",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-06",
+      "ashby_job_id": "40bce839-10ad-4274-a988-7cee8e0f795e"
+    },
+    {
+      "title": "Account Executive - Enterprise (London)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b7fad264-bfe7-4d90-a8c7-493e7896c5c7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "b7fad264-bfe7-4d90-a8c7-493e7896c5c7"
+    },
+    {
+      "title": "Account Executive - Strategic",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c9e18247-d145-486b-8ac4-3b3e3db53f10",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "c9e18247-d145-486b-8ac4-3b3e3db53f10"
+    },
+    {
+      "title": "AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "64181d8a-960d-4aa4-8d98-3cb22b1e0616"
+    },
+    {
+      "title": "Capacity Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/768bca5d-287f-405a-b677-605317607178",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "768bca5d-287f-405a-b677-605317607178"
+    },
+    {
+      "title": "Data Centers & Powered Land Sourcing Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/fc0f0182-5084-4e94-a6ac-49179ba26140",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "fc0f0182-5084-4e94-a6ac-49179ba26140"
+    },
+    {
+      "title": "Sales Lead - Emerging Clouds & International Coverage",
+      "title_original": "Emerging Clouds & International Coverage Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T16:34:34.119Z",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/4d91f30b-8c06-48c2-a56e-f48fc34968d4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "4d91f30b-8c06-48c2-a56e-f48fc34968d4",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on building and maintaining relationships with emerging cloud and international compute providers, negotiating terms, and managing the full partnership lifecycle. This aligns closely with sales functions, particularly in business development and account management."
+    },
+    {
+      "title": "Global Capacity Manager - GPU Infrastructure",
+      "title_original": "Global Capacity Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T16:34:55.175Z",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/a615d797-44a4-4831-9ab9-49b4130bda7c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "a615d797-44a4-4831-9ab9-49b4130bda7c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Global Capacity Manager primarily involves managing and optimizing the GPU fleet and infrastructure, which aligns closely with engineering responsibilities. The job description emphasizes hands-on engineering tasks, such as working with Kubernetes and developing automated systems, indicating a strong focus on engineering rather than other categories."
+    },
+    {
+      "title": "Head of EMEA Sales",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/55de4d92-fd47-4a92-a3f5-fab2624f6015",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "55de4d92-fd47-4a92-a3f5-fab2624f6015"
+    },
+    {
+      "title": "Strategic Sales Lead - Hyperscalers and Neoclouds",
+      "title_original": "Hyperscalers & Strategic Neoclouds Lead",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T16:35:18.492Z",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/e0fa6f6c-fddb-4447-9636-43e9d5646aa6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "e0fa6f6c-fddb-4447-9636-43e9d5646aa6",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role involve building and maintaining relationships with hyperscalers and strategic neoclouds, negotiating terms, and evaluating market conditions. These activities align closely with sales functions, particularly in a strategic account management context rather than traditional selling."
+    },
+    {
+      "title": "Manager, Strategic Sales",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/c4b0f856-102f-40df-9985-539cb48072de",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "c4b0f856-102f-40df-9985-539cb48072de"
+    },
+    {
+      "title": "NVIDIA, OEM & Chip Providers Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/122f0319-3410-4492-9d2a-953c9c13d7ea",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "122f0319-3410-4492-9d2a-953c9c13d7ea",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role involve building and maintaining relationships with NVIDIA and key OEM partners, which aligns closely with sales functions. The role also involves deal structuring and negotiation, further emphasizing its focus on sales and partnerships."
+    },
+    {
+      "title": "Product Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/5bf99d98-8df7-4d8e-b040-42a66c28cd67",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "5bf99d98-8df7-4d8e-b040-42a66c28cd67"
+    },
+    {
+      "title": "Product Marketing Manager, Dedicated",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/1c5adf20-fe51-4fb6-9e45-569523e3e8bf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "1c5adf20-fe51-4fb6-9e45-569523e3e8bf"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/b6dc9f81-ba0c-4c6a-9844-97be9f5c9e69",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "b6dc9f81-ba0c-4c6a-9844-97be9f5c9e69"
+    },
+    {
+      "title": "Sales Manager - Enterprise (London)",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/f3636826-2c87-4380-bf99-d35f3d22720d",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "f3636826-2c87-4380-bf99-d35f3d22720d"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "ai",
+        "engineering",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.737478,
+      "longitude": -73.9876,
+      "exact_address": "215 Park Avenue South, 18th Floor, Flatiron District, Manhattan, New York, New York, United States - 10003",
+      "departments": [
+        "sales",
+        "ai",
+        "design",
+        "engineering",
+        "data",
+        "marketing",
+        "product",
+        "security",
+        "operations",
+        "hr",
+        "finance"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.79133,
+      "longitude": -122.39202,
+      "exact_address": "201 Spear Street, Suite 1600, San Francisco, California, United States - 94105",
+      "departments": [
+        "sales",
+        "ai",
+        "other",
+        "design",
+        "engineering",
+        "marketing",
+        "data",
+        "administration",
+        "product",
+        "security",
+        "it",
+        "operations",
+        "hr",
+        "academy-training",
+        "finance"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "ai",
+        "engineering",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2026-08-23T17:19:42.714Z",
+    "current_valuation_usd": "$13B",
+    "current_valuation_usd_last_updated": "2026-08-23T17:19:42.714Z",
+    "total_funding_raised": "$2.08B",
+    "total_funding_raised_last_updated": "2026-08-23T17:19:42.714Z",
+    "key_investors": [
+      {
+        "name": "Altimeter Capital",
+        "domain": "altimeter.com"
+      },
+      {
+        "name": "Conviction Partners",
+        "domain": ""
+      },
+      {
+        "name": "Spark Capital",
+        "domain": ""
+      },
+      {
+        "name": "CapitalG",
+        "domain": ""
+      },
+      {
+        "name": "BOND",
+        "domain": "bondcap.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      }
+    ],
+    "key_investors_corrected_reason": "Original scrape had 4 self-evidently-garbage entries ('Business owners', 'co-founder', 'Creators', 'Leaders') that are not real investor names - likely mis-parsed boilerplate text from a press release. Removed per the garbage-removal exception (composition otherwise left untouched). Also cleaned 'Co-led by Altimeter Capital' down to just 'Altimeter Capital' (name-cleanup, not a composition change) and fixed BOND's domain from the placeholder 'bond.vc' to the registry's canonical 'bondcap.com'.",
+    "investor_logos": [
+      {
+        "name": "Altimeter Capital",
+        "logo_url": "/investor-logos/altimeter-capital.png"
+      },
+      {
+        "name": "Conviction Partners",
+        "logo_url": "/investor-logos/conviction-partners.png"
+      },
+      {
+        "name": "Spark Capital",
+        "logo_url": "/investor-logos/spark-capital.png"
+      },
+      {
+        "name": "CapitalG",
+        "logo_url": "/investor-logos/capitalg.png"
+      },
+      {
+        "name": "BOND",
+        "logo_url": "/investor-logos/bond.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-23T17:19:42.714Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "company-recharge-days",
+    "parental-leave",
+    "childcare-support",
+    "retirement-401k",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-23T17:19:42.714Z",
+    "company_basic_information.website_url_last_updated": "2026-08-23T17:19:42.714Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-23T17:19:42.714Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-23T17:19:42.714Z",
+    "company_basic_information.last_updated": "2026-08-23",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-23",
+    "leadership.founders[0].image_url_last_updated": "2026-08-23T18:16:22.288Z",
+    "leadership.founders[0].description_last_updated": "2026-08-23T18:17:39.209Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-23",
+    "leadership.founders[1].image_url_last_updated": "2026-08-23T18:16:42.379Z",
+    "leadership.founders[1].description_last_updated": "2026-08-23T18:17:47.928Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-08-23",
+    "leadership.founders[2].image_url_last_updated": "2026-08-23T18:17:01.943Z",
+    "leadership.founders[2].description_last_updated": "2026-08-23T18:17:55.327Z",
+    "leadership.founders[3].x_twitter_last_verified": "2026-08-23",
+    "leadership.founders[3].description_last_updated": "2026-08-23T18:18:06.533Z",
+    "social_media.x_url_last_updated": "2026-08-23T17:19:42.714Z",
+    "social_media.linkedin_url_last_updated": "2026-08-23T17:19:42.714Z",
+    "social_media.instagram_url_last_updated": "2026-08-23T17:19:42.714Z",
+    "business_details.industry_domains_last_updated": "2026-08-23",
+    "financial_information.funding_stage_last_updated": "2026-08-23T17:19:42.714Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-23T17:19:42.714Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-23T17:19:42.714Z",
+    "financial_information.investor_logos_last_updated": "2026-08-23T17:19:42.714Z",
+    "location_mapping[0].last_updated": "2026-08-23T17:19:42.714Z",
+    "location_mapping[1].last_updated": "2026-08-23T17:19:42.714Z",
+    "location_mapping[2].last_updated": "2026-08-23T17:19:42.714Z",
+    "location_mapping[3].last_updated": "2026-08-23T17:19:42.714Z",
+    "job_data.roles[0].posted_date": "2026-09-06",
+    "job_data.roles[1].posted_date": "2026-09-06",
+    "job_data.roles[2].posted_date": "2026-09-06",
+    "job_data.roles[3].posted_date": "2026-09-06",
+    "job_data.roles[4].posted_date": "2026-09-06",
+    "job_data.roles[5].posted_date": "2026-09-06",
+    "job_data.roles[6].posted_date": "2026-09-06",
+    "job_data.roles[7].posted_date": "2026-09-06",
+    "job_data.roles[8].posted_date": "2026-09-06",
+    "job_data.roles[9].posted_date": "2026-09-06",
+    "job_data.roles[10].posted_date": "2026-09-06",
+    "job_data.roles[11].posted_date": "2026-09-06",
+    "job_data.roles[11].title_updated_timestamp": "2026-08-23T18:08:29.953Z",
+    "job_data.roles[12].posted_date": "2026-09-06",
+    "job_data.roles[13].posted_date": "2026-09-06",
+    "job_data.roles[14].posted_date": "2026-09-06",
+    "job_data.roles[15].posted_date": "2026-09-06",
+    "job_data.roles[16].posted_date": "2026-09-06",
+    "job_data.roles[17].posted_date": "2026-09-06",
+    "job_data.roles[18].posted_date": "2026-09-06",
+    "job_data.roles[19].posted_date": "2026-09-06",
+    "job_data.roles[20].posted_date": "2026-09-06",
+    "job_data.roles[21].posted_date": "2026-09-06",
+    "job_data.roles[22].posted_date": "2026-09-06",
+    "job_data.roles[23].posted_date": "2026-09-06",
+    "job_data.roles[24].posted_date": "2026-09-06",
+    "job_data.roles[25].posted_date": "2026-09-06",
+    "job_data.roles[26].posted_date": "2026-09-06",
+    "job_data.roles[27].posted_date": "2026-09-06",
+    "job_data.roles[28].posted_date": "2026-09-06",
+    "job_data.roles[29].posted_date": "2026-09-06",
+    "job_data.roles[30].posted_date": "2026-09-06",
+    "job_data.roles[31].posted_date": "2026-09-06",
+    "job_data.roles[32].posted_date": "2026-09-06",
+    "job_data.roles[33].posted_date": "2026-09-06",
+    "job_data.roles[34].posted_date": "2026-09-06",
+    "job_data.roles[35].posted_date": "2026-09-06",
+    "job_data.roles[36].posted_date": "2026-09-06",
+    "job_data.roles[37].posted_date": "2026-09-06",
+    "job_data.roles[38].posted_date": "2026-09-06",
+    "job_data.roles[39].posted_date": "2026-09-06",
+    "job_data.roles[40].posted_date": "2026-09-06",
+    "job_data.roles[41].posted_date": "2026-09-06",
+    "job_data.roles[42].posted_date": "2026-09-06",
+    "job_data.roles[43].posted_date": "2026-09-06",
+    "job_data.roles[44].posted_date": "2026-09-06",
+    "job_data.roles[45].posted_date": "2026-09-06",
+    "job_data.roles[46].posted_date": "2026-09-06",
+    "job_data.roles[47].posted_date": "2026-09-06",
+    "job_data.roles[48].posted_date": "2026-09-06",
+    "job_data.roles[49].posted_date": "2026-09-06",
+    "job_data.roles[50].posted_date": "2026-09-06",
+    "job_data.roles[51].posted_date": "2026-09-06",
+    "job_data.roles[52].posted_date": "2026-09-06",
+    "job_data.roles[53].posted_date": "2026-09-06",
+    "job_data.roles[54].posted_date": "2026-09-06",
+    "job_data.roles[55].posted_date": "2026-09-06",
+    "job_data.roles[56].posted_date": "2026-09-06",
+    "job_data.roles[57].posted_date": "2026-09-06",
+    "job_data.roles[58].posted_date": "2026-09-06",
+    "job_data.roles[59].posted_date": "2026-09-06",
+    "job_data.roles[60].posted_date": "2026-09-06",
+    "job_data.roles[61].posted_date": "2026-09-06",
+    "job_data.roles[62].posted_date": "2026-09-06",
+    "job_data.roles[63].posted_date": "2026-09-06",
+    "job_data.roles[64].posted_date": "2026-09-06",
+    "job_data.roles[65].posted_date": "2026-09-06",
+    "job_data.roles[66].posted_date": "2026-09-06",
+    "job_data.roles[67].posted_date": "2026-09-06",
+    "job_data.roles[68].posted_date": "2026-09-06",
+    "job_data.roles[69].posted_date": "2026-09-06",
+    "job_data.roles[70].posted_date": "2026-09-06",
+    "job_data.roles[71].posted_date": "2026-09-06",
+    "job_data.roles[72].posted_date": "2026-09-06",
+    "job_data.roles[73].posted_date": "2026-09-06",
+    "job_data.roles[74].posted_date": "2026-09-06",
+    "job_data.roles[75].posted_date": "2026-09-06",
+    "job_data.roles[76].posted_date": "2026-09-06",
+    "job_data.roles[77].posted_date": "2026-09-06",
+    "job_data.roles[78].posted_date": "2026-09-06",
+    "job_data.roles[79].posted_date": "2026-09-06",
+    "job_data.roles[80].posted_date": "2026-09-06",
+    "job_data.roles[81].posted_date": "2026-09-06",
+    "job_data.roles[82].posted_date": "2026-09-06",
+    "job_data.roles[83].posted_date": "2026-09-06",
+    "job_data.roles[84].posted_date": "2026-09-06",
+    "job_data.roles[85].posted_date": "2026-09-06",
+    "job_data.roles[86].posted_date": "2026-09-06",
+    "job_data.roles[87].posted_date": "2026-09-06",
+    "job_data.roles[88].posted_date": "2026-09-06",
+    "job_data.roles[89].posted_date": "2026-09-06",
+    "job_data.roles[90].posted_date": "2026-09-06",
+    "job_data.roles[91].posted_date": "2026-09-06",
+    "job_data.roles[92].posted_date": "2026-09-06",
+    "job_data.roles[93].posted_date": "2026-09-06",
+    "job_data.roles[94].posted_date": "2026-09-06",
+    "job_data.roles[95].posted_date": "2026-09-06",
+    "job_data.roles[96].posted_date": "2026-09-06",
+    "job_data.roles[97].posted_date": "2026-09-06",
+    "job_data.roles[98].posted_date": "2026-09-06",
+    "job_data.roles[99].posted_date": "2026-09-06",
+    "job_data.roles[100].posted_date": "2026-09-06",
+    "job_data.roles[101].posted_date": "2026-09-06",
+    "job_data.roles[102].posted_date": "2026-09-06",
+    "job_data.roles[103].posted_date": "2026-09-06",
+    "job_data.roles[104].posted_date": "2026-09-06",
+    "job_data.roles[105].posted_date": "2026-09-06",
+    "job_data.roles[106].posted_date": "2026-09-06",
+    "job_data.roles[107].posted_date": "2026-09-06",
+    "job_data.roles[108].posted_date": "2026-09-06",
+    "job_data.roles[109].posted_date": "2026-09-06",
+    "job_data.roles[110].posted_date": "2026-09-06",
+    "job_data.roles[111].posted_date": "2026-09-06",
+    "job_data.roles[112].posted_date": "2026-09-06",
+    "job_data.roles[113].posted_date": "2026-09-06",
+    "job_data.roles[114].posted_date": "2026-09-06",
+    "job_data.roles[115].posted_date": "2026-09-06",
+    "job_data.roles[116].posted_date": "2026-09-06",
+    "job_data.roles[117].posted_date": "2026-09-06",
+    "job_data.roles[118].posted_date": "2026-09-06",
+    "job_data.roles[119].posted_date": "2026-09-06",
+    "job_data.roles[120].posted_date": "2026-09-06",
+    "job_data.roles[121].posted_date": "2026-09-06",
+    "job_data.roles[122].posted_date": "2026-09-06",
+    "job_data.roles[123].posted_date": "2026-09-06",
+    "job_data.roles[124].posted_date": "2026-09-06",
+    "job_data.roles[125].posted_date": "2026-09-06",
+    "job_data.roles[126].posted_date": "2026-09-06",
+    "job_data.roles[127].posted_date": "2026-09-06",
+    "job_data.roles[128].posted_date": "2026-09-06",
+    "job_data.roles[129].posted_date": "2026-09-06",
+    "job_data.roles[130].posted_date": "2026-09-06",
+    "job_data.roles[131].posted_date": "2026-09-06",
+    "job_data.roles[132].posted_date": "2026-09-06",
+    "job_data.roles[133].posted_date": "2026-09-06",
+    "job_data.roles[134].posted_date": "2026-09-06",
+    "job_data.roles[135].posted_date": "2026-09-06",
+    "job_data.roles[136].posted_date": "2026-09-06",
+    "job_data.roles[137].posted_date": "2026-09-06",
+    "job_data.roles[138].posted_date": "2026-09-06",
+    "job_data.roles[139].posted_date": "2026-09-06",
+    "job_data.roles[140].posted_date": "2026-09-06",
+    "job_data.roles[141].posted_date": "2026-09-06",
+    "job_data.roles[142].posted_date": "2026-09-06",
+    "job_data.roles[143].posted_date": "2026-09-06",
+    "job_data.roles[144].posted_date": "2026-09-06",
+    "job_data.roles[145].posted_date": "2026-09-06",
+    "job_data.roles[146].posted_date": "2026-09-06",
+    "job_data.roles[147].posted_date": "2026-09-06",
+    "job_data.roles[148].posted_date": "2026-09-06",
+    "job_data.roles[149].posted_date": "2026-09-06",
+    "job_data.roles[150].posted_date": "2026-09-06",
+    "job_data.roles[151].posted_date": "2026-09-06",
+    "job_data.roles[152].posted_date": "2026-09-06",
+    "job_data.roles[153].posted_date": "2026-09-06",
+    "job_data.roles[154].posted_date": "2026-09-06",
+    "job_data.roles[155].posted_date": "2026-09-06",
+    "job_data.roles[156].posted_date": "2026-09-06",
+    "job_data.roles[157].posted_date": "2026-09-06",
+    "job_data.roles[158].posted_date": "2026-09-06",
+    "job_data.roles[159].posted_date": "2026-09-06",
+    "job_data.roles[160].posted_date": "2026-09-06",
+    "job_data.roles[161].posted_date": "2026-09-06",
+    "job_data.roles[162].posted_date": "2026-09-06",
+    "job_data.roles[163].posted_date": "2026-09-06",
+    "job_data.roles[164].posted_date": "2026-09-06",
+    "job_data.roles[165].posted_date": "2026-09-06",
+    "job_data.roles[166].posted_date": "2026-09-06",
+    "job_data.roles[167].posted_date": "2026-09-06",
+    "job_data.roles[168].posted_date": "2026-09-06",
+    "job_data.roles[169].posted_date": "2026-09-06",
+    "job_data.roles[170].posted_date": "2026-09-06",
+    "job_data.roles[171].posted_date": "2026-09-06",
+    "job_data.roles[172].posted_date": "2026-09-06",
+    "job_data.roles[173].posted_date": "2026-09-06",
+    "job_data.roles[174].posted_date": "2026-09-06",
+    "job_data.roles[175].posted_date": "2026-09-06",
+    "job_data.roles[176].posted_date": "2026-09-06",
+    "job_data.roles[177].posted_date": "2026-09-06",
+    "job_data.roles[178].posted_date": "2026-09-06",
+    "job_data.roles[179].posted_date": "2026-09-06",
+    "job_data.roles[180].posted_date": "2026-09-06",
+    "job_data.roles[181].posted_date": "2026-09-06",
+    "job_data.roles[182].posted_date": "2026-09-06",
+    "job_data.roles[183].posted_date": "2026-09-06",
+    "job_data.roles[184].posted_date": "2026-09-06",
+    "job_data.roles[185].posted_date": "2026-09-06",
+    "job_data.roles[186].posted_date": "2026-09-06",
+    "job_data.roles[187].posted_date": "2026-09-21",
+    "job_data.roles[188].posted_date": "2026-09-21",
+    "job_data.roles[189].posted_date": "2026-09-21",
+    "job_data.roles[190].posted_date": "2026-09-21",
+    "job_data.roles[191].posted_date": "2026-09-21",
+    "job_data.roles[192].posted_date": "2026-09-21",
+    "job_data.roles[192].title_updated_timestamp": "2026-09-21T16:34:34.119Z",
+    "job_data.roles[193].posted_date": "2026-09-21",
+    "job_data.roles[193].title_updated_timestamp": "2026-09-21T16:34:55.175Z",
+    "job_data.roles[194].posted_date": "2026-09-21",
+    "job_data.roles[195].posted_date": "2026-09-21",
+    "job_data.roles[195].title_updated_timestamp": "2026-09-21T16:35:18.492Z",
+    "job_data.roles[196].posted_date": "2026-09-21",
+    "job_data.roles[197].posted_date": "2026-09-21",
+    "job_data.roles[198].posted_date": "2026-09-21",
+    "job_data.roles[199].posted_date": "2026-09-21",
+    "job_data.roles[200].posted_date": "2026-09-21",
+    "job_data.roles[201].posted_date": "2026-09-21",
+    "job_data.last_updated": "2026-09-21T16:19:48.564Z",
+    "benefits.equity-stock.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.health-insurance.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.dental-insurance.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.vision-insurance.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.company-recharge-days.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.parental-leave.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.childcare-support.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.retirement-401k.last_updated": "2026-08-23T18:15:35.396Z",
+    "benefits.learning-development.last_updated": "2026-08-23T18:15:35.396Z"
+  }
+}

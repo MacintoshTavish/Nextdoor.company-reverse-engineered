@@ -1,0 +1,605 @@
+{
+  "slug": "multiverse",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/41161.d480c286ee31f87f.js",
+  "observed_at": "2026-09-28T08:34:17.369147+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19607,
+    "sha256": "3c72eaaf82b2b6eea881a8d7f7975d12dc5944c218e1d740d278f254917fba2c",
+    "elapsed_seconds": 0.156,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:34:17 GMT",
+      "etag": "\"e772330cd8c1c873f493445d2222f44b\"",
+      "last-modified": "Mon, 28 Sep 2026 08:13:36 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Multiverse",
+    "company_name_legal": "Multiverse Group Limited",
+    "founded_year": 2016,
+    "website_url": "https://www.multiverse.io",
+    "careers_url": "https://jobs.ashbyhq.com/multiverse",
+    "investor_portfolio_page": null,
+    "id": 317
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 19,
+    "last_updated": "2026-09-21T16:22:24.757Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 19,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Value Partner, Mid-Market",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/ef8b1cbf-8d6a-4305-9098-872de60f6a31",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "ef8b1cbf-8d6a-4305-9098-872de60f6a31"
+    },
+    {
+      "title": "Enterprise Account Executive, UK",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/4a48ae46-fb64-4ebf-878c-66c4db54ab26",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "4a48ae46-fb64-4ebf-878c-66c4db54ab26"
+    },
+    {
+      "title": "Enterprise Customer Value Partner - Enterprise Accounts",
+      "title_original": "Enterprise Customer Value Partner - Enterprise Accounts",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-29T20:39:35.066Z",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/1b808a4f-28e2-4f1c-ad82-658d41ce9c97",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "1b808a4f-28e2-4f1c-ad82-658d41ce9c97",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Enterprise Customer Value Partner primarily focuses on managing and growing high-stakes Enterprise B2B relationships, ensuring customer satisfaction, and driving measurable business impact. This aligns closely with the responsibilities typical of customer success roles, where the emphasis is on strategic account management and customer journey oversight."
+    },
+    {
+      "title": "Regional Director, Enterprise Sales",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/05092cac-c950-4c74-ae40-ea36332b6511",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "05092cac-c950-4c74-ae40-ea36332b6511"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/764fa366-dbe2-4f04-ae55-908651d4c771",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "764fa366-dbe2-4f04-ae55-908651d4c771"
+    },
+    {
+      "title": "Senior Manager, Learner & Client Support",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/3a0384e2-c47e-4674-aca1-6957a477b168",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "3a0384e2-c47e-4674-aca1-6957a477b168"
+    },
+    {
+      "title": "Senior Specialist - Employee Equity and Governance",
+      "title_original": "Share Plans Senior Specialist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-26T09:07:37.168Z",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/fab6ffc9-3c84-4eab-9841-af5867c6661b",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "PartTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "fab6ffc9-3c84-4eab-9841-af5867c6661b",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on employee equity administration and company secretarial compliance, which are closely aligned with legal functions. The job requires a strong understanding of legal and regulatory frameworks related to employee share schemes and corporate governance."
+    },
+    {
+      "title": "Strategic Account Executive, UK",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/b8af61df-b9ab-4a20-89a1-165673b110df",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "b8af61df-b9ab-4a20-89a1-165673b110df"
+    },
+    {
+      "title": "International Legal Counsel  (UK & Germany)",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/0f4df3d2-a1c1-4360-a57d-41daf643ef69",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "0f4df3d2-a1c1-4360-a57d-41daf643ef69"
+    },
+    {
+      "title": "Mid Market Account Executive, UK",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/31c4a72c-3598-4dce-8908-da3f8e5ed652",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-26",
+      "ashby_job_id": "31c4a72c-3598-4dce-8908-da3f8e5ed652"
+    },
+    {
+      "title": "Senior Engineering Manager - Enterprise Trust & Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/c740b8ff-4300-48f9-838a-92d1994501d7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-09",
+      "ashby_job_id": "c740b8ff-4300-48f9-838a-92d1994501d7"
+    },
+    {
+      "title": "Campaigns & Content Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/6b217f4f-13f7-4c67-b0b6-b6d201e921c7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "6b217f4f-13f7-4c67-b0b6-b6d201e921c7"
+    },
+    {
+      "title": "Director of Data Products",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/f678fe12-cb69-44c0-aa70-6252777a597c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-07",
+      "ashby_job_id": "f678fe12-cb69-44c0-aa70-6252777a597c"
+    },
+    {
+      "title": "AI Portfolio Lead",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/e87fa2d9-0871-4eb4-9182-8ee8cab6eb60",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "e87fa2d9-0871-4eb4-9182-8ee8cab6eb60"
+    },
+    {
+      "title": "Delivery Manager - Operations",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/abf7e412-03e4-4586-86f3-a8d4f7e70a49",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "abf7e412-03e4-4586-86f3-a8d4f7e70a49"
+    },
+    {
+      "title": "Director of Enterprise Technology",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/ef60dd9c-0023-43e2-bf0a-e025c9939f58",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "it",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "ef60dd9c-0023-43e2-bf0a-e025c9939f58"
+    },
+    {
+      "title": "Senior Financial Accountant",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/678aeabd-b4a6-4232-b146-99edf97cdf5a",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "678aeabd-b4a6-4232-b146-99edf97cdf5a"
+    },
+    {
+      "title": "Senior Manager, Coach & Instructor Enablement",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/68edc249-736c-4c91-84c9-a01cff5b14f7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Contract",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "68edc249-736c-4c91-84c9-a01cff5b14f7"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/multiverse/f3db4b2b-346c-46a4-8084-2eb3d9a483e4",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-21",
+      "ashby_job_id": "f3db4b2b-346c-46a4-8084-2eb3d9a483e4"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "latitude": 51.51645,
+      "longitude": -0.17738,
+      "exact_address": "2 Eastbourne Terrace, 5th and 6th Floors, Paddington, London, United Kingdom - W2 6LG",
+      "departments": [
+        "operations",
+        "ai",
+        "academy-training",
+        "data",
+        "legal",
+        "sales",
+        "other",
+        "engineering",
+        "design",
+        "product",
+        "content-production"
+      ],
+      "employee_count": "500+"
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-05-29T19:55:08.238Z",
+    "current_valuation_usd": "$2.1 billion",
+    "current_valuation_usd_last_updated": "2026-05-29T19:55:08.238Z",
+    "total_funding_raised": "$500 million",
+    "total_funding_raised_last_updated": "2026-05-29T19:55:08.238Z",
+    "key_investors": [
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "D1 Capital Partners",
+        "domain": ""
+      },
+      {
+        "name": "Schroders Capital",
+        "domain": ""
+      },
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "Google Ventures",
+        "domain": "gv.com"
+      },
+      {
+        "name": "StepStone Group",
+        "domain": "stepstonegroup.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "D1 Capital Partners",
+        "logo_url": "/investor-logos/d1-capital-partners.png"
+      },
+      {
+        "name": "Schroders Capital",
+        "logo_url": "/investor-logos/schroders-capital.png"
+      },
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Google Ventures",
+        "logo_url": "/investor-logos/google-ventures.png"
+      },
+      {
+        "name": "StepStone Group",
+        "logo_url": "/investor-logos/stepstone-group.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-29T19:55:08.238Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "privilege-leave",
+    "paid-volunteer-days",
+    "company-recharge-days",
+    "health-insurance",
+    "life-insurance",
+    "gym-membership",
+    "mental-health",
+    "remote-work",
+    "flexible-hours",
+    "meal-allowance",
+    "team-events",
+    "benefits_scraping_source",
+    "life-event-leave"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[2].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-29T19:55:08.238Z",
+    "company_basic_information.website_url_last_updated": "2026-05-29T19:55:08.238Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-29T19:55:08.238Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-29T19:55:08.238Z",
+    "company_basic_information.last_updated": "2026-05-29",
+    "leadership.founders[0].linkedin_last_verified": "2026-05-30T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:32:16.221Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:39:08.136Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-05-30T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:32:35.728Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T09:39:14.897Z",
+    "social_media.x_url_last_updated": "2026-05-29T19:55:08.238Z",
+    "social_media.x_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "social_media.linkedin_url_last_updated": "2026-05-29T19:55:08.238Z",
+    "social_media.linkedin_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "social_media.instagram_url_last_updated": "2026-05-29T19:55:08.238Z",
+    "social_media.instagram_url_last_verified": "2026-05-30T00:00:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-29",
+    "financial_information.funding_stage_last_updated": "2026-05-29T19:55:08.238Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-29T19:55:08.238Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-29T19:55:08.238Z",
+    "financial_information.investor_logos_last_updated": "2026-05-29T19:55:08.238Z",
+    "location_mapping[0].last_updated": "2026-05-29T19:55:08.238Z",
+    "location_mapping[1].last_updated": "2026-05-29T19:55:08.238Z",
+    "location_mapping[2].last_updated": "2026-05-29T19:55:08.238Z",
+    "location_mapping[3].last_updated": "2026-05-29T19:55:08.238Z",
+    "job_data.roles[0].posted_date": "2026-07-26",
+    "job_data.roles[1].posted_date": "2026-07-26",
+    "job_data.roles[2].posted_date": "2026-07-26",
+    "job_data.roles[2].title_updated_timestamp": "2026-05-29T20:39:35.066Z",
+    "job_data.roles[3].posted_date": "2026-07-26",
+    "job_data.roles[4].posted_date": "2026-07-26",
+    "job_data.roles[5].posted_date": "2026-07-26",
+    "job_data.roles[6].posted_date": "2026-07-26",
+    "job_data.roles[6].title_updated_timestamp": "2026-07-26T09:07:37.168Z",
+    "job_data.roles[7].posted_date": "2026-07-26",
+    "job_data.roles[8].posted_date": "2026-07-26",
+    "job_data.roles[9].posted_date": "2026-07-26",
+    "job_data.roles[10].posted_date": "2026-08-09",
+    "job_data.roles[11].posted_date": "2026-09-07",
+    "job_data.roles[12].posted_date": "2026-09-07",
+    "job_data.roles[13].posted_date": "2026-09-21",
+    "job_data.roles[14].posted_date": "2026-09-21",
+    "job_data.roles[15].posted_date": "2026-09-21",
+    "job_data.roles[16].posted_date": "2026-09-21",
+    "job_data.roles[17].posted_date": "2026-09-21",
+    "job_data.roles[18].posted_date": "2026-09-21",
+    "job_data.last_updated": "2026-09-21T16:22:24.757Z",
+    "benefits.privilege-leave.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.paid-volunteer-days.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.company-recharge-days.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.life-insurance.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.gym-membership.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.mental-health.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.remote-work.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.flexible-hours.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.meal-allowance.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.team-events.last_updated": "2026-06-07T17:33:33.714Z",
+    "benefits.life-event-leave.last_updated": "2026-08-28T17:50:39Z"
+  }
+}

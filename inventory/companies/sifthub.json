@@ -1,0 +1,265 @@
+{
+  "slug": "sifthub",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/64415.b12de9e1d5b0cfca.js",
+  "observed_at": "2026-09-28T08:36:35.708847+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 8197,
+    "sha256": "22c75c5444a9a7ac5baa1f050f8ccd4d1cc402e3bf63a571569e3215e0988820",
+    "elapsed_seconds": 0.187,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:35 GMT",
+      "etag": "\"a08e2493447753e3cdcbb76fc2dd28a3\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:40 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "SiftHub",
+    "company_name_legal": "SiftHub",
+    "founded_year": 2023,
+    "website_url": "https://sifthub.com",
+    "careers_url": "https://sifthub.hire.trakstar.com",
+    "investor_portfolio_page": null,
+    "id": 311
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-18T16:10:48.758Z",
+    "crawl_status": "success",
+    "source": "Trakstar",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "trakstar_job_id",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Applied AI engineer",
+      "apply_url": "https://sifthub.hire.trakstar.com/jobs/fk0vtoj/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Content Marketing Associate",
+      "apply_url": "https://sifthub.hire.trakstar.com/jobs/fk0pm6c/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://sifthub.hire.trakstar.com/jobs/fk0zs7p/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://sifthub.hire.trakstar.com/jobs/fk0vgi9/",
+      "location_ids": [
+        "remote_global"
+      ],
+      "location_display": "Remote, Global",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job title 'Sales Development Representative' indicates a focus on generating leads and supporting the sales process, which aligns closely with the sales department. The primary responsibilities would involve engaging potential customers and facilitating sales opportunities."
+    },
+    {
+      "title": "SDE 1 - Frontend",
+      "apply_url": "https://sifthub.hire.trakstar.com/jobs/fk0v6ws/",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "ai",
+        "marketing",
+        "qa",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "remote_global",
+      "city": null,
+      "state": null,
+      "country": "Global",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "Remote, Global",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2026-05-27T13:21:50.595Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-05-27T13:21:50.595Z",
+    "total_funding_raised": "$5.5 million",
+    "total_funding_raised_last_updated": "2026-05-27T13:21:50.595Z",
+    "key_investors": [
+      {
+        "name": "Z47",
+        "domain": "z47.com"
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      },
+      {
+        "name": "Neon Fund",
+        "domain": ""
+      },
+      {
+        "name": "Mars Shot Ventures",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Z47",
+        "logo_url": "/investor-logos/z47.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "Neon Fund",
+        "logo_url": null
+      },
+      {
+        "name": "Mars Shot Ventures",
+        "logo_url": null
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-27T13:21:50.595Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Trakstar",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-27T13:21:50.595Z",
+    "company_basic_information.website_url_last_updated": "2026-05-27T13:21:50.595Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-27T13:21:50.595Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-27T13:21:50.595Z",
+    "company_basic_information.last_updated": "2026-05-27",
+    "leadership.founders[0].linkedin_verified_at": "2026-05-27",
+    "leadership.founders[0].x_twitter_verified_at": "2026-05-27",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:26:54.026Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:30:15.383Z",
+    "social_media.x_url_last_updated": "2026-05-27T13:21:50.595Z",
+    "social_media.x_url_verified_at": "2026-05-27",
+    "social_media.linkedin_url_last_updated": "2026-05-27T13:21:50.595Z",
+    "social_media.linkedin_url_verified_at": "2026-05-27",
+    "social_media.instagram_url_last_updated": "2026-05-27T13:21:50.595Z",
+    "social_media.instagram_url_verified_at": "2026-05-27",
+    "business_details.industry_domains_last_updated": "2026-05-27",
+    "financial_information.funding_stage_last_updated": "2026-05-27T13:21:50.595Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-27T13:21:50.595Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-27T13:21:50.595Z",
+    "financial_information.investor_logos_last_updated": "2026-05-27T13:21:50.595Z",
+    "location_mapping[0].last_updated": "2026-05-27T13:21:50.595Z",
+    "location_mapping[1].last_updated": "2026-05-27T14:00:00.000Z",
+    "job_data.last_updated": "2026-09-18T16:10:48.758Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T17:20:55.900Z"
+  }
+}

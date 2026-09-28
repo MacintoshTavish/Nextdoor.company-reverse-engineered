@@ -1,0 +1,739 @@
+{
+  "slug": "slice",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/61867.215071a957fe6445.js",
+  "observed_at": "2026-09-28T08:36:39.774354+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23891,
+    "sha256": "47491808b7a776e1bca5ed7f1a94cd3cf2b5c87020259480c121f84bb26a7b87",
+    "elapsed_seconds": 0.176,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:39 GMT",
+      "etag": "\"9b0604f5d719e2a1419dabb355aad617\"",
+      "last-modified": "Mon, 28 Sep 2026 07:55:48 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "slice",
+    "company_name_legal": "GaragePreneurs Internet Pvt Ltd",
+    "founded_year": 2016,
+    "website_url": "https://slice.bank.in",
+    "careers_url": "https://slice.bank.in/careers/open-positions/",
+    "investor_portfolio_page": null,
+    "id": 205
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 24,
+    "last_updated": "2026-05-10T10:18:16.850Z",
+    "crawl_status": "success",
+    "source": "MyNextHire ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 24,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inference_ai_response",
+    "location_inference_attempted",
+    "location_inference_attempted_timestamp",
+    "location_inference_method",
+    "location_inference_note",
+    "mynexthire_job_id",
+    "portal_name",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "SDE 2 - Backend",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-2-backend/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "INR",
+        "min": 2400000,
+        "max": 4000000,
+        "period": "year",
+        "display": "₹24–40 LPA",
+        "confidence": "medium",
+        "reason": "The annual base compensation for an SDE 2 - Backend at slice in Bengaluru typically ranges from ₹24,00,000 to ₹40,00,000, with most data points centering around an average base of ₹26,50,000 to ₹34,00,000.",
+        "citations": [
+          "https://www.levels.fyi/companies/slice/salaries/software-engineer/levels/sde-2",
+          "https://www.glassdoor.co.in/Salary/slice-SDE-2-Backend-India-Salaries-E1568346_DAO.htm?filter.jobTitleExact=SDE-2+Backend&selectedLocationString=N%2C115",
+          "https://www.weekday.works/salary/what-salary-does-slice-pay",
+          "https://www.glassdoor.co.in/Salary/slice-SDE-2-Backend-Salaries-E1568346_D_KO6,19.htm",
+          "https://6figr.com/in/salary/slice--sde-ii-senior--bengaluru",
+          "https://6figr.com/in/salary/bl-kashyap-&-sons"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-07-28T11:02:42.283Z"
+      },
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Database Engineer",
+      "apply_url": "https://slice.bank.in/careers/open-positions/senior-database-engineer/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Product Security Engineer",
+      "apply_url": "https://slice.bank.in/careers/open-positions/senior-product-security/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDE 2 - Data Platform",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-2-data-platform/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDE 2 - Flutter",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-2-flutter/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDE 2 - Backend – AI Pod",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-2-backend-ai-pod/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDE 3 - Backend – AI Pod",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-3-backend-ai-pod/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "SDE 3 - Backend",
+      "apply_url": "https://slice.bank.in/careers/open-positions/sde-3-backend/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Staff Engineer - Backend",
+      "apply_url": "https://slice.bank.in/careers/open-positions/staff-engineer-backend/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Engineering Manager - Backend",
+      "apply_url": "https://slice.bank.in/careers/open-positions/em-be/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Site Reliability Engineer - 3",
+      "apply_url": "https://slice.bank.in/careers/open-positions/site-reliability-engineer-3/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Site Reliability Engineer - 2",
+      "apply_url": "https://slice.bank.in/careers/open-positions/site-reliability-engineer-2/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Staff Engineer - Infrastructure",
+      "apply_url": "https://slice.bank.in/careers/open-positions/senior-staff-infra/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Platform Engineer 3",
+      "apply_url": "https://slice.bank.in/careers/open-positions/platform-engineer-3/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Staff Engineer - Data Platform",
+      "apply_url": "https://slice.bank.in/careers/open-positions/staff-engineer-data-platform/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Staff Engineer - SDET",
+      "apply_url": "https://slice.bank.in/careers/open-positions/staff-engineer-sdet/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "rule_reclassified",
+      "department_classification_reasoning": "Reclassified by rule-based SDET pattern (May 20, 2026 - moved SDET from engineering to qa)"
+    },
+    {
+      "title": "Credit Manager",
+      "apply_url": "https://slice.bank.in/careers/open-positions/credit-manager/",
+      "location_ids": [
+        "visakhapatnam_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Visakhapatnam / Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Credit Manager primarily involves managing credit underwriting and portfolio monitoring, which are key functions within the finance department. The responsibilities include assessing creditworthiness, conducting financial analysis, and ensuring compliance with credit policies, all of which align closely with finance-related activities."
+    },
+    {
+      "title": "Area Credit Manager - Credit Operations",
+      "title_original": "Area Credit Manager - Credit Operations",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-05-10T10:46:21.278Z",
+      "apply_url": "https://slice.bank.in/careers/open-positions/area-credit-manager/",
+      "location_ids": [
+        "visakhapatnam_office"
+      ],
+      "location_display": "Visakhapatnam, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null,
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Area Credit Manager revolve around overseeing credit operations, evaluating loan applications, and managing credit risk, which are all core functions of the finance department. The role requires strong analytical skills and knowledge of credit policies, further solidifying its classification under finance."
+    },
+    {
+      "title": "Credit Executive",
+      "apply_url": "https://slice.bank.in/careers/open-positions/credit-executive/",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Analyst",
+      "apply_url": "https://slice.bank.in/careers/open-positions/analyst/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Internal Auditor",
+      "apply_url": "https://slice.bank.in/careers/open-positions/internal-auditor/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Assistant Manager - Credit Operations",
+      "apply_url": "https://slice.bank.in/careers/open-positions/assistant-manager-credit-operations/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Marketing Designer",
+      "apply_url": "https://slice.bank.in/careers/open-positions/marketing-designer/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://slice.bank.in/careers/open-positions/executive-assistant/",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1 years",
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "exact_address": "1st Floor, Ashford Park View, Indiqube, 80 Feet Road, 3rd Block, Koramangala 1A Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "departments": [
+        "corporate",
+        "customer_support",
+        "grievance_redressal"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "pan_india_office",
+      "city": "Multiple Cities",
+      "state": "Multiple States",
+      "country": "India",
+      "latitude": 20.5937,
+      "longitude": 78.9629,
+      "exact_address": "Multiple locations across India",
+      "departments": [
+        "finance",
+        "collections",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "it"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "visakhapatnam_office",
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "latitude": 17.6869,
+      "longitude": 83.2185,
+      "exact_address": "Visakhapatnam, Andhra Pradesh, India",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "istanbul_office",
+      "city": "Istanbul",
+      "state": null,
+      "country": "Turkey",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "exact_address": "Istanbul, Turkey",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-02-28T14:16:06.698Z",
+    "current_valuation_usd": "$1.3 billion",
+    "current_valuation_usd_last_updated": "2026-02-28T14:16:06.698Z",
+    "total_funding_raised": "$387 million",
+    "total_funding_raised_last_updated": "2026-02-28T14:16:06.698Z",
+    "key_investors": [
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blumeventures.com"
+      },
+      {
+        "name": "8i Ventures",
+        "domain": "8ivventures.com"
+      },
+      {
+        "name": "Rajan Bajaj",
+        "domain": null
+      },
+      {
+        "name": "Stride Ventures",
+        "domain": "strideventures.com"
+      },
+      {
+        "name": "Neo Asset Management",
+        "domain": "neoam.in"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "8i Ventures",
+        "logo_url": "/investor-logos/8i.png"
+      },
+      {
+        "name": "Rajan Bajaj",
+        "logo_url": null
+      },
+      {
+        "name": "Stride Ventures",
+        "logo_url": "/investor-logos/stride-ventures.png"
+      },
+      {
+        "name": "Neo Asset Management",
+        "logo_url": "/investor-logos/neo-asset-management.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-28T14:16:06.698Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$10.2 million",
+      "revenue_growth_rate": 200
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "flexible-hours",
+    "privilege-leave",
+    "bonus",
+    "learning-development",
+    "meal-allowance",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[8].source": "ai_inference_upsert",
+    "location_mapping[9].source": "ai_inference_upsert",
+    "location_mapping[10].source": "ai_inference_upsert",
+    "job_data.roles[0].salary_estimated.citations": [
+      "https://www.levels.fyi/companies/slice/salaries/software-engineer/levels/sde-2",
+      "https://www.glassdoor.co.in/Salary/slice-SDE-2-Backend-India-Salaries-E1568346_DAO.htm?filter.jobTitleExact=SDE-2+Backend&selectedLocationString=N%2C115",
+      "https://www.weekday.works/salary/what-salary-does-slice-pay",
+      "https://www.glassdoor.co.in/Salary/slice-SDE-2-Backend-Salaries-E1568346_D_KO6,19.htm",
+      "https://6figr.com/in/salary/slice--sde-ii-senior--bengaluru",
+      "https://6figr.com/in/salary/bl-kashyap-&-sons"
+    ],
+    "job_data.roles[0].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "MyNextHire ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-28T14:16:06.698Z",
+    "company_basic_information.website_url_last_updated": "2026-02-28T14:16:06.698Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-10T15:30:00.000Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-28T14:16:06.698Z",
+    "company_basic_information.last_updated": "2026-02-28",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-28T14:27:14.524Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-28T14:48:39.557Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:55:51.060Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:01:38.043Z",
+    "social_media.x_url_last_verified": "2026-02-28T14:27:42.424Z",
+    "social_media.linkedin_url_last_verified": "2026-02-28T14:28:13.752Z",
+    "social_media.instagram_url_last_verified": "2026-02-28T14:49:32.369Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-02-28T14:16:06.698Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-28T14:16:06.698Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-28T14:16:06.698Z",
+    "financial_information.investor_logos_last_updated": "2026-02-28T14:16:06.698Z",
+    "location_mapping[0].last_updated": "2026-02-28T14:16:06.698Z",
+    "location_mapping[1].last_updated": "2026-03-14T00:00:00.000Z",
+    "location_mapping[7].last_updated": "2026-05-10T10:47:41.382Z",
+    "location_mapping[8].last_updated": "2026-05-10T15:59:10.317Z",
+    "location_mapping[9].last_updated": "2026-05-10T15:59:58.174Z",
+    "location_mapping[10].last_updated": "2026-05-10T16:00:53.918Z",
+    "job_data.roles[0].salary_estimated.fetched_at": "2026-07-28T11:02:42.283Z",
+    "job_data.roles[17].title_updated_timestamp": "2026-05-10T10:46:21.278Z",
+    "job_data.last_updated": "2026-05-10T10:18:16.850Z",
+    "benefits.health-insurance.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.flexible-hours.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.privilege-leave.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.bonus.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.learning-development.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.meal-allowance.last_updated": "2026-03-11T12:32:43.570Z",
+    "benefits.team-events.last_updated": "2026-03-11T12:32:43.570Z"
+  }
+}

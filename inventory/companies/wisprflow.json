@@ -1,0 +1,810 @@
+{
+  "slug": "wisprflow",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/69027.30c6c6ce75063370.js",
+  "observed_at": "2026-09-28T08:38:22.549385+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 29276,
+    "sha256": "4c4b3dfd4a907917fc276cde7a1fc85b99ac5d21561bfe9e4c6841187bc6c962",
+    "elapsed_seconds": 0.445,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:22 GMT",
+      "etag": "\"0ec3cfd9f77d8cb0683f8f9face1f1da\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:22 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Wisprflow",
+    "company_name_legal": "Wisprflow AI Inc",
+    "founded_year": 2023,
+    "website_url": "https://wisprflow.ai",
+    "careers_url": "https://jobs.ashbyhq.com/wispr-flow",
+    "investor_portfolio_page": null,
+    "id": 118
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 29,
+    "last_updated": "2026-09-14T12:44:54.906Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 29,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "B2B Marketing Lead",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/92221cc5-5d02-4431-9633-fc07c2539790",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": "$180k-220k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-19",
+      "ashby_job_id": "92221cc5-5d02-4431-9633-fc07c2539790",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"B2B Marketing Lead\" matched pattern for marketing"
+    },
+    {
+      "title": "Ex-Founder",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/658fb613-3dcc-4932-9927-dadbf83f95cd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "entrepreneurs",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-20",
+      "ashby_job_id": "658fb613-3dcc-4932-9927-dadbf83f95cd"
+    },
+    {
+      "title": "Founding Account Executive (AE)",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/54cf9313-9311-4b81-aabd-ca34a8bd9062",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "$250k-290k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-24",
+      "ashby_job_id": "54cf9313-9311-4b81-aabd-ca34a8bd9062",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"Founding Account Executive (AE)\" matched pattern for sales"
+    },
+    {
+      "title": "ML Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/9cf022b6-55b1-4fcc-940a-6988bd94b6d3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$130k-240k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-08-04",
+      "ashby_job_id": "9cf022b6-55b1-4fcc-940a-6988bd94b6d3",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"ML Engineer\" matched pattern for ai"
+    },
+    {
+      "title": "ML Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/ea87a981-d2f1-4150-9572-d62af2ed34d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": "$185k-280k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-08-04",
+      "ashby_job_id": "ea87a981-d2f1-4150-9572-d62af2ed34d0",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title \"ML Scientist\" matched pattern for research"
+    },
+    {
+      "title": "Product Lead",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/c9c547f6-c093-492f-8e40-3fd8066dfd04",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": "$150k-280k",
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-27",
+      "ashby_job_id": "c9c547f6-c093-492f-8e40-3fd8066dfd04"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/c45eb438-a872-4dc0-9b81-9d76560f33df",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-support",
+      "work_mode": "hybrid",
+      "salary_range": "$60k-90k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-08-27",
+      "ashby_job_id": "c45eb438-a872-4dc0-9b81-9d76560f33df"
+    },
+    {
+      "title": "Head of Finance",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/70221938-a75a-41f8-b4ef-aea3cec45d1c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": "$200-350",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-14",
+      "ashby_job_id": "70221938-a75a-41f8-b4ef-aea3cec45d1c"
+    },
+    {
+      "title": "Software Engineer, UI",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/921f1bda-6472-463b-8eb4-b840f69a30a5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$135k-240k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-03",
+      "ashby_job_id": "921f1bda-6472-463b-8eb4-b840f69a30a5"
+    },
+    {
+      "title": "Engineering Manager, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/9606fba9-021e-4daa-8e2e-efa2cbf506b7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "$250k-375k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "9606fba9-021e-4daa-8e2e-efa2cbf506b7"
+    },
+    {
+      "title": "Head of PR & External Communications",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/27629388-99ad-416c-b64e-aabd12e7b741",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-09",
+      "ashby_job_id": "27629388-99ad-416c-b64e-aabd12e7b741"
+    },
+    {
+      "title": "Head of Talent",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/6cdebeca-ae06-4b1b-97f8-28f7f6373490",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-10",
+      "ashby_job_id": "6cdebeca-ae06-4b1b-97f8-28f7f6373490"
+    },
+    {
+      "title": "Senior Designer, Brand & Growth Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/d565cc8e-1ba0-4d6e-8009-5e6afd8b4787",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-13",
+      "ashby_job_id": "d565cc8e-1ba0-4d6e-8009-5e6afd8b4787"
+    },
+    {
+      "title": "Design Engineer, Mobile",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/2065defc-4def-4125-8ee6-fb61793de01e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "2065defc-4def-4125-8ee6-fb61793de01e"
+    },
+    {
+      "title": "Head of Growth - B2C",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/365a017d-49e7-41cc-9b7c-e2834b86b813",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "365a017d-49e7-41cc-9b7c-e2834b86b813"
+    },
+    {
+      "title": "Platform Engineer, Billing Systems",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/4dfdbbe6-09de-470a-ae7a-ffe2072e93c5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "4dfdbbe6-09de-470a-ae7a-ffe2072e93c5"
+    },
+    {
+      "title": "Platform Engineer, Product Security",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/8c6a3c2a-c893-4c48-bf54-8d290f04e9e0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8c6a3c2a-c893-4c48-bf54-8d290f04e9e0"
+    },
+    {
+      "title": "Staff Platform Engineer, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/935df07f-6718-4c23-988e-f388fdb79760",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "935df07f-6718-4c23-988e-f388fdb79760"
+    },
+    {
+      "title": "Paid Search Performance Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/d5e62bef-ab04-4eab-85ad-684ec968cc3e#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d5e62bef-ab04-4eab-85ad-684ec968cc3e"
+    },
+    {
+      "title": "Paid Search Performance Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/d5e62bef-ab04-4eab-85ad-684ec968cc3e#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d5e62bef-ab04-4eab-85ad-684ec968cc3e"
+    },
+    {
+      "title": "AI Engineer, Internal Systems",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/96beb394-070d-4753-8cd5-5928a2657b3f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "96beb394-070d-4753-8cd5-5928a2657b3f"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/a093f7f3-d472-4f5e-bf88-96493915960a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a093f7f3-d472-4f5e-bf88-96493915960a"
+    },
+    {
+      "title": "Platform Engineer, Android",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/ce9c100a-b83c-498f-9a9d-67f2f3b65368",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ce9c100a-b83c-498f-9a9d-67f2f3b65368"
+    },
+    {
+      "title": "Platform Engineer, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/d9aad63a-a74b-4dbc-97fc-7ec4858e4918",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d9aad63a-a74b-4dbc-97fc-7ec4858e4918"
+    },
+    {
+      "title": "Product Engineer, Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/fccbc699-9913-4165-b1b3-9b42355cc6dc",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fccbc699-9913-4165-b1b3-9b42355cc6dc"
+    },
+    {
+      "title": "Product Engineer, Growth",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/60247bce-610c-47d7-af90-626a9268eb16",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "60247bce-610c-47d7-af90-626a9268eb16"
+    },
+    {
+      "title": "Product Engineer, Systems Architect",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/4114b6a6-b695-4a6e-a2d0-9e33c3a21e3b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4114b6a6-b695-4a6e-a2d0-9e33c3a21e3b"
+    },
+    {
+      "title": "Staff Engineer, Desktop (macOS)",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/b29f509a-0aad-42bd-9300-7af1700b855d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b29f509a-0aad-42bd-9300-7af1700b855d"
+    },
+    {
+      "title": "Staff Engineer, Desktop (Windows)",
+      "apply_url": "https://jobs.ashbyhq.com/wispr-flow/79a9cca9-89e4-47b9-ab94-2d812bb6d2d4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "79a9cca9-89e4-47b9-ab94-2d812bb6d2d4"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "ai",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "444 Townsend St, Floor 1, San Francisco, CA 94107, United States",
+      "departments": [
+        "engineering",
+        "other",
+        "content-production",
+        "ai",
+        "customer-success",
+        "sales",
+        "research",
+        "marketing",
+        "design",
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-05T04:33:49.947Z",
+    "current_valuation_usd": "$700 million",
+    "current_valuation_usd_last_updated": "2025-12-05T04:06:49.619Z",
+    "total_funding_raised": "$81 million",
+    "total_funding_raised_last_updated": "2025-12-05T04:06:49.619Z",
+    "key_investors": [
+      {
+        "name": "Notable Capital",
+        "domain": "notable.capital"
+      },
+      {
+        "name": "Menlo Ventures",
+        "domain": "menlovc.com"
+      },
+      {
+        "name": "Flight Fund",
+        "domain": "flightfund.com"
+      },
+      {
+        "name": "Steven Bartlett",
+        "domain": "stevenbartlett.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Notable Capital",
+        "logo_url": "/investor-logos/notable-capital.png"
+      },
+      {
+        "name": "Menlo Ventures",
+        "logo_url": "/investor-logos/menlo-ventures.png"
+      },
+      {
+        "name": "Flight Fund",
+        "logo_url": "/investor-logos/flight-fund.png"
+      },
+      {
+        "name": "Steven Bartlett",
+        "logo_url": "/investor-logos/steven-bartlett.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-05T04:06:49.619Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "retirement-401k",
+    "relocation-assistance",
+    "health-insurance",
+    "vision-insurance",
+    "dental-insurance",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-05T03:46:46.344Z",
+    "company_basic_information.website_url_last_updated": "2025-12-05T03:46:46.344Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-05T03:46:46.344Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-05T03:46:46.344Z",
+    "company_basic_information.last_updated": "2025-12-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-05T04:33:45.041Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:02:17.584Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:06:58.397Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-05T04:33:54.285Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:02:28.198Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:07:05.189Z",
+    "leadership.last_updated": "2025-12-05T09:44:17.000Z",
+    "social_media.x_url_last_verified": "2025-12-05T03:49:57.120Z",
+    "social_media.instagram_url_last_verified": "2025-12-05T03:50:46.197Z",
+    "social_media.linkedin_url_last_verified": "2025-12-05T04:07:02.931Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:01.906Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-05T04:33:49.947Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-05T04:06:49.619Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-05T04:06:49.619Z",
+    "financial_information.investor_logos_last_updated": "2025-12-05T04:06:49.619Z",
+    "location_mapping[0].last_updated": "2025-12-05T03:46:46.344Z",
+    "location_mapping[1].last_updated": "2025-12-05T03:46:46.344Z",
+    "job_data.roles[0].posted_date": "2026-03-19",
+    "job_data.roles[1].posted_date": "2026-04-20",
+    "job_data.roles[2].posted_date": "2025-11-24",
+    "job_data.roles[3].posted_date": "2025-08-04",
+    "job_data.roles[4].posted_date": "2025-08-04",
+    "job_data.roles[5].posted_date": "2026-04-27",
+    "job_data.roles[6].posted_date": "2025-08-27",
+    "job_data.roles[7].posted_date": "2026-05-14",
+    "job_data.roles[8].posted_date": "2026-06-03",
+    "job_data.roles[9].posted_date": "2026-06-22",
+    "job_data.roles[10].posted_date": "2026-07-09",
+    "job_data.roles[11].posted_date": "2026-07-10",
+    "job_data.roles[12].posted_date": "2026-07-13",
+    "job_data.roles[13].posted_date": "2026-08-02",
+    "job_data.roles[14].posted_date": "2026-08-02",
+    "job_data.roles[15].posted_date": "2026-08-02",
+    "job_data.roles[16].posted_date": "2026-08-02",
+    "job_data.roles[17].posted_date": "2026-08-02",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-09-14",
+    "job_data.roles[21].posted_date": "2026-09-14",
+    "job_data.roles[22].posted_date": "2026-09-14",
+    "job_data.roles[23].posted_date": "2026-09-14",
+    "job_data.roles[24].posted_date": "2026-09-14",
+    "job_data.roles[25].posted_date": "2026-09-14",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.roles[27].posted_date": "2026-09-14",
+    "job_data.roles[28].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:44:54.906Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.retirement-401k.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.relocation-assistance.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.health-insurance.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.vision-insurance.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.dental-insurance.last_updated": "2026-01-06T14:31:12.184Z",
+    "benefits.remote-work.last_updated": "2026-01-06T14:31:12.184Z"
+  }
+}

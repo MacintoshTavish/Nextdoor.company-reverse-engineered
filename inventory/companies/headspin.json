@@ -1,0 +1,469 @@
+{
+  "slug": "headspin",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/94105.14effa148c594e7b.js",
+  "observed_at": "2026-09-28T08:32:34.669728+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19982,
+    "sha256": "daed0abe87a804a3e94f66031cca33daafb03e6738315c40c3a99893675143ad",
+    "elapsed_seconds": 0.16,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:34 GMT",
+      "etag": "\"d7a154283909d493a6f440bbead1a5e3\"",
+      "last-modified": "Mon, 28 Sep 2026 08:21:00 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits",
+    "location_tbd_fallback"
+  ],
+  "company": {
+    "company_name_brand": "HeadSpin",
+    "company_name_legal": "HeadSpin Inc.",
+    "founded_year": 2015,
+    "website_url": "https://www.headspin.io",
+    "careers_url": "https://headspin.bamboohr.com/careers",
+    "investor_portfolio_page": null,
+    "id": 387
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 8,
+    "last_updated": "2026-09-14T12:46:29.364Z",
+    "crawl_status": "success",
+    "source": "BambooHR",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 8,
+  "role_field_names": [
+    "apply_url",
+    "bamboohr_job_id",
+    "commitment",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "location_inference_note",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Manual QA Engineer (Frontline Feature & Support Testing)",
+      "apply_url": "https://headspin.bamboohr.com/careers/309",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Manual QA Engineer involve executing manual testing, creating test cases, validating data, and performing exploratory and feature testing, which are all core functions of Quality Assurance (QA) and Testing. The focus on testing and validation clearly aligns this role with the QA department."
+    },
+    {
+      "title": "Kubernetes Infrastructure Engineer",
+      "apply_url": "https://headspin.bamboohr.com/careers/313",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14"
+    },
+    {
+      "title": "QA Automation Architect / Automation Framework Engineer",
+      "apply_url": "https://headspin.bamboohr.com/careers/314",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on architecting, building, and maintaining automation frameworks for quality assurance across various workflows. The emphasis on automation testing, frameworks, and CI/CD pipelines aligns closely with QA & Testing functions."
+    },
+    {
+      "title": "Automation Developer (Implementation-Level)",
+      "apply_url": "https://headspin.bamboohr.com/careers/315",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Automation Developer focus on developing and maintaining automated tests across various layers, which aligns closely with quality assurance and testing functions. The required skills emphasize automation testing tools and practices, further supporting this classification."
+    },
+    {
+      "title": "QA Triage & Execution Analyst - Automated Testing",
+      "title_original": "QA Triage & Execution Analyst (Pipeline Operator)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:31:38.529Z",
+      "apply_url": "https://headspin.bamboohr.com/careers/320",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role involve executing and monitoring automated test pipelines, debugging automation scripts, and conducting root cause analysis for test failures. These tasks are central to quality assurance and testing processes, which aligns the role clearly with the QA department."
+    },
+    {
+      "title": "QA Triage & Execution Analyst - Automated Testing",
+      "title_original": "QA Triage & Execution Analyst (Pipeline Operator)",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:32:06.087Z",
+      "apply_url": "https://headspin.bamboohr.com/careers/321",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on the stability, accuracy, and quality of automated test execution, which aligns closely with QA & Testing functions. The job involves debugging scripts, analyzing failures, and validating API responses, all of which are core activities within the QA department."
+    },
+    {
+      "title": "Mid/Senior .NET Software Developer - Loan Origination Systems",
+      "title_original": "Services Center Mid/Senior .NET Software Developer",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:32:30.834Z",
+      "apply_url": "https://headspin.bamboohr.com/careers/326",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily involves designing, developing, and maintaining software solutions within the .NET framework, specifically for an integration hub that connects various systems. This aligns closely with engineering responsibilities, particularly in software development."
+    },
+    {
+      "title": "Senior Microsoft Windows SQL Server DBA",
+      "apply_url": "https://headspin.bamboohr.com/careers/327",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "it",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-14",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The job primarily involves managing and optimizing SQL Server databases, which falls under IT responsibilities. The role includes tasks such as database architecture, performance tuning, and mentoring junior DBAs, all of which are core IT functions."
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9019,
+      "longitude": 77.595,
+      "exact_address": "#1101, 24th Main, J P Nagar 1st Phase, Bangalore-78, Bangalore, Karnataka, India - 560078",
+      "departments": [
+        "other",
+        "engineering",
+        "qa",
+        "customer-support",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "No verified office address for HeadSpin (headspin.io) in Pune, Maharashtra, India could be found across official registries, the company website, or major business listings.",
+      "departments": [
+        "other",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_remote",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "acquired",
+    "funding_stage_last_updated": "2026-07-19T11:46:24.498Z",
+    "current_valuation_usd": "$28.2 million",
+    "current_valuation_usd_last_updated": "2026-07-19T11:46:24.498Z",
+    "total_funding_raised": "$1 million",
+    "total_funding_raised_last_updated": "2026-07-19T11:46:24.498Z",
+    "key_investors": [
+      {
+        "name": "Dell Technologies Capital",
+        "domain": ""
+      },
+      {
+        "name": "ICONIQ Capital",
+        "domain": ""
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Dell Technologies Capital",
+        "logo_url": "/investor-logos/dell-technologies-capital.png"
+      },
+      {
+        "name": "ICONIQ Capital",
+        "logo_url": "/investor-logos/iconiq-capital.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-19T11:46:24.498Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].source": "ai_inference_upsert",
+    "job_data.roles[2].location_inference_source": "company_region_fallback",
+    "job_data.roles[3].location_inference_source": "company_region_fallback",
+    "job_data.roles[4].location_inference_source": "company_region_fallback",
+    "job_data.roles[5].location_inference_source": "company_region_fallback",
+    "job_data.roles[6].location_inference_source": "company_region_fallback",
+    "job_data.roles[7].location_inference_source": "company_region_fallback",
+    "job_data.crawl_status": "success",
+    "job_data.source": "BambooHR",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-19T11:46:24.498Z",
+    "company_basic_information.website_url_last_updated": "2026-07-19T11:46:24.498Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-19T11:46:24.498Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-19T11:46:24.498Z",
+    "company_basic_information.last_updated": "2026-07-19",
+    "leadership.founders[0].last_verified": "2026-07-19T12:30:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-19T12:05:52.996Z",
+    "leadership.founders[0].description_last_updated": "2026-07-19T12:06:41.243Z",
+    "leadership.founders[1].last_verified": "2026-07-19T12:30:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-19T12:06:14.184Z",
+    "leadership.founders[1].description_last_updated": "2026-07-19T12:06:46.842Z",
+    "social_media.x_url_last_updated": "2026-07-19T11:46:24.498Z",
+    "social_media.linkedin_url_last_updated": "2026-07-19T11:46:24.498Z",
+    "social_media.instagram_url_last_updated": "2026-07-19T11:46:24.498Z",
+    "social_media.last_verified": "2026-07-19T12:35:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-07-19",
+    "financial_information.funding_stage_last_updated": "2026-07-19T11:46:24.498Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-19T11:46:24.498Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-19T11:46:24.498Z",
+    "financial_information.investor_logos_last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[0].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[1].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[2].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[3].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[4].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[5].last_updated": "2026-07-19T11:46:24.498Z",
+    "location_mapping[6].last_updated": "2026-07-19T12:08:36.320Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[4].title_updated_timestamp": "2026-09-14T15:31:38.529Z",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[5].title_updated_timestamp": "2026-09-14T15:32:06.087Z",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[6].title_updated_timestamp": "2026-09-14T15:32:30.834Z",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:46:29.364Z"
+  }
+}

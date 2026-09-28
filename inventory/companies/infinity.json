@@ -1,0 +1,209 @@
+{
+  "slug": "infinity",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/63937.b4cd83bb47393e3f.js",
+  "observed_at": "2026-09-28T08:32:55.611659+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 7025,
+    "sha256": "904a3b30ab9793aa9f9258cca87df711ca6bf79363bca4849fb46aaebc694571",
+    "elapsed_seconds": 0.401,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:55 GMT",
+      "etag": "\"f752d9b15288238deff109a795432663\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:55 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Infinity",
+    "company_name_legal": "Infinity",
+    "founded_year": 2023,
+    "website_url": "https://www.infinityapp.in",
+    "careers_url": "https://www.ycombinator.com/companies/infinity/jobs",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/infinity",
+    "id": 42
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-18T15:58:49.033Z",
+    "crawl_status": "success",
+    "source": "Y Combinator Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "skills",
+    "title",
+    "visa_sponsorship",
+    "work_mode",
+    "yc_job_id",
+    "yc_role_type"
+  ],
+  "jobs": [
+    {
+      "title": "Software Engineer - Backend",
+      "apply_url": "https://www.ycombinator.com/companies/infinity/jobs/OFwxm4z-software-engineer-backend",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": "₹1M - ₹2M INR",
+      "experience": "1+ years",
+      "commitment": "Full-time",
+      "posted_date": "2025-04-18",
+      "department_classification_status": "rule_classified",
+      "department_classification_reasoning": "Rule-based classification: title matched pattern for engineering"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9351929,
+      "longitude": 77.6244807,
+      "exact_address": "Bangalore - 560102, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "pre-seed",
+    "funding_stage_last_updated": "2025-10-07T14:18:21.442Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-07T14:18:21.442Z",
+    "total_funding_raised": "$1.9 million",
+    "total_funding_raised_last_updated": "2025-10-07T14:18:21.442Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Liquid 2 Ventures",
+        "domain": "liquid2.vc"
+      },
+      {
+        "name": "Script Capital",
+        "domain": "scriptcap.com"
+      },
+      {
+        "name": "Samvit Ramadurgam",
+        "domain": null
+      },
+      {
+        "name": "Justin Hamilton",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Liquid 2 Ventures",
+        "logo_url": "/investor-logos/liquid-2-ventures.png"
+      },
+      {
+        "name": "Script Capital",
+        "logo_url": "/investor-logos/script-capital.png"
+      },
+      {
+        "name": "Samvit Ramadurgam",
+        "logo_url": "/investor-logos/samvit-ramadurgam.png"
+      },
+      {
+        "name": "Justin Hamilton",
+        "logo_url": "/investor-logos/justin-hamilton.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-07T14:18:21.442Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Y Combinator Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-02T00:00:00.000Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T10:08:06.413Z",
+    "company_basic_information.last_updated": "2025-10-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T08:24:51.177Z",
+    "leadership.founders[0].description_last_updated": "2026-01-29T08:32:49.330Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T08:24:59.923Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:32:54.715Z",
+    "social_media.x_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-10-02T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:02:57.288Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-10-07T14:18:21.442Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-07T14:18:21.442Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-07T14:18:21.442Z",
+    "financial_information.investor_logos_last_updated": "2025-10-07T14:18:21.442Z",
+    "location_mapping[0].last_updated": "2025-10-02T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2025-04-18",
+    "job_data.last_updated": "2026-09-18T15:58:49.033Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T14:30:53.720Z"
+  }
+}

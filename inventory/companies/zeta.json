@@ -1,0 +1,793 @@
+{
+  "slug": "zeta",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/12697.680929a76d6d122e.js",
+  "observed_at": "2026-09-28T08:38:43.110391+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 24540,
+    "sha256": "5a7566602dfba550cfb81ddd833eaac45e2f3724fd03f7244acba935198dc74a",
+    "elapsed_seconds": 0.466,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:38:43 GMT",
+      "etag": "\"e3ac34c2a00c5e9a255fd0fb2da008f2\"",
+      "last-modified": "Mon, 28 Sep 2026 08:38:43 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Zeta",
+    "company_name_legal": "Zeta",
+    "founded_year": 2015,
+    "website_url": "https://www.zeta.tech",
+    "careers_url": "https://jobs.lever.co/zeta",
+    "investor_portfolio_page": null,
+    "id": 206
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 22,
+    "last_updated": "2026-09-24T10:13:57.894Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 22,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Executive Assistant/Senior Executive Assistant",
+      "apply_url": "https://jobs.lever.co/zeta/db110756-b496-49a2-bde5-49ab46e963b8",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "db110756-b496-49a2-bde5-49ab46e963b8"
+    },
+    {
+      "title": "Associate Director - Legal",
+      "apply_url": "https://jobs.lever.co/zeta/892ad297-ed0e-4f9c-98b8-fd30358a5517",
+      "location_ids": [
+        "mumbai_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Mumbai, India / Bengaluru, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "892ad297-ed0e-4f9c-98b8-fd30358a5517"
+    },
+    {
+      "title": "Executive - IT Support",
+      "apply_url": "https://jobs.lever.co/zeta/aa98c726-9336-4d99-be08-20050eaf309c",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "aa98c726-9336-4d99-be08-20050eaf309c"
+    },
+    {
+      "title": "Lead / Manager Data Reliability Engineering",
+      "apply_url": "https://jobs.lever.co/zeta/32ea9654-98a8-445b-98ef-e6ada520d35a",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "32ea9654-98a8-445b-98ef-e6ada520d35a"
+    },
+    {
+      "title": "Manager - Accounts",
+      "apply_url": "https://jobs.lever.co/zeta/2d533970-99a7-444b-b410-39921d0c96f7",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "2d533970-99a7-444b-b410-39921d0c96f7",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Manager - Accounts role focus on overseeing finance operations, including financial accounting, accounts payable, general ledger management, audits, and treasury operations. The required skills and qualifications emphasize strong technical accounting knowledge and experience in finance, which aligns clearly with the finance department."
+    },
+    {
+      "title": "Cloud Network Engineer II",
+      "apply_url": "https://jobs.lever.co/zeta/dad16204-8051-4517-9e50-966f329045b5",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "dad16204-8051-4517-9e50-966f329045b5"
+    },
+    {
+      "title": "Vice President - Sales & Business Development",
+      "apply_url": "https://jobs.lever.co/zeta/7c0e0301-f6e0-4092-980d-7e7ec3b566f1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "7c0e0301-f6e0-4092-980d-7e7ec3b566f1"
+    },
+    {
+      "title": "Specialist - People Partner",
+      "apply_url": "https://jobs.lever.co/zeta/ecd7a54f-218c-47a0-8379-aeb272c35bcb",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "ecd7a54f-218c-47a0-8379-aeb272c35bcb"
+    },
+    {
+      "title": "Specialist / Manager – People Tech & Transformation",
+      "apply_url": "https://jobs.lever.co/zeta/2f14b7a2-da7f-42e6-a9d5-72438e23f419",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "2f14b7a2-da7f-42e6-a9d5-72438e23f419"
+    },
+    {
+      "title": "Specialist Total Rewards",
+      "apply_url": "https://jobs.lever.co/zeta/b099e4fe-87cf-44ad-89b6-21edfe60958b",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "b099e4fe-87cf-44ad-89b6-21edfe60958b"
+    },
+    {
+      "title": "Product Security Engineer II",
+      "apply_url": "https://jobs.lever.co/zeta/e21ca17d-7bf2-4781-94bb-bcfc8943aae0",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "e21ca17d-7bf2-4781-94bb-bcfc8943aae0"
+    },
+    {
+      "title": "SIEM & SecOps Engineer II",
+      "apply_url": "https://jobs.lever.co/zeta/f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "f140e9d7-8d0c-4e24-bace-8568385b6f5c"
+    },
+    {
+      "title": "Corporate Risk and Compliance - Associate II",
+      "apply_url": "https://jobs.lever.co/zeta/f43a76bd-ec4e-4b4b-a331-93d5d85434a5",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "f43a76bd-ec4e-4b4b-a331-93d5d85434a5"
+    },
+    {
+      "title": "Lead Site Reliability Engineer",
+      "apply_url": "https://jobs.lever.co/zeta/803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "803792f5-0e9c-45bc-82ce-c0a552ce0cf8"
+    },
+    {
+      "title": "Lead Site Reliability Engineer",
+      "apply_url": "https://jobs.lever.co/zeta/5eb7a75b-312c-4759-8813-70e67b5d4109",
+      "location_ids": [
+        "hyderabad_office"
+      ],
+      "location_display": "Hyderabad, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "5eb7a75b-312c-4759-8813-70e67b5d4109"
+    },
+    {
+      "title": "Director - Strategy & Operations",
+      "apply_url": "https://jobs.lever.co/zeta/8b83fe6a-ec31-4532-9738-bb753d9d9ad7",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "8b83fe6a-ec31-4532-9738-bb753d9d9ad7"
+    },
+    {
+      "title": "Executive Assistant",
+      "apply_url": "https://jobs.lever.co/zeta/66fc10b7-8b22-4cf2-8d9a-557f9d517bbc",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "66fc10b7-8b22-4cf2-8d9a-557f9d517bbc"
+    },
+    {
+      "title": "Director - Solution Engineering",
+      "apply_url": "https://jobs.lever.co/zeta/fe9b2558-10da-4a2c-907f-0dee2a1d76be",
+      "location_ids": [
+        "new_york_office",
+        "boston_office",
+        "atlanta_office",
+        "miami_office",
+        "washington_office",
+        "philadelphia_office",
+        "charlotte_office"
+      ],
+      "location_display": "East Coast",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "fe9b2558-10da-4a2c-907f-0dee2a1d76be"
+    },
+    {
+      "title": "Product Management - Intern",
+      "apply_url": "https://jobs.lever.co/zeta/72ee1884-8e8b-447b-ab96-aa76605b5f4a",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "72ee1884-8e8b-447b-ab96-aa76605b5f4a"
+    },
+    {
+      "title": "Product Manager I",
+      "apply_url": "https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "8623c195-f912-4d87-952f-7114cd258413"
+    },
+    {
+      "title": "Product Manager II",
+      "apply_url": "https://jobs.lever.co/zeta/dbefd5b1-cc6a-4fe6-86d8-89800acee903",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "dbefd5b1-cc6a-4fe6-86d8-89800acee903"
+    },
+    {
+      "title": "Associate / Sr. Associate- People Experience",
+      "apply_url": "https://jobs.lever.co/zeta/42c3b097-4b5c-48b6-83f6-04f09f1cab56",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-24",
+      "lever_job_id": "42c3b097-4b5c-48b6-83f6-04f09f1cab56"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "qa",
+        "data",
+        "engineering",
+        "finance",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.4324,
+      "longitude": 78.4204,
+      "exact_address": "No. 627-A, Road Number 35, Venkatagiri, Jubilee Hills, Hyderabad, Telangana, India - 500033",
+      "departments": [
+        "other",
+        "engineering",
+        "operations",
+        "security",
+        "product"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "administration",
+        "finance",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "basking_ridge_office",
+      "city": "Basking Ridge",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.7065,
+      "longitude": -74.564,
+      "exact_address": "Basking Ridge, New Jersey, USA",
+      "departments": [
+        "engineering",
+        "data",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "charlotte_office",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.2271,
+      "longitude": -80.8431,
+      "exact_address": "Charlotte, North Carolina, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "philadelphia_office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "exact_address": "Philadelphia, Pennsylvania, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-03-05T13:02:54.780Z",
+    "current_valuation_usd": "$2 billion",
+    "current_valuation_usd_last_updated": "2026-03-05T13:02:54.780Z",
+    "total_funding_raised": "$390 million",
+    "total_funding_raised_last_updated": "2026-03-05T13:02:54.780Z",
+    "key_investors": [
+      {
+        "name": "Optum Ventures",
+        "domain": "optum.com"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "domain": "softbank.com"
+      },
+      {
+        "name": "Sodexo",
+        "domain": "sodexo.com"
+      },
+      {
+        "name": "Mastercard",
+        "domain": "mastercard.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Optum Ventures",
+        "logo_url": "/investor-logos/optum-ventures.png"
+      },
+      {
+        "name": "SoftBank Vision Fund 2",
+        "logo_url": "/investor-logos/softbank-vision-fund-2.png"
+      },
+      {
+        "name": "Sodexo",
+        "logo_url": "/investor-logos/sodexo.png"
+      },
+      {
+        "name": "Mastercard",
+        "logo_url": "/investor-logos/mastercard.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-05T13:02:54.780Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "parental-leave",
+    "sabbatical",
+    "wfh-setup",
+    "meal-allowance",
+    "gym-membership",
+    "sick-leave",
+    "commute-allowance",
+    "relocation-assistance",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[3].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "levels_fyi"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-05T13:02:54.780Z",
+    "company_basic_information.website_url_last_updated": "2026-03-05T13:02:54.780Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-05T13:02:54.780Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-05T13:02:54.780Z",
+    "company_basic_information.last_updated": "2026-03-05",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-08T08:02:18.496Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-08T08:02:33.426Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:56:06.469Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:01:44.187Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-03-08T08:02:55.360Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-03-08T08:03:11.946Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:56:17.856Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T15:01:50.085Z",
+    "leadership.last_updated": "2026-03-08T08:01:26.520Z",
+    "social_media.x_url_last_verified": "2026-03-07T12:05:58.469Z",
+    "social_media.linkedin_url_last_verified": "2026-03-07T12:06:30.267Z",
+    "social_media.instagram_url_last_verified": "2026-03-08T08:00:19.764Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-05T13:02:54.780Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-05T13:02:54.780Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-05T13:02:54.780Z",
+    "financial_information.investor_logos_last_updated": "2026-03-05T13:02:54.780Z",
+    "location_mapping[0].last_updated": "2026-03-05T13:02:54.780Z",
+    "location_mapping[1].last_updated": "2026-03-05T13:02:54.780Z",
+    "location_mapping[2].last_updated": "2026-03-05T13:02:54.780Z",
+    "location_mapping[3].last_updated": "2026-05-17T08:54:46.229Z",
+    "location_mapping[13].last_updated": "2026-05-31T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:13:57.894Z",
+    "benefits.health-insurance.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.parental-leave.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.sabbatical.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.wfh-setup.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.meal-allowance.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.gym-membership.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.sick-leave.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.commute-allowance.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.relocation-assistance.last_updated": "2026-03-11T12:33:40.524Z",
+    "benefits.learning-development.last_updated": "2026-03-11T12:33:40.524Z"
+  }
+}

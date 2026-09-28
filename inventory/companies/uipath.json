@@ -1,0 +1,5227 @@
+{
+  "slug": "uipath",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/25083.e654eb97aae8b8a0.js",
+  "observed_at": "2026-09-28T08:37:51.562736+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 143675,
+    "sha256": "91ca1cad3cf79ad7dfa935bf5a7d06129528cb44b150e2122cb24d3f56e626cb",
+    "elapsed_seconds": 0.497,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:51 GMT",
+      "etag": "\"b3c4b8d042c6ea136d1c83036ce0eb78\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:51 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "UiPath",
+    "company_name_legal": "UiPath, Inc.",
+    "founded_year": 2015,
+    "website_url": "https://www.uipath.com",
+    "careers_url": "https://jobs.ashbyhq.com/uipath",
+    "investor_portfolio_page": null,
+    "id": 87
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 214,
+    "last_updated": "2026-09-14T12:44:01.018Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 214,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Area Vice-President ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/110888c8-15b3-4136-8c23-78c87be1f1dc",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "110888c8-15b3-4136-8c23-78c87be1f1dc"
+    },
+    {
+      "title": "Associate Sales Representative",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b44b5367-f373-4114-a305-031ed6053683",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b44b5367-f373-4114-a305-031ed6053683"
+    },
+    {
+      "title": "Business Development Representative (Portuguese/English Fluent)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b8c61f9a-323f-490c-ba8f-35be5d08e965",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b8c61f9a-323f-490c-ba8f-35be5d08e965"
+    },
+    {
+      "title": "Business Development Representative (Spanish/English Fluent)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fa13ffa3-c4b3-4e93-be31-5646b22c5430",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fa13ffa3-c4b3-4e93-be31-5646b22c5430"
+    },
+    {
+      "title": "Commercial Sales - Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aa157f58-44d8-4532-9114-4932e8b97c1d",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aa157f58-44d8-4532-9114-4932e8b97c1d"
+    },
+    {
+      "title": "Country Manager, Korea",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ac93a7d2-24b1-4c78-aa01-f94fb41ac5e5",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ac93a7d2-24b1-4c78-aa01-f94fb41ac5e5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Country Manager involve leading the regional sales team, identifying growth opportunities, and managing the sales cycle for strategic accounts, which aligns closely with sales functions. The role emphasizes account management and achieving revenue targets, further solidifying its classification under sales."
+    },
+    {
+      "title": "Customer Engineering Director",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/7557cd94-4b59-4624-aa2d-7bdeaacb9474",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7557cd94-4b59-4624-aa2d-7bdeaacb9474"
+    },
+    {
+      "title": "Director, Product Management, Governance (Identity & Auth)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/bd2f849d-7704-4911-9b1c-81d826b5742b",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bd2f849d-7704-4911-9b1c-81d826b5742b"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/d4dbec20-3d39-4612-9593-88021b63f3cc",
+      "location_ids": [
+        "manchester_office"
+      ],
+      "location_display": "Manchester, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d4dbec20-3d39-4612-9593-88021b63f3cc"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dbce1deb-f0cb-4432-a7d4-0eecfa10e4c0",
+      "location_ids": [
+        "milan_office"
+      ],
+      "location_display": "Milan, Italy",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dbce1deb-f0cb-4432-a7d4-0eecfa10e4c0"
+    },
+    {
+      "title": "Enterprise Sales Executive",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/638d976d-2a0e-44ba-aee6-8ec179ff64e0",
+      "location_ids": [
+        "oslo_office"
+      ],
+      "location_display": "Oslo, Norway",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "638d976d-2a0e-44ba-aee6-8ec179ff64e0"
+    },
+    {
+      "title": "Enterprise Sales Executive, Canadian Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ecb9dfc7-d803-4386-99b1-dcc38b708db3",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ecb9dfc7-d803-4386-99b1-dcc38b708db3"
+    },
+    {
+      "title": "Global Account Manager, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3b82228f-686a-43f5-bed7-732729309ebe",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3b82228f-686a-43f5-bed7-732729309ebe"
+    },
+    {
+      "title": "Industry Associate - Healthcare Providers",
+      "title_original": "Industry Associate, Healthcare Providers",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-31T11:55:34.746Z",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ca6d3131-c964-4ee3-a7e0-8da9a4b38636",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ca6d3131-c964-4ee3-a7e0-8da9a4b38636",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on analyzing the healthcare provider market, documenting customer use cases, and translating market insights into actionable strategies for sales teams. This aligns closely with healthcare operations, as it involves understanding and improving business processes within regulated healthcare environments."
+    },
+    {
+      "title": "Industry Principal - Healthcare Providers",
+      "title_original": "Industry Principal, Healthcare Providers",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T18:54:20.125Z",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ffac7c87-311d-4bba-ad61-1824d9c9e4ed",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ffac7c87-311d-4bba-ad61-1824d9c9e4ed",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role involve analyzing and documenting healthcare provider operations, developing strategies for revenue cycle management, and engaging with senior leaders in healthcare organizations. This aligns closely with healthcare operations, which focuses on the business aspects of healthcare delivery rather than clinical roles."
+    },
+    {
+      "title": "Principal Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e786c87c-054c-4ad7-a3c1-f8cf75f93c42",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e786c87c-054c-4ad7-a3c1-f8cf75f93c42"
+    },
+    {
+      "title": "Principal Applied Scientist- AI",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0c32036c-3fed-458a-ae6d-c2a8279a15e4",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0c32036c-3fed-458a-ae6d-c2a8279a15e4"
+    },
+    {
+      "title": "Principal Designer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/c54b5591-dc75-4cb6-9002-acde22848849",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c54b5591-dc75-4cb6-9002-acde22848849"
+    },
+    {
+      "title": "Principal Engineer -Intelligent Document & Context Grounding",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/28ad3557-b34b-47e3-8424-b01a781bd726",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "28ad3557-b34b-47e3-8424-b01a781bd726"
+    },
+    {
+      "title": "Principal Product Designer, Vertical Solutions",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/bf7296cc-1f50-4977-8e82-c5becd9fd679",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bf7296cc-1f50-4977-8e82-c5becd9fd679"
+    },
+    {
+      "title": "Principal Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "d3ef8c17-984f-4138-a853-cca29eaa7133"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2be81aae-0e50-446c-90b3-a304659588c3",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2be81aae-0e50-446c-90b3-a304659588c3"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/16b7c32e-a123-4f45-8dc0-41c8b836bfb6",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16b7c32e-a123-4f45-8dc0-41c8b836bfb6"
+    },
+    {
+      "title": "Principal Software Engineer- Document Understanding",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/31f30af1-fb33-494c-86cc-fbbb108b29a9",
+      "location_ids": [
+        "cluj_office"
+      ],
+      "location_display": "Cluj-Napoca, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "31f30af1-fb33-494c-86cc-fbbb108b29a9"
+    },
+    {
+      "title": "Principal Software Engineer, Site Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e0d3a159-958a-4bae-a628-17a7f3421d1b",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e0d3a159-958a-4bae-a628-17a7f3421d1b"
+    },
+    {
+      "title": "Regional Vice President, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb97869-a014-4786-90a2-3ba49f37e950",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb97869-a014-4786-90a2-3ba49f37e950"
+    },
+    {
+      "title": "Regional Vice President - FINS",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/26bb4763-6dc7-441d-95e0-f2cc5d5b5742",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "26bb4763-6dc7-441d-95e0-f2cc5d5b5742"
+    },
+    {
+      "title": "Sales Engineer - Field",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/eefc4fcf-5686-4dd2-a584-8a2848d63f5b",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "eefc4fcf-5686-4dd2-a584-8a2848d63f5b"
+    },
+    {
+      "title": "Sales Engineering - Specialist Team",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b926953b-26a7-4c6b-8916-7e7048d7ec19",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b926953b-26a7-4c6b-8916-7e7048d7ec19"
+    },
+    {
+      "title": "Senior Account Executive - Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdfd3f39-03d6-40e2-ac55-fda803426e0c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdfd3f39-03d6-40e2-ac55-fda803426e0c"
+    },
+    {
+      "title": "Senior Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aaadb603-82c1-422f-b2cf-c1f96c96ad94",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aaadb603-82c1-422f-b2cf-c1f96c96ad94"
+    },
+    {
+      "title": "Senior Associate Sales Representative (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/adbdb348-b111-421c-8783-67457b4eaa86",
+      "location_ids": [
+        "shenzhen_office"
+      ],
+      "location_display": "Remote, Shenzhen",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "adbdb348-b111-421c-8783-67457b4eaa86"
+    },
+    {
+      "title": "Senior Business Analyst, Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1e017e30-1d58-4ed3-8274-4dbc586edb30",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Remote, Mexico City",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1e017e30-1d58-4ed3-8274-4dbc586edb30"
+    },
+    {
+      "title": "Senior Customer Success Manager – Enterprise Transformation Programs",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6f6ef724-5de0-4f35-9a2f-b0e06a9c17e9",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6f6ef724-5de0-4f35-9a2f-b0e06a9c17e9"
+    },
+    {
+      "title": "Senior Enterprise Account Executive (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/7cd20743-6956-4d6e-a31d-e91591553a93",
+      "location_ids": [
+        "hong_kong_office"
+      ],
+      "location_display": "Hong Kong, Hong Kong",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7cd20743-6956-4d6e-a31d-e91591553a93"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1806abfb-08fd-4ddb-9abd-8eb15c8a1b9f",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1806abfb-08fd-4ddb-9abd-8eb15c8a1b9f"
+    },
+    {
+      "title": "Senior Front End Engineer, Orchestrator",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/5fdda25e-fc4f-4810-8c77-98b07659ea8a",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "5fdda25e-fc4f-4810-8c77-98b07659ea8a"
+    },
+    {
+      "title": "Senior Front End Engineer, StudioWeb",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/9803155a-e160-4d83-aead-e899dbadb4ae",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "9803155a-e160-4d83-aead-e899dbadb4ae"
+    },
+    {
+      "title": "Senior Global Industry Analyst – AML/FCC",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a8034213-c1b6-48f9-b9f1-2f6542fab097",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a8034213-c1b6-48f9-b9f1-2f6542fab097",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Industry Practice Director involve serving as a strategic thought leader and subject matter expert in compliance solutions for financial institutions. This includes advising clients, leading advisory sessions, and engaging with industry stakeholders, which aligns closely with consulting functions."
+    },
+    {
+      "title": "Senior Partner Sales Manager (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/61732b36-c81e-48cd-86b4-881395531aa6",
+      "location_ids": [
+        "hong_kong_office"
+      ],
+      "location_display": "Hong Kong, Hong Kong",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "61732b36-c81e-48cd-86b4-881395531aa6"
+    },
+    {
+      "title": "Senior Partner Sales Manager (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a0c38fae-78d9-4172-806c-9a243f517a35",
+      "location_ids": [
+        "beijing_office"
+      ],
+      "location_display": "Beijing, China",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a0c38fae-78d9-4172-806c-9a243f517a35"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1dbe2100-f4f9-430a-96cd-1484abfa2805",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1dbe2100-f4f9-430a-96cd-1484abfa2805"
+    },
+    {
+      "title": "Senior Software Engineer, Autopilot",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/63aa7b8e-873d-4b90-9498-2577889b61e9",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "63aa7b8e-873d-4b90-9498-2577889b61e9"
+    },
+    {
+      "title": "Senior Software Engineer - Intelligent Document Processing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b651393f-a017-467d-ac27-2a944326e7c8",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b651393f-a017-467d-ac27-2a944326e7c8"
+    },
+    {
+      "title": "Senior Software Engineer, StudioWeb",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ab971241-10ac-48b5-8de9-082859930bbe",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ab971241-10ac-48b5-8de9-082859930bbe"
+    },
+    {
+      "title": "Senior Solution Deployment Strategist (Healthcare)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ace938bb-d2ad-4d30-8523-f718ef7c5d6e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ace938bb-d2ad-4d30-8523-f718ef7c5d6e"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/51a5d71f-0a91-4eda-a96d-cc289398f8de",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "51a5d71f-0a91-4eda-a96d-cc289398f8de"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/37c4d6c5-15f1-491b-afb8-8cdb41a22792",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Remote, Riyadh",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "37c4d6c5-15f1-491b-afb8-8cdb41a22792"
+    },
+    {
+      "title": "Senior Technical Account Manager - Federal",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/5b4163c3-4911-4fcc-acf0-cddc37778a9f",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "5b4163c3-4911-4fcc-acf0-cddc37778a9f"
+    },
+    {
+      "title": "Senior Technical Program Manager - US Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/c2a7f96a-3459-4267-8c11-bb7bb61d8411",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c2a7f96a-3459-4267-8c11-bb7bb61d8411"
+    },
+    {
+      "title": "Software Engineer -Engineering Systems",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ca88975-e3d6-47ea-803b-2a2de6b0188e",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ca88975-e3d6-47ea-803b-2a2de6b0188e"
+    },
+    {
+      "title": "Software Engineer II",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/7c6d0f01-6443-48ee-a549-3484f2e816e4",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7c6d0f01-6443-48ee-a549-3484f2e816e4"
+    },
+    {
+      "title": "Software Engineer II",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ccdd5164-6188-478e-9a6c-b460ce2fe4ad",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ccdd5164-6188-478e-9a6c-b460ce2fe4ad"
+    },
+    {
+      "title": "Solution Architect",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/97049556-ec30-4958-b98c-f5c6ccc2ee18",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "97049556-ec30-4958-b98c-f5c6ccc2ee18"
+    },
+    {
+      "title": "Solution Architect",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f6641312-4b96-4e18-8a08-305117794a03",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f6641312-4b96-4e18-8a08-305117794a03"
+    },
+    {
+      "title": "Tax Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b6e49343-750c-4ac6-b0ed-4fcf781084fe",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b6e49343-750c-4ac6-b0ed-4fcf781084fe"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/7ae90b76-d672-4a16-9ab5-c9212017b9ff",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "Remote, Sao Paulo",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7ae90b76-d672-4a16-9ab5-c9212017b9ff"
+    },
+    {
+      "title": "Test Suite Account Executive — Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b50b29ea-9442-4e3f-a8be-5ee6d0f58c4e",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b50b29ea-9442-4e3f-a8be-5ee6d0f58c4e"
+    },
+    {
+      "title": "Test Suite Account Executive — Summit (Supply Chain, Manufacturing, Energy, Telco & High Technology)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/9d835eb8-c732-4ca8-8236-9b3fcfc70752",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "9d835eb8-c732-4ca8-8236-9b3fcfc70752"
+    },
+    {
+      "title": "UiPath Test Cloud Sales Specialist South Europe",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/129dff57-b39f-4a9e-9195-c453a743a622",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "129dff57-b39f-4a9e-9195-c453a743a622"
+    },
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3bdbdc61-2344-41bd-bf3d-5df3a90884e5",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3bdbdc61-2344-41bd-bf3d-5df3a90884e5"
+    },
+    {
+      "title": "Business Operations Project Manager - Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd#loc-0",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd"
+    },
+    {
+      "title": "Business Operations Project Manager - Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0e0f2eaa-e8a9-477e-9f8f-bfa2aa20e3bd"
+    },
+    {
+      "title": "Customer Engineering Director",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/26d701c2-3532-4b39-bb17-26d85caf0996#loc-0",
+      "location_ids": [
+        "hong_kong_office"
+      ],
+      "location_display": "Hong Kong, Hong Kong",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "26d701c2-3532-4b39-bb17-26d85caf0996"
+    },
+    {
+      "title": "Customer Engineering Director",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/26d701c2-3532-4b39-bb17-26d85caf0996#loc-1",
+      "location_ids": [
+        "taipei_office"
+      ],
+      "location_display": "Taipei, Taiwan",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "26d701c2-3532-4b39-bb17-26d85caf0996"
+    },
+    {
+      "title": "Customer Engineering Director",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/26d701c2-3532-4b39-bb17-26d85caf0996#loc-2",
+      "location_ids": [
+        "shanghai_office"
+      ],
+      "location_display": "Shanghai, China",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "26d701c2-3532-4b39-bb17-26d85caf0996"
+    },
+    {
+      "title": "Customer Engineering Director",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/26d701c2-3532-4b39-bb17-26d85caf0996#loc-3",
+      "location_ids": [
+        "beijing_office"
+      ],
+      "location_display": "Beijing, China",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "26d701c2-3532-4b39-bb17-26d85caf0996"
+    },
+    {
+      "title": "Customer Success Manager (Federal)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0552fab0-e7dd-41bd-a338-18693763df6b#loc-0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0552fab0-e7dd-41bd-a338-18693763df6b"
+    },
+    {
+      "title": "Customer Success Manager (Federal)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0552fab0-e7dd-41bd-a338-18693763df6b#loc-1",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0552fab0-e7dd-41bd-a338-18693763df6b"
+    },
+    {
+      "title": "Customer Success Manager (Federal)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0552fab0-e7dd-41bd-a338-18693763df6b#loc-2",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Maryland",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0552fab0-e7dd-41bd-a338-18693763df6b"
+    },
+    {
+      "title": "Customer Success Manager - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db#loc-0",
+      "location_ids": [
+        "kansas_city_office"
+      ],
+      "location_display": "Missouri",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6527b988-7b6b-4233-8b72-5d76735124db"
+    },
+    {
+      "title": "Customer Success Manager - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db#loc-1",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Pennsylvania",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6527b988-7b6b-4233-8b72-5d76735124db"
+    },
+    {
+      "title": "Customer Success Manager - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db#loc-2",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6527b988-7b6b-4233-8b72-5d76735124db"
+    },
+    {
+      "title": "Customer Success Manager - Public Sector",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db#loc-3",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6527b988-7b6b-4233-8b72-5d76735124db"
+    },
+    {
+      "title": "Director, Demand Generation",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b17b5c04-0901-49b4-8106-aef56e10abe0",
+      "location_ids": [
+        "paris_office"
+      ],
+      "location_display": "Paris, France",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b17b5c04-0901-49b4-8106-aef56e10abe0"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/948cfd6e-c6e2-42f8-ad62-d8dac518f2ec",
+      "location_ids": [
+        "amsterdam_office"
+      ],
+      "location_display": "Amsterdam, Netherlands",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "948cfd6e-c6e2-42f8-ad62-d8dac518f2ec"
+    },
+    {
+      "title": "Enterprise Account Executive (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/32b69dea-d271-43c8-a430-d661fa80c737",
+      "location_ids": [
+        "taipei_office"
+      ],
+      "location_display": "Taipei, Taiwan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "32b69dea-d271-43c8-a430-d661fa80c737"
+    },
+    {
+      "title": "Enterprise Account Executive - Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dc049131-7067-4365-a7ed-6e8530e360e1#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dc049131-7067-4365-a7ed-6e8530e360e1"
+    },
+    {
+      "title": "Enterprise Account Executive - Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dc049131-7067-4365-a7ed-6e8530e360e1#loc-1",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Pennsylvania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dc049131-7067-4365-a7ed-6e8530e360e1"
+    },
+    {
+      "title": "Enterprise Account Executive - Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dc049131-7067-4365-a7ed-6e8530e360e1#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dc049131-7067-4365-a7ed-6e8530e360e1"
+    },
+    {
+      "title": "Enterprise Account Executive - Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dc049131-7067-4365-a7ed-6e8530e360e1#loc-3",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dc049131-7067-4365-a7ed-6e8530e360e1"
+    },
+    {
+      "title": "Enterprise Account Executive - Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/dc049131-7067-4365-a7ed-6e8530e360e1#loc-4",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Massachusetts",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "dc049131-7067-4365-a7ed-6e8530e360e1"
+    },
+    {
+      "title": "Enterprise Sales Executive - Oil and Gas",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b3f9ce2e-b1b9-4f2b-b755-418592b53169#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b3f9ce2e-b1b9-4f2b-b755-418592b53169"
+    },
+    {
+      "title": "Enterprise Sales Executive - Oil and Gas",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b3f9ce2e-b1b9-4f2b-b755-418592b53169#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b3f9ce2e-b1b9-4f2b-b755-418592b53169"
+    },
+    {
+      "title": "Enterprise Sales Executive - Oil and Gas",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b3f9ce2e-b1b9-4f2b-b755-418592b53169#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b3f9ce2e-b1b9-4f2b-b755-418592b53169"
+    },
+    {
+      "title": "Enterprise Sales Executive - Oil and Gas",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b3f9ce2e-b1b9-4f2b-b755-418592b53169#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b3f9ce2e-b1b9-4f2b-b755-418592b53169"
+    },
+    {
+      "title": "Enterprise Sales Executive - Oil and Gas",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b3f9ce2e-b1b9-4f2b-b755-418592b53169#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Michigan",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b3f9ce2e-b1b9-4f2b-b755-418592b53169"
+    },
+    {
+      "title": "Enterprise Sales Executive — Regional Banking & Credit Unions",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0ecf46f8-8446-4674-aa78-ef6b0dedaa2a#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0ecf46f8-8446-4674-aa78-ef6b0dedaa2a"
+    },
+    {
+      "title": "Enterprise Sales Executive — Regional Banking & Credit Unions",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0ecf46f8-8446-4674-aa78-ef6b0dedaa2a#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0ecf46f8-8446-4674-aa78-ef6b0dedaa2a"
+    },
+    {
+      "title": "Forward Deployed Scientist II",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/bcaa0a82-1c7f-4ca2-b723-ae08779af86a#loc-0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bcaa0a82-1c7f-4ca2-b723-ae08779af86a"
+    },
+    {
+      "title": "Forward Deployed Scientist II",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/bcaa0a82-1c7f-4ca2-b723-ae08779af86a#loc-1",
+      "location_ids": [
+        "manchester_office"
+      ],
+      "location_display": "Manchester, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "bcaa0a82-1c7f-4ca2-b723-ae08779af86a"
+    },
+    {
+      "title": "Principal AI Architect – Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2"
+    },
+    {
+      "title": "Principal AI Architect – Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2"
+    },
+    {
+      "title": "Principal AI Architect – Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2"
+    },
+    {
+      "title": "Principal AI Architect – Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2#loc-3",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Arizona",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2"
+    },
+    {
+      "title": "Principal AI Architect – Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2#loc-4",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2"
+    },
+    {
+      "title": "Principal AI Architect - Lifescience",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a46e6524-01e7-4ca9-8080-03b69b8ec8f7"
+    },
+    {
+      "title": "Principal AI Architect - Lifescience",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a46e6524-01e7-4ca9-8080-03b69b8ec8f7"
+    },
+    {
+      "title": "Principal AI Architect - Lifescience",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a46e6524-01e7-4ca9-8080-03b69b8ec8f7"
+    },
+    {
+      "title": "Principal AI Architect - Lifescience",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7#loc-3",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "a46e6524-01e7-4ca9-8080-03b69b8ec8f7"
+    },
+    {
+      "title": "Principal Platform Engineer- Site Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cb9803bf-6b0c-464a-8bf2-d4a340b4e3cd",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cb9803bf-6b0c-464a-8bf2-d4a340b4e3cd"
+    },
+    {
+      "title": "Principal Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e41372e5-177d-4ed4-9dbf-a434af42458f#loc-0",
+      "location_ids": [
+        "manchester_office"
+      ],
+      "location_display": "Manchester, United Kingdom",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e41372e5-177d-4ed4-9dbf-a434af42458f"
+    },
+    {
+      "title": "Principal Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e41372e5-177d-4ed4-9dbf-a434af42458f#loc-1",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e41372e5-177d-4ed4-9dbf-a434af42458f"
+    },
+    {
+      "title": "Principal Product Manager, Agentic Business Orchestration & Automation",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/156df09a-6227-477a-9b91-0b44ce5d8232",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "156df09a-6227-477a-9b91-0b44ce5d8232"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f312ccc8-c71e-4d86-a1d5-767dba970edd",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f312ccc8-c71e-4d86-a1d5-767dba970edd"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/7328e756-d4ca-4177-9457-1a8e6da47d68",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "7328e756-d4ca-4177-9457-1a8e6da47d68"
+    },
+    {
+      "title": "Product Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/45f18f52-1002-41ac-9967-d146c0bbdb6c",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "45f18f52-1002-41ac-9967-d146c0bbdb6c"
+    },
+    {
+      "title": "Revenue Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/88fc2cbc-233c-4581-b04f-28f4d05859fc",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Remote, Mexico City",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "88fc2cbc-233c-4581-b04f-28f4d05859fc"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb6deba-6e5c-4b6d-a7a9-043a04015eed"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb6deba-6e5c-4b6d-a7a9-043a04015eed"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb6deba-6e5c-4b6d-a7a9-043a04015eed"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb6deba-6e5c-4b6d-a7a9-043a04015eed"
+    },
+    {
+      "title": "Sales Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed#loc-4",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "cdb6deba-6e5c-4b6d-a7a9-043a04015eed"
+    },
+    {
+      "title": "Sales Engineer - Healthcare - Payor",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6ebfbca5-516a-46f0-99fc-9a4173544efd#loc-0",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6ebfbca5-516a-46f0-99fc-9a4173544efd"
+    },
+    {
+      "title": "Sales Engineer - Healthcare - Payor",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6ebfbca5-516a-46f0-99fc-9a4173544efd#loc-1",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6ebfbca5-516a-46f0-99fc-9a4173544efd"
+    },
+    {
+      "title": "Sales Engineer - Healthcare - Payor",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6ebfbca5-516a-46f0-99fc-9a4173544efd#loc-2",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6ebfbca5-516a-46f0-99fc-9a4173544efd"
+    },
+    {
+      "title": "Sales Engineer, Healthcare - Provider",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "75345dfc-f069-481f-8c74-15c8c7d9e9de"
+    },
+    {
+      "title": "Sales Engineer, Healthcare - Provider",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "75345dfc-f069-481f-8c74-15c8c7d9e9de"
+    },
+    {
+      "title": "Sales Engineer, Healthcare - Provider",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "75345dfc-f069-481f-8c74-15c8c7d9e9de"
+    },
+    {
+      "title": "Sales Engineer, Healthcare - Provider",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/75345dfc-f069-481f-8c74-15c8c7d9e9de#loc-3",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "75345dfc-f069-481f-8c74-15c8c7d9e9de"
+    },
+    {
+      "title": "Sales Engineer, Retail and Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "754a3db2-eae8-4b86-bb3d-4b2d4d60c674"
+    },
+    {
+      "title": "Sales Engineer, Retail and Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "754a3db2-eae8-4b86-bb3d-4b2d4d60c674"
+    },
+    {
+      "title": "Sales Engineer, Retail and Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "754a3db2-eae8-4b86-bb3d-4b2d4d60c674"
+    },
+    {
+      "title": "Sales Engineer, Retail and Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674#loc-3",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Arizona",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "754a3db2-eae8-4b86-bb3d-4b2d4d60c674"
+    },
+    {
+      "title": "Sales Engineer, Retail and Manufacturing",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/754a3db2-eae8-4b86-bb3d-4b2d4d60c674#loc-4",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "754a3db2-eae8-4b86-bb3d-4b2d4d60c674"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-2",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Pennsylvania",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-3",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Account Based Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fcf8893a-874d-4ef2-876d-54e54ca70c5f#loc-5",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fcf8893a-874d-4ef2-876d-54e54ca70c5f"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-0",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Illinois",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-2",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-3",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Virginia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-4",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-5",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Minnesota",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/3ef25269-d509-4191-bcd1-3db386fff076#loc-6",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "3ef25269-d509-4191-bcd1-3db386fff076"
+    },
+    {
+      "title": "Senior Forward Deployed Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e0ec798c-e05c-4d02-89d6-018f2ab767a6#loc-0",
+      "location_ids": [
+        "jaipur_office"
+      ],
+      "location_display": "Jaipur, India",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e0ec798c-e05c-4d02-89d6-018f2ab767a6"
+    },
+    {
+      "title": "Senior Forward Deployed Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/e0ec798c-e05c-4d02-89d6-018f2ab767a6#loc-1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "e0ec798c-e05c-4d02-89d6-018f2ab767a6"
+    },
+    {
+      "title": "Senior Forward Deployed Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/4d53f771-f759-45d6-aa5f-fee9b8ff8440#loc-0",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4d53f771-f759-45d6-aa5f-fee9b8ff8440"
+    },
+    {
+      "title": "Senior Forward Deployed Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/4d53f771-f759-45d6-aa5f-fee9b8ff8440#loc-1",
+      "location_ids": [
+        "manchester_office"
+      ],
+      "location_display": "Manchester, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4d53f771-f759-45d6-aa5f-fee9b8ff8440"
+    },
+    {
+      "title": "Senior FP&A Analyst, Corporate FP&A",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/eef7c57b-6331-4710-a93c-154f918c91ca",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "eef7c57b-6331-4710-a93c-154f918c91ca"
+    },
+    {
+      "title": "Senior Industry Practice Director Healthcare Provider",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role focuses on understanding and shaping the healthcare provider market, which includes health systems and hospitals. The primary responsibilities involve analyzing operations, developing strategies for provider organizations, and engaging with senior leaders in the healthcare sector, all of which align closely with healthcare operations."
+    },
+    {
+      "title": "Senior Industry Practice Director - Healthcare Provider",
+      "title_original": "Senior Industry Practice Director Healthcare Provider",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:28:29.462Z",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on understanding and shaping the Healthcare Provider market, which involves analyzing operations within health systems and hospitals. The role is centered on providing insights and strategies to improve operational efficiency and drive growth in healthcare settings, aligning it closely with healthcare operations."
+    },
+    {
+      "title": "Senior Industry Practice Director - Healthcare Providers",
+      "title_original": "Senior Industry Practice Director Healthcare Provider",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:28:49.745Z",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role focuses on defining market strategies and operational insights for healthcare provider organizations, which aligns closely with healthcare operations. The responsibilities include analyzing healthcare workflows, engaging with health system executives, and providing structured input into product strategy, all of which are central to healthcare operations."
+    },
+    {
+      "title": "Senior Industry Practice Director - Healthcare Provider",
+      "title_original": "Senior Industry Practice Director Healthcare Provider",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-14T15:29:18.336Z",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/0772300d-b9cb-4dfd-a32e-2efecd1d6bb2#loc-3",
+      "location_ids": [
+        "phoenix_office"
+      ],
+      "location_display": "Arizona",
+      "role_department": "healthcare-operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "0772300d-b9cb-4dfd-a32e-2efecd1d6bb2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role focuses on shaping strategies and insights for healthcare provider organizations, which aligns closely with healthcare operations. The responsibilities include analyzing market trends, developing sales plays for healthcare executives, and driving engagement with health systems, all of which are central to healthcare operations."
+    },
+    {
+      "title": "Senior Manager, Event Content, Programming & Production",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ed0f0bb8-75f5-49e1-8734-46c534760c24#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ed0f0bb8-75f5-49e1-8734-46c534760c24"
+    },
+    {
+      "title": "Senior Manager, Event Content, Programming & Production",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ed0f0bb8-75f5-49e1-8734-46c534760c24#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ed0f0bb8-75f5-49e1-8734-46c534760c24"
+    },
+    {
+      "title": "Senior Manager, Event Content, Programming & Production",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ed0f0bb8-75f5-49e1-8734-46c534760c24#loc-2",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ed0f0bb8-75f5-49e1-8734-46c534760c24"
+    },
+    {
+      "title": "Senior Manager, Event Content, Programming & Production",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ed0f0bb8-75f5-49e1-8734-46c534760c24#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ed0f0bb8-75f5-49e1-8734-46c534760c24"
+    },
+    {
+      "title": "Senior Sales Director (RVP), Consumer Industries UK&I",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/934a13f1-b6d3-44fa-a5e4-83a9dec0bbce",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "934a13f1-b6d3-44fa-a5e4-83a9dec0bbce"
+    },
+    {
+      "title": "Senior Sales Engineer, Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/045a5bfd-dcdd-4d54-828f-13ca6b82de32#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "045a5bfd-dcdd-4d54-828f-13ca6b82de32"
+    },
+    {
+      "title": "Senior Sales Engineer, Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/045a5bfd-dcdd-4d54-828f-13ca6b82de32#loc-1",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Pennsylvania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "045a5bfd-dcdd-4d54-828f-13ca6b82de32"
+    },
+    {
+      "title": "Senior Sales Engineer, Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/045a5bfd-dcdd-4d54-828f-13ca6b82de32#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "045a5bfd-dcdd-4d54-828f-13ca6b82de32"
+    },
+    {
+      "title": "Senior Sales Engineer, Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/045a5bfd-dcdd-4d54-828f-13ca6b82de32#loc-3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New Jersey",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "045a5bfd-dcdd-4d54-828f-13ca6b82de32"
+    },
+    {
+      "title": "Senior Sales Engineer, Financials",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/045a5bfd-dcdd-4d54-828f-13ca6b82de32#loc-4",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "045a5bfd-dcdd-4d54-828f-13ca6b82de32"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-0",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-1",
+      "location_ids": [
+        "alba_office"
+      ],
+      "location_display": "Alba Iulia, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-2",
+      "location_ids": [
+        "cluj_office"
+      ],
+      "location_display": "Cluj-Napoca, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-3",
+      "location_ids": [
+        "iasi_office"
+      ],
+      "location_display": "Iași, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-4",
+      "location_ids": [
+        "gorj_office"
+      ],
+      "location_display": "Târgu Jiu, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-5",
+      "location_ids": [
+        "galati_office"
+      ],
+      "location_display": "Galați, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-6",
+      "location_ids": [
+        "constanta_office"
+      ],
+      "location_display": "Constanța, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-7",
+      "location_ids": [
+        "craiova_office"
+      ],
+      "location_display": "Craiova, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-8",
+      "location_ids": [
+        "alexandria_office"
+      ],
+      "location_display": "Alexandria, Egypt",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-9",
+      "location_ids": [
+        "baia_mare_office"
+      ],
+      "location_display": "Baia Mare, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-10",
+      "location_ids": [
+        "sibiu_office"
+      ],
+      "location_display": "Sibiu, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-11",
+      "location_ids": [
+        "timisoara_office"
+      ],
+      "location_display": "Timișoara, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Sales Engineer with German",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/2912609e-9691-4ed8-ba3d-f54bca62a78f#loc-12",
+      "location_ids": [
+        "buzau_office"
+      ],
+      "location_display": "Buzău, Romania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "2912609e-9691-4ed8-ba3d-f54bca62a78f"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/29457535-d1ac-4ecd-b5d5-c5448a6da1b1",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "29457535-d1ac-4ecd-b5d5-c5448a6da1b1"
+    },
+    {
+      "title": "Senior Software Engineer, Site Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b14e2af1-b75f-42e7-a01b-e0a512e09d4d#loc-0",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b14e2af1-b75f-42e7-a01b-e0a512e09d4d"
+    },
+    {
+      "title": "Senior Software Engineer, Site Reliability",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b14e2af1-b75f-42e7-a01b-e0a512e09d4d#loc-1",
+      "location_ids": [
+        "bellevue_office"
+      ],
+      "location_display": "Bellevue, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b14e2af1-b75f-42e7-a01b-e0a512e09d4d"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b1093643-b3b7-4383-ba01-cb8f25cd24d9#loc-0",
+      "location_ids": [
+        "johannesburg_office"
+      ],
+      "location_display": "Johannesburg, South Africa",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b1093643-b3b7-4383-ba01-cb8f25cd24d9"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b1093643-b3b7-4383-ba01-cb8f25cd24d9#loc-1",
+      "location_ids": [
+        "cape_town_office"
+      ],
+      "location_display": "Cape Town, South Africa",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b1093643-b3b7-4383-ba01-cb8f25cd24d9"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-0",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-1",
+      "location_ids": [
+        "cluj_office"
+      ],
+      "location_display": "Cluj-Napoca, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-2",
+      "location_ids": [
+        "brasov_office"
+      ],
+      "location_display": "Brașov, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-3",
+      "location_ids": [
+        "iasi_office"
+      ],
+      "location_display": "Iași, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-4",
+      "location_ids": [
+        "sibiu_office"
+      ],
+      "location_display": "Sibiu, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Engineer, German speaker",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/aba67b56-2142-4e87-a26b-e28b86dee6ca#loc-5",
+      "location_ids": [
+        "timisoara_office"
+      ],
+      "location_display": "Timișoara, Romania",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "aba67b56-2142-4e87-a26b-e28b86dee6ca"
+    },
+    {
+      "title": "Senior Solution Sales Engineer - Retail, Supply Chain",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/16869a47-28ad-40e8-b7fb-0d4325dbd3e4#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16869a47-28ad-40e8-b7fb-0d4325dbd3e4"
+    },
+    {
+      "title": "Senior Solution Sales Engineer - Retail, Supply Chain",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/16869a47-28ad-40e8-b7fb-0d4325dbd3e4#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16869a47-28ad-40e8-b7fb-0d4325dbd3e4"
+    },
+    {
+      "title": "Senior Solution Sales Engineer - Retail, Supply Chain",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/16869a47-28ad-40e8-b7fb-0d4325dbd3e4#loc-2",
+      "location_ids": [
+        "raleigh_office"
+      ],
+      "location_display": "North Carolina",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16869a47-28ad-40e8-b7fb-0d4325dbd3e4"
+    },
+    {
+      "title": "Senior Solution Sales Engineer - Retail, Supply Chain",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/16869a47-28ad-40e8-b7fb-0d4325dbd3e4#loc-3",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "16869a47-28ad-40e8-b7fb-0d4325dbd3e4"
+    },
+    {
+      "title": "Senior Strategic Account Executive (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/b5cf84ec-c678-4740-a977-74f7a98b45d3",
+      "location_ids": [
+        "hong_kong_office"
+      ],
+      "location_display": "Hong Kong, Hong Kong",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b5cf84ec-c678-4740-a977-74f7a98b45d3"
+    },
+    {
+      "title": "Senior Strategic Account Executive (Agentic AI Automation)",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/ea51fd25-4c1a-42b6-801e-14175772b3d0",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "ea51fd25-4c1a-42b6-801e-14175772b3d0"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-0",
+      "location_ids": [
+        "philadelphia_office"
+      ],
+      "location_display": "Pennsylvania",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-2",
+      "location_ids": [
+        "kansas_city_office"
+      ],
+      "location_display": "Kansas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-3",
+      "location_ids": [
+        "kansas_city_office"
+      ],
+      "location_display": "Missouri",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-4",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Strategic Engagement Executive, Office of CFO",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f000969a-ec2c-4209-b55c-536d133dd0c3#loc-5",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "f000969a-ec2c-4209-b55c-536d133dd0c3"
+    },
+    {
+      "title": "Technical Account Manager",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/c26a5547-1c3a-4dc2-8a05-623aca8e1a76",
+      "location_ids": [
+        "istanbul_office"
+      ],
+      "location_display": "Istanbul, Turkey",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "c26a5547-1c3a-4dc2-8a05-623aca8e1a76"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Indiana",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-2",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Iowa",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-3",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Tennessee",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-4",
+      "location_ids": [
+        "denver_office"
+      ],
+      "location_display": "Denver, USA",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-5",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Illinois",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/fce22e8d-384e-4b74-ae39-796d9e24162b#loc-6",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "fce22e8d-384e-4b74-ae39-796d9e24162b"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-0",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Indiana",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-2",
+      "location_ids": [
+        "nashville_office"
+      ],
+      "location_display": "Tennessee",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-3",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-4",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Arkansas",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-5",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-6",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Michigan",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Technical Account Manager - Retail, Travel, Logistics",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8#loc-7",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "6c4499ae-91bd-45f6-8534-a748bf22ced8"
+    },
+    {
+      "title": "Test Cloud Account Executive — Banking & Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/00e26410-8407-439e-a79a-aab35334f2c2#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "00e26410-8407-439e-a79a-aab35334f2c2"
+    },
+    {
+      "title": "Test Cloud Account Executive — Banking & Financial Services",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/00e26410-8407-439e-a79a-aab35334f2c2#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "00e26410-8407-439e-a79a-aab35334f2c2"
+    },
+    {
+      "title": "Test Cloud Account Executive — Healthcare & Life Sciences",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1961033a-e5a6-4708-8c1a-07c9eee5ca1d#loc-0",
+      "location_ids": [
+        "dallas_office"
+      ],
+      "location_display": "Texas",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1961033a-e5a6-4708-8c1a-07c9eee5ca1d"
+    },
+    {
+      "title": "Test Cloud Account Executive — Healthcare & Life Sciences",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1961033a-e5a6-4708-8c1a-07c9eee5ca1d#loc-1",
+      "location_ids": [
+        "miami_office"
+      ],
+      "location_display": "Florida",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1961033a-e5a6-4708-8c1a-07c9eee5ca1d"
+    },
+    {
+      "title": "Test Cloud Account Executive — Healthcare & Life Sciences",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/1961033a-e5a6-4708-8c1a-07c9eee5ca1d#loc-2",
+      "location_ids": [
+        "atlanta_office"
+      ],
+      "location_display": "Georgia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1961033a-e5a6-4708-8c1a-07c9eee5ca1d"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "country": "Netherlands",
+      "latitude": 52.334469,
+      "longitude": 4.872844,
+      "exact_address": "Strawinskylaan 4117, 1077 ZX, Amsterdam, North Holland, Netherlands",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.267593,
+      "longitude": -97.747177,
+      "exact_address": "500 W 5th Street, Suite 1000, Austin, Texas, United States - 78701",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bellevue_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.617331,
+      "longitude": -122.193591,
+      "exact_address": "Plaza Center, 10900 NE 8th St, Suite 400, Bellevue, Washington, United States - 98004",
+      "departments": [
+        "operations",
+        "ai",
+        "data",
+        "product",
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.984119,
+      "longitude": 77.585857,
+      "exact_address": "7th Floor, Prestige Trade Tower, No. 46, Palace Road, Sampangi Rama Nagar, Bengaluru, Karnataka, India - 560001",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering",
+        "qa"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.544018,
+      "longitude": 13.373194,
+      "exact_address": "GovTech Campus, Max-Urich-Straße 3, 13355 Berlin, Germany",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bucharest_office",
+      "city": "Bucharest",
+      "state": "Bucuresti",
+      "country": "Romania",
+      "latitude": 44.447825,
+      "longitude": 26.094425,
+      "exact_address": "4 Vasile Alecsandri Street and 11 Constantin Daniel Street, Building A, Floors 5-6, Sector 1, Bucharest, Romania - 010613",
+      "departments": [
+        "product",
+        "data",
+        "customer-success",
+        "engineering",
+        "it",
+        "marketing",
+        "research",
+        "operations",
+        "ai",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cluj_office",
+      "city": "Cluj-Napoca",
+      "state": null,
+      "country": "Romania",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "exact_address": "Cluj-Napoca, Romania",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": "Emirate of Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.099472,
+      "longitude": 55.163624,
+      "exact_address": "Office Park, Block E, Offices 206-211, Al Sufouh 2, Dubai Internet City, Dubai, Emirate of Dubai, United Arab Emirates - 00000",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": "Dublin",
+      "country": "Ireland",
+      "latitude": 53.3398,
+      "longitude": -6.2603,
+      "exact_address": "77 Lower Camden Street, Dublin, D02 XE80, Ireland",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.713473,
+      "longitude": -103.410982,
+      "exact_address": "Av. Empresarios 135, Piso 2, Puerta de Hierro, Zapopan, Guadalajara, Jalisco, Mexico - 45116",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": "Hong Kong Special Administrative Region",
+      "country": "China",
+      "latitude": 22.280158,
+      "longitude": 114.173101,
+      "exact_address": "35/F, Central Plaza, 18 Harbour Road, Wanchai, Hong Kong",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "istanbul_office",
+      "city": "Istanbul",
+      "state": "Istanbul",
+      "country": "Turkey",
+      "latitude": 41.0534,
+      "longitude": 29.0159,
+      "exact_address": "Esentepe Mah. Harman Sok., 7 Nidakule Levent, 6th floor, Şişli, Istanbul, Turkey - 34394",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jaipur_office",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "exact_address": "Jaipur, Rajasthan, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": "Gauteng",
+      "country": "South Africa",
+      "latitude": -26.06239,
+      "longitude": 28.02685,
+      "exact_address": "35 Ballyclare Drive, 2nd Floor, Golden Oaks House, Bryanston, Johannesburg, Gauteng, South Africa - 2191",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5155,
+      "longitude": -0.0804,
+      "exact_address": "50th Floor East Part, 22 Bishopsgate, London, England, United Kingdom - EC2N 4BQ",
+      "departments": [
+        "sales",
+        "customer-success",
+        "data",
+        "engineering",
+        "research",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain",
+      "latitude": 40.458824,
+      "longitude": -3.689221,
+      "exact_address": "163 Paseo de la Castellana, 28046, Madrid, Spain",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": "Greater Manchester",
+      "country": "United Kingdom",
+      "latitude": 53.479203,
+      "longitude": -2.238098,
+      "exact_address": "4th Floor, Hyphen, 75 Mosley Street, Manchester, Greater Manchester, United Kingdom - M2 3HR",
+      "departments": [
+        "sales",
+        "product",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.810228,
+      "longitude": 144.971709,
+      "exact_address": "Level 7, 222 Exhibition Street, Melbourne, Victoria, Australia - 3000",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": "Lombardy",
+      "country": "Italy",
+      "latitude": 45.459234,
+      "longitude": 9.191593,
+      "exact_address": "1 Corso Italia, 20122, Milan, Italy",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.0033,
+      "longitude": 72.8258,
+      "exact_address": "Unit No. 802, 8th Floor, Tower 2B, One Indiabulls Centre, 841 Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra, India - 400013",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "latitude": 48.12564,
+      "longitude": 11.61302,
+      "exact_address": "August-Everding-Str. 20, 81671 München, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.752772,
+      "longitude": -73.977157,
+      "exact_address": "One Vanderbilt Avenue, 60th Floor, New York, NY 10017, United States",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "1000+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.87913,
+      "longitude": 2.32641,
+      "exact_address": "55 Rue d'Amsterdam et 3/5 rue de Bucarest, 7th floor, 75008 Paris, France",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7924,
+      "longitude": -122.399,
+      "exact_address": "101 California Street, 20th Floor, San Francisco, California, United States - 94111",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.572231,
+      "longitude": -46.687927,
+      "exact_address": "Av. Brigadeiro Faria Lima, 3729, 10º andar, Itaim Bibi, São Paulo, São Paulo, Brazil - 04538-905",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Bellevue",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.616334,
+      "longitude": -122.201563,
+      "exact_address": "Lincoln Square North, 700 Bellevue Way NE, Suite 2000, Bellevue, King County, Washington, United States - 98004",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "150+"
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": "Seoul",
+      "country": "South Korea",
+      "latitude": 37.570377,
+      "longitude": 126.972255,
+      "exact_address": "4F, Saemunan-ro 76, Jongno-gu, Seoul 03185",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Singapore",
+      "country": "Singapore",
+      "latitude": 1.27735,
+      "longitude": 103.85401,
+      "exact_address": "12 Marina Boulevard, #31-03, Marina Bay Financial Centre Tower 3, Singapore 018982",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": "Stockholm County",
+      "country": "Sweden",
+      "latitude": 59.330231,
+      "longitude": 18.056103,
+      "exact_address": "United Spaces Waterfront Building, 63 Klarabergsviadukten, 10123 Stockholm, Sweden",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.865144,
+      "longitude": 151.205636,
+      "exact_address": "Suite 20.02, 1 York Street, Sydney, New South Wales, Australia - 2000",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.688239,
+      "longitude": 139.764779,
+      "exact_address": "7F Otemachi Park Building, 1-1-1 Otemachi, Chiyoda-ku, Tokyo, Japan - 100-0004",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.651451,
+      "longitude": -79.378037,
+      "exact_address": "176 Yonge Street, 6th Floor, Toronto, Ontario, Canada - M5C 2L7",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "sales",
+        "customer-success",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "shanghai_office",
+      "city": "Shanghai",
+      "state": null,
+      "country": "China",
+      "latitude": 31.2304,
+      "longitude": 121.4737,
+      "exact_address": "Shanghai, China",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zagreb_office",
+      "city": "Zagreb",
+      "state": null,
+      "country": "Croatia",
+      "latitude": 45.815,
+      "longitude": 15.9819,
+      "exact_address": "Zagreb, Croatia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "canberra_office",
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "latitude": -35.2809,
+      "longitude": 149.13,
+      "exact_address": "Canberra, Australian Capital Territory, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jakarta_remote",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "surabaya_remote",
+      "city": "Surabaya",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "exact_address": "Surabaya, Indonesia",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bandung_remote",
+      "city": "Bandung",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "exact_address": "Bandung, Indonesia",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bangkok_remote",
+      "city": "Bangkok",
+      "state": null,
+      "country": "Thailand",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "exact_address": "Bangkok, Thailand",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chiang_mai_remote",
+      "city": "Chiang Mai",
+      "state": null,
+      "country": "Thailand",
+      "latitude": 18.7883,
+      "longitude": 98.9853,
+      "exact_address": "Chiang Mai, Thailand",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "bandung_office",
+      "city": "Bandung",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "exact_address": "Bandung, Indonesia",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belgrade_office",
+      "city": "Belgrade",
+      "state": null,
+      "country": "Serbia",
+      "latitude": 44.7866,
+      "longitude": 20.4489,
+      "exact_address": "Belgrade, Serbia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "budapest_office",
+      "city": "Budapest",
+      "state": null,
+      "country": "Hungary",
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "exact_address": "Budapest, Hungary",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jakarta_office",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "krakow_office",
+      "city": "Kraków",
+      "state": null,
+      "country": "Poland",
+      "latitude": 50.0647,
+      "longitude": 19.945,
+      "exact_address": "Kraków, Poland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kyiv_office",
+      "city": "Kyiv",
+      "state": null,
+      "country": "Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "exact_address": "Kyiv, Ukraine",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riga_office",
+      "city": "Riga",
+      "state": null,
+      "country": "Latvia",
+      "latitude": 56.9496,
+      "longitude": 24.1052,
+      "exact_address": "Riga, Latvia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sofia_office",
+      "city": "Sofia",
+      "state": null,
+      "country": "Bulgaria",
+      "latitude": 42.6977,
+      "longitude": 23.3219,
+      "exact_address": "Sofia, Bulgaria",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "surabaya_office",
+      "city": "Surabaya",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "exact_address": "Surabaya, Indonesia",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tallinn_office",
+      "city": "Tallinn",
+      "state": null,
+      "country": "Estonia",
+      "latitude": 59.437,
+      "longitude": 24.7536,
+      "exact_address": "Tallinn, Estonia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vilnius_office",
+      "city": "Vilnius",
+      "state": null,
+      "country": "Lithuania",
+      "latitude": 54.6872,
+      "longitude": 25.2797,
+      "exact_address": "Vilnius, Lithuania",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bangkok_office",
+      "city": "Bangkok",
+      "state": null,
+      "country": "Thailand",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "exact_address": "Bangkok, Thailand",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "oslo_office",
+      "city": "Oslo",
+      "state": null,
+      "country": "Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "exact_address": "Oslo, Norway",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "exact_address": "Riyadh, Saudi Arabia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "taipei_office",
+      "city": "Taipei",
+      "state": null,
+      "country": "Taiwan",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "exact_address": "Taipei, Taiwan",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "beijing_office",
+      "city": "Beijing",
+      "state": null,
+      "country": "China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "exact_address": "Beijing, China",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "shenzhen_office",
+      "city": "Shenzhen",
+      "state": null,
+      "country": "China",
+      "latitude": 22.5431,
+      "longitude": 114.0579,
+      "exact_address": "Shenzhen, China",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "alexandria_office",
+      "city": "Alexandria",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "exact_address": "Alexandria, Egypt",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cape_town_office",
+      "city": "Cape Town",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "exact_address": "Cape Town, South Africa",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "marketing",
+        "customer-success",
+        "other",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kansas_city_office",
+      "city": "Kansas City",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 39.0997,
+      "longitude": -94.5786,
+      "exact_address": "Kansas City, Missouri, United States",
+      "departments": [
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "exact_address": "Nashville, Tennessee, United States",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "philadelphia_office",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "exact_address": "Philadelphia, Pennsylvania, United States",
+      "departments": [
+        "customer-success",
+        "sales",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "phoenix_office",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "United States",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "exact_address": "Phoenix, Arizona, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "raleigh_office",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "country": "United States",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "exact_address": "Raleigh, North Carolina, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "other"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "alba_office",
+      "city": "Alba Iulia",
+      "state": "Alba",
+      "country": "Romania",
+      "latitude": 46.0733,
+      "longitude": 23.58,
+      "exact_address": "Alba Iulia, Alba, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "iasi_office",
+      "city": "Iași",
+      "state": null,
+      "country": "Romania",
+      "latitude": 47.1585,
+      "longitude": 27.6014,
+      "exact_address": "Iași, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "gorj_office",
+      "city": "Târgu Jiu",
+      "state": "Gorj",
+      "country": "Romania",
+      "latitude": 45.0323,
+      "longitude": 23.2727,
+      "exact_address": "Târgu Jiu, Gorj, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "galati_office",
+      "city": "Galați",
+      "state": null,
+      "country": "Romania",
+      "latitude": 45.4353,
+      "longitude": 28.008,
+      "exact_address": "Galați, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "constanta_office",
+      "city": "Constanța",
+      "state": null,
+      "country": "Romania",
+      "latitude": 44.1598,
+      "longitude": 28.6348,
+      "exact_address": "Constanța, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "craiova_office",
+      "city": "Craiova",
+      "state": null,
+      "country": "Romania",
+      "latitude": 44.3302,
+      "longitude": 23.7949,
+      "exact_address": "Craiova, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "baia_mare_office",
+      "city": "Baia Mare",
+      "state": null,
+      "country": "Romania",
+      "latitude": 47.6567,
+      "longitude": 23.5847,
+      "exact_address": "Baia Mare, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "sibiu_office",
+      "city": "Sibiu",
+      "state": null,
+      "country": "Romania",
+      "latitude": 45.7983,
+      "longitude": 24.1256,
+      "exact_address": "Sibiu, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "timisoara_office",
+      "city": "Timișoara",
+      "state": null,
+      "country": "Romania",
+      "latitude": 45.7489,
+      "longitude": 21.2087,
+      "exact_address": "Timișoara, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "buzau_office",
+      "city": "Buzău",
+      "state": null,
+      "country": "Romania",
+      "latitude": 45.15,
+      "longitude": 26.8333,
+      "exact_address": "Buzău, Romania",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasov_office",
+      "city": "Brașov",
+      "state": null,
+      "country": "Romania",
+      "latitude": 45.6427,
+      "longitude": 25.5887,
+      "exact_address": "Brașov, Romania",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-f",
+    "funding_stage_last_updated": "2025-10-31T15:26:33.811Z",
+    "current_valuation_usd": "$35 billion",
+    "current_valuation_usd_last_updated": "2025-10-30T16:41:37.804Z",
+    "total_funding_raised": "$1,952.6 million",
+    "total_funding_raised_last_updated": "2025-10-30T16:41:37.804Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "CapitalG",
+        "domain": "capitalg.com"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      },
+      {
+        "name": "Alkeon Capital",
+        "domain": "alkeoncapital.com"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kpcb.com"
+      },
+      {
+        "name": "Dragoneer",
+        "domain": "dragoneer.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "Madrona Venture Group",
+        "domain": "madrona.com"
+      },
+      {
+        "name": "Wellington",
+        "domain": "wellington.com"
+      },
+      {
+        "name": "Sands Capital",
+        "domain": "sandscapital.com"
+      },
+      {
+        "name": "T. Rowe Price",
+        "domain": "troweprice.com"
+      },
+      {
+        "name": "Altimeter Capital",
+        "domain": "altimeter.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Bek Ventures",
+        "domain": null
+      },
+      {
+        "name": "Credo Ventures",
+        "domain": "credoventures.com"
+      },
+      {
+        "name": "Seedcamp",
+        "domain": "seedcamp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "CapitalG",
+        "logo_url": "/investor-logos/capitalg.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      },
+      {
+        "name": "Alkeon Capital",
+        "logo_url": "/investor-logos/alkeon-capital.png"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Dragoneer",
+        "logo_url": "/investor-logos/dragoneer.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "Madrona Venture Group",
+        "logo_url": "/investor-logos/madrona-venture-group.png"
+      },
+      {
+        "name": "Wellington",
+        "logo_url": "/investor-logos/wellington.png"
+      },
+      {
+        "name": "Sands Capital",
+        "logo_url": "/investor-logos/sands-capital.png"
+      },
+      {
+        "name": "T. Rowe Price",
+        "logo_url": "/investor-logos/t-rowe-price.png"
+      },
+      {
+        "name": "Altimeter Capital",
+        "logo_url": "/investor-logos/altimeter-capital.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Bek Ventures",
+        "logo_url": "/investor-logos/bek-ventures.png"
+      },
+      {
+        "name": "Credo Ventures",
+        "logo_url": "/investor-logos/credo-ventures.png"
+      },
+      {
+        "name": "Seedcamp",
+        "logo_url": "/investor-logos/seedcamp.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-30T16:41:37.804Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$400 million",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[51].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[52].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[53].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[54].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "location_mapping[55].source": "reexpand_overexpanded_phase2_2026_05_08",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-30T16:41:37.804Z",
+    "company_basic_information.website_url_last_updated": "2025-10-30T16:41:37.804Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-30T16:41:37.804Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T16:41:37.804Z",
+    "company_basic_information.last_updated": "2025-10-30",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-30T16:41:37.804Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-02T05:14:38.656Z",
+    "leadership.founders[0].description_last_updated": "2026-02-02T05:21:00.191Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-30T16:41:37.804Z",
+    "leadership.founders[1].description_last_updated": "2026-02-02T05:21:06.037Z",
+    "social_media.x_url_last_verified": "2025-10-30T16:41:37.804Z",
+    "social_media.linkedin_url_last_verified": "2025-10-30T16:41:37.804Z",
+    "social_media.instagram_url_last_verified": "2025-10-30T16:41:37.804Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:55.892Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-31T15:26:33.811Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-30T16:41:37.804Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-30T16:41:37.804Z",
+    "financial_information.investor_logos_last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[0].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[1].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[2].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[3].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[4].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[5].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[6].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[7].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[8].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[9].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[10].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[11].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[12].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[13].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[14].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[15].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[16].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[17].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[18].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[19].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[20].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[21].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[22].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[23].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[24].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[25].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[26].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[27].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[28].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[29].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[30].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[31].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[32].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[33].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[34].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[35].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[36].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[37].last_updated": "2025-10-30T16:41:37.804Z",
+    "location_mapping[51].last_updated": "2026-05-07T19:57:06.380Z",
+    "location_mapping[52].last_updated": "2026-05-07T19:57:06.380Z",
+    "location_mapping[53].last_updated": "2026-05-07T19:57:06.380Z",
+    "location_mapping[54].last_updated": "2026-05-07T20:05:13.598Z",
+    "location_mapping[55].last_updated": "2026-05-07T20:05:13.598Z",
+    "location_mapping[91].last_updated": "2026-09-14T15:25:33.075Z",
+    "location_mapping[92].last_updated": "2026-09-14T15:25:33.374Z",
+    "location_mapping[93].last_updated": "2026-09-14T15:25:39.892Z",
+    "location_mapping[94].last_updated": "2026-09-14T15:25:43.310Z",
+    "location_mapping[95].last_updated": "2026-09-14T15:25:53.771Z",
+    "location_mapping[96].last_updated": "2026-09-14T15:25:54.033Z",
+    "location_mapping[97].last_updated": "2026-09-14T15:25:56.506Z",
+    "location_mapping[98].last_updated": "2026-09-14T15:25:56.773Z",
+    "location_mapping[99].last_updated": "2026-09-14T15:26:06.368Z",
+    "location_mapping[100].last_updated": "2026-09-14T15:26:08.593Z",
+    "location_mapping[101].last_updated": "2026-09-14T15:26:08.976Z",
+    "job_data.roles[0].posted_date": "2026-09-14",
+    "job_data.roles[1].posted_date": "2026-09-14",
+    "job_data.roles[2].posted_date": "2026-09-14",
+    "job_data.roles[3].posted_date": "2026-09-14",
+    "job_data.roles[4].posted_date": "2026-09-14",
+    "job_data.roles[5].posted_date": "2026-09-14",
+    "job_data.roles[6].posted_date": "2026-09-14",
+    "job_data.roles[7].posted_date": "2026-09-14",
+    "job_data.roles[8].posted_date": "2026-09-14",
+    "job_data.roles[9].posted_date": "2026-09-14",
+    "job_data.roles[10].posted_date": "2026-09-14",
+    "job_data.roles[11].posted_date": "2026-09-14",
+    "job_data.roles[12].posted_date": "2026-09-14",
+    "job_data.roles[13].posted_date": "2026-09-14",
+    "job_data.roles[13].title_updated_timestamp": "2026-08-31T11:55:34.746Z",
+    "job_data.roles[14].posted_date": "2026-09-14",
+    "job_data.roles[14].title_updated_timestamp": "2026-08-16T18:54:20.125Z",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.roles[16].posted_date": "2026-09-14",
+    "job_data.roles[17].posted_date": "2026-09-14",
+    "job_data.roles[18].posted_date": "2026-09-14",
+    "job_data.roles[19].posted_date": "2026-09-14",
+    "job_data.roles[20].posted_date": "2026-09-14",
+    "job_data.roles[21].posted_date": "2026-09-14",
+    "job_data.roles[22].posted_date": "2026-09-14",
+    "job_data.roles[23].posted_date": "2026-09-14",
+    "job_data.roles[24].posted_date": "2026-09-14",
+    "job_data.roles[25].posted_date": "2026-09-14",
+    "job_data.roles[26].posted_date": "2026-09-14",
+    "job_data.roles[27].posted_date": "2026-09-14",
+    "job_data.roles[28].posted_date": "2026-09-14",
+    "job_data.roles[29].posted_date": "2026-09-14",
+    "job_data.roles[30].posted_date": "2026-09-14",
+    "job_data.roles[31].posted_date": "2026-09-14",
+    "job_data.roles[32].posted_date": "2026-09-14",
+    "job_data.roles[33].posted_date": "2026-09-14",
+    "job_data.roles[34].posted_date": "2026-09-14",
+    "job_data.roles[35].posted_date": "2026-09-14",
+    "job_data.roles[36].posted_date": "2026-09-14",
+    "job_data.roles[37].posted_date": "2026-09-14",
+    "job_data.roles[38].posted_date": "2026-09-14",
+    "job_data.roles[39].posted_date": "2026-09-14",
+    "job_data.roles[40].posted_date": "2026-09-14",
+    "job_data.roles[41].posted_date": "2026-09-14",
+    "job_data.roles[42].posted_date": "2026-09-14",
+    "job_data.roles[43].posted_date": "2026-09-14",
+    "job_data.roles[44].posted_date": "2026-09-14",
+    "job_data.roles[45].posted_date": "2026-09-14",
+    "job_data.roles[46].posted_date": "2026-09-14",
+    "job_data.roles[47].posted_date": "2026-09-14",
+    "job_data.roles[48].posted_date": "2026-09-14",
+    "job_data.roles[49].posted_date": "2026-09-14",
+    "job_data.roles[50].posted_date": "2026-09-14",
+    "job_data.roles[51].posted_date": "2026-09-14",
+    "job_data.roles[52].posted_date": "2026-09-14",
+    "job_data.roles[53].posted_date": "2026-09-14",
+    "job_data.roles[54].posted_date": "2026-09-14",
+    "job_data.roles[55].posted_date": "2026-09-14",
+    "job_data.roles[56].posted_date": "2026-09-14",
+    "job_data.roles[57].posted_date": "2026-09-14",
+    "job_data.roles[58].posted_date": "2026-09-14",
+    "job_data.roles[59].posted_date": "2026-09-14",
+    "job_data.roles[60].posted_date": "2026-09-14",
+    "job_data.roles[61].posted_date": "2026-09-14",
+    "job_data.roles[62].posted_date": "2026-09-14",
+    "job_data.roles[63].posted_date": "2026-09-14",
+    "job_data.roles[64].posted_date": "2026-09-14",
+    "job_data.roles[65].posted_date": "2026-09-14",
+    "job_data.roles[66].posted_date": "2026-09-14",
+    "job_data.roles[67].posted_date": "2026-09-14",
+    "job_data.roles[68].posted_date": "2026-09-14",
+    "job_data.roles[69].posted_date": "2026-09-14",
+    "job_data.roles[70].posted_date": "2026-09-14",
+    "job_data.roles[71].posted_date": "2026-09-14",
+    "job_data.roles[72].posted_date": "2026-09-14",
+    "job_data.roles[73].posted_date": "2026-09-14",
+    "job_data.roles[74].posted_date": "2026-09-14",
+    "job_data.roles[75].posted_date": "2026-09-14",
+    "job_data.roles[76].posted_date": "2026-09-14",
+    "job_data.roles[77].posted_date": "2026-09-14",
+    "job_data.roles[78].posted_date": "2026-09-14",
+    "job_data.roles[79].posted_date": "2026-09-14",
+    "job_data.roles[80].posted_date": "2026-09-14",
+    "job_data.roles[81].posted_date": "2026-09-14",
+    "job_data.roles[82].posted_date": "2026-09-14",
+    "job_data.roles[83].posted_date": "2026-09-14",
+    "job_data.roles[84].posted_date": "2026-09-14",
+    "job_data.roles[85].posted_date": "2026-09-14",
+    "job_data.roles[86].posted_date": "2026-09-14",
+    "job_data.roles[87].posted_date": "2026-09-14",
+    "job_data.roles[88].posted_date": "2026-09-14",
+    "job_data.roles[89].posted_date": "2026-09-14",
+    "job_data.roles[90].posted_date": "2026-09-14",
+    "job_data.roles[91].posted_date": "2026-09-14",
+    "job_data.roles[92].posted_date": "2026-09-14",
+    "job_data.roles[93].posted_date": "2026-09-14",
+    "job_data.roles[94].posted_date": "2026-09-14",
+    "job_data.roles[95].posted_date": "2026-09-14",
+    "job_data.roles[96].posted_date": "2026-09-14",
+    "job_data.roles[97].posted_date": "2026-09-14",
+    "job_data.roles[98].posted_date": "2026-09-14",
+    "job_data.roles[99].posted_date": "2026-09-14",
+    "job_data.roles[100].posted_date": "2026-09-14",
+    "job_data.roles[101].posted_date": "2026-09-14",
+    "job_data.roles[102].posted_date": "2026-09-14",
+    "job_data.roles[103].posted_date": "2026-09-14",
+    "job_data.roles[104].posted_date": "2026-09-14",
+    "job_data.roles[105].posted_date": "2026-09-14",
+    "job_data.roles[106].posted_date": "2026-09-14",
+    "job_data.roles[107].posted_date": "2026-09-14",
+    "job_data.roles[108].posted_date": "2026-09-14",
+    "job_data.roles[109].posted_date": "2026-09-14",
+    "job_data.roles[110].posted_date": "2026-09-14",
+    "job_data.roles[111].posted_date": "2026-09-14",
+    "job_data.roles[112].posted_date": "2026-09-14",
+    "job_data.roles[113].posted_date": "2026-09-14",
+    "job_data.roles[114].posted_date": "2026-09-14",
+    "job_data.roles[115].posted_date": "2026-09-14",
+    "job_data.roles[116].posted_date": "2026-09-14",
+    "job_data.roles[117].posted_date": "2026-09-14",
+    "job_data.roles[118].posted_date": "2026-09-14",
+    "job_data.roles[119].posted_date": "2026-09-14",
+    "job_data.roles[120].posted_date": "2026-09-14",
+    "job_data.roles[121].posted_date": "2026-09-14",
+    "job_data.roles[122].posted_date": "2026-09-14",
+    "job_data.roles[123].posted_date": "2026-09-14",
+    "job_data.roles[124].posted_date": "2026-09-14",
+    "job_data.roles[125].posted_date": "2026-09-14",
+    "job_data.roles[126].posted_date": "2026-09-14",
+    "job_data.roles[127].posted_date": "2026-09-14",
+    "job_data.roles[128].posted_date": "2026-09-14",
+    "job_data.roles[129].posted_date": "2026-09-14",
+    "job_data.roles[130].posted_date": "2026-09-14",
+    "job_data.roles[131].posted_date": "2026-09-14",
+    "job_data.roles[132].posted_date": "2026-09-14",
+    "job_data.roles[133].posted_date": "2026-09-14",
+    "job_data.roles[134].posted_date": "2026-09-14",
+    "job_data.roles[135].posted_date": "2026-09-14",
+    "job_data.roles[136].posted_date": "2026-09-14",
+    "job_data.roles[137].posted_date": "2026-09-14",
+    "job_data.roles[138].posted_date": "2026-09-14",
+    "job_data.roles[139].posted_date": "2026-09-14",
+    "job_data.roles[140].posted_date": "2026-09-14",
+    "job_data.roles[141].posted_date": "2026-09-14",
+    "job_data.roles[142].posted_date": "2026-09-14",
+    "job_data.roles[143].posted_date": "2026-09-14",
+    "job_data.roles[144].posted_date": "2026-09-14",
+    "job_data.roles[144].title_updated_timestamp": "2026-09-14T15:28:29.462Z",
+    "job_data.roles[145].posted_date": "2026-09-14",
+    "job_data.roles[145].title_updated_timestamp": "2026-09-14T15:28:49.745Z",
+    "job_data.roles[146].posted_date": "2026-09-14",
+    "job_data.roles[146].title_updated_timestamp": "2026-09-14T15:29:18.336Z",
+    "job_data.roles[147].posted_date": "2026-09-14",
+    "job_data.roles[148].posted_date": "2026-09-14",
+    "job_data.roles[149].posted_date": "2026-09-14",
+    "job_data.roles[150].posted_date": "2026-09-14",
+    "job_data.roles[151].posted_date": "2026-09-14",
+    "job_data.roles[152].posted_date": "2026-09-14",
+    "job_data.roles[153].posted_date": "2026-09-14",
+    "job_data.roles[154].posted_date": "2026-09-14",
+    "job_data.roles[155].posted_date": "2026-09-14",
+    "job_data.roles[156].posted_date": "2026-09-14",
+    "job_data.roles[157].posted_date": "2026-09-14",
+    "job_data.roles[158].posted_date": "2026-09-14",
+    "job_data.roles[159].posted_date": "2026-09-14",
+    "job_data.roles[160].posted_date": "2026-09-14",
+    "job_data.roles[161].posted_date": "2026-09-14",
+    "job_data.roles[162].posted_date": "2026-09-14",
+    "job_data.roles[163].posted_date": "2026-09-14",
+    "job_data.roles[164].posted_date": "2026-09-14",
+    "job_data.roles[165].posted_date": "2026-09-14",
+    "job_data.roles[166].posted_date": "2026-09-14",
+    "job_data.roles[167].posted_date": "2026-09-14",
+    "job_data.roles[168].posted_date": "2026-09-14",
+    "job_data.roles[169].posted_date": "2026-09-14",
+    "job_data.roles[170].posted_date": "2026-09-14",
+    "job_data.roles[171].posted_date": "2026-09-14",
+    "job_data.roles[172].posted_date": "2026-09-14",
+    "job_data.roles[173].posted_date": "2026-09-14",
+    "job_data.roles[174].posted_date": "2026-09-14",
+    "job_data.roles[175].posted_date": "2026-09-14",
+    "job_data.roles[176].posted_date": "2026-09-14",
+    "job_data.roles[177].posted_date": "2026-09-14",
+    "job_data.roles[178].posted_date": "2026-09-14",
+    "job_data.roles[179].posted_date": "2026-09-14",
+    "job_data.roles[180].posted_date": "2026-09-14",
+    "job_data.roles[181].posted_date": "2026-09-14",
+    "job_data.roles[182].posted_date": "2026-09-14",
+    "job_data.roles[183].posted_date": "2026-09-14",
+    "job_data.roles[184].posted_date": "2026-09-14",
+    "job_data.roles[185].posted_date": "2026-09-14",
+    "job_data.roles[186].posted_date": "2026-09-14",
+    "job_data.roles[187].posted_date": "2026-09-14",
+    "job_data.roles[188].posted_date": "2026-09-14",
+    "job_data.roles[189].posted_date": "2026-09-14",
+    "job_data.roles[190].posted_date": "2026-09-14",
+    "job_data.roles[191].posted_date": "2026-09-14",
+    "job_data.roles[192].posted_date": "2026-09-14",
+    "job_data.roles[193].posted_date": "2026-09-14",
+    "job_data.roles[194].posted_date": "2026-09-14",
+    "job_data.roles[195].posted_date": "2026-09-14",
+    "job_data.roles[196].posted_date": "2026-09-14",
+    "job_data.roles[197].posted_date": "2026-09-14",
+    "job_data.roles[198].posted_date": "2026-09-14",
+    "job_data.roles[199].posted_date": "2026-09-14",
+    "job_data.roles[200].posted_date": "2026-09-14",
+    "job_data.roles[201].posted_date": "2026-09-14",
+    "job_data.roles[202].posted_date": "2026-09-14",
+    "job_data.roles[203].posted_date": "2026-09-14",
+    "job_data.roles[204].posted_date": "2026-09-14",
+    "job_data.roles[205].posted_date": "2026-09-14",
+    "job_data.roles[206].posted_date": "2026-09-14",
+    "job_data.roles[207].posted_date": "2026-09-14",
+    "job_data.roles[208].posted_date": "2026-09-14",
+    "job_data.roles[209].posted_date": "2026-09-14",
+    "job_data.roles[210].posted_date": "2026-09-14",
+    "job_data.roles[211].posted_date": "2026-09-14",
+    "job_data.roles[212].posted_date": "2026-09-14",
+    "job_data.roles[213].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:44:01.018Z",
+    "benefits.flexible-hours.last_updated": "2026-01-06T13:50:15.207Z",
+    "benefits.remote-work.last_updated": "2026-01-06T13:50:15.207Z"
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "slug": "avoma",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/15355.8d09128e31e85dd3.js",
+  "observed_at": "2026-09-28T08:29:15.344569+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 21741,
+    "sha256": "d3dfb85754066f4cc252ee4e8485df43f3a6eda82019173edc69cf504d7f6784",
+    "elapsed_seconds": 0.143,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:15 GMT",
+      "etag": "\"8310029d9b33e40e216989e81165395d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:21:00 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Avoma",
+    "company_name_legal": "Avoma Inc.",
+    "founded_year": 2017,
+    "website_url": "https://www.avoma.com",
+    "careers_url": "https://careers.kula.ai/avoma",
+    "investor_portfolio_page": null,
+    "id": 99
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 26,
+    "last_updated": "2026-09-24T10:16:16.874Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 26,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Head of Finance & People Ops",
+      "apply_url": "https://careers.kula.ai/avoma/25193",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Webflow Developer",
+      "apply_url": "https://careers.kula.ai/avoma/7517",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Graphic Designer",
+      "apply_url": "https://careers.kula.ai/avoma/13145",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://careers.kula.ai/avoma/17214",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr. Product Marketing Manager",
+      "apply_url": "https://careers.kula.ai/avoma/18428",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Motion Graphics Designer - Product & Brand",
+      "apply_url": "https://careers.kula.ai/avoma/24199",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Director of Product Marketing",
+      "apply_url": "https://careers.kula.ai/avoma/50024",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://careers.kula.ai/avoma/2936",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Account Executive - SMB",
+      "apply_url": "https://careers.kula.ai/avoma/4353",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Mid-Market Account Executive",
+      "apply_url": "https://careers.kula.ai/avoma/9984",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://careers.kula.ai/avoma/1912",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Success Manager",
+      "apply_url": "https://careers.kula.ai/avoma/13484",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Success Associate",
+      "apply_url": "https://careers.kula.ai/avoma/17217",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr. Customer Success Manager",
+      "apply_url": "https://careers.kula.ai/avoma/24899",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Sr. Customer Success Manager",
+      "apply_url": "https://careers.kula.ai/avoma/29647",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer - Frontend",
+      "apply_url": "https://careers.kula.ai/avoma/3146",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer - Frontend",
+      "apply_url": "https://careers.kula.ai/avoma/3518",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "ML Engineer - NLP",
+      "apply_url": "https://careers.kula.ai/avoma/3520",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer- Backend",
+      "apply_url": "https://careers.kula.ai/avoma/3521",
+      "location_ids": [
+        "san_jose_office",
+        "san_francisco_office"
+      ],
+      "location_display": "San Jose, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior UI Designer (Platform)",
+      "apply_url": "https://careers.kula.ai/avoma/5651",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Product Designer",
+      "apply_url": "https://careers.kula.ai/avoma/9856",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Lead Backend Engineer",
+      "apply_url": "https://careers.kula.ai/avoma/12238",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior ML Engineer",
+      "apply_url": "https://careers.kula.ai/avoma/13624",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Software Engineer - Backend",
+      "apply_url": "https://careers.kula.ai/avoma/20417",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Lead Frontend Engineer",
+      "apply_url": "https://careers.kula.ai/avoma/20881",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Software Engineer SDE 1",
+      "apply_url": "https://careers.kula.ai/avoma/25373",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.787813,
+      "longitude": -84.388393,
+      "exact_address": "1180 W Peachtree St NW, Suite 2400, Atlanta, Georgia, United States - 30309",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.268635,
+      "longitude": -97.740364,
+      "exact_address": "701 Brazos Street, Suite 500, Austin, Texas, United States - 78701",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.347304,
+      "longitude": -71.082142,
+      "exact_address": "800 Boylston St, Suite 1410, Boston, Massachusetts, United States - 02199",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.738228,
+      "longitude": -73.987507,
+      "exact_address": "228 Park Ave S, Suite 73706, New York, NY 10003-1502",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.43065,
+      "longitude": -122.09934,
+      "exact_address": "927 Industrial Avenue, Palo Alto, California, United States - 94303",
+      "departments": [
+        "engineering",
+        "ai",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": "60+"
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "design",
+        "marketing",
+        "sales",
+        "product",
+        "customer-success",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_jose_office",
+      "city": "San Jose",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3382,
+      "longitude": -121.8863,
+      "exact_address": "San Jose, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "sales",
+        "ai"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-11-11T08:01:44.035Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-11T08:01:44.035Z",
+    "total_funding_raised": "$15 million",
+    "total_funding_raised_last_updated": "2025-11-11T08:01:44.035Z",
+    "key_investors": [
+      {
+        "name": "Headline",
+        "domain": "headline.com"
+      },
+      {
+        "name": "Storm Ventures",
+        "domain": "stormventures.com"
+      },
+      {
+        "name": "Global Founders Capital",
+        "domain": "globalfounderscapital.com"
+      },
+      {
+        "name": "Zoom Apps Fund",
+        "domain": "zoom.com"
+      },
+      {
+        "name": "Operator Partners",
+        "domain": "operatorpartners.com"
+      },
+      {
+        "name": "Industry Ventures",
+        "domain": "industryventures.com"
+      },
+      {
+        "name": "K9 Ventures",
+        "domain": "k9ventures.com"
+      },
+      {
+        "name": "Dragon Capital",
+        "domain": "dragoncapital.com"
+      },
+      {
+        "name": "Twin Ventures",
+        "domain": "twinventures.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Headline",
+        "logo_url": "/investor-logos/headline.png"
+      },
+      {
+        "name": "Storm Ventures",
+        "logo_url": "/investor-logos/storm-ventures.png"
+      },
+      {
+        "name": "Global Founders Capital",
+        "logo_url": "/investor-logos/global-founders-capital.png"
+      },
+      {
+        "name": "Zoom Apps Fund",
+        "logo_url": "/investor-logos/zoom-apps-fund.png"
+      },
+      {
+        "name": "Operator Partners",
+        "logo_url": "/investor-logos/operator-partners.png"
+      },
+      {
+        "name": "Industry Ventures",
+        "logo_url": "/investor-logos/industry-ventures.png"
+      },
+      {
+        "name": "K9 Ventures",
+        "logo_url": "/investor-logos/k9-ventures.png"
+      },
+      {
+        "name": "Dragon Capital",
+        "logo_url": "/investor-logos/dragon-capital.png"
+      },
+      {
+        "name": "Twin Ventures",
+        "logo_url": "/investor-logos/twin-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-11T08:01:44.035Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "remote-work",
+    "privilege-leave",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-11T08:01:44.035Z",
+    "company_basic_information.website_url_last_updated": "2025-11-11T08:01:44.035Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-11T08:01:44.035Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-11T08:01:44.035Z",
+    "company_basic_information.last_updated": "2025-11-11",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-02T05:18:54.396Z",
+    "leadership.founders[0].description_last_updated": "2026-02-02T05:23:12.728Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-02T05:19:05.145Z",
+    "leadership.founders[1].description_last_updated": "2026-02-02T05:23:17.772Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-02T05:19:16.089Z",
+    "leadership.founders[2].description_last_updated": "2026-02-02T05:23:22.907Z",
+    "social_media.x_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "social_media.linkedin_url_last_verified": "2025-11-11T08:01:44.035Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:40.387Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-11-11T08:01:44.035Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-11T08:01:44.035Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-11T08:01:44.035Z",
+    "financial_information.investor_logos_last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[0].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[1].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[2].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[3].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[4].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[5].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[6].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[7].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[8].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[9].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[10].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[11].last_updated": "2025-11-11T08:01:44.035Z",
+    "location_mapping[12].last_updated": "2025-11-11T08:01:44.035Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:16:16.874Z",
+    "benefits.flexible-hours.last_updated": "2026-01-06T18:44:00.711Z",
+    "benefits.remote-work.last_updated": "2026-01-06T18:44:00.711Z",
+    "benefits.privilege-leave.last_updated": "2026-01-06T18:44:00.711Z",
+    "benefits.equity-stock.last_updated": "2026-01-06T18:44:00.711Z"
+  }
+}

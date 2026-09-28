@@ -1,0 +1,952 @@
+{
+  "slug": "tamara",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/17389.2e081254729f5b3a.js",
+  "observed_at": "2026-09-28T08:37:15.404690+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23729,
+    "sha256": "b975b4c9ce4367e83d5707341d1ee316974f4c252391dfba793acc46f91a14f2",
+    "elapsed_seconds": 0.205,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:15 GMT",
+      "etag": "\"85138c7d2367b319ded4f5685fb84472\"",
+      "last-modified": "Mon, 28 Sep 2026 08:14:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Tamara",
+    "company_name_legal": "Tamara Company",
+    "founded_year": 2020,
+    "website_url": "https://tamara.co",
+    "careers_url": "https://job-boards.eu.greenhouse.io/tamara",
+    "investor_portfolio_page": null,
+    "id": 92
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 32,
+    "last_updated": "2026-09-24T10:09:22.756Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 32,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Customer Care Advisor (Non-voice)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4819453101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Care Advisor (Voice)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4726623101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Care Manager - UAE",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4920917101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Public Engagement Lead",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4962179101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "consulting",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Quality Lead",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4753504101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Real-Time Analyst (RTA)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4951395101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Real-Time Analyst (RTA)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4951622101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo. Egypt",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "UAE Customer Care Advisor (Voice)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4604220101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "New Cairo, Egypt",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Collections Advisor",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4901328101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Accountant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4969403101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Associate Accountant - Builders Program - (Emirati National)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849511101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Fraud Investigator",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4897236101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "security",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Associate Data Analyst (Emirati National)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849500101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Associate Data Scientist - Builders Program - (Emirati National)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849506101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Engineering Manager - II",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4708325101",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Engineer II - QA",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4822298101",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "remote",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "INR",
+        "min": 800000,
+        "max": 1600000,
+        "period": "year",
+        "display": "₹8–16 LPA",
+        "confidence": "medium",
+        "reason": "Based on 2026 data for QA Engineering roles in India, specifically for remote positions in tech companies, here is the projected compensation information for a Product Engineer II - QA (mid-level role) in India for 2026:\nMid-Level QA Engine",
+        "citations": [
+          "https://www.levels.fyi/t/software-engineer/title/quality-assurance-(qa)-software-engineer/locations/india",
+          "https://omnivoo.com/blog/qa-engineer-salary-india-2026",
+          "https://www.levels.fyi/companies/tamara/salaries/software-engineer",
+          "https://plane.com/salaries/qa-engineer/india",
+          "https://www.ambitionbox.com/salaries/tamara-salaries",
+          "https://www.ambitionbox.com/salaries/tamara-salaries/bengaluru-location"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-06-30T09:33:12.306Z"
+      },
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Product Engineer II - Web",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4680072101",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "CRM Specialist",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4914300101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "People Operations Associate",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4917571101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "AML Transaction Monitoring Ops - Builders Program - (Emirati National)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849504101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Compliance Associate - Builders Program - (Emirati National)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849508101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Head of Anti-Money Laundering (AML) - Saudi National",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4964015101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Money Laundering Reporting Officer",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4942167101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Manager - Credit Risk Management",
+      "title_original": "Senior Manager - Credit",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-06-14T19:35:05.783Z",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4888258101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Manager - Credit involve managing credit risk, developing risk strategies, and ensuring compliance with financial regulations, all of which are core functions of the finance department. The role requires expertise in credit risk management and financial analysis, further solidifying its classification under finance."
+    },
+    {
+      "title": "Dispute Operations Specialist",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4977400101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "UAE Partner Care Advisor (Non-voice)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4801355101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "UAE Partner Care Advisor (Voice)",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4801999101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Customer Care - Trainer",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4979581101",
+      "location_ids": [
+        "cairo_office"
+      ],
+      "location_display": "Cairo, Egypt",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Merchant Acquisition Specialist",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4975185101",
+      "location_ids": [
+        "dammam_office",
+        "riyadh_office",
+        "jeddah_office"
+      ],
+      "location_display": "Dammam, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Data Analyst II - Credit",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4630959101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "Senior Data Analyst - Credit",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4949276101",
+      "location_ids": [
+        "riyadh_office",
+        "jeddah_office",
+        "dammam_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia / Remote, Saudi Arabia",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-24"
+    },
+    {
+      "title": "People Operations Excellence Specialist",
+      "apply_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4921108101",
+      "location_ids": [
+        "dubai_office"
+      ],
+      "location_display": "Dubai, UAE",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.993708,
+      "longitude": 77.573463,
+      "exact_address": "No.34, 1st Block, 5th Cross, Kumarapark West, Bangalore, Karnataka, India - 560020",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "cairo_office",
+      "city": "Cairo",
+      "state": "Cairo Governorate",
+      "country": "Egypt",
+      "latitude": 29.962991,
+      "longitude": 31.287244,
+      "exact_address": "7 8/d/5 Al Lasilki St, New Ma'adi, Cairo, Cairo, Egypt",
+      "departments": [
+        "other",
+        "design",
+        "operations"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0115,
+      "longitude": 80.2206,
+      "exact_address": "C-45, Thiru Vi Ka Industrial Estate, Guindy, Chennai, Tamil Nadu, India - 600032",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.641293,
+      "longitude": 77.070137,
+      "exact_address": "B-11, Shankar Garden, Vikaspuri, New Delhi, Delhi, India - 110018",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.225473,
+      "longitude": 55.285156,
+      "exact_address": "Level 9, The Offices 4, One Central, 1st Sheikh Zayed Road, Dubai World Trade Center Free Zone, Dubai, United Arab Emirates",
+      "departments": [
+        "marketing",
+        "other",
+        "operations",
+        "product",
+        "data",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.4845,
+      "longitude": 78.5527,
+      "exact_address": "6-3-163, Hasthinapuri, Sainikpuri, Tirumalagiri, Hyderabad, Telangana, India - 500094",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.9295,
+      "longitude": 72.8215,
+      "exact_address": "161, Maker Chambers IV, 15th Floor, Nariman Point, Mumbai, Maharashtra, India - 400021",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "country": "Saudi Arabia",
+      "latitude": 24.698324,
+      "longitude": 46.684697,
+      "exact_address": "King Abdullah Branch Road, King Salman Dist., Building No. 2907, Riyadh, Kingdom of Saudi Arabia - 12444",
+      "departments": [
+        "data",
+        "design",
+        "other",
+        "operations",
+        "legal",
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "300+"
+    },
+    {
+      "location_id": "new_cairo_office",
+      "city": "New Cairo",
+      "state": "Cairo Governorate",
+      "country": "Egypt",
+      "latitude": 30.0275,
+      "longitude": 31.4916,
+      "exact_address": "Ring Rd., Inside Cairo Festival City Mall, New Cairo, Cairo, Egypt - 11835",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "egypt_office",
+      "city": "Giza",
+      "state": "Giza",
+      "country": "Egypt",
+      "latitude": 29.9506,
+      "longitude": 30.9177,
+      "exact_address": "3rd Industrial Zone, Plot No.180, 6th of October City, Giza, Egypt",
+      "departments": [
+        "other",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "alexandria_office",
+      "city": "Alexandria",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "exact_address": "Alexandria, Egypt",
+      "departments": [
+        "customer-success",
+        "operations",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dammam_office",
+      "city": "Dammam",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "exact_address": "Dammam, Saudi Arabia",
+      "departments": [
+        "product",
+        "customer-support",
+        "customer-success",
+        "operations",
+        "marketing",
+        "data",
+        "engineering",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jeddah_office",
+      "city": "Jeddah",
+      "state": null,
+      "country": "Saudi Arabia",
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "exact_address": "Jeddah, Saudi Arabia",
+      "departments": [
+        "product",
+        "customer-support",
+        "customer-success",
+        "operations",
+        "marketing",
+        "data",
+        "engineering",
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sharjah_office",
+      "city": "Sharjah",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "exact_address": "Sharjah, United Arab Emirates",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2025-11-08T18:38:47.843Z",
+    "current_valuation_usd": "$1 billion",
+    "current_valuation_usd_last_updated": "2025-11-08T18:38:47.843Z",
+    "total_funding_raised": "$366 million",
+    "total_funding_raised_last_updated": "2025-11-08T18:38:47.843Z",
+    "key_investors": [
+      {
+        "name": "Sanabil Investments",
+        "domain": "sanabil.com"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      },
+      {
+        "name": "Shorooq Partners",
+        "domain": "shorooq.com"
+      },
+      {
+        "name": "Endeavor Catalyst",
+        "domain": "endeavor.org"
+      },
+      {
+        "name": "Checkout.com",
+        "domain": "checkout.com"
+      },
+      {
+        "name": "PIF (Public Investment Fund)",
+        "domain": "pif.gov.sa"
+      },
+      {
+        "name": "PruVen Capital",
+        "domain": "pruvencapital.com"
+      },
+      {
+        "name": "Abdul Latif Jameel",
+        "domain": "alj.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sanabil Investments",
+        "logo_url": "/investor-logos/sanabil-investments.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      },
+      {
+        "name": "Shorooq Partners",
+        "logo_url": "/investor-logos/shorooq-partners.png"
+      },
+      {
+        "name": "Endeavor Catalyst",
+        "logo_url": "/investor-logos/endeavor-catalyst.png"
+      },
+      {
+        "name": "Checkout.com",
+        "logo_url": "/investor-logos/checkoutcom.png"
+      },
+      {
+        "name": "PIF (Public Investment Fund)",
+        "logo_url": "/investor-logos/pif-public-investment-fund.png"
+      },
+      {
+        "name": "PruVen Capital",
+        "logo_url": "/investor-logos/pruven-capital.png"
+      },
+      {
+        "name": "Abdul Latif Jameel",
+        "logo_url": "/investor-logos/abdul-latif-jameel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-08T18:38:47.843Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.roles[15].salary_estimated.citations": [
+      "https://www.levels.fyi/t/software-engineer/title/quality-assurance-(qa)-software-engineer/locations/india",
+      "https://omnivoo.com/blog/qa-engineer-salary-india-2026",
+      "https://www.levels.fyi/companies/tamara/salaries/software-engineer",
+      "https://plane.com/salaries/qa-engineer/india",
+      "https://www.ambitionbox.com/salaries/tamara-salaries",
+      "https://www.ambitionbox.com/salaries/tamara-salaries/bengaluru-location"
+    ],
+    "job_data.roles[15].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-08T18:38:47.843Z",
+    "company_basic_information.website_url_last_updated": "2025-11-08T18:38:47.843Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-08T18:38:47.843Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-08T18:38:47.843Z",
+    "company_basic_information.last_updated": "2025-11-08",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-02T05:15:56.941Z",
+    "leadership.founders[0].description_last_updated": "2026-02-02T05:21:50.324Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-02T05:16:08.132Z",
+    "leadership.founders[1].description_last_updated": "2026-02-02T05:21:55.567Z",
+    "social_media.x_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "social_media.linkedin_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "social_media.instagram_url_last_verified": "2025-11-08T18:38:47.843Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:43.885Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-11-08T18:38:47.843Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-08T18:38:47.843Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-08T18:38:47.843Z",
+    "financial_information.investor_logos_last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[0].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[1].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[2].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[3].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[4].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[5].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[6].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[7].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[8].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[9].last_updated": "2025-11-08T18:38:47.843Z",
+    "location_mapping[10].last_updated": "2025-11-08T18:38:47.843Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.roles[1].posted_date": "2026-09-24",
+    "job_data.roles[2].posted_date": "2026-09-24",
+    "job_data.roles[3].posted_date": "2026-09-24",
+    "job_data.roles[4].posted_date": "2026-09-24",
+    "job_data.roles[5].posted_date": "2026-09-24",
+    "job_data.roles[6].posted_date": "2026-09-24",
+    "job_data.roles[7].posted_date": "2026-09-24",
+    "job_data.roles[8].posted_date": "2026-09-24",
+    "job_data.roles[9].posted_date": "2026-09-24",
+    "job_data.roles[10].posted_date": "2026-09-24",
+    "job_data.roles[11].posted_date": "2026-09-24",
+    "job_data.roles[12].posted_date": "2026-09-24",
+    "job_data.roles[13].posted_date": "2026-09-24",
+    "job_data.roles[14].posted_date": "2026-09-24",
+    "job_data.roles[15].posted_date": "2026-09-24",
+    "job_data.roles[15].salary_estimated.fetched_at": "2026-06-30T09:33:12.306Z",
+    "job_data.roles[16].posted_date": "2026-09-24",
+    "job_data.roles[17].posted_date": "2026-09-24",
+    "job_data.roles[18].posted_date": "2026-09-24",
+    "job_data.roles[19].posted_date": "2026-09-24",
+    "job_data.roles[20].posted_date": "2026-09-24",
+    "job_data.roles[21].posted_date": "2026-09-24",
+    "job_data.roles[22].posted_date": "2026-09-24",
+    "job_data.roles[23].posted_date": "2026-09-24",
+    "job_data.roles[23].title_updated_timestamp": "2026-06-14T19:35:05.783Z",
+    "job_data.roles[24].posted_date": "2026-09-24",
+    "job_data.roles[25].posted_date": "2026-09-24",
+    "job_data.roles[26].posted_date": "2026-09-24",
+    "job_data.roles[27].posted_date": "2026-09-24",
+    "job_data.roles[28].posted_date": "2026-09-24",
+    "job_data.roles[29].posted_date": "2026-09-24",
+    "job_data.roles[30].posted_date": "2026-09-24",
+    "job_data.roles[31].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:09:22.756Z"
+  }
+}

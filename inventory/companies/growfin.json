@@ -1,0 +1,193 @@
+{
+  "slug": "growfin",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/29379.c962299c7c71a17a.js",
+  "observed_at": "2026-09-28T08:32:24.030117+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 13411,
+    "sha256": "636635af38b82a1869d65646f2ae4e13bd2d3567f9c2351d1bf44303fbd16cf7",
+    "elapsed_seconds": 0.456,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:24 GMT",
+      "etag": "\"a94a0bd78b34f677e7b7b8f9e19093c7\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:24 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Growfin",
+    "company_name_legal": "Growfin",
+    "founded_year": 2020,
+    "website_url": "https://www.growfin.ai",
+    "careers_url": "https://careers.kula.ai/growfin",
+    "investor_portfolio_page": null,
+    "id": 46
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-24T10:18:41.034Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Implementation Consultant",
+      "apply_url": "https://careers.kula.ai/growfin/12532",
+      "location_ids": [
+        "chennai_office",
+        "chennai_office"
+      ],
+      "location_display": "Chennai, India / Tamil Nadu, India",
+      "role_department": "consulting",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-24"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.1137,
+      "longitude": 80.17,
+      "exact_address": "No 20, AP Athulya Flats, S2, Samdarya Nagar, 2nd Street, Ambattur, Chennai, Tamil Nadu, India - 600053",
+      "departments": [
+        "product",
+        "engineering",
+        "marketing",
+        "customer-success",
+        "finance",
+        "consulting"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-12-09T20:56:34.824Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-12-09T20:56:34.824Z",
+    "total_funding_raised": "$9 million",
+    "total_funding_raised_last_updated": "2025-12-09T20:56:34.824Z",
+    "key_investors": [
+      {
+        "name": "SWC",
+        "domain": "swcglobal.com"
+      },
+      {
+        "name": "3one4 Capital",
+        "domain": "3one4capital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "SWC",
+        "logo_url": "/investor-logos/swc.png"
+      },
+      {
+        "name": "3one4 Capital",
+        "logo_url": "/investor-logos/3one4.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-09T20:56:34.824Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$400,000",
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-09T20:56:34.824Z",
+    "company_basic_information.website_url_last_updated": "2025-12-09T20:56:34.824Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-09T20:56:34.824Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-09T20:56:34.824Z",
+    "company_basic_information.last_updated": "2025-12-09",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-12-10T12:36:23.782Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-10T12:36:45.530Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-29T08:26:32.826Z",
+    "leadership.founders[0].description_last_updated": "2026-01-29T08:33:42.171Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-10T12:47:16.566Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-10T12:47:11.519Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-29T08:26:40.751Z",
+    "leadership.founders[1].description_last_updated": "2026-01-29T08:33:47.573Z",
+    "social_media.x_url_last_verified": "2025-12-10T12:37:50.530Z",
+    "social_media.linkedin_url_last_verified": "2025-12-10T12:47:49.669Z",
+    "social_media.instagram_url_last_verified": "2025-12-10T12:48:01.528Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:17.212Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-12-09T20:56:34.824Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-09T20:56:34.824Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-09T20:56:34.824Z",
+    "financial_information.investor_logos_last_updated": "2025-12-09T20:56:34.824Z",
+    "location_mapping[0].last_updated": "2025-12-09T20:56:34.824Z",
+    "job_data.roles[0].posted_date": "2026-09-24",
+    "job_data.last_updated": "2026-09-24T10:18:41.034Z"
+  }
+}

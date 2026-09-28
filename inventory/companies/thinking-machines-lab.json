@@ -1,0 +1,845 @@
+{
+  "slug": "thinking-machines-lab",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/78355.4836f633c78b972a.js",
+  "observed_at": "2026-09-28T08:37:30.682789+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 33720,
+    "sha256": "6dcf98ef418a5e6c46a7d64f762550be1b1a18c05d07be80a86ba21abcdc7a98",
+    "elapsed_seconds": 0.166,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:30 GMT",
+      "etag": "\"d0114748a50931531de5a5ab4f0d8a69\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Thinking Machines Lab",
+    "company_name_legal": "Thinking Machines Lab Inc.",
+    "founded_year": 2025,
+    "website_url": "https://thinkingmachines.ai",
+    "careers_url": "https://jobs.ashbyhq.com/ThinkingMachines",
+    "investor_portfolio_page": null,
+    "id": 424
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 38,
+    "last_updated": "2026-09-14T13:28:47.683Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 38,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Endpoint Engineer, IT",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/b6286930-aba7-4a52-b298-53f948cd9ce8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "b6286930-aba7-4a52-b298-53f948cd9ce8"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/1161c2d5-17a1-41cb-a2c8-5558d5e42acb",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "1161c2d5-17a1-41cb-a2c8-5558d5e42acb"
+    },
+    {
+      "title": "Executive Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/740ab75b-954c-46fe-9ffa-2d9ede9c135a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "740ab75b-954c-46fe-9ffa-2d9ede9c135a"
+    },
+    {
+      "title": "Governance, Risk and Compliance Lead",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/162cac0f-7861-413f-8ffb-2df1823be067",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "162cac0f-7861-413f-8ffb-2df1823be067"
+    },
+    {
+      "title": "HR Business Partner",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/a3e5a969-33cc-44d6-932a-a8bc7c505eef",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "a3e5a969-33cc-44d6-932a-a8bc7c505eef"
+    },
+    {
+      "title": "Infrastructure Engineer, Security",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/14bef671-162c-4513-bfcf-e679e41e10a8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "14bef671-162c-4513-bfcf-e679e41e10a8"
+    },
+    {
+      "title": "IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/8d60e5f3-222d-4f64-b640-24f40e1ab563",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "8d60e5f3-222d-4f64-b640-24f40e1ab563"
+    },
+    {
+      "title": "Network Engineer, Supercomputing",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/2c38437e-cdab-422c-9491-faaa02a3718b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "2c38437e-cdab-422c-9491-faaa02a3718b"
+    },
+    {
+      "title": "Reliability Engineer, Supercomputing",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/8023baca-61b5-4f7d-b145-b96881754366",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "8023baca-61b5-4f7d-b145-b96881754366"
+    },
+    {
+      "title": "Research, Audio Expertise",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/24f4c1e0-12bc-4f6c-ae7a-637ecd6bd56c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "24f4c1e0-12bc-4f6c-ae7a-637ecd6bd56c"
+    },
+    {
+      "title": "Research Engineer, Infrastructure, Inference",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/4087e0f6-4295-419a-ba02-08e95a74ceea",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "4087e0f6-4295-419a-ba02-08e95a74ceea"
+    },
+    {
+      "title": "Research Engineer, Infrastructure, Kernels",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/2d7a9e99-836a-475b-9ae3-b6b1df8baa6d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "2d7a9e99-836a-475b-9ae3-b6b1df8baa6d"
+    },
+    {
+      "title": "Research Engineer, Infrastructure, Numerics",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/93855db2-9a80-421d-9e80-ace9eca24650",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "93855db2-9a80-421d-9e80-ace9eca24650"
+    },
+    {
+      "title": "Research Engineer, Infrastructure, Training Systems",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/9dabecde-1bdb-47c6-b943-ff7b0526657c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "9dabecde-1bdb-47c6-b943-ff7b0526657c"
+    },
+    {
+      "title": "Research, Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/3efb6896-4840-4f90-8798-2ce49fa146e5",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "3efb6896-4840-4f90-8798-2ce49fa146e5"
+    },
+    {
+      "title": "Research, Pre-Training Data",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "27ec4240-9f70-4ebe-abc0-a7336358a9a4"
+    },
+    {
+      "title": "Research Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "079f3334-43ae-4ee7-9671-1dbad75dd8df"
+    },
+    {
+      "title": "Research, Vision Expertise",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4"
+    },
+    {
+      "title": "Safety Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "9d1124f7-7f78-4e8d-a033-568c315826eb"
+    },
+    {
+      "title": "Site Reliability Engineer (SRE)",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "c4cddfec-33de-4f67-9801-1308c2151952"
+    },
+    {
+      "title": "Software Engineer, Developer Productivity, AI Tools",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/922c3777-64d1-468e-bb9b-aa68f3fec823",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "922c3777-64d1-468e-bb9b-aa68f3fec823"
+    },
+    {
+      "title": "Software Engineer, Security",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/7c8b01f8-8542-4cb4-9701-5578960cda3b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "7c8b01f8-8542-4cb4-9701-5578960cda3b"
+    },
+    {
+      "title": "Software Engineer, Supercomputing",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/0046b97e-6b8d-4dde-8d11-37aed910151a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "0046b97e-6b8d-4dde-8d11-37aed910151a"
+    },
+    {
+      "title": "Software Engineer, Systems Generalist",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/61e7846c-afc3-41a1-93f5-37642f6a72a6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "61e7846c-afc3-41a1-93f5-37642f6a72a6"
+    },
+    {
+      "title": "Technical Sourcer",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-17",
+      "ashby_job_id": "0b0b63c8-79b6-4901-9861-4a7f98370d30"
+    },
+    {
+      "title": "Data Operations",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/28e2d71f-dabd-4745-9903-9b363979f0aa",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "28e2d71f-dabd-4745-9903-9b363979f0aa"
+    },
+    {
+      "title": "ML Infrastructure Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "a9469410-04c7-4e6a-b8b4-64c15933a2bf"
+    },
+    {
+      "title": "Research,  Coding Agents",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/71c91050-688e-45e9-b98e-891b82d693e8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "71c91050-688e-45e9-b98e-891b82d693e8"
+    },
+    {
+      "title": "Research, General Agents",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/885f32cc-5b1c-465c-af5a-e88634065bc6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "885f32cc-5b1c-465c-af5a-e88634065bc6"
+    },
+    {
+      "title": "Research, Post-Training Evals",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "602f2a99-34eb-4fde-9eec-b4945ee4aab6"
+    },
+    {
+      "title": "Research, RL Scaling",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "0871bc29-7ca0-4906-a674-7b32527617ab"
+    },
+    {
+      "title": "Research, Safety",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "01aba71c-b55f-4df5-b803-dc545e6a9434"
+    },
+    {
+      "title": "Software Engineer, AI Products",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "98aeba6f-1579-4e2f-9c00-5dd4a483f3b2"
+    },
+    {
+      "title": "Software Engineer, Evaluation Platform / Infra",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/9d863c78-80c0-44cd-a574-d1330e125398",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "9d863c78-80c0-44cd-a574-d1330e125398"
+    },
+    {
+      "title": "Software Engineer, Research Tools",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "72fe46e4-a772-4ebb-a413-53e4f1a8273e"
+    },
+    {
+      "title": "Software Engineer, Sandboxing",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/6afeaa7a-8674-4e32-9364-fb14cc28e79a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6afeaa7a-8674-4e32-9364-fb14cc28e79a"
+    },
+    {
+      "title": "Product Manager - Post Training",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/1b503b26-dd56-4496-8f74-2c8abb3b7e4b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "1b503b26-dd56-4496-8f74-2c8abb3b7e4b"
+    },
+    {
+      "title": "Research Software Engineer, Post Training",
+      "apply_url": "https://jobs.ashbyhq.com/ThinkingMachines/4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "4d51cb65-5e5b-42d2-8c28-7073b8574e4b"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7599,
+      "longitude": -122.4106,
+      "exact_address": "2300 Harrison St, San Francisco, California, United States - 94103",
+      "departments": [],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "administration",
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 6,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2026-08-17T10:56:28.986Z",
+    "current_valuation_usd": "$12B",
+    "current_valuation_usd_last_updated": "2026-08-17T10:56:28.986Z",
+    "total_funding_raised": "$2.01B",
+    "total_funding_raised_last_updated": "2026-08-17T10:56:28.986Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Nvidia",
+        "domain": "nvidia.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "ServiceNow Ventures",
+        "domain": "servicenow.com"
+      },
+      {
+        "name": "Cisco Investments",
+        "domain": "cisco.com"
+      },
+      {
+        "name": "AMD",
+        "domain": "amd.com"
+      },
+      {
+        "name": "Jane Street",
+        "domain": "janestreet.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Nvidia",
+        "logo_url": "/investor-logos/nvidia.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "ServiceNow Ventures",
+        "logo_url": "/investor-logos/servicenow-ventures.png"
+      },
+      {
+        "name": "Cisco Investments",
+        "logo_url": "/investor-logos/cisco-investments.png"
+      },
+      {
+        "name": "AMD",
+        "logo_url": "/investor-logos/amd.png"
+      },
+      {
+        "name": "Jane Street",
+        "logo_url": "/investor-logos/jane-street.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-17T11:30:00.000Z",
+    "key_investors_source": "Calcalist/press coverage of the $2B Series (seed) round closed July 2026, led by Andreessen Horowitz with Nvidia, Accel, ServiceNow, Cisco, AMD, and Jane Street participating -- added 2026-08-17, was empty on scrape",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[2].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[3].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[4].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[4].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[4].image_source": "linkedin_profile",
+    "leadership.founders[4].description_source": "perplexity-sonar-pro",
+    "leadership.founders[5].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[5].image_source": "linkedin_profile",
+    "leadership.founders[5].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "direct_navigation",
+    "social_media.linkedin_url_verified_by": "direct_navigation",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "financial_information.key_investors_source": "Calcalist/press coverage of the $2B Series (seed) round closed July 2026, led by Andreessen Horowitz with Nvidia, Accel, ServiceNow, Cisco, AMD, and Jane Street participating -- added 2026-08-17, was empty on scrape",
+    "location_mapping[0].location_source": "manual_research",
+    "location_mapping[0].location_source_query": "Thinking Machines Lab headquarters -- job crawl failed (crawl_status: failed, 0 roles), so no job-derived location signal was available. Confirmed real HQ via independent commercial real estate press coverage (Traded.co): 72,500 sq ft lease at 2300 Harrison St, Mission District, San Francisco. Added as the company's sole known office since no job data exists to infer departments from.",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-17T10:56:28.986Z",
+    "company_basic_information.website_url_last_updated": "2026-08-17T10:56:28.986Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-17T10:56:28.986Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-17T10:56:28.986Z",
+    "company_basic_information.last_updated": "2026-08-17",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-17",
+    "leadership.founders[0].description_last_updated": "2026-08-17T11:46:50.021Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-08-17",
+    "leadership.founders[1].description_last_updated": "2026-08-17T11:46:58.374Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-08-17",
+    "leadership.founders[2].x_twitter_last_verified": "2026-08-17",
+    "leadership.founders[2].image_url_last_updated": "2026-08-17T11:45:40.924Z",
+    "leadership.founders[2].description_last_updated": "2026-08-17T11:47:05.840Z",
+    "leadership.founders[3].linkedin_last_verified": "2026-08-17",
+    "leadership.founders[3].x_twitter_last_verified": "2026-08-17",
+    "leadership.founders[3].image_url_last_updated": "2026-08-17T11:46:01.175Z",
+    "leadership.founders[3].description_last_updated": "2026-08-17T11:47:15.918Z",
+    "leadership.founders[4].linkedin_last_verified": "2026-08-17",
+    "leadership.founders[4].x_twitter_last_verified": "2026-08-17",
+    "leadership.founders[4].image_url_last_updated": "2026-08-17T11:46:19.967Z",
+    "leadership.founders[4].description_last_updated": "2026-08-17T11:47:23.094Z",
+    "leadership.founders[5].linkedin_last_verified": "2026-08-17",
+    "leadership.founders[5].image_url_last_updated": "2026-08-17T11:46:39.115Z",
+    "leadership.founders[5].description_last_updated": "2026-08-17T11:47:33.357Z",
+    "social_media.x_url_last_updated": "2026-08-17T10:56:28.986Z",
+    "social_media.x_url_last_verified": "2026-08-17",
+    "social_media.linkedin_url_last_updated": "2026-08-17T10:56:28.986Z",
+    "social_media.linkedin_url_last_verified": "2026-08-17",
+    "social_media.instagram_url_last_updated": "2026-08-17T10:56:28.986Z",
+    "business_details.industry_domains_last_updated": "2026-08-17",
+    "financial_information.funding_stage_last_updated": "2026-08-17T10:56:28.986Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-17T10:56:28.986Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-17T10:56:28.986Z",
+    "financial_information.investor_logos_last_updated": "2026-08-17T11:30:00.000Z",
+    "location_mapping[0].last_updated": "2026-08-17T11:30:00.000Z",
+    "job_data.roles[0].posted_date": "2026-08-17",
+    "job_data.roles[1].posted_date": "2026-08-17",
+    "job_data.roles[2].posted_date": "2026-08-17",
+    "job_data.roles[3].posted_date": "2026-08-17",
+    "job_data.roles[4].posted_date": "2026-08-17",
+    "job_data.roles[5].posted_date": "2026-08-17",
+    "job_data.roles[6].posted_date": "2026-08-17",
+    "job_data.roles[7].posted_date": "2026-08-17",
+    "job_data.roles[8].posted_date": "2026-08-17",
+    "job_data.roles[9].posted_date": "2026-08-17",
+    "job_data.roles[10].posted_date": "2026-08-17",
+    "job_data.roles[11].posted_date": "2026-08-17",
+    "job_data.roles[12].posted_date": "2026-08-17",
+    "job_data.roles[13].posted_date": "2026-08-17",
+    "job_data.roles[14].posted_date": "2026-08-17",
+    "job_data.roles[15].posted_date": "2026-08-17",
+    "job_data.roles[16].posted_date": "2026-08-17",
+    "job_data.roles[17].posted_date": "2026-08-17",
+    "job_data.roles[18].posted_date": "2026-08-17",
+    "job_data.roles[19].posted_date": "2026-08-17",
+    "job_data.roles[20].posted_date": "2026-08-17",
+    "job_data.roles[21].posted_date": "2026-08-17",
+    "job_data.roles[22].posted_date": "2026-08-17",
+    "job_data.roles[23].posted_date": "2026-08-17",
+    "job_data.roles[24].posted_date": "2026-08-17",
+    "job_data.roles[25].posted_date": "2026-08-31",
+    "job_data.roles[26].posted_date": "2026-08-31",
+    "job_data.roles[27].posted_date": "2026-08-31",
+    "job_data.roles[28].posted_date": "2026-08-31",
+    "job_data.roles[29].posted_date": "2026-08-31",
+    "job_data.roles[30].posted_date": "2026-08-31",
+    "job_data.roles[31].posted_date": "2026-08-31",
+    "job_data.roles[32].posted_date": "2026-08-31",
+    "job_data.roles[33].posted_date": "2026-08-31",
+    "job_data.roles[34].posted_date": "2026-08-31",
+    "job_data.roles[35].posted_date": "2026-08-31",
+    "job_data.roles[36].posted_date": "2026-09-14",
+    "job_data.roles[37].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T13:28:47.683Z"
+  }
+}

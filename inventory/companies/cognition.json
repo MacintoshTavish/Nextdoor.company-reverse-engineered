@@ -1,0 +1,2434 @@
+{
+  "slug": "cognition",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/8535.66553d2fc30f8859.js",
+  "observed_at": "2026-09-28T08:30:19.995244+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 70873,
+    "sha256": "88bc9c703a358fb0b7368d9376f73666379d885cc7102daee4679c1923ee1042",
+    "elapsed_seconds": 0.466,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:19 GMT",
+      "etag": "\"c83427950088a0c824a8224b638a7ae6\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:19 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Cognition",
+    "company_name_legal": "Cognition AI, Inc.",
+    "founded_year": 2023,
+    "website_url": "https://cognition.ai",
+    "careers_url": "https://jobs.ashbyhq.com/cognition",
+    "investor_portfolio_page": null,
+    "id": 370
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 105,
+    "last_updated": "2026-09-19T16:40:30.386Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 105,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Based Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/05afba7a-04ab-4e33-af4d-a2cb5e18f894",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-06",
+      "ashby_job_id": "05afba7a-04ab-4e33-af4d-a2cb5e18f894"
+    },
+    {
+      "title": "Account Director",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/f2e1096f-72c4-42c8-867e-51c2ebc296f9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "$180k-220k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-27",
+      "ashby_job_id": "f2e1096f-72c4-42c8-867e-51c2ebc296f9"
+    },
+    {
+      "title": "Account Director - ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/42be09bc-f25a-4b4b-8b78-d247d773d126",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-13",
+      "ashby_job_id": "42be09bc-f25a-4b4b-8b78-d247d773d126"
+    },
+    {
+      "title": "Account Director - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/99ac30db-26d9-4cae-8b50-5a509dfb10a9",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-19",
+      "ashby_job_id": "99ac30db-26d9-4cae-8b50-5a509dfb10a9"
+    },
+    {
+      "title": "Account Director - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/0aabb166-3e97-437b-ab84-b04fe20dd426",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-04",
+      "ashby_job_id": "0aabb166-3e97-437b-ab84-b04fe20dd426"
+    },
+    {
+      "title": "Account Director, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5081e3b3-e606-4299-bd26-34ac6cdc5f0a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": "$150k-160k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-08",
+      "ashby_job_id": "5081e3b3-e606-4299-bd26-34ac6cdc5f0a"
+    },
+    {
+      "title": "Account Director - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5347448e-421f-4119-b65e-d20f4efe3e21",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-13",
+      "ashby_job_id": "5347448e-421f-4119-b65e-d20f4efe3e21"
+    },
+    {
+      "title": "Account Director - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/8805432a-6dcf-44da-8b57-eea78716e44b",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office",
+        "stuttgart_office",
+        "vienna_office",
+        "zurich_office",
+        "geneva_office",
+        "basel_office"
+      ],
+      "location_display": "Remote, DACH",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-20",
+      "ashby_job_id": "8805432a-6dcf-44da-8b57-eea78716e44b"
+    },
+    {
+      "title": "Account Director - LATAM",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/c7b6cd6d-994e-449d-aabe-32740d9fd968",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "c7b6cd6d-994e-449d-aabe-32740d9fd968"
+    },
+    {
+      "title": "Account Director - LATAM",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5e8e9d04-9224-4de3-b63b-5bc43bfa0026",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "5e8e9d04-9224-4de3-b63b-5bc43bfa0026"
+    },
+    {
+      "title": "AI Policy Lead",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d1cc2c4e-de7b-4daf-81ae-3e19da329ad0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-30",
+      "ashby_job_id": "d1cc2c4e-de7b-4daf-81ae-3e19da329ad0"
+    },
+    {
+      "title": "AI Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/7e89aab6-3d43-436b-8c7c-2d7cb6515636",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "7e89aab6-3d43-436b-8c7c-2d7cb6515636"
+    },
+    {
+      "title": "AI Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/02772183-104d-4cc6-92a4-8e928f51b862",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-15",
+      "ashby_job_id": "02772183-104d-4cc6-92a4-8e928f51b862"
+    },
+    {
+      "title": "AI Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/ca278de0-e299-4f46-9bd9-b95aed6970c3",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "ca278de0-e299-4f46-9bd9-b95aed6970c3"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": "$180k-225k",
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-23",
+      "ashby_job_id": "811c3f5a-b26d-4162-b49b-93890a91794d"
+    },
+    {
+      "title": "Applied AI Transformation Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-11",
+      "ashby_job_id": "ca40e489-d1cb-4a8a-b761-ec3a67c8fda6"
+    },
+    {
+      "title": "Applied AI Transformation Manager - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-29",
+      "ashby_job_id": "be59ef70-1b34-4af5-a831-da964a6d3869"
+    },
+    {
+      "title": "Applied AI Transformation Manager - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/2f6d29d9-1e3e-43a6-8b92-8ca5a1b23ede",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-29",
+      "ashby_job_id": "2f6d29d9-1e3e-43a6-8b92-8ca5a1b23ede"
+    },
+    {
+      "title": "Applied AI Transformation Manager - MENA",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-06",
+      "ashby_job_id": "416528a8-2067-4bec-ac70-73d4ffa52290"
+    },
+    {
+      "title": "Brand Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/23b1c551-42ed-4cf7-828c-d3b65569bb41",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-16",
+      "ashby_job_id": "23b1c551-42ed-4cf7-828c-d3b65569bb41"
+    },
+    {
+      "title": "Business Operations",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/170ec744-c6b9-4d75-bdb1-f1eaf5e24d79",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-13",
+      "ashby_job_id": "170ec744-c6b9-4d75-bdb1-f1eaf5e24d79"
+    },
+    {
+      "title": "Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/9ff00394-b9cd-4a12-af7b-c409cba15f80",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-31",
+      "ashby_job_id": "9ff00394-b9cd-4a12-af7b-c409cba15f80"
+    },
+    {
+      "title": "Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-26",
+      "ashby_job_id": "9ef920ff-de3d-4b5d-8733-f3bf92763b0f"
+    },
+    {
+      "title": "Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-10",
+      "ashby_job_id": "d72d584c-bb11-4b6a-b043-d81425ea884a"
+    },
+    {
+      "title": "Deployed Engineer - ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/4bf50602-b880-40d2-9c8c-18d4372a8b02",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-02",
+      "ashby_job_id": "4bf50602-b880-40d2-9c8c-18d4372a8b02"
+    },
+    {
+      "title": "Deployed Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/9ebb0dff-2cbf-42ba-bb4a-0256812a06e0",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-23",
+      "ashby_job_id": "9ebb0dff-2cbf-42ba-bb4a-0256812a06e0"
+    },
+    {
+      "title": "Deployed Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b73fd66a-f43b-4240-95c2-7a76b4ffb0c6",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "b73fd66a-f43b-4240-95c2-7a76b4ffb0c6"
+    },
+    {
+      "title": "Deployed Engineer - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-09-23",
+      "ashby_job_id": "818e3c35-d25b-4aec-a9e1-23cc8328d19c"
+    },
+    {
+      "title": "Deployed Engineer, Federal",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-26",
+      "ashby_job_id": "f1430967-f367-4afe-9107-e58da423633c"
+    },
+    {
+      "title": "Deployed Engineer - LATAM",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e",
+      "location_ids": [
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office"
+      ],
+      "location_display": "Remote, Brazil",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-20",
+      "ashby_job_id": "8139c589-494a-449a-b608-b11a689e7b2e"
+    },
+    {
+      "title": "Deployed Engineer - South Korea",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/6cf034bd-7731-49e4-8a1a-86739c9cb02e",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "6cf034bd-7731-49e4-8a1a-86739c9cb02e"
+    },
+    {
+      "title": "Developer Community Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b24559d8-c742-4da9-aa6c-581a00e56090",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-26",
+      "ashby_job_id": "b24559d8-c742-4da9-aa6c-581a00e56090"
+    },
+    {
+      "title": "Devops Engineer, Federal",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-12",
+      "ashby_job_id": "589326d3-9dc0-447e-ae0c-972b808f831d"
+    },
+    {
+      "title": "Federal Account Director",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b154cc8a-0f04-44b8-88d8-72901fc0582d",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-08",
+      "ashby_job_id": "b154cc8a-0f04-44b8-88d8-72901fc0582d"
+    },
+    {
+      "title": "Field Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/4fdc11eb-38fa-41c1-851c-73df55cc7152",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "4fdc11eb-38fa-41c1-851c-73df55cc7152"
+    },
+    {
+      "title": "GTM Operations",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/decd6bbe-1875-42e8-9440-f54fd9d2270f",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-26",
+      "ashby_job_id": "decd6bbe-1875-42e8-9440-f54fd9d2270f"
+    },
+    {
+      "title": "GTM Operations - Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/0116dd2e-5a6d-45c7-89e4-0ed5e467d8d6",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-23",
+      "ashby_job_id": "0116dd2e-5a6d-45c7-89e4-0ed5e467d8d6"
+    },
+    {
+      "title": "GTM Recruiter - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/7d9b944c-50c4-4198-9585-9a3d4201d423",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-07",
+      "ashby_job_id": "7d9b944c-50c4-4198-9585-9a3d4201d423"
+    },
+    {
+      "title": "Head of Partnerships - Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "ce05fcaa-4f22-495f-bfd6-d858a1c37bcf"
+    },
+    {
+      "title": "HR Operations",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/3e287a98-b54f-4fe1-a804-32391dfc43fc",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-09",
+      "ashby_job_id": "3e287a98-b54f-4fe1-a804-32391dfc43fc"
+    },
+    {
+      "title": "IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-05",
+      "ashby_job_id": "daf8accf-5799-4dba-a77d-66ace242fa88"
+    },
+    {
+      "title": "Paid Media Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/c42ae7ec-4636-48a0-b682-34ac1c0fb3c6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-16",
+      "ashby_job_id": "c42ae7ec-4636-48a0-b682-34ac1c0fb3c6"
+    },
+    {
+      "title": "Partner Deployed Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-10",
+      "ashby_job_id": "6d539905-c75e-45e0-8c3e-db9831a5e6e6"
+    },
+    {
+      "title": "Partner Deployed Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b1c2ccf9-b606-4c9e-a5ea-c741ab78741b",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-10",
+      "ashby_job_id": "b1c2ccf9-b606-4c9e-a5ea-c741ab78741b"
+    },
+    {
+      "title": "Partner Deployed Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/1e47fa81-bfe3-436c-a6f7-fccd66a98b1e",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-06",
+      "ashby_job_id": "1e47fa81-bfe3-436c-a6f7-fccd66a98b1e"
+    },
+    {
+      "title": "Partner Deployed Engineer - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/88d8cbd5-7288-439f-bf0f-cc07d567775b",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-10",
+      "ashby_job_id": "88d8cbd5-7288-439f-bf0f-cc07d567775b"
+    },
+    {
+      "title": "Partner Director - Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/2877fee4-4657-4986-aa07-15514b66ff41",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-17",
+      "ashby_job_id": "2877fee4-4657-4986-aa07-15514b66ff41"
+    },
+    {
+      "title": "Product Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-11",
+      "ashby_job_id": "439404bb-3185-4d22-b6df-4a5e39a510d6"
+    },
+    {
+      "title": "Product Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/60ac2393-2727-4c88-953b-013e7bb418f8",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-18",
+      "ashby_job_id": "60ac2393-2727-4c88-953b-013e7bb418f8"
+    },
+    {
+      "title": "QA Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/e6f55fdf-151d-4282-a600-b92e4124732f",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "qa",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-27",
+      "ashby_job_id": "e6f55fdf-151d-4282-a600-b92e4124732f"
+    },
+    {
+      "title": "Regional Vice President of Sales - ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/bcb56d79-24fd-46f9-8719-d389a3641f40",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-19",
+      "ashby_job_id": "bcb56d79-24fd-46f9-8719-d389a3641f40"
+    },
+    {
+      "title": "Regional Vice President of Sales - India",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "2449b650-6283-4c63-9537-4c34e76bafdd"
+    },
+    {
+      "title": "Regional Vice President of Sales - South Korea",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/77e0ec33-5709-447d-ad64-8f210dd47b97",
+      "location_ids": [
+        "seoul_office"
+      ],
+      "location_display": "Seoul, South Korea",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-22",
+      "ashby_job_id": "77e0ec33-5709-447d-ad64-8f210dd47b97"
+    },
+    {
+      "title": "Research Engineer, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-08",
+      "ashby_job_id": "b6f96827-ce14-44f4-98fa-b1b8640858b6"
+    },
+    {
+      "title": "Research, Mid-Training",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-01",
+      "ashby_job_id": "57e1e2a1-e0a0-4448-a278-8eed035d7428"
+    },
+    {
+      "title": "Research, Post-Training",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-01",
+      "ashby_job_id": "72d3db28-07d3-4c28-b49f-1bdf6e8e0f10"
+    },
+    {
+      "title": "Sales Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/001a11ed-d7bb-4c78-a260-1d28c12bf61a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-11-18",
+      "ashby_job_id": "001a11ed-d7bb-4c78-a260-1d28c12bf61a"
+    },
+    {
+      "title": "Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-16",
+      "ashby_job_id": "71165bb4-9bc8-49df-9eca-49c4232f72ff"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-09",
+      "ashby_job_id": "d50d94b0-60c8-4dae-9c36-234f072ee4e3"
+    },
+    {
+      "title": "Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-06",
+      "ashby_job_id": "e8086415-62bc-4cc0-96a4-84bb56182d35"
+    },
+    {
+      "title": "Support Specialist, Subscriptions & Billing",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/48e3fa1e-e7b6-4822-b501-0714187c4ebd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "healthcare-operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-27",
+      "ashby_job_id": "48e3fa1e-e7b6-4822-b501-0714187c4ebd"
+    },
+    {
+      "title": "Vice President of Sales - KSA",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d5f631ec-e387-4850-9377-81e8a46f66d5",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-19",
+      "ashby_job_id": "d5f631ec-e387-4850-9377-81e8a46f66d5"
+    },
+    {
+      "title": "Workplace & Engagement Coordinator - New York Office",
+      "title_original": "Workplace & Engagement Coordinator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-10T11:24:55.859Z",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/781253e9-294d-4820-b465-dcb00d92476c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-08",
+      "ashby_job_id": "781253e9-294d-4820-b465-dcb00d92476c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Workplace & Engagement Coordinator revolve around managing office logistics, ensuring a welcoming environment, and supporting employee engagement activities. These tasks align closely with administrative functions, such as office management and coordination."
+    },
+    {
+      "title": "Capture Lead - Federal Sales",
+      "title_original": "Capture Lead - Federal",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-24T14:05:03.720Z",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/1b2f97f6-2215-4ebd-bd01-4c6a10ca4ac0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-24",
+      "ashby_job_id": "1b2f97f6-2215-4ebd-bd01-4c6a10ca4ac0",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Capture Lead involve developing capture strategies, managing proposal operations, and collaborating with sales leadership to drive federal business. This role is heavily focused on identifying and pursuing federal contracts, which aligns closely with sales functions."
+    },
+    {
+      "title": "IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/57972dd9-b587-4808-8449-49a82f6043b5",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-24",
+      "ashby_job_id": "57972dd9-b587-4808-8449-49a82f6043b5"
+    },
+    {
+      "title": "Applied AI Engineer - ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/8e4c141b-ca44-459d-a842-474f6e090da1",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "8e4c141b-ca44-459d-a842-474f6e090da1"
+    },
+    {
+      "title": "Applied AI Engineer - APAC",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/12250aa8-c371-440c-8189-04872fd43eeb",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "12250aa8-c371-440c-8189-04872fd43eeb"
+    },
+    {
+      "title": "Applied AI Transformation Manager - ANZ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "392b0b95-26e6-4fb8-841f-97e528acd711"
+    },
+    {
+      "title": "Deployed Engineer - EMEA",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/aed2d6fc-925f-4f6a-820b-008ffa024026",
+      "location_ids": [
+        "southern_europe_office"
+      ],
+      "location_display": "Remote, Southern Europe",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "aed2d6fc-925f-4f6a-820b-008ffa024026"
+    },
+    {
+      "title": "Deployed Engineer - LATAM",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/09fa3cff-f57d-41dd-a56b-cb323c927ce6",
+      "location_ids": [
+        "mexico_city_office"
+      ],
+      "location_display": "Mexico City, Mexico",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "09fa3cff-f57d-41dd-a56b-cb323c927ce6"
+    },
+    {
+      "title": "Director, Enterprise Sales (Central)",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/a12f5aac-c232-4bf2-953a-2b7217412aed",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "a12f5aac-c232-4bf2-953a-2b7217412aed"
+    },
+    {
+      "title": "Payroll Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d2f6813a-9a17-40be-84aa-df17201e4367",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "d2f6813a-9a17-40be-84aa-df17201e4367"
+    },
+    {
+      "title": "Software Engineer, Infrastructure",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "13fdacf7-b4dc-4b9a-ac43-addc87de79ec"
+    },
+    {
+      "title": "Workplace & Engagement Coordinator - Office Administration",
+      "title_original": "Workplace & Engagement Coordinator",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-08T06:28:43.638Z",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5ff6c7aa-c313-4b3b-998b-077c4e298bee",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-07",
+      "ashby_job_id": "5ff6c7aa-c313-4b3b-998b-077c4e298bee",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Workplace & Engagement Coordinator revolve around managing office logistics, coordinating employee experiences, and ensuring a welcoming environment. This aligns closely with administrative functions, which focus on office management and support."
+    },
+    {
+      "title": "Event Producer - Recruiting, R&D",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/9bcd9d64-8ea5-4c34-99c3-db9b37b6f3c7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "content-production",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "9bcd9d64-8ea5-4c34-99c3-db9b37b6f3c7"
+    },
+    {
+      "title": "Executive Assistant, Sales Leadership",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/1eff622b-31c1-443b-9e1a-f0ceaa12e77c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "1eff622b-31c1-443b-9e1a-f0ceaa12e77c"
+    },
+    {
+      "title": "GTM Operations - Europe",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/05ded615-e35d-4e2f-bdda-f6defbdac3b7",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "05ded615-e35d-4e2f-bdda-f6defbdac3b7"
+    },
+    {
+      "title": "People Operations Lead",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/a751b58c-1d1b-48c6-96b4-c668100a9787",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "a751b58c-1d1b-48c6-96b4-c668100a9787"
+    },
+    {
+      "title": "Workplace & Engagement Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/c6cd45c1-08d2-4acb-a33b-9ff6872025c0",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "c6cd45c1-08d2-4acb-a33b-9ff6872025c0"
+    },
+    {
+      "title": "Workplace & Engagement Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/39dc8196-0574-4e0f-86ea-32bf8e3ad66d",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-21",
+      "ashby_job_id": "39dc8196-0574-4e0f-86ea-32bf8e3ad66d"
+    },
+    {
+      "title": "Event Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5fcd7140-e519-4465-b2a4-9902886f3cc8#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5fcd7140-e519-4465-b2a4-9902886f3cc8"
+    },
+    {
+      "title": "Event Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5fcd7140-e519-4465-b2a4-9902886f3cc8#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5fcd7140-e519-4465-b2a4-9902886f3cc8"
+    },
+    {
+      "title": "Event Marketer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5fcd7140-e519-4465-b2a4-9902886f3cc8#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5fcd7140-e519-4465-b2a4-9902886f3cc8"
+    },
+    {
+      "title": "Facility Security Officer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/45a0c361-33a6-4cf4-a2fa-077d65973417",
+      "location_ids": [
+        "washington_office"
+      ],
+      "location_display": "Washington, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "45a0c361-33a6-4cf4-a2fa-077d65973417"
+    },
+    {
+      "title": "Founding GTM Recruiter - Japan",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/44f70079-6740-42e5-b683-be748fd2f23a",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "44f70079-6740-42e5-b683-be748fd2f23a"
+    },
+    {
+      "title": "Founding Recruiting Operations Coordinator - APJ",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/02a11025-60b3-4c06-8bb5-c6c34ddaa878",
+      "location_ids": [
+        "singapore_office"
+      ],
+      "location_display": "Singapore, Singapore",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "02a11025-60b3-4c06-8bb5-c6c34ddaa878"
+    },
+    {
+      "title": "Head of EMEA Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5e69951b-adac-4e61-9884-eaaea68c059b",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5e69951b-adac-4e61-9884-eaaea68c059b"
+    },
+    {
+      "title": "Head of LATAM Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/913f64e2-c621-4739-9446-7d523b8d4e43",
+      "location_ids": [
+        "sao_paulo_office"
+      ],
+      "location_display": "Sao Paulo, Brazil",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "913f64e2-c621-4739-9446-7d523b8d4e43"
+    },
+    {
+      "title": "Legal Operations",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/a51478ef-a15e-413d-ae0f-21b1a821146c",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a51478ef-a15e-413d-ae0f-21b1a821146c"
+    },
+    {
+      "title": "Regional Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6"
+    },
+    {
+      "title": "Regional Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6"
+    },
+    {
+      "title": "Regional Sales Director",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5be1f6c8-a40e-4eb0-9fa5-9001cd32ebf6"
+    },
+    {
+      "title": "Talent Operations Coordinator, R&D",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/22a47602-27c2-476e-8e3d-caca249b0a7d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "22a47602-27c2-476e-8e3d-caca249b0a7d"
+    },
+    {
+      "title": "Account Director - MENA",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f",
+      "location_ids": [
+        "riyadh_office"
+      ],
+      "location_display": "Riyadh, Saudi Arabia",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "93002b15-b30c-4c98-a7e0-2ef185e4b88f"
+    },
+    {
+      "title": "Account Director - Qatar",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/5308cb82-896c-4f9a-86fd-1d65962ef118",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "5308cb82-896c-4f9a-86fd-1d65962ef118"
+    },
+    {
+      "title": "Commercial Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b6928067-6e03-4934-befe-2940cf584a8d#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b6928067-6e03-4934-befe-2940cf584a8d"
+    },
+    {
+      "title": "Commercial Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b6928067-6e03-4934-befe-2940cf584a8d#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b6928067-6e03-4934-befe-2940cf584a8d"
+    },
+    {
+      "title": "Commercial Partner Manager",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/b6928067-6e03-4934-befe-2940cf584a8d#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "b6928067-6e03-4934-befe-2940cf584a8d"
+    },
+    {
+      "title": "Deployed Engineer - Doha",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/d6d3bc3c-f2e3-4979-a22d-2f897d6b9de1",
+      "location_ids": [
+        "doha_office"
+      ],
+      "location_display": "Doha, Qatar",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "d6d3bc3c-f2e3-4979-a22d-2f897d6b9de1"
+    },
+    {
+      "title": "IT Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/1f3ff659-8106-4041-ab28-56713c1860d0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "1f3ff659-8106-4041-ab28-56713c1860d0"
+    },
+    {
+      "title": "Network Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/3e384a5e-2ff7-4368-91f8-5972047318b0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "3e384a5e-2ff7-4368-91f8-5972047318b0"
+    },
+    {
+      "title": "Partner Director - Consulting Firms (USA)",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/06d7c8a4-0120-49ed-a55c-8ef74095ddd0#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "06d7c8a4-0120-49ed-a55c-8ef74095ddd0"
+    },
+    {
+      "title": "Partner Director - Consulting Firms (USA)",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/06d7c8a4-0120-49ed-a55c-8ef74095ddd0#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "06d7c8a4-0120-49ed-a55c-8ef74095ddd0"
+    },
+    {
+      "title": "Partner Director - Consulting Firms (USA)",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/06d7c8a4-0120-49ed-a55c-8ef74095ddd0#loc-2",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "06d7c8a4-0120-49ed-a55c-8ef74095ddd0"
+    },
+    {
+      "title": "Talent Operations Coordinator - UK",
+      "apply_url": "https://jobs.ashbyhq.com/cognition/978ed15a-d202-4ffa-ab2d-be345cc9ff06",
+      "location_ids": [
+        "london_office"
+      ],
+      "location_display": "London, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "978ed15a-d202-4ffa-ab2d-be345cc9ff06"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2575,
+      "longitude": -97.7489,
+      "exact_address": "907 South Congress Avenue, Austin, Texas, United States - 78704",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "basel_office",
+      "city": "Basel",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.5596,
+      "longitude": 7.5886,
+      "exact_address": "Basel, Switzerland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9889946,
+      "longitude": 77.7072786,
+      "exact_address": "Workhub, Novel Office, Graphite India Main Rd, Whitefield, KEB Colony, Industrial Area, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Tambaram",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 12.9523233,
+      "longitude": 80.16287439999999,
+      "exact_address": "Tower-B, Featherlite The Address, near Vels University Road, Iswarya Nagar, Nemilichery, Chromepet, Chennai, Tambaram, Tamil Nadu 600044, India",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.4466203,
+      "longitude": 77.14084129999999,
+      "exact_address": "A Block, 774, Ambedkar Colony, Mandi, New Delhi, Delhi 110047, India",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "geneva_office",
+      "city": "Geneva",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "exact_address": "Geneva, Switzerland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.50075,
+      "longitude": -0.1319,
+      "exact_address": "Cognition, 1 Old Queen Street, Westminster, London, United Kingdom - SW1H 9JA",
+      "departments": [
+        "sales",
+        "ai",
+        "legal",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.1344,
+      "longitude": 73.0269,
+      "exact_address": "Sector 3, Building 4, Millennium Business Park, Mahape, Navi Mumbai, Maharashtra, India - 400710",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.736592,
+      "longitude": -73.989723,
+      "exact_address": "215 Park Avenue South, Floor 16, New York, New York, United States - 10003",
+      "departments": [
+        "sales",
+        "legal",
+        "other"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5079,
+      "longitude": 73.8076,
+      "exact_address": "Office No. 910, Borate Sankul, Survey No. 54, Opposite Yashwantrao Natya Gruh, Kothrud, Pune, Maharashtra, India - 411038",
+      "departments": [
+        "engineering",
+        "qa",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "riyadh_office",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "country": "Saudi Arabia",
+      "latitude": 24.7615,
+      "longitude": 46.698,
+      "exact_address": "Al Imam Saud Ibn Abdul Aziz Branch Road, Al Masiaf, Riyadh 12465, Saudi Arabia",
+      "departments": [
+        "sales",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.767055,
+      "longitude": -122.419338,
+      "exact_address": "1875 Mission Street, San Francisco, California, United States - 94103",
+      "departments": [
+        "marketing",
+        "sales",
+        "ai",
+        "operations",
+        "engineering",
+        "other",
+        "academy-training",
+        "security",
+        "finance",
+        "healthcare-operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2789,
+      "longitude": 103.8508,
+      "exact_address": "160 Robinson Road #14-04, Singapore Business Federation Center, Singapore 068914",
+      "departments": [
+        "sales",
+        "ai",
+        "engineering",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stuttgart_office",
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "latitude": 48.7758,
+      "longitude": 9.1829,
+      "exact_address": "Stuttgart, Baden-Württemberg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8666,
+      "longitude": 151.2046,
+      "exact_address": "Aon, Ground Floor, 201 Kent Street, Sydney NSW 2000, Australia",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo Metropolis",
+      "country": "Japan",
+      "latitude": 35.6741334,
+      "longitude": 139.763855,
+      "exact_address": "Japan, 〒100-0006 Tokyo, Chiyoda City, Yurakucho, 2 Chome−7−1 イトシアオフィスタワ 12階",
+      "departments": [
+        "sales",
+        "ai",
+        "engineering",
+        "marketing",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "ai",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "southern_europe_office",
+      "city": "Southern Europe",
+      "state": null,
+      "country": "Southern Europe",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Southern Europe, Southern Europe",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "doha_office",
+      "city": "Doha",
+      "state": null,
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "exact_address": "Doha, Qatar",
+      "departments": [
+        "qa",
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-07-10T11:11:11.958Z",
+    "current_valuation_usd": "$1 billion",
+    "current_valuation_usd_last_updated": "2026-07-10T11:11:11.958Z",
+    "total_funding_raised": "$1.6 billion",
+    "total_funding_raised_last_updated": "2026-07-10T11:11:11.958Z",
+    "key_investors": [
+      {
+        "name": "General Catalyst",
+        "domain": "generalcatalyst.com"
+      },
+      {
+        "name": "Ribbit Capital",
+        "domain": ""
+      },
+      {
+        "name": "Founders Fund",
+        "domain": "foundersfund.com"
+      },
+      {
+        "name": "Soma Capital",
+        "domain": ""
+      },
+      {
+        "name": "Lux Capital",
+        "domain": ""
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "General Catalyst",
+        "logo_url": "/investor-logos/general-catalyst.png"
+      },
+      {
+        "name": "Ribbit Capital",
+        "logo_url": "/investor-logos/ribbit.png"
+      },
+      {
+        "name": "Founders Fund",
+        "logo_url": "/investor-logos/founders-fund.png"
+      },
+      {
+        "name": "Soma Capital",
+        "logo_url": "/investor-logos/soma.png"
+      },
+      {
+        "name": "Lux Capital",
+        "logo_url": "/investor-logos/lux-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-07-10T11:11:11.958Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[3].location_source": "searchapi-maps",
+    "location_mapping[3].location_source_query": "Cognition office bengaluru",
+    "location_mapping[6].location_source": "searchapi-maps",
+    "location_mapping[6].location_source_query": "Cognition office chennai",
+    "location_mapping[8].location_source": "searchapi-maps",
+    "location_mapping[8].location_source_query": "Cognition delhi",
+    "location_mapping[13].location_source": "perplexity",
+    "location_mapping[15].location_source": "perplexity",
+    "location_mapping[17].location_source": "perplexity",
+    "location_mapping[18].location_source": "perplexity",
+    "location_mapping[20].location_source": "perplexity",
+    "location_mapping[21].location_source": "perplexity",
+    "location_mapping[24].location_source": "perplexity",
+    "location_mapping[26].location_source": "perplexity",
+    "location_mapping[27].location_source": "searchapi-maps",
+    "location_mapping[27].location_source_query": "Cognition office Tokyo Tokyo Metropolis",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-07-10T11:11:11.958Z",
+    "company_basic_information.website_url_last_updated": "2026-07-10T11:11:11.958Z",
+    "company_basic_information.careers_url_last_updated": "2026-07-10T11:11:11.958Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-07-10T11:11:11.958Z",
+    "company_basic_information.last_updated": "2026-07-10",
+    "leadership.founders[0].linkedin_last_verified": "2026-07-10T11:20:40.793Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-07-10T11:20:40.793Z",
+    "leadership.founders[0].image_url_last_updated": "2026-07-10T11:28:45.026Z",
+    "leadership.founders[0].description_last_updated": "2026-07-10T11:29:39.208Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-07-10T11:20:40.793Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-07-10T11:20:40.793Z",
+    "leadership.founders[1].image_url_last_updated": "2026-07-10T11:29:09.203Z",
+    "leadership.founders[1].description_last_updated": "2026-07-10T11:29:45.216Z",
+    "social_media.x_url_last_updated": "2026-07-10T11:11:11.958Z",
+    "social_media.linkedin_url_last_updated": "2026-07-10T11:11:11.958Z",
+    "social_media.instagram_url_last_updated": "2026-07-10T11:11:11.958Z",
+    "social_media.x_url_last_verified": "2026-07-10T11:20:40.793Z",
+    "social_media.linkedin_url_last_verified": "2026-07-10T11:20:40.793Z",
+    "social_media.instagram_url_last_verified": "2026-07-10T11:20:40.793Z",
+    "business_details.industry_domains_last_updated": "2026-07-10",
+    "financial_information.funding_stage_last_updated": "2026-07-10T11:11:11.958Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-07-10T11:11:11.958Z",
+    "financial_information.total_funding_raised_last_updated": "2026-07-10T11:11:11.958Z",
+    "financial_information.investor_logos_last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[0].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[1].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[2].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[3].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[4].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[5].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[6].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[7].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[8].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[9].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[10].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[11].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[12].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[13].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[14].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[15].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[16].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[17].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[18].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[19].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[20].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[21].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[22].last_updated": "2026-09-05T01:01:09.295Z",
+    "location_mapping[23].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[24].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[25].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[26].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[27].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[28].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[29].last_updated": "2026-07-10T11:11:11.958Z",
+    "location_mapping[30].last_updated": "2026-07-11T16:30:44.845Z",
+    "location_mapping[31].last_updated": "2026-08-08T06:32:49.524Z",
+    "job_data.roles[0].posted_date": "2026-01-06",
+    "job_data.roles[1].posted_date": "2026-01-27",
+    "job_data.roles[2].posted_date": "2026-03-13",
+    "job_data.roles[3].posted_date": "2026-02-19",
+    "job_data.roles[4].posted_date": "2026-05-04",
+    "job_data.roles[5].posted_date": "2026-01-08",
+    "job_data.roles[6].posted_date": "2025-10-13",
+    "job_data.roles[7].posted_date": "2026-05-20",
+    "job_data.roles[8].posted_date": "2026-06-29",
+    "job_data.roles[9].posted_date": "2026-06-29",
+    "job_data.roles[10].posted_date": "2026-06-30",
+    "job_data.roles[11].posted_date": "2026-06-25",
+    "job_data.roles[12].posted_date": "2026-04-15",
+    "job_data.roles[13].posted_date": "2026-06-25",
+    "job_data.roles[14].posted_date": "2025-10-23",
+    "job_data.roles[15].posted_date": "2025-07-11",
+    "job_data.roles[16].posted_date": "2026-05-29",
+    "job_data.roles[17].posted_date": "2026-05-29",
+    "job_data.roles[18].posted_date": "2026-07-06",
+    "job_data.roles[19].posted_date": "2026-03-16",
+    "job_data.roles[20].posted_date": "2025-10-13",
+    "job_data.roles[21].posted_date": "2026-03-31",
+    "job_data.roles[22].posted_date": "2025-11-26",
+    "job_data.roles[23].posted_date": "2025-07-10",
+    "job_data.roles[24].posted_date": "2026-07-02",
+    "job_data.roles[25].posted_date": "2026-02-23",
+    "job_data.roles[26].posted_date": "2026-04-30",
+    "job_data.roles[27].posted_date": "2025-09-23",
+    "job_data.roles[28].posted_date": "2026-01-26",
+    "job_data.roles[29].posted_date": "2026-05-20",
+    "job_data.roles[30].posted_date": "2026-06-25",
+    "job_data.roles[31].posted_date": "2026-03-26",
+    "job_data.roles[32].posted_date": "2026-02-12",
+    "job_data.roles[33].posted_date": "2026-01-08",
+    "job_data.roles[34].posted_date": "2026-07-01",
+    "job_data.roles[35].posted_date": "2025-11-26",
+    "job_data.roles[36].posted_date": "2026-06-23",
+    "job_data.roles[37].posted_date": "2026-07-07",
+    "job_data.roles[38].posted_date": "2026-06-17",
+    "job_data.roles[39].posted_date": "2026-06-09",
+    "job_data.roles[40].posted_date": "2025-12-05",
+    "job_data.roles[41].posted_date": "2026-03-16",
+    "job_data.roles[42].posted_date": "2026-02-10",
+    "job_data.roles[43].posted_date": "2026-02-10",
+    "job_data.roles[44].posted_date": "2026-01-06",
+    "job_data.roles[45].posted_date": "2026-02-10",
+    "job_data.roles[46].posted_date": "2026-06-17",
+    "job_data.roles[47].posted_date": "2026-05-11",
+    "job_data.roles[48].posted_date": "2026-04-18",
+    "job_data.roles[49].posted_date": "2026-02-27",
+    "job_data.roles[50].posted_date": "2026-06-19",
+    "job_data.roles[51].posted_date": "2026-06-22",
+    "job_data.roles[52].posted_date": "2026-06-22",
+    "job_data.roles[53].posted_date": "2026-04-08",
+    "job_data.roles[54].posted_date": "2026-05-01",
+    "job_data.roles[55].posted_date": "2026-05-01",
+    "job_data.roles[56].posted_date": "2025-11-18",
+    "job_data.roles[57].posted_date": "2026-06-16",
+    "job_data.roles[58].posted_date": "2026-05-09",
+    "job_data.roles[59].posted_date": "2026-05-06",
+    "job_data.roles[60].posted_date": "2026-05-27",
+    "job_data.roles[61].posted_date": "2026-06-19",
+    "job_data.roles[62].posted_date": "2026-06-08",
+    "job_data.roles[62].title_updated_timestamp": "2026-07-10T11:24:55.859Z",
+    "job_data.roles[63].posted_date": "2026-07-24",
+    "job_data.roles[63].title_updated_timestamp": "2026-07-24T14:05:03.720Z",
+    "job_data.roles[64].posted_date": "2026-07-24",
+    "job_data.roles[65].posted_date": "2026-08-07",
+    "job_data.roles[66].posted_date": "2026-08-07",
+    "job_data.roles[67].posted_date": "2026-08-07",
+    "job_data.roles[68].posted_date": "2026-08-07",
+    "job_data.roles[69].posted_date": "2026-08-07",
+    "job_data.roles[70].posted_date": "2026-08-07",
+    "job_data.roles[71].posted_date": "2026-08-07",
+    "job_data.roles[72].posted_date": "2026-08-07",
+    "job_data.roles[73].posted_date": "2026-08-07",
+    "job_data.roles[73].title_updated_timestamp": "2026-08-08T06:28:43.638Z",
+    "job_data.roles[74].posted_date": "2026-08-21",
+    "job_data.roles[75].posted_date": "2026-08-21",
+    "job_data.roles[76].posted_date": "2026-08-21",
+    "job_data.roles[77].posted_date": "2026-08-21",
+    "job_data.roles[78].posted_date": "2026-08-21",
+    "job_data.roles[79].posted_date": "2026-08-21",
+    "job_data.roles[80].posted_date": "2026-09-05",
+    "job_data.roles[81].posted_date": "2026-09-05",
+    "job_data.roles[82].posted_date": "2026-09-05",
+    "job_data.roles[83].posted_date": "2026-09-05",
+    "job_data.roles[84].posted_date": "2026-09-05",
+    "job_data.roles[85].posted_date": "2026-09-05",
+    "job_data.roles[86].posted_date": "2026-09-05",
+    "job_data.roles[87].posted_date": "2026-09-05",
+    "job_data.roles[88].posted_date": "2026-09-05",
+    "job_data.roles[89].posted_date": "2026-09-05",
+    "job_data.roles[90].posted_date": "2026-09-05",
+    "job_data.roles[91].posted_date": "2026-09-05",
+    "job_data.roles[92].posted_date": "2026-09-05",
+    "job_data.roles[93].posted_date": "2026-09-19",
+    "job_data.roles[94].posted_date": "2026-09-19",
+    "job_data.roles[95].posted_date": "2026-09-19",
+    "job_data.roles[96].posted_date": "2026-09-19",
+    "job_data.roles[97].posted_date": "2026-09-19",
+    "job_data.roles[98].posted_date": "2026-09-19",
+    "job_data.roles[99].posted_date": "2026-09-19",
+    "job_data.roles[100].posted_date": "2026-09-19",
+    "job_data.roles[101].posted_date": "2026-09-19",
+    "job_data.roles[102].posted_date": "2026-09-19",
+    "job_data.roles[103].posted_date": "2026-09-19",
+    "job_data.roles[104].posted_date": "2026-09-19",
+    "job_data.last_updated": "2026-09-19T16:40:30.386Z",
+    "benefits.equity-stock.last_updated": "2026-07-10T11:33:31.725Z",
+    "benefits.bonus.last_updated": "2026-07-10T11:33:31.725Z"
+  }
+}

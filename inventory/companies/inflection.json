@@ -1,0 +1,441 @@
+{
+  "slug": "inflection",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/20971.1197981125c9dd71.js",
+  "observed_at": "2026-09-28T08:32:56.780254+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 11257,
+    "sha256": "2a59fdbb60f79a50b7e00c3cf248ccfec93e4d872ca0621a5391fdd3989d1015",
+    "elapsed_seconds": 0.162,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:56 GMT",
+      "etag": "\"5a2d6e4bddda53cf6205cd1e9d816a99\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Inflection",
+    "company_name_legal": "Inflection",
+    "founded_year": 2020,
+    "website_url": "https://www.inflection.io",
+    "careers_url": "https://jobs.ashbyhq.com/inflectionio",
+    "investor_portfolio_page": null,
+    "id": 66
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 2,
+    "last_updated": "2026-09-14T09:53:54.806Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 2,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/inflectionio/d30c570f-267e-44eb-998a-0cc732d3bdff",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "USA | Remote",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-22",
+      "ashby_job_id": "d30c570f-267e-44eb-998a-0cc732d3bdff"
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/inflectionio/be4c7eb2-4318-4240-8312-75ef771eb3b5",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-02-18",
+      "ashby_job_id": "be4c7eb2-4318-4240-8312-75ef771eb3b5"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.91048,
+      "longitude": 77.64609,
+      "exact_address": "62, 27th Main, 6th Cross Rd, Phase 3, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+      "departments": null,
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7893,
+      "longitude": -122.4022,
+      "exact_address": "1 Montgomery Street, Suite 2400, San Francisco, California, United States - 94104",
+      "departments": null,
+      "employee_count": "210"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-21T19:17:02.938Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-21T18:05:21.504Z",
+    "total_funding_raised": "$14 million",
+    "total_funding_raised_last_updated": "2025-10-21T18:05:21.504Z",
+    "key_investors": [
+      {
+        "name": "Pienza",
+        "domain": null
+      },
+      {
+        "name": "MHS Capital",
+        "domain": "mhscapital.com"
+      },
+      {
+        "name": "Version One",
+        "domain": "versionone.vc"
+      },
+      {
+        "name": "Cercano Management",
+        "domain": "cercanomanagement.com"
+      },
+      {
+        "name": "Ascend",
+        "domain": null
+      },
+      {
+        "name": "Brewster Stanislaw",
+        "domain": null
+      },
+      {
+        "name": "Arjun Pillai",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Pienza",
+        "logo_url": "/investor-logos/pienza.png"
+      },
+      {
+        "name": "MHS Capital",
+        "logo_url": "/investor-logos/mhs-capital.png"
+      },
+      {
+        "name": "Version One",
+        "logo_url": "/investor-logos/version-one.png"
+      },
+      {
+        "name": "Cercano Management",
+        "logo_url": "/investor-logos/cercano-management.png"
+      },
+      {
+        "name": "Ascend",
+        "logo_url": "/investor-logos/ascend.png"
+      },
+      {
+        "name": "Brewster Stanislaw",
+        "logo_url": "/investor-logos/brewster-stanislaw.png"
+      },
+      {
+        "name": "Arjun Pillai",
+        "logo_url": "/investor-logos/arjun-pillai.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-21T18:05:21.504Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-21T17:44:55.359Z",
+    "company_basic_information.website_url_last_updated": "2025-10-21T17:44:55.359Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-21T17:44:55.359Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.748Z",
+    "company_basic_information.last_updated": "2025-10-21",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-21T17:44:55.359Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-21T17:44:55.359Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:31:43.253Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:46:39.979Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-21T17:44:55.359Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-01T11:31:53.941Z",
+    "leadership.founders[1].description_last_updated": "2026-02-01T11:46:45.452Z",
+    "leadership.last_updated": "2025-10-22T00:20:00.000Z",
+    "social_media.x_url_last_verified": "2025-10-21T17:44:55.359Z",
+    "social_media.linkedin_url_last_verified": "2025-10-21T17:44:55.359Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:16.778Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-21T19:17:02.938Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-21T18:05:21.504Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-21T18:05:21.504Z",
+    "financial_information.investor_logos_last_updated": "2025-10-21T18:05:21.504Z",
+    "location_mapping[0].last_updated": "2025-10-21T17:46:15.947Z",
+    "location_mapping[1].last_updated": "2025-10-21T17:44:55.359Z",
+    "location_mapping[2].last_updated": "2025-10-21T17:49:26.104Z",
+    "job_data.roles[0].posted_date": "2025-12-22",
+    "job_data.roles[1].posted_date": "2026-02-18",
+    "job_data.last_updated": "2026-09-14T09:53:54.806Z",
+    "benefits.equity-stock.last_updated": "2026-01-13T07:43:15.026Z",
+    "benefits.bonus.last_updated": "2026-01-13T07:43:15.026Z",
+    "benefits.remote-work.last_updated": "2026-01-13T07:43:15.026Z"
+  }
+}

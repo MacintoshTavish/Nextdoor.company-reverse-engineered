@@ -1,0 +1,204 @@
+{
+  "slug": "testzeus",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/42835.2c6e8dbcd27726bc.js",
+  "observed_at": "2026-09-28T08:37:25.146734+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 14414,
+    "sha256": "d019cfb1a62165917fe69f02f48f0f56f6028d5b5641d3ac04749049975c9d20",
+    "elapsed_seconds": 0.449,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:25 GMT",
+      "etag": "\"ae41dfe27410317214ffb3655404d048\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:25 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Testzeus",
+    "company_name_legal": "Testzeus",
+    "founded_year": "2024",
+    "website_url": "https://testzeus.com",
+    "careers_url": "https://testzeus.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 151
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-26T18:18:08.291Z",
+    "crawl_status": "success",
+    "source": "Custom ATS (TestZeus)",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "testzeus_job_id",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Business Development Representative (USA Market)",
+      "apply_url": "https://testzeus.com/jobs/business-development-representative",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3 years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Digital Marketer",
+      "apply_url": "https://testzeus.com/jobs/digital-marketing",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-3 years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Full Cycle Account Executive (AE) / Closer",
+      "apply_url": "https://testzeus.com/jobs/account-executive",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "4-6 years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-26"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.90551,
+      "longitude": 77.69435,
+      "exact_address": "301/302, 3rd Floor, Saket, Sarjapur Main Road, Doddaka, Carmelram, Bangalore, Bangalore South, Karnataka, India - 560035",
+      "departments": [
+        "marketing",
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "pre-seed",
+    "funding_stage_last_updated": "2026-01-13T10:20:15.650Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-01-11T19:06:27.072Z",
+    "total_funding_raised": null,
+    "total_funding_raised_last_updated": "2026-01-11T19:06:27.072Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-01-11T19:06:27.072Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "learning-development",
+    "conference-budget",
+    "health-insurance",
+    "privilege-leave",
+    "wfh-setup",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Custom ATS (TestZeus)",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-11T19:06:27.072Z",
+    "company_basic_information.website_url_last_updated": "2026-01-11T19:06:27.072Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-11T19:06:27.072Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-11T19:06:27.072Z",
+    "company_basic_information.last_updated": "2026-01-11",
+    "company_basic_information.founded_year_last_updated": "2026-01-13T10:20:08.789Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-11T21:22:21.111Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-13T09:13:57.650Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-06T19:03:08.259Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:17:19.072Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-11T21:24:42.613Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-01-13T09:14:03.526Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-06T19:03:18.758Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:17:24.514Z",
+    "social_media.x_url_last_verified": "2026-01-11T21:25:20.329Z",
+    "social_media.linkedin_url_last_verified": "2026-01-11T21:25:51.995Z",
+    "social_media.instagram_url_last_verified": "2026-01-13T09:14:07.090Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:16:46.966Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-01-13T10:20:15.650Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-11T19:06:27.072Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-11T19:06:27.072Z",
+    "financial_information.investor_logos_last_updated": "2026-01-11T19:06:27.072Z",
+    "location_mapping[0].last_updated": "2026-01-11T19:06:27.072Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T18:18:08.291Z",
+    "benefits.equity-stock.last_updated": "2026-01-15T14:51:15.059Z",
+    "benefits.learning-development.last_updated": "2026-01-15T14:51:15.059Z",
+    "benefits.conference-budget.last_updated": "2026-01-15T14:51:15.059Z",
+    "benefits.health-insurance.last_updated": "2026-01-15T14:51:15.059Z",
+    "benefits.privilege-leave.last_updated": "2026-01-15T14:51:15.059Z",
+    "benefits.wfh-setup.last_updated": "2026-01-15T14:51:15.059Z"
+  }
+}

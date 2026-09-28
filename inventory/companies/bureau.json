@@ -1,0 +1,574 @@
+{
+  "slug": "bureau",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/61725.1e3e8450a02f4c07.js",
+  "observed_at": "2026-09-28T08:29:43.212617+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15477,
+    "sha256": "3a12b9758ec7e37c78af060102cae37a375a8edb9a8d892a2a1710f401718945",
+    "elapsed_seconds": 0.162,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:43 GMT",
+      "etag": "\"ea3267f5870958b91bd6c409631d5b8a\"",
+      "last-modified": "Mon, 28 Sep 2026 08:16:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Bureau",
+    "company_name_legal": "Bureau",
+    "founded_year": 2020,
+    "website_url": "https://bureau.id",
+    "careers_url": "https://jobs.ashbyhq.com/bureau",
+    "investor_portfolio_page": null,
+    "id": 62
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 16,
+    "last_updated": "2026-09-14T09:20:25.703Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 16,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Senior Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/232e9eeb-1a58-44e7-a452-448a1149030e",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-10-24",
+      "ashby_job_id": "232e9eeb-1a58-44e7-a452-448a1149030e"
+    },
+    {
+      "title": "Application Security Engineer - GRC & Infosec",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/1d4eaee6-2d65-4d84-9092-4bd0533dc899",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-12-16",
+      "ashby_job_id": "1d4eaee6-2d65-4d84-9092-4bd0533dc899"
+    },
+    {
+      "title": "Product Manager (FRM)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/660a0bbc-d266-4b9b-b3e1-c93310562555",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-01-28",
+      "ashby_job_id": "660a0bbc-d266-4b9b-b3e1-c93310562555"
+    },
+    {
+      "title": "Group Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/6bcfe19a-9a1b-4a92-a979-f7e4823ad099",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "6bcfe19a-9a1b-4a92-a979-f7e4823ad099"
+    },
+    {
+      "title": "Integration Engineer (SDK)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/8786a55b-dd03-450a-872d-9d50feeb4f93",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-06",
+      "ashby_job_id": "8786a55b-dd03-450a-872d-9d50feeb4f93"
+    },
+    {
+      "title": "Payroll & Finance Associate",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/8b0a9bec-c408-4815-867e-d7cfb7607a1c",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-02",
+      "ashby_job_id": "8b0a9bec-c408-4815-867e-d7cfb7607a1c"
+    },
+    {
+      "title": "Manager - Technical Support",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/2cca944e-22a6-42b2-b25f-7787f002a86a",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "2cca944e-22a6-42b2-b25f-7787f002a86a"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/51277b78-eb75-467f-b758-88828f9a7a03",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "51277b78-eb75-467f-b758-88828f9a7a03"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/ace77ea0-a254-48b3-bc53-d36426344383",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ace77ea0-a254-48b3-bc53-d36426344383"
+    },
+    {
+      "title": "Social Media & Digital Marketing Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/ac6f2763-4330-475e-9b4c-71b6812a4351",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "ac6f2763-4330-475e-9b4c-71b6812a4351"
+    },
+    {
+      "title": "Social Media Marketing Intern",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/9a5ea099-9ecf-4e61-814a-55f44624b888",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "9a5ea099-9ecf-4e61-814a-55f44624b888"
+    },
+    {
+      "title": "Sr. Technical Program Manager - Enterprise Delivery",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/1cd656f6-ef2d-432f-804c-0369b424f6b1",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-16",
+      "ashby_job_id": "1cd656f6-ef2d-432f-804c-0369b424f6b1"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager (BFSI)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/17da4861-25cc-408e-bb36-f3609f75d73e",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "17da4861-25cc-408e-bb36-f3609f75d73e"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager (Marketplace)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/29161db4-2de1-46b7-a5c1-5b88db199f1c",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "29161db4-2de1-46b7-a5c1-5b88db199f1c"
+    },
+    {
+      "title": "Senior Sales Enterprise Manager (NBFC)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/c7e22c94-8d94-4397-b686-efcc6cc73dd2",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "c7e22c94-8d94-4397-b686-efcc6cc73dd2"
+    },
+    {
+      "title": "Senior Sales Enterprise Manager (NBFC)",
+      "apply_url": "https://jobs.ashbyhq.com/bureau/b78f1e7a-a964-4d1b-a595-bcc21fe35190",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "b78f1e7a-a964-4d1b-a595-bcc21fe35190"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.912314,
+      "longitude": 77.638493,
+      "exact_address": "Ground Floor, C Block, SY No 112, AKR Tech Park, 7th Mile Hosur Main Road, Krishna Reddy Industrial Layout, Bengaluru Urban, Karnataka, India - 560068",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-10-18T10:58:55.524Z",
+    "current_valuation_usd": "$250+ million",
+    "current_valuation_usd_last_updated": "2025-10-18T11:00:53.350Z",
+    "total_funding_raised": "$46.2 million",
+    "total_funding_raised_last_updated": "2025-10-18T10:58:55.524Z",
+    "key_investors": [
+      {
+        "name": "Sorenson Capital",
+        "domain": "sorensoncapital.com"
+      },
+      {
+        "name": "PayPal Ventures",
+        "domain": "paypal.com"
+      },
+      {
+        "name": "Commerce Ventures",
+        "domain": "commerce.vc"
+      },
+      {
+        "name": "GMO Venture Partners",
+        "domain": "gmo-vp.com"
+      },
+      {
+        "name": "Village Global",
+        "domain": "villageglobal.vc"
+      },
+      {
+        "name": "Quona Capital",
+        "domain": "quona.com"
+      },
+      {
+        "name": "XYZ Ventures",
+        "domain": null
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      },
+      {
+        "name": "EMVC",
+        "domain": "em.vc"
+      },
+      {
+        "name": "Sweat Equity Ventures",
+        "domain": "sweatequity.vc"
+      },
+      {
+        "name": "Okta Ventures",
+        "domain": "okta.com"
+      },
+      {
+        "name": "Mark Britto (angel)",
+        "domain": null
+      },
+      {
+        "name": "Bobby Mehta (angel)",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sorenson Capital",
+        "logo_url": "/investor-logos/sorenson-capital.png"
+      },
+      {
+        "name": "PayPal Ventures",
+        "logo_url": "/investor-logos/paypal-ventures.png"
+      },
+      {
+        "name": "Commerce Ventures",
+        "logo_url": "/investor-logos/commerce-ventures.png"
+      },
+      {
+        "name": "GMO Venture Partners",
+        "logo_url": "/investor-logos/gmo-venture-partners.png"
+      },
+      {
+        "name": "Village Global",
+        "logo_url": "/investor-logos/village.png"
+      },
+      {
+        "name": "Quona Capital",
+        "logo_url": "/investor-logos/quona-capital.png"
+      },
+      {
+        "name": "XYZ Ventures",
+        "logo_url": "/investor-logos/xyz-ventures.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "EMVC",
+        "logo_url": "/investor-logos/emvc.png"
+      },
+      {
+        "name": "Sweat Equity Ventures",
+        "logo_url": "/investor-logos/sweat-equity-ventures.png"
+      },
+      {
+        "name": "Okta Ventures",
+        "logo_url": "/investor-logos/okta-ventures.png"
+      },
+      {
+        "name": "Mark Britto (angel)",
+        "logo_url": "/investor-logos/mark-britto-angel.png"
+      },
+      {
+        "name": "Bobby Mehta (angel)",
+        "logo_url": "/investor-logos/bobby-mehta-angel.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-18T10:58:55.524Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": 300
+    }
+  },
+  "benefits_fields": [
+    "flexible-hours",
+    "health-insurance",
+    "learning-development",
+    "meal-allowance",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-18T10:58:55.524Z",
+    "company_basic_information.website_url_last_updated": "2025-10-18T10:58:55.524Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-18T10:58:55.524Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.655Z",
+    "company_basic_information.last_updated": "2025-10-18",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-18T10:58:55.524Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-18T10:58:55.524Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:26:06.870Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:46:01.007Z",
+    "social_media.x_url_last_verified": "2025-10-18T10:58:55.524Z",
+    "social_media.linkedin_url_last_verified": "2025-10-18T10:58:55.524Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:02:58.691Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-18T10:58:55.524Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-18T11:00:53.350Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-18T10:58:55.524Z",
+    "financial_information.investor_logos_last_updated": "2025-10-18T10:58:55.524Z",
+    "location_mapping[0].last_updated": "2025-10-18T13:51:38.319Z",
+    "job_data.roles[0].posted_date": "2025-10-24",
+    "job_data.roles[1].posted_date": "2025-12-16",
+    "job_data.roles[2].posted_date": "2026-01-28",
+    "job_data.roles[3].posted_date": "2026-07-01",
+    "job_data.roles[4].posted_date": "2026-07-06",
+    "job_data.roles[5].posted_date": "2026-08-02",
+    "job_data.roles[6].posted_date": "2026-08-16",
+    "job_data.roles[7].posted_date": "2026-08-16",
+    "job_data.roles[8].posted_date": "2026-08-16",
+    "job_data.roles[9].posted_date": "2026-08-16",
+    "job_data.roles[10].posted_date": "2026-08-16",
+    "job_data.roles[11].posted_date": "2026-08-16",
+    "job_data.roles[12].posted_date": "2026-08-31",
+    "job_data.roles[13].posted_date": "2026-08-31",
+    "job_data.roles[14].posted_date": "2026-08-31",
+    "job_data.roles[15].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T09:20:25.703Z",
+    "benefits.flexible-hours.last_updated": "2026-01-06T14:03:55.939Z",
+    "benefits.health-insurance.last_updated": "2026-01-06T14:03:55.939Z",
+    "benefits.learning-development.last_updated": "2026-01-06T14:03:55.939Z",
+    "benefits.meal-allowance.last_updated": "2026-01-06T14:03:55.939Z",
+    "benefits.team-events.last_updated": "2026-01-06T14:03:55.939Z"
+  }
+}

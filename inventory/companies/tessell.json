@@ -1,0 +1,418 @@
+{
+  "slug": "tessell",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/49191.31d8962b214a5a32.js",
+  "observed_at": "2026-09-28T08:37:23.690170+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 14513,
+    "sha256": "8217ab8b5edd577a59b84ff3f4edfbe793b5f00b915180d6e5574f62f7b37a20",
+    "elapsed_seconds": 0.396,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:23 GMT",
+      "etag": "\"8f89004e824ff2b806cc44d5fe405d4c\"",
+      "last-modified": "Mon, 28 Sep 2026 08:37:23 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Tessell",
+    "company_name_legal": "Tessell",
+    "founded_year": 2021,
+    "website_url": "https://www.tessell.com",
+    "careers_url": "https://job-boards.greenhouse.io/tessellinc",
+    "investor_portfolio_page": null,
+    "id": 234
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-24T10:10:17.699Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9227,
+      "longitude": 77.6824,
+      "exact_address": "WEWORK, No. 78/9, Outer Ring Road, Bellandur Village, Varthur Hobli, Bellandur, Bangalore South, Bengaluru, Karnataka, India - 560103",
+      "departments": [
+        "engineering",
+        "design",
+        "ai",
+        "content-production",
+        "data"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7472,
+      "longitude": -104.9869,
+      "exact_address": "717 17th Street, Suite 2000, Denver, Colorado, United States - 80202",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "H NO 1-3-183/40/27, SBI COLONY GANDHI NAGAR, ASHOK NAGAR, SECUNDERABAD, HYDERABAD, Telangana, India - 500080",
+      "departments": [
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "design",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "design",
+        "sales",
+        "engineering",
+        "data"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "San Ramon",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7786,
+      "longitude": -121.9827,
+      "exact_address": "2603 Camino Ramon Ste 340, San Ramon, California, United States - 94583-9137",
+      "departments": [
+        "design",
+        "sales",
+        "engineering",
+        "data"
+      ],
+      "employee_count": "110+"
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-04-02T10:05:47.790Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-02T10:05:47.790Z",
+    "total_funding_raised": "$94 million",
+    "total_funding_raised_last_updated": "2026-04-02T10:05:47.790Z",
+    "key_investors": [
+      {
+        "name": "WestBridge Capital",
+        "domain": "westbridge.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "B37.vc",
+        "domain": "b37.vc"
+      },
+      {
+        "name": "Rocketship.vc",
+        "domain": "rocketship.vc"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "WestBridge Capital",
+        "logo_url": "/investor-logos/westbridge-capital.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "B37.vc",
+        "logo_url": "/investor-logos/b37-vc.png"
+      },
+      {
+        "name": "Rocketship.vc",
+        "logo_url": "/investor-logos/rocketshipvc.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-02T10:05:47.790Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-02T10:05:47.790Z",
+    "company_basic_information.website_url_last_updated": "2026-04-02T10:05:47.790Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-02T10:05:47.790Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-02T10:05:47.790Z",
+    "company_basic_information.last_updated": "2026-04-02",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-02T13:28:45.668Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:00:17.200Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-02T13:29:26.149Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T12:33:44.861Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:00:22.520Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-04-02T13:30:08.320Z",
+    "leadership.founders[2].image_url_last_updated": "2026-04-24T12:33:55.699Z",
+    "leadership.founders[2].description_last_updated": "2026-04-25T10:00:29.598Z",
+    "social_media.x_url_last_verified": "2026-04-02T13:30:30.031Z",
+    "social_media.linkedin_url_last_verified": "2026-04-02T13:31:03.240Z",
+    "social_media.instagram_url_last_verified": "2026-04-02T15:44:48.147Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-04-02T10:05:47.790Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-02T10:05:47.790Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-02T10:05:47.790Z",
+    "financial_information.investor_logos_last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[0].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[1].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[2].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[3].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[4].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[5].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[6].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[7].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[8].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[9].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[10].last_updated": "2026-04-02T10:05:47.790Z",
+    "location_mapping[11].last_updated": "2026-04-02T10:05:47.790Z",
+    "job_data.last_updated": "2026-09-24T10:10:17.699Z"
+  }
+}

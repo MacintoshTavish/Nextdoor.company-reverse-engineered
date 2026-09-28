@@ -1,0 +1,628 @@
+{
+  "slug": "falconx",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/33891.bfdb86717a18247b.js",
+  "observed_at": "2026-09-28T08:31:34.157397+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 16637,
+    "sha256": "fa24934d804d06a1713ed2c70956a58a46e400de1acb8ecf67356449c5e04ea1",
+    "elapsed_seconds": 0.377,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:34 GMT",
+      "etag": "\"396365710e96cfa6c0d5271ef803ab5a\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "FalconX",
+    "company_name_legal": "FalconX Delta Inc.",
+    "founded_year": 2018,
+    "website_url": "https://falconx.io",
+    "careers_url": "https://job-boards.greenhouse.io/falconx",
+    "investor_portfolio_page": null,
+    "id": 215
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 16,
+    "last_updated": "2026-09-26T18:02:34.872Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 16,
+  "role_field_names": [
+    "apply_url",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Director, Corporate Controller",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4719546005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Head of Technical Accounting & Financial Reporting",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4587190005",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Manager, Financial Reporting & Technical Accounting",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4707729005",
+      "location_ids": [
+        "new_york_office",
+        "san_francisco_office"
+      ],
+      "location_display": "New York City, USA / San Francisco Bay Area, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Chief Compliance Officer, Swap Dealer",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4719427005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Compliance Officer, Caymans",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4723805005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Engineering Manager",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4729934005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Software Engineer - Risk",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4719876005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Core Quantitative Developer",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4727365005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Infrastructure Engineer - Trading Systems",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4719441005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Custody Operations Associate",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4683799005",
+      "location_ids": [
+        "malta_office"
+      ],
+      "location_display": "Malta, Malta",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Head of Compliance - Malta",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4736235005",
+      "location_ids": [
+        "malta_office"
+      ],
+      "location_display": "Malta, Malta",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Trading Systems Developer",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4734064005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Senior Trading System Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4680827005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Trader",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4734676005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Analyst, Credit Business Operations",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4732710005",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York City, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    },
+    {
+      "title": "Trade Ops Associate",
+      "apply_url": "https://job-boards.greenhouse.io/falconx/jobs/4734433005",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-09-26"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.6412,
+      "exact_address": "Kaveri Building, Opp. Max Fashion, 14th Main HSR Layout Sector-7, HSR Layout, Bangalore South, Bangalore, Karnataka, India - 560102",
+      "departments": [
+        "finance",
+        "engineering",
+        "customer-support",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "malta_office",
+      "city": "Ta' Xbiex",
+      "state": "Malta",
+      "country": "Malta",
+      "latitude": 35.8975,
+      "longitude": 14.5021,
+      "exact_address": "Level G (Office 1/1191), Quantum House, 75 Abate Rigord Street, Ta' Xbiex, XBX 1120, Malta",
+      "departments": [
+        "administration"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "finance",
+        "legal",
+        "engineering",
+        "operations",
+        "other",
+        "sales",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-03-10T09:09:25.175Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-03-10T09:09:25.175Z",
+    "total_funding_raised": "$477 million",
+    "total_funding_raised_last_updated": "2026-03-10T09:09:25.175Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "B Capital Group",
+        "domain": "b.capital"
+      },
+      {
+        "name": "GIC",
+        "domain": "gic.com.sg"
+      },
+      {
+        "name": "Wellington Management",
+        "domain": "wellington.com"
+      },
+      {
+        "name": "Thoma Bravo",
+        "domain": "thomabravo.com"
+      },
+      {
+        "name": "Adams Street Partners",
+        "domain": "adamsstreetpartners.com"
+      },
+      {
+        "name": "Altimeter Capital",
+        "domain": "altimeter.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      },
+      {
+        "name": "American Express Ventures",
+        "domain": "amexventures.com"
+      },
+      {
+        "name": "Mirae Asset",
+        "domain": "miraeasset.com"
+      },
+      {
+        "name": "MDSV Capital",
+        "domain": "mdsvcap.com"
+      },
+      {
+        "name": "Accomplice",
+        "domain": "accomplice.vc"
+      },
+      {
+        "name": "Flybridge Capital",
+        "domain": "flybridge.com"
+      },
+      {
+        "name": "Avon Ventures",
+        "domain": null
+      },
+      {
+        "name": "Fenbushi Capital",
+        "domain": "fenbushicapital.com"
+      },
+      {
+        "name": "Coinbase Ventures",
+        "domain": "coinbase.com"
+      },
+      {
+        "name": "Fidelity Investments",
+        "domain": "fidelity.com"
+      },
+      {
+        "name": "Cadenza",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "B Capital Group",
+        "logo_url": "/investor-logos/b-capital-group.png"
+      },
+      {
+        "name": "GIC",
+        "logo_url": "/investor-logos/gic.png"
+      },
+      {
+        "name": "Wellington Management",
+        "logo_url": "/investor-logos/wellington-management.png"
+      },
+      {
+        "name": "Thoma Bravo",
+        "logo_url": "/investor-logos/thoma-bravo.png"
+      },
+      {
+        "name": "Adams Street Partners",
+        "logo_url": "/investor-logos/adams-street-partners.png"
+      },
+      {
+        "name": "Altimeter Capital",
+        "logo_url": "/investor-logos/altimeter-capital.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      },
+      {
+        "name": "American Express Ventures",
+        "logo_url": "/investor-logos/american-express-ventures.png"
+      },
+      {
+        "name": "Mirae Asset",
+        "logo_url": "/investor-logos/mirae-asset.png"
+      },
+      {
+        "name": "MDSV Capital",
+        "logo_url": null
+      },
+      {
+        "name": "Accomplice",
+        "logo_url": "/investor-logos/accomplice.png"
+      },
+      {
+        "name": "Flybridge Capital",
+        "logo_url": "/investor-logos/flybridge-capital.png"
+      },
+      {
+        "name": "Avon Ventures",
+        "logo_url": "/investor-logos/avon-ventures.png"
+      },
+      {
+        "name": "Fenbushi Capital",
+        "logo_url": "/investor-logos/fenbushi-capital.png"
+      },
+      {
+        "name": "Coinbase Ventures",
+        "logo_url": "/investor-logos/coinbase-ventures.png"
+      },
+      {
+        "name": "Fidelity Investments",
+        "logo_url": "/investor-logos/fidelity-investments.png"
+      },
+      {
+        "name": "Cadenza",
+        "logo_url": "/investor-logos/cadenza.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-03-10T09:09:25.175Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "bonus",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-03-10T09:09:25.175Z",
+    "company_basic_information.website_url_last_updated": "2026-03-10T09:09:25.175Z",
+    "company_basic_information.careers_url_last_updated": "2026-03-10T09:09:25.175Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-03-10T09:09:25.175Z",
+    "company_basic_information.last_updated": "2026-03-10",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-03-10T09:47:32.835Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-03-10T09:47:48.752Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T15:00:25.768Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:03:37.342Z",
+    "social_media.x_url_last_verified": "2026-03-10T09:48:03.312Z",
+    "social_media.linkedin_url_last_verified": "2026-03-10T09:48:36.411Z",
+    "social_media.instagram_url_last_verified": "2026-03-10T10:39:43.325Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-03-10T09:09:25.175Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-03-10T09:09:25.175Z",
+    "financial_information.total_funding_raised_last_updated": "2026-03-10T09:09:25.175Z",
+    "financial_information.investor_logos_last_updated": "2026-03-10T09:09:25.175Z",
+    "location_mapping[0].last_updated": "2026-03-10T09:09:25.175Z",
+    "location_mapping[1].last_updated": "2026-03-10T09:09:25.175Z",
+    "location_mapping[2].last_updated": "2026-03-10T09:09:25.175Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.roles[15].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T18:02:34.872Z",
+    "benefits.bonus.last_updated": "2026-03-11T12:28:44.853Z",
+    "benefits.equity-stock.last_updated": "2026-03-11T12:28:44.853Z"
+  }
+}

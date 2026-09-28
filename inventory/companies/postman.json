@@ -1,0 +1,1038 @@
+{
+  "slug": "postman",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/19227.ebc2d344db1b1e93.js",
+  "observed_at": "2026-09-28T08:27:30.056579+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 31517,
+    "sha256": "4f0c8dc5aec30e9972325b2c49133e917cd5cb5dc268982af14330b6050f4ef1",
+    "source": "earlier exact-URL live response"
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "social_media",
+    "leadership",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Postman",
+    "company_name_legal": "Postman, Inc.",
+    "founded_year": 2012,
+    "website_url": "https://www.postman.com",
+    "careers_url": "https://job-boards.greenhouse.io/postman",
+    "investor_portfolio_page": null,
+    "id": 130
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-26T18:08:16.770Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "design",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.97296,
+      "longitude": 77.64196,
+      "exact_address": "Building No 310, 6th Main Road, Indiranagar, Bangalore, Karnataka, India - 560038",
+      "departments": [
+        "hr",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3474,
+      "longitude": -71.081,
+      "exact_address": "800 Boylston St. Suite 1410, Boston, Massachusetts, United States - 02199",
+      "departments": [
+        "design",
+        "other",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8853804,
+      "longitude": -87.6396843,
+      "exact_address": "150 N Riverside Plaza, Suite 4100, Chicago, Illinois, United States - 60606",
+      "departments": [
+        "design"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cupertino_office",
+      "city": "Cupertino",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.33189,
+      "longitude": -122.01233,
+      "exact_address": "10080 North Wolfe Road, Suite 200, Cupertino, California, United States - 95014",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "eindhoven_office",
+      "city": "Eindhoven",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 51.4393,
+      "longitude": 5.4781,
+      "exact_address": "Eindhoven, Netherlands",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "customer-success",
+        "hr",
+        "engineering",
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "other",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "design"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7484405,
+      "longitude": -73.9856644,
+      "exact_address": "350 5th Avenue, Empire State Building, Suite 7012, New York, New York, United States - 10118",
+      "departments": [
+        "engineering",
+        "design",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rotterdam_office",
+      "city": "Rotterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 51.9225,
+      "longitude": 4.47917,
+      "exact_address": "Rotterdam, Netherlands",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.794627,
+      "longitude": -122.394403,
+      "exact_address": "One Market Plaza, Steuart Tower, Suite 0800, 1 Market Street, San Francisco, California, United States - 94105",
+      "departments": [
+        "product",
+        "engineering",
+        "customer-success",
+        "sales",
+        "content-production",
+        "design",
+        "academy-training",
+        "ai"
+      ],
+      "employee_count": "600+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "design",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "tel aviv",
+      "state": "Tel Aviv District",
+      "country": "Israel",
+      "latitude": 32.0681,
+      "longitude": 34.7888,
+      "exact_address": "55 Menachem Begin St., Tel Aviv-Yafo, Israel - 6713813",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.6812,
+      "longitude": 139.7661,
+      "exact_address": "Shin-Marunouchi Bldg, 10th Floor, 1-5-1 Marunouchi, Chiyoda-ku, Tokyo, Japan - 100-6510",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "turin_office",
+      "city": "Turin",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "exact_address": "Turin, Italy",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brisbane_office",
+      "city": "Brisbane",
+      "state": "Queensland",
+      "country": "Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "exact_address": "Brisbane, Queensland, Australia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "minneapolis_office",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "country": "United States",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "exact_address": "Minneapolis, Minnesota, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "oslo_office",
+      "city": "Oslo",
+      "state": null,
+      "country": "Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "exact_address": "Oslo, Norway",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "calgary_office",
+      "city": "Calgary",
+      "state": "Alberta",
+      "country": "Canada",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "exact_address": "Calgary, Alberta, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "jakarta_office",
+      "city": "Jakarta",
+      "state": null,
+      "country": "Indonesia",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "exact_address": "Jakarta, Indonesia",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valencia_office",
+      "city": "Valencia",
+      "state": null,
+      "country": "Spain",
+      "latitude": 39.4699,
+      "longitude": -0.3763,
+      "exact_address": "Valencia, Spain",
+      "departments": [
+        "academy-training"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berkeley_office",
+      "city": "Berkeley",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.8715,
+      "longitude": -122.273,
+      "exact_address": "Berkeley, California, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "quebec_office",
+      "city": "Quebec City",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 46.8139,
+      "longitude": -71.2082,
+      "exact_address": "Quebec City, Quebec, Canada",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "washington_office",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "exact_address": "Washington, District of Columbia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "alberta_office",
+      "city": "Edmonton",
+      "state": "Alberta",
+      "country": "Canada",
+      "latitude": 53.5461,
+      "longitude": -113.4938,
+      "exact_address": "Edmonton, Alberta, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-d+",
+    "funding_stage_last_updated": "2025-12-12T16:38:08.643Z",
+    "current_valuation_usd": "$5.6 billion",
+    "current_valuation_usd_last_updated": "2025-12-12T16:38:08.643Z",
+    "total_funding_raised": "$433 million",
+    "total_funding_raised_last_updated": "2025-12-12T16:38:08.643Z",
+    "key_investors": [
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "Coatue",
+        "domain": "coatue.com"
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "BOND",
+        "domain": "bondcap.com"
+      },
+      {
+        "name": "CRV",
+        "domain": "crv.com"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "domain": "nexusvp.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "Coatue",
+        "logo_url": "/investor-logos/coatue.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "BOND",
+        "logo_url": "/investor-logos/bond.png"
+      },
+      {
+        "name": "CRV",
+        "logo_url": "/investor-logos/crv.png"
+      },
+      {
+        "name": "Nexus Venture Partners",
+        "logo_url": "/investor-logos/nexus-venture.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-12-12T16:38:08.643Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "flexible-hours",
+    "unlimited-pto",
+    "gym-membership",
+    "meal-allowance",
+    "mental-health",
+    "team-events",
+    "remote-work",
+    "equity-stock",
+    "bonus",
+    "donation-matching",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].x_twitter_verified_by": "ai",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-12-12T10:41:03.728Z",
+    "company_basic_information.website_url_last_updated": "2025-12-12T10:41:03.728Z",
+    "company_basic_information.careers_url_last_updated": "2025-12-12T10:41:03.728Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-12-12T10:41:03.728Z",
+    "company_basic_information.last_updated": "2025-12-12",
+    "social_media.x_url_last_verified": "2025-12-12T10:45:32.543Z",
+    "social_media.linkedin_url_last_verified": "2025-12-12T10:46:11.931Z",
+    "social_media.instagram_url_last_verified": "2026-01-07T17:34:54.807Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-12-12T10:42:56.847Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-07T17:35:35.457Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-04T08:31:54.045Z",
+    "leadership.founders[0].description_last_updated": "2026-02-04T08:37:47.482Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-12-12T10:43:19.604Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-12-12T10:43:42.087Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-04T08:32:04.623Z",
+    "leadership.founders[1].description_last_updated": "2026-02-04T08:37:52.908Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-12-12T10:44:45.659Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2025-12-12T10:45:07.505Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-04T08:32:15.535Z",
+    "leadership.founders[2].description_last_updated": "2026-02-04T08:37:58.591Z",
+    "business_details.short_description_last_updated": "2026-01-15T19:15:54.123Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T14:54:42.412Z",
+    "financial_information.funding_stage_last_updated": "2025-12-12T16:38:08.643Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-12-12T16:38:08.643Z",
+    "financial_information.total_funding_raised_last_updated": "2025-12-12T16:38:08.643Z",
+    "financial_information.investor_logos_last_updated": "2025-12-12T16:38:08.643Z",
+    "location_mapping[0].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[1].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[2].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[3].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[4].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[5].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[6].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[7].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[8].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[9].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[10].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[11].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[12].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[13].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[14].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[15].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[16].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[17].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[18].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[19].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[20].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[21].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[22].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[23].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[24].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[25].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[26].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[27].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[28].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[29].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[30].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[31].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[32].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[33].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[34].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[35].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[36].last_updated": "2025-12-12T10:41:03.728Z",
+    "location_mapping[38].last_updated": "2026-02-24T11:22:31.226Z",
+    "job_data.last_updated": "2026-09-26T18:08:16.770Z",
+    "benefits.health-insurance.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.flexible-hours.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.unlimited-pto.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.gym-membership.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.meal-allowance.last_updated": "2025-12-18T00:00:00.000Z",
+    "benefits.mental-health.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.team-events.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.remote-work.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.equity-stock.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.bonus.last_updated": "2025-12-17T19:29:38.402Z",
+    "benefits.donation-matching.last_updated": "2025-12-18T00:00:00.000Z"
+  }
+}

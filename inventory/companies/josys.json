@@ -1,0 +1,674 @@
+{
+  "slug": "josys",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/24311.b64c845a72641b85.js",
+  "observed_at": "2026-09-28T08:33:07.761655+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 25207,
+    "sha256": "6352622c3f266686455cdf2a37384387211623b19546f242f2bde511e11f9ad8",
+    "elapsed_seconds": 0.488,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:07 GMT",
+      "etag": "\"99dc3be9950c65b4ab1fb70d926e22e8\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:07 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Josys",
+    "company_name_legal": "Josys inc.",
+    "founded_year": 2022,
+    "website_url": "https://josys.com",
+    "careers_url": "https://jobs.ashbyhq.com/josys",
+    "investor_portfolio_page": null,
+    "id": 191
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 26,
+    "last_updated": "2026-09-18T15:44:31.084Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 26,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Account Consultant - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/0446ba8b-cdf9-4d75-a892-051180f93f67",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-09",
+      "ashby_job_id": "0446ba8b-cdf9-4d75-a892-051180f93f67"
+    },
+    {
+      "title": "Account Executive (Enterprise) - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/7bde35a3-a3c9-4519-bc48-a8c42ca89eb5",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-10-28",
+      "ashby_job_id": "7bde35a3-a3c9-4519-bc48-a8c42ca89eb5"
+    },
+    {
+      "title": "Channel Sales - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/46bf7d4f-fcfb-4e9b-862f-d87dec16e382",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2025-07-08",
+      "ashby_job_id": "46bf7d4f-fcfb-4e9b-862f-d87dec16e382"
+    },
+    {
+      "title": "Enterprise Software Architect",
+      "apply_url": "https://jobs.ashbyhq.com/josys/ae1d9558-e25e-45cc-848a-3086e3243d45",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-19",
+      "ashby_job_id": "ae1d9558-e25e-45cc-848a-3086e3243d45"
+    },
+    {
+      "title": "Enterprise Solution Architect (Identity & Security) - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/11686a46-c8f6-4cab-871e-ff96b3684797",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "11686a46-c8f6-4cab-871e-ff96b3684797"
+    },
+    {
+      "title": "Principal Product Designer",
+      "apply_url": "https://jobs.ashbyhq.com/josys/38cc579d-f857-4d0e-8378-3293890c73c0",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-12-10",
+      "ashby_job_id": "38cc579d-f857-4d0e-8378-3293890c73c0"
+    },
+    {
+      "title": "Product Adoption & Support Operations - Customer Success",
+      "title_original": "Product Adoption & Support Operations",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-09T17:59:14.023Z",
+      "apply_url": "https://jobs.ashbyhq.com/josys/137df3a2-623c-4a82-8dd4-67d991e54f60",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "137df3a2-623c-4a82-8dd4-67d991e54f60",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on designing and implementing self-service experiences for customers, enhancing user experience, and providing technical support, which aligns closely with customer success functions. The emphasis on proactive engagement with customers and improving product adoption further solidifies this classification."
+    },
+    {
+      "title": "Senior Account Consultant (Enterprise Solutions) - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/66b8f23a-dfc9-4fc5-8fac-b2d5e318dc52",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-30",
+      "ashby_job_id": "66b8f23a-dfc9-4fc5-8fac-b2d5e318dc52"
+    },
+    {
+      "title": "Senior Automation Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/josys/336ee265-7efa-4d77-b0fb-06d0b8b76a3d",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-22",
+      "ashby_job_id": "336ee265-7efa-4d77-b0fb-06d0b8b76a3d"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/josys/04703ddd-7128-4740-982a-bdac760aeddc",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-05",
+      "ashby_job_id": "04703ddd-7128-4740-982a-bdac760aeddc"
+    },
+    {
+      "title": "Solution Development (Enterprise Security Foundation Implementation) - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/7b8e4bc1-5480-44db-bc25-ce5e37e9f781",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "7b8e4bc1-5480-44db-bc25-ce5e37e9f781"
+    },
+    {
+      "title": "Solutions Engineer, Seattle",
+      "apply_url": "https://jobs.ashbyhq.com/josys/3c9f22b1-09f5-41a6-a1f8-520d2187bee5",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "3c9f22b1-09f5-41a6-a1f8-520d2187bee5"
+    },
+    {
+      "title": "法務マネージャー - Legal Operations Lead / In-House Lawyer - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/191598a7-7668-46d9-983c-90e112d0d912",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-26",
+      "ashby_job_id": "191598a7-7668-46d9-983c-90e112d0d912"
+    },
+    {
+      "title": "Channel Enablement Manager - Tokyo",
+      "title_original": "Channel Enablement - Tokyo",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-02-18T06:41:00.432Z",
+      "apply_url": "https://jobs.ashbyhq.com/josys/d85f6de4-dad5-4ce1-b923-697289e90248",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-09",
+      "ashby_job_id": "d85f6de4-dad5-4ce1-b923-697289e90248",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this position focus on leading sales partner initiatives, training, and enabling partners to maximize their sales capabilities. The role directly contributes to pipeline creation and growth through partner engagement, which is a core function of sales."
+    },
+    {
+      "title": "Senior Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/josys/6f88d5de-acdb-42c9-9c7b-da2a3c916b05",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-01",
+      "ashby_job_id": "6f88d5de-acdb-42c9-9c7b-da2a3c916b05"
+    },
+    {
+      "title": "【ポテンシャル採用】エンタープライズ・ソリューションプランナー（未経験から目指す次世代リーダー） - Tokyo",
+      "apply_url": "https://jobs.ashbyhq.com/josys/b040f3c0-a163-481d-8e20-158b7975d7d3",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "b040f3c0-a163-481d-8e20-158b7975d7d3",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on supporting customer IT operations, building trust through solution consulting, and actively proposing integrated solutions to address customer challenges. This aligns closely with the customer success function, which emphasizes ensuring customer satisfaction and driving product adoption."
+    },
+    {
+      "title": "Content & Creative Marketing Specialist - Identity Security",
+      "title_original": "コンテンツ＆クリエイティブマーケティングスペシャリスト",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-07-23T18:52:11.902Z",
+      "apply_url": "https://jobs.ashbyhq.com/josys/9c4c71a3-8065-47c1-8c27-5d7dcc3079d6",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-23",
+      "ashby_job_id": "9c4c71a3-8065-47c1-8c27-5d7dcc3079d6",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on content marketing, creative production, and leveraging design to drive business outcomes. The job description emphasizes tasks such as content creation, marketing strategy, and event-related creative direction, which are all integral to the marketing department."
+    },
+    {
+      "title": "Sales Development Representative (SDR)",
+      "apply_url": "https://jobs.ashbyhq.com/josys/fa724b21-ba73-4034-a016-13258198fa92",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-23",
+      "ashby_job_id": "fa724b21-ba73-4034-a016-13258198fa92"
+    },
+    {
+      "title": "PR Specialist / PR Lead",
+      "apply_url": "https://jobs.ashbyhq.com/josys/105a188e-3590-41de-a9ac-1723b5f80347",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "105a188e-3590-41de-a9ac-1723b5f80347"
+    },
+    {
+      "title": "事業企画 / GTM Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/josys/b8a9ee61-e773-40f3-8271-57bd08a9ae68",
+      "location_ids": [
+        "tokyo_office"
+      ],
+      "location_display": "Tokyo, Japan",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-06",
+      "ashby_job_id": "b8a9ee61-e773-40f3-8271-57bd08a9ae68"
+    },
+    {
+      "title": "IT Administrator (Intern)",
+      "apply_url": "https://jobs.ashbyhq.com/josys/83229282-68cb-475c-8948-f293850e8657",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-20",
+      "ashby_job_id": "83229282-68cb-475c-8948-f293850e8657"
+    },
+    {
+      "title": "オペレーションスペシャリスト（Endpoint Management / Makuhari Operation Center）",
+      "apply_url": "https://jobs.ashbyhq.com/josys/599a80d0-b029-460c-85d8-d0bcacb9a393",
+      "location_ids": [
+        "kaihin_makuhari_office"
+      ],
+      "location_display": "Kaihin Makuhari, Chiba",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "599a80d0-b029-460c-85d8-d0bcacb9a393"
+    },
+    {
+      "title": "プロジェクトリード（Endpoint Management / Makuhari Operation Center）",
+      "apply_url": "https://jobs.ashbyhq.com/josys/dbca2790-b476-4512-995c-1f43d7707239",
+      "location_ids": [
+        "kaihin_makuhari_office"
+      ],
+      "location_display": "Kaihin Makuhari, Chiba",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "dbca2790-b476-4512-995c-1f43d7707239"
+    },
+    {
+      "title": "Marketing Representative",
+      "apply_url": "https://jobs.ashbyhq.com/josys/c61ef5c0-5475-4772-85e9-47fef7dd874b",
+      "location_ids": [
+        "sydney_office"
+      ],
+      "location_display": "Sydney, Australia",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "c61ef5c0-5475-4772-85e9-47fef7dd874b"
+    },
+    {
+      "title": "Senior Technical Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/josys/c2adee5d-6a40-4c21-b587-260b2e9e927d",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "c2adee5d-6a40-4c21-b587-260b2e9e927d"
+    },
+    {
+      "title": "Senior Backend Engineer (Node.Js)",
+      "apply_url": "https://jobs.ashbyhq.com/josys/f6d35419-225f-42ca-a083-f433ebe15289",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-18",
+      "ashby_job_id": "f6d35419-225f-42ca-a083-f433ebe15289"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9759,
+      "longitude": 77.5962,
+      "exact_address": "6th and 8th Floor, Municipal No. 23/2, Coffee Day Square, Vittal Mallya Road, Near Cubbon Park, Mahatma Gandhi Road, Bangalore North, Bangalore, Karnataka, India - 560001",
+      "departments": [
+        "ai",
+        "engineering",
+        "design"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.6494,
+      "longitude": 139.7503,
+      "exact_address": "Mori JP Tower 23F, Azabudai Hills, 1-3-1 Azabudai, Minato-ku, Tokyo, Japan - 106-0041",
+      "departments": [
+        "consulting",
+        "sales",
+        "other",
+        "marketing",
+        "ai",
+        "operations",
+        "it",
+        "finance"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kaihin_makuhari_office",
+      "city": "Kaihin Makuhari",
+      "state": "Chiba",
+      "country": "Japan",
+      "latitude": 35.6479,
+      "longitude": 140.0349,
+      "exact_address": "Kaihin Makuhari, Chiba, Japan",
+      "departments": [
+        "qa",
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-02-16T14:19:20.865Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-02-16T14:19:20.865Z",
+    "total_funding_raised": "$125 million",
+    "total_funding_raised_last_updated": "2026-02-16T14:19:20.865Z",
+    "key_investors": [
+      {
+        "name": "Global Brain",
+        "domain": "globalbrain.com"
+      },
+      {
+        "name": "Globis Capital Partners",
+        "domain": "globiscapital.co.jp"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Global Brain",
+        "logo_url": "/investor-logos/global-brain.png"
+      },
+      {
+        "name": "Globis Capital Partners",
+        "logo_url": "/investor-logos/globis-capital-partners.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-16T14:19:20.865Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-16T14:19:20.865Z",
+    "company_basic_information.website_url_last_updated": "2026-02-16T14:19:20.865Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-16T14:19:20.865Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-16T14:19:20.865Z",
+    "company_basic_information.last_updated": "2026-02-16",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-18T06:17:38.378Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-19T13:13:15.231Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:36:04.625Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:40:31.123Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-18T13:37:53.498Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:36:16.085Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T14:40:39.483Z",
+    "social_media.x_url_last_verified": "2026-02-19T13:13:44.793Z",
+    "social_media.linkedin_url_last_verified": "2026-02-19T13:45:40.930Z",
+    "social_media.instagram_url_last_verified": "2026-02-18T06:18:56.918Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-16T14:19:20.865Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-16T14:19:20.865Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-16T14:19:20.865Z",
+    "financial_information.investor_logos_last_updated": "2026-02-16T14:19:20.865Z",
+    "location_mapping[0].last_updated": "2026-02-16T14:19:20.865Z",
+    "location_mapping[1].last_updated": "2026-02-16T14:19:20.865Z",
+    "job_data.roles[0].posted_date": "2026-04-09",
+    "job_data.roles[1].posted_date": "2025-10-28",
+    "job_data.roles[2].posted_date": "2025-07-08",
+    "job_data.roles[3].posted_date": "2026-05-19",
+    "job_data.roles[4].posted_date": "2026-06-25",
+    "job_data.roles[5].posted_date": "2025-12-10",
+    "job_data.roles[6].posted_date": "2026-06-29",
+    "job_data.roles[6].title_updated_timestamp": "2026-07-09T17:59:14.023Z",
+    "job_data.roles[7].posted_date": "2026-04-30",
+    "job_data.roles[8].posted_date": "2026-05-22",
+    "job_data.roles[9].posted_date": "2026-06-05",
+    "job_data.roles[10].posted_date": "2026-06-25",
+    "job_data.roles[11].posted_date": "2026-07-01",
+    "job_data.roles[12].posted_date": "2026-06-26",
+    "job_data.roles[13].posted_date": "2026-02-09",
+    "job_data.roles[13].title_updated_timestamp": "2026-02-18T06:41:00.432Z",
+    "job_data.roles[14].posted_date": "2026-04-01",
+    "job_data.roles[15].posted_date": "2026-06-25",
+    "job_data.roles[16].posted_date": "2026-07-23",
+    "job_data.roles[16].title_updated_timestamp": "2026-07-23T18:52:11.902Z",
+    "job_data.roles[17].posted_date": "2026-07-23",
+    "job_data.roles[18].posted_date": "2026-08-06",
+    "job_data.roles[19].posted_date": "2026-08-06",
+    "job_data.roles[20].posted_date": "2026-08-20",
+    "job_data.roles[21].posted_date": "2026-09-03",
+    "job_data.roles[22].posted_date": "2026-09-03",
+    "job_data.roles[23].posted_date": "2026-09-03",
+    "job_data.roles[24].posted_date": "2026-09-03",
+    "job_data.roles[25].posted_date": "2026-09-18",
+    "job_data.last_updated": "2026-09-18T15:44:31.084Z"
+  }
+}

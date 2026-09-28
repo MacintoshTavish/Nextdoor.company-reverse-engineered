@@ -1,0 +1,594 @@
+{
+  "slug": "datachain",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/72883.d22b6295b30f65b0.js",
+  "observed_at": "2026-09-28T08:30:38.513408+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 15061,
+    "sha256": "db9ae188d10b6d41c1573a549f99bdee3cf16c3c9743986eacdf16e150242ff2",
+    "elapsed_seconds": 0.365,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:38 GMT",
+      "etag": "\"2e59cdbe2fec241e8bfd239800046c20\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:38 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Datachain",
+    "company_name_legal": "Datachain Inc.",
+    "founded_year": 2018,
+    "website_url": "https://datachain.ai",
+    "careers_url": "https://jobs.lever.co/iterative",
+    "investor_portfolio_page": null,
+    "id": 80
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-18T15:55:18.160Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "country": "Netherlands",
+      "latitude": 52.362264,
+      "longitude": 4.891775,
+      "exact_address": "Keizersgracht 482, 1017 EG, Amsterdam, North Holland, Netherlands",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.267153,
+      "longitude": -97.743057,
+      "exact_address": "501 Congress Ave, Suite 150, Austin, Texas, United States - 78701",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9698,
+      "longitude": 77.6552,
+      "exact_address": "H. No. 565/4, 2nd Floor, 6th Cross, 7th Main, H.A.L., 2nd Stage, Bangalore, Karnataka, India - 560008",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.21714,
+      "longitude": 55.28206,
+      "exact_address": "Emirates Towers, Sheikh Zayed Road, Dubai, UAE",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "Kidlington",
+      "state": "Oxfordshire",
+      "country": "United Kingdom",
+      "latitude": 51.83223,
+      "longitude": -1.28255,
+      "exact_address": "Manor Farm, Hampton Gay, Kidlington, England, OX5 2QH",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Ciudad de México",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.419993,
+      "longitude": -99.162212,
+      "exact_address": "Calle Colima 220, Piso 3, Roma Norte, Cuauhtémoc, Ciudad de México, Ciudad de México, Mexico - 06700",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.752726,
+      "longitude": -73.979246,
+      "exact_address": "DataChain, 335 Madison Ave, 4th Floor, New York, NY 10017, United States",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "latitude": 48.872015,
+      "longitude": 2.303526,
+      "exact_address": "16 rue Washington, 75008 Paris, France",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.789019,
+      "longitude": -122.401318,
+      "exact_address": "44 Montgomery St, Suite 300, San Francisco, California, United States - 94104",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.606209,
+      "longitude": -122.336071,
+      "exact_address": "Datachain, 1201 2nd Ave, Suite 915, Seattle, Washington, United States - 98101",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": "Seoul",
+      "country": "South Korea",
+      "latitude": 37.494857,
+      "longitude": 127.029428,
+      "exact_address": "13F, 373, Gangnam-daero, Seocho-gu, Seoul, Republic of Korea - 06621",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": "Central Singapore",
+      "country": "Singapore",
+      "latitude": 1.3346,
+      "longitude": 103.8971,
+      "exact_address": "33 Ubi Avenue 3, #08-61 Vertex, Singapore 408868",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": "Stockholms län",
+      "country": "Sweden",
+      "latitude": 59.3311,
+      "longitude": 18.058,
+      "exact_address": "Vasagatan 16, 111 20 Stockholm, Sweden",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.665345,
+      "longitude": 139.737602,
+      "exact_address": "35th Floor, Roppongi Grand Tower, 3-2-1 Roppongi, Minato, Tokyo, Japan - 106-0032",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.785222,
+      "longitude": -79.158683,
+      "exact_address": "35 Acheson Blvd, Toronto, Ontario, Canada - M1C 3C4",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering",
+        "ai"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-27T08:28:24.077Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-27T08:26:01.129Z",
+    "total_funding_raised": "$10 million",
+    "total_funding_raised_last_updated": "2025-10-27T08:28:37.146Z",
+    "key_investors": [
+      {
+        "name": "CoinFund",
+        "domain": "coinfund.io",
+        "is_lead": true
+      },
+      {
+        "name": "Amber Group",
+        "domain": "ambergroup.io",
+        "is_lead": false
+      },
+      {
+        "name": "Hypersphere",
+        "domain": "hypersphere.ventures",
+        "is_lead": false
+      },
+      {
+        "name": "Tykhe Ventures",
+        "domain": "tykhe.vc",
+        "is_lead": false
+      },
+      {
+        "name": "WAGMI Ventures",
+        "domain": "wagmi.ventures",
+        "is_lead": false
+      },
+      {
+        "name": "Varrock Ventures",
+        "domain": "varrock.vc",
+        "is_lead": false
+      },
+      {
+        "name": "Breed VC",
+        "domain": "breed.vc",
+        "is_lead": false
+      },
+      {
+        "name": "Echo Group",
+        "domain": "",
+        "is_lead": false
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "CoinFund",
+        "logo_url": "/investor-logos/coinfund.png"
+      },
+      {
+        "name": "Amber Group",
+        "logo_url": "/investor-logos/amber-group.png"
+      },
+      {
+        "name": "Hypersphere",
+        "logo_url": "/investor-logos/hypersphere.png"
+      },
+      {
+        "name": "Tykhe Ventures",
+        "logo_url": "/investor-logos/tykhe-ventures.png"
+      },
+      {
+        "name": "WAGMI Ventures",
+        "logo_url": "/investor-logos/wagmi-ventures.png"
+      },
+      {
+        "name": "Varrock Ventures",
+        "logo_url": "/investor-logos/varrock-ventures.png"
+      },
+      {
+        "name": "Breed VC",
+        "logo_url": "/investor-logos/breed-vc.png"
+      },
+      {
+        "name": "Echo Group",
+        "logo_url": "/investor-logos/echo-group.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-27T08:26:01.129Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "remote-work",
+    "flexible-hours",
+    "unlimited-pto",
+    "sick-leave",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "conference-budget",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-27T08:26:01.129Z",
+    "company_basic_information.website_url_last_updated": "2025-10-27T08:26:01.129Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-27T08:26:01.129Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.670Z",
+    "company_basic_information.last_updated": "2025-10-27",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-27T08:26:01.129Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:43:51.723Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:49:39.796Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-27T08:26:01.129Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-27T08:26:01.129Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-01T11:44:02.260Z",
+    "leadership.founders[1].description_last_updated": "2026-02-01T11:49:45.228Z",
+    "social_media.x_url_last_verified": "2025-10-27T08:26:01.129Z",
+    "social_media.linkedin_url_last_verified": "2025-10-27T08:26:01.129Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:04:21.984Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-27T08:28:24.077Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-27T08:26:01.129Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-27T08:28:37.146Z",
+    "financial_information.investor_logos_last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[0].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[1].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[2].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[3].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[4].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[5].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[6].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[7].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[8].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[9].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[10].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[11].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[12].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[13].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[14].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[15].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[16].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[17].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[18].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[19].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[20].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[21].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[22].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[23].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[24].last_updated": "2025-10-27T08:26:01.129Z",
+    "location_mapping[25].last_updated": "2025-10-27T08:26:01.129Z",
+    "job_data.last_updated": "2026-09-18T15:55:18.160Z",
+    "benefits.remote-work.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.flexible-hours.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.unlimited-pto.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.sick-leave.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.health-insurance.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.dental-insurance.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.vision-insurance.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.retirement-401k.last_updated": "2026-01-07T15:35:55.225Z",
+    "benefits.conference-budget.last_updated": "2026-01-07T15:35:55.225Z"
+  }
+}

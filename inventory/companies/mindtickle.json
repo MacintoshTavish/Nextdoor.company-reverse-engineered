@@ -1,0 +1,965 @@
+{
+  "slug": "mindtickle",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/73109.f5081272df8f2be6.js",
+  "observed_at": "2026-09-28T08:34:00.043793+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23422,
+    "sha256": "7dfcdd04e9d8dc2ff1a94930e8951cd7934ae57535e4c2129d2c8243df101702",
+    "elapsed_seconds": 0.156,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:34:00 GMT",
+      "etag": "\"1b4015f0146faa5cae71c381b417d7df\"",
+      "last-modified": "Mon, 28 Sep 2026 08:23:08 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "MindTickle",
+    "company_name_legal": "MindTickle Inc.",
+    "founded_year": 2012,
+    "website_url": "https://www.mindtickle.com/",
+    "careers_url": "https://jobs.lever.co/mindtickle",
+    "investor_portfolio_page": null,
+    "id": 29
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 19,
+    "last_updated": "2026-09-18T15:56:29.971Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 19,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Learning Consultant",
+      "apply_url": "https://jobs.lever.co/mindtickle/e5f69583-dd88-4b86-af6b-5582df1548d8",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "academy-training",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "e5f69583-dd88-4b86-af6b-5582df1548d8"
+    },
+    {
+      "title": "Senior Solutions Architect (NAMER)",
+      "apply_url": "https://jobs.lever.co/mindtickle/37dd13ed-f6f2-42a1-887c-f251bd82720e",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "37dd13ed-f6f2-42a1-887c-f251bd82720e"
+    },
+    {
+      "title": "Customer Success Engineer - II",
+      "apply_url": "https://jobs.lever.co/mindtickle/166a3fea-6a19-48da-9a7d-bbff7d3c2f95",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "166a3fea-6a19-48da-9a7d-bbff7d3c2f95"
+    },
+    {
+      "title": "Staff Engineer",
+      "apply_url": "https://jobs.lever.co/mindtickle/e3b6c7c4-4374-458a-a60e-3f7659e222af",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "e3b6c7c4-4374-458a-a60e-3f7659e222af"
+    },
+    {
+      "title": "SME Engineer IT",
+      "apply_url": "https://jobs.lever.co/mindtickle/3ce036e8-d4f9-4086-bec4-186676ea109e",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "3ce036e8-d4f9-4086-bec4-186676ea109e"
+    },
+    {
+      "title": "Security and Automation Engineer",
+      "apply_url": "https://jobs.lever.co/mindtickle/d62b36db-b088-48c7-a606-4ed458e30208",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "security",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "d62b36db-b088-48c7-a606-4ed458e30208"
+    },
+    {
+      "title": "Specialist, Information Security & Privacy",
+      "apply_url": "https://jobs.lever.co/mindtickle/26868ae4-5d58-4374-92cf-40cc7ec68946",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "legal",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "26868ae4-5d58-4374-92cf-40cc7ec68946"
+    },
+    {
+      "title": "Senior Associate, People Success",
+      "apply_url": "https://jobs.lever.co/mindtickle/9cdd2a84-394e-42c1-83ac-3017ad987b70",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "9cdd2a84-394e-42c1-83ac-3017ad987b70"
+    },
+    {
+      "title": "Senior Business Development Representative",
+      "apply_url": "https://jobs.lever.co/mindtickle/8c8700a4-5020-4c8a-a324-ac7cac0ab804",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "8c8700a4-5020-4c8a-a324-ac7cac0ab804"
+    },
+    {
+      "title": "Senior Manager, Business Development - Enterprise",
+      "apply_url": "https://jobs.lever.co/mindtickle/dd65e840-9ff0-492f-879d-0e4dc65be2ad",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "dd65e840-9ff0-492f-879d-0e4dc65be2ad"
+    },
+    {
+      "title": "Principal Customer Marketing Manager",
+      "apply_url": "https://jobs.lever.co/mindtickle/2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1",
+      "location_ids": [
+        "bengaluru_office",
+        "pune_office"
+      ],
+      "location_display": "Bengaluru, India / Pune, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "2ad2a479-1bb9-4ab5-bce2-e47f2022a2e1"
+    },
+    {
+      "title": "Lead Design Engineer",
+      "apply_url": "https://jobs.lever.co/mindtickle/a2bc1371-eade-465a-a017-46c746742baa",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "a2bc1371-eade-465a-a017-46c746742baa"
+    },
+    {
+      "title": "Group Product Manager (Manager Effectiveness)",
+      "apply_url": "https://jobs.lever.co/mindtickle/4365dc2a-87b1-4751-bd30-c90c70dea92c",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "4365dc2a-87b1-4751-bd30-c90c70dea92c"
+    },
+    {
+      "title": "Senior Instructional Designer",
+      "apply_url": "https://jobs.lever.co/mindtickle/efead581-0fc4-4056-8320-4c1816d18732",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "design",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "efead581-0fc4-4056-8320-4c1816d18732"
+    },
+    {
+      "title": "Account Executive, Commercial [NAMER]",
+      "apply_url": "https://jobs.lever.co/mindtickle/203fff0a-f8cc-48cf-bc6f-fcd97a469674",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "203fff0a-f8cc-48cf-bc6f-fcd97a469674"
+    },
+    {
+      "title": "Account Manager [NAMER]",
+      "apply_url": "https://jobs.lever.co/mindtickle/b60f985e-8624-4544-91da-643a87b6d601",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "b60f985e-8624-4544-91da-643a87b6d601"
+    },
+    {
+      "title": "Specialist, Information Security and Privacy",
+      "apply_url": "https://jobs.lever.co/mindtickle/da0c54e2-5dca-4fb5-b236-57080dbf8648",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "da0c54e2-5dca-4fb5-b236-57080dbf8648"
+    },
+    {
+      "title": "Software Engineer, Business Systems",
+      "apply_url": "https://jobs.lever.co/mindtickle/b6e024c2-42c2-463c-8bc8-ca0aa0826845",
+      "location_ids": [
+        "pune_office"
+      ],
+      "location_display": "Pune, India",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "b6e024c2-42c2-463c-8bc8-ca0aa0826845"
+    },
+    {
+      "title": "AI Product Engineer",
+      "apply_url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
+      "location_ids": [
+        "pune_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Pune, India / Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-Time",
+      "posted_date": "2026-09-18",
+      "lever_job_id": "864ac315-d7c5-4cd5-ab44-0e33d08f48f1"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5602,
+      "longitude": 73.7898,
+      "exact_address": "Solitaire World, Off no. 401,402 & 601, 4 & 6 Flr SNo 36/1/1, Opp Regency Classic, Baner, Pune, Maharashtra 411045, India",
+      "departments": [
+        "design",
+        "academy-training",
+        "engineering",
+        "operations",
+        "customer-support",
+        "product",
+        "legal",
+        "consulting"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9719,
+      "longitude": 77.7136,
+      "exact_address": "2nd floor, E-BLOCK, Helios Business Park, Chandana, Kadabeesanahalli, Bengaluru, Karnataka 560103, India",
+      "departments": [
+        "engineering",
+        "product",
+        "sales",
+        "operations",
+        "consulting"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "consulting",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cali_office",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "exact_address": "Cali, Valle del Cauca, Colombia",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cordoba_office",
+      "city": "Córdoba",
+      "state": "Córdoba",
+      "country": "Argentina",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "exact_address": "Córdoba, Córdoba, Argentina",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lima_office",
+      "city": "Lima",
+      "state": "Lima",
+      "country": "Peru",
+      "latitude": -12.0464,
+      "longitude": -77.0428,
+      "exact_address": "Lima, Lima, Peru",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "medellin_office",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia",
+      "latitude": 6.2476,
+      "longitude": -75.5658,
+      "exact_address": "Medellín, Antioquia, Colombia",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rosario_office",
+      "city": "Rosario",
+      "state": "Santa Fe",
+      "country": "Argentina",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "exact_address": "Rosario, Santa Fe, Argentina",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santiago_office",
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "country": "Chile",
+      "latitude": -33.4489,
+      "longitude": -70.6693,
+      "exact_address": "Santiago, Región Metropolitana, Chile",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valparaiso_office",
+      "city": "Valparaíso",
+      "state": "Valparaíso",
+      "country": "Chile",
+      "latitude": -33.0472,
+      "longitude": -71.6127,
+      "exact_address": "Valparaíso, Valparaíso, Chile",
+      "departments": [
+        "consulting"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2025-09-29T00:00:00.000Z",
+    "current_valuation_usd": "$1.2 billion",
+    "current_valuation_usd_last_updated": "2025-09-29T00:00:00.000Z",
+    "total_funding_raised": "$281 million",
+    "total_funding_raised_last_updated": "2025-09-29T00:00:00.000Z",
+    "key_investors": [
+      {
+        "name": "SoftBank Vision Fund 2",
+        "domain": "softbank.jp"
+      },
+      {
+        "name": "Norwest Venture Partners",
+        "domain": "norwest.com"
+      },
+      {
+        "name": "Canaan Partners",
+        "domain": "canaan.com"
+      },
+      {
+        "name": "NewView Capital",
+        "domain": "newviewcapital.com"
+      },
+      {
+        "name": "Qualcomm Ventures",
+        "domain": "qualcomm.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "New Enterprise Associates",
+        "domain": "nea.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "SoftBank Vision Fund 2",
+        "logo_url": "/investor-logos/softbank-vision-fund-2.png"
+      },
+      {
+        "name": "Norwest Venture Partners",
+        "logo_url": "/investor-logos/norwest-venture.png"
+      },
+      {
+        "name": "Canaan Partners",
+        "logo_url": "/investor-logos/canaan.png"
+      },
+      {
+        "name": "NewView Capital",
+        "logo_url": "/investor-logos/newview.png"
+      },
+      {
+        "name": "Qualcomm Ventures",
+        "logo_url": "/investor-logos/qualcomm.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "New Enterprise Associates",
+        "logo_url": "/investor-logos/nea.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-09-29T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "life-insurance",
+    "meal-allowance",
+    "health-savings-account",
+    "parental-leave",
+    "privilege-leave",
+    "learning-development",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "levels_fyi"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-09-29T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-09-29T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2025-09-29T00:00:00.000Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.768Z",
+    "company_basic_information.last_updated": "2025-09-29",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-28T20:02:29.783Z",
+    "leadership.founders[0].description_last_updated": "2026-01-28T20:20:23.361Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-28T20:02:41.993Z",
+    "leadership.founders[1].description_last_updated": "2026-01-28T20:20:29.025Z",
+    "leadership.last_updated": "2025-10-06T12:17:07.006Z",
+    "social_media.x_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "social_media.instagram_url_last_verified": "2025-09-29T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:04:23.034Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-09-29T00:00:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-09-29T00:00:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2025-09-29T00:00:00.000Z",
+    "financial_information.investor_logos_last_updated": "2025-09-29T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2025-09-29T00:00:00.000Z",
+    "location_mapping[1].last_updated": "2025-09-29T00:00:00.000Z",
+    "job_data.roles[0].posted_date": "2026-09-18",
+    "job_data.roles[1].posted_date": "2026-09-18",
+    "job_data.roles[2].posted_date": "2026-09-18",
+    "job_data.roles[3].posted_date": "2026-09-18",
+    "job_data.roles[4].posted_date": "2026-09-18",
+    "job_data.roles[5].posted_date": "2026-09-18",
+    "job_data.roles[6].posted_date": "2026-09-18",
+    "job_data.roles[7].posted_date": "2026-09-18",
+    "job_data.roles[8].posted_date": "2026-09-18",
+    "job_data.roles[9].posted_date": "2026-09-18",
+    "job_data.roles[10].posted_date": "2026-09-18",
+    "job_data.roles[11].posted_date": "2026-09-18",
+    "job_data.roles[12].posted_date": "2026-09-18",
+    "job_data.roles[13].posted_date": "2026-09-18",
+    "job_data.roles[14].posted_date": "2026-09-18",
+    "job_data.roles[15].posted_date": "2026-09-18",
+    "job_data.roles[16].posted_date": "2026-09-18",
+    "job_data.roles[17].posted_date": "2026-09-18",
+    "job_data.roles[18].posted_date": "2026-09-18",
+    "job_data.last_updated": "2026-09-18T15:56:29.971Z",
+    "benefits.life-insurance.last_updated": "2026-01-07T15:40:25.284Z",
+    "benefits.meal-allowance.last_updated": "2026-01-07T15:40:25.284Z",
+    "benefits.health-savings-account.last_updated": "2026-01-07T15:40:25.284Z",
+    "benefits.parental-leave.last_updated": "2026-01-07T15:40:25.284Z",
+    "benefits.privilege-leave.last_updated": "2026-01-07T15:40:25.284Z",
+    "benefits.learning-development.last_updated": "2026-01-07T15:40:25.284Z"
+  }
+}

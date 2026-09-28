@@ -1,0 +1,607 @@
+{
+  "slug": "rox",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/7411.17c1b0d7ed702f67.js",
+  "observed_at": "2026-09-28T08:36:09.919841+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 23103,
+    "sha256": "5bef07b087b12005793617217de3118c263366883a4ec3f5c136680e127c85ba",
+    "elapsed_seconds": 0.413,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:09 GMT",
+      "etag": "\"a2b4adf4a61695d41ada63cee76fdbfe\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:09 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Rox",
+    "company_name_legal": "Rox",
+    "founded_year": 2024,
+    "website_url": "https://rox.com",
+    "careers_url": "https://jobs.ashbyhq.com/Rox-Data-Corp",
+    "investor_portfolio_page": null,
+    "id": 449
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 23,
+    "last_updated": "2026-09-15T18:56:48.475Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 23,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Backend Platform Engineer (BLR)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/6e6b44f9-8bc2-4dfa-9432-5a0d2931a113",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "6e6b44f9-8bc2-4dfa-9432-5a0d2931a113"
+    },
+    {
+      "title": "Core Engineering",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/4b784e01-c6e2-4238-a458-0575d839c46e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "4b784e01-c6e2-4238-a458-0575d839c46e"
+    },
+    {
+      "title": "Customer Success Leader",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/bec706ef-f829-4c3c-a5dd-58623fe96cd2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "bec706ef-f829-4c3c-a5dd-58623fe96cd2"
+    },
+    {
+      "title": "Data Scientist (Growth)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/49a62752-3d88-46d1-8c43-48a4a0840d91",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "49a62752-3d88-46d1-8c43-48a4a0840d91"
+    },
+    {
+      "title": "Equity Compensation and Payroll Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/188a2402-2d5f-459c-a5c4-58b31edf8b9e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "188a2402-2d5f-459c-a5c4-58b31edf8b9e"
+    },
+    {
+      "title": "Forward Deployed Engineer (FDE)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/8c1d393b-3bf5-48bd-99f9-4ae9d960f8b4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "8c1d393b-3bf5-48bd-99f9-4ae9d960f8b4"
+    },
+    {
+      "title": "Foundations Engineer (Agents, SF In Office)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/54b69df7-e82e-45f1-a854-08dd5594d2cf",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "54b69df7-e82e-45f1-a854-08dd5594d2cf"
+    },
+    {
+      "title": "Foundations Engineer (Deep Infra)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/6660cde6-e56d-4dbd-86db-488579b02fa3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "6660cde6-e56d-4dbd-86db-488579b02fa3"
+    },
+    {
+      "title": "Foundations Engineer (Deep Platform)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/00c7e27e-20c4-4310-a9de-a05154516c20",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "00c7e27e-20c4-4310-a9de-a05154516c20"
+    },
+    {
+      "title": "Founding Applied Research Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/d2078263-f2b1-4efa-a6b1-d9435b231b00",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d2078263-f2b1-4efa-a6b1-d9435b231b00"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/5e37039e-cbb8-4e07-a11f-9e321d9f361f",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "5e37039e-cbb8-4e07-a11f-9e321d9f361f"
+    },
+    {
+      "title": "Growth Strategist - Enterprise Sales",
+      "title_original": "Growth Strategist",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:15:12.661Z",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/e02d74f2-a50e-4822-a1c2-7f2374b94172",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "e02d74f2-a50e-4822-a1c2-7f2374b94172",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Growth Strategist role primarily focuses on driving adoption and engagement with enterprise sales teams, managing relationships with sales leaders, and collaborating across functions to enhance the go-to-market lifecycle. This aligns closely with sales responsibilities, particularly in strategic account management and customer engagement."
+    },
+    {
+      "title": "GTM Recruiting Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/ba0a6922-568e-460f-b384-0562878aeba1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "ba0a6922-568e-460f-b384-0562878aeba1"
+    },
+    {
+      "title": "IT Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/265f9a37-167b-4c92-ac1b-8522f18225be",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "265f9a37-167b-4c92-ac1b-8522f18225be"
+    },
+    {
+      "title": "Product Engineer (React)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/bd74dfe7-c825-4a34-8515-cf8297e214a7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "bd74dfe7-c825-4a34-8515-cf8297e214a7"
+    },
+    {
+      "title": "Revenue Enablement Lead",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/a3c1c2e9-8640-4f18-91c8-623ee3ef581e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a3c1c2e9-8640-4f18-91c8-623ee3ef581e"
+    },
+    {
+      "title": "Social & Content Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/32863b44-2861-4b32-96ce-35b4c3310b3b",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "32863b44-2861-4b32-96ce-35b4c3310b3b"
+    },
+    {
+      "title": "Software Engineer (Onsite San Francisco)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/d23ced1d-0e70-43b5-8f55-820caf56dc56",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "d23ced1d-0e70-43b5-8f55-820caf56dc56"
+    },
+    {
+      "title": "Solutions Engineer (Austin)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/833ccae7-5845-4f2c-9400-8fa4ab0be1e8",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "833ccae7-5845-4f2c-9400-8fa4ab0be1e8"
+    },
+    {
+      "title": "Solutions Engineer (NY)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/a8d58e33-88ec-47dc-97d5-16f682ecb716",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "a8d58e33-88ec-47dc-97d5-16f682ecb716"
+    },
+    {
+      "title": "Solutions Engineer (SF)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/b1e8aba6-c8e3-47b7-bd81-230c70aca415",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "b1e8aba6-c8e3-47b7-bd81-230c70aca415"
+    },
+    {
+      "title": "Strategic Account Executive (Austin)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/31fda8e9-38eb-4ece-a8f7-183798546458",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "31fda8e9-38eb-4ece-a8f7-183798546458"
+    },
+    {
+      "title": "Strategic Account Executive (San Francisco)",
+      "apply_url": "https://jobs.ashbyhq.com/Rox-Data-Corp/44e450eb-89aa-4c3c-be69-e800d1b49757",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-15",
+      "ashby_job_id": "44e450eb-89aa-4c3c-be69-e800d1b49757"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "austin_office",
+      "city": "austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2370963,
+      "longitude": -97.8212788,
+      "exact_address": "4970 US-290 # 460, Austin, TX 78735",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 13.0285,
+      "longitude": 77.6389,
+      "exact_address": "#1383/433, 3rd Floor, 5th Block, HBR Layout, BDA Layout, Service Road, Outer Ring Road, Bengaluru, Karnataka, India - 560043",
+      "departments": [
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7649,
+      "longitude": -122.402,
+      "exact_address": "251 Rhode Island Street, Suite 207, San Francisco, California, United States - 94103",
+      "departments": [
+        "engineering",
+        "customer-success",
+        "data",
+        "finance",
+        "marketing",
+        "sales"
+      ],
+      "employee_count": "11-50"
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-09-15T18:59:33.809Z",
+    "current_valuation_usd": "$1.2B",
+    "current_valuation_usd_last_updated": "2026-09-15T18:59:33.809Z",
+    "total_funding_raised": "$50M",
+    "total_funding_raised_last_updated": "2026-09-15T18:59:33.809Z",
+    "key_investors": [
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-09-15T18:59:33.809Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[2].x_twitter_verified_by": "claude-co-work",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "searchapi-maps",
+    "location_mapping[0].location_source_query": "Rox office austin Texas",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[3].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-09-15T18:59:33.809Z",
+    "company_basic_information.website_url_last_updated": "2026-09-15T18:59:33.809Z",
+    "company_basic_information.careers_url_last_updated": "2026-09-15T18:59:33.809Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-09-15T18:59:33.809Z",
+    "company_basic_information.last_updated": "2026-09-15",
+    "leadership.founders[0].linkedin_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[0].x_twitter_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-09-15T19:15:01.364Z",
+    "leadership.founders[0].description_last_updated": "2026-09-15T19:16:30.431Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[1].x_twitter_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-09-15T19:15:23.270Z",
+    "leadership.founders[1].description_last_updated": "2026-09-15T19:16:48.033Z",
+    "leadership.founders[2].linkedin_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[2].x_twitter_last_verified": "2026-09-15T19:10:40.000Z",
+    "leadership.founders[2].image_url_last_updated": "2026-09-15T19:15:44.180Z",
+    "leadership.founders[2].description_last_updated": "2026-09-15T19:16:59.241Z",
+    "social_media.x_url_last_updated": "2026-09-15T18:59:33.809Z",
+    "social_media.linkedin_url_last_updated": "2026-09-15T18:59:33.809Z",
+    "social_media.instagram_url_last_updated": "2026-09-15T18:59:33.809Z",
+    "social_media.x_url_last_verified": "2026-09-15T19:10:40.000Z",
+    "social_media.linkedin_url_last_verified": "2026-09-15T19:10:40.000Z",
+    "social_media.instagram_url_last_verified": "2026-09-15T19:10:40.000Z",
+    "business_details.industry_domains_last_updated": "2026-09-15",
+    "financial_information.funding_stage_last_updated": "2026-09-15T18:59:33.809Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-09-15T18:59:33.809Z",
+    "financial_information.total_funding_raised_last_updated": "2026-09-15T18:59:33.809Z",
+    "financial_information.investor_logos_last_updated": "2026-09-15T18:59:33.809Z",
+    "location_mapping[0].last_updated": "2026-09-15T18:59:33.809Z",
+    "location_mapping[1].last_updated": "2026-09-15T19:23:02.676Z",
+    "location_mapping[2].last_updated": "2026-09-15T18:59:33.809Z",
+    "location_mapping[3].last_updated": "2026-09-15T18:59:33.809Z",
+    "job_data.roles[0].posted_date": "2026-09-15",
+    "job_data.roles[1].posted_date": "2026-09-15",
+    "job_data.roles[2].posted_date": "2026-09-15",
+    "job_data.roles[3].posted_date": "2026-09-15",
+    "job_data.roles[4].posted_date": "2026-09-15",
+    "job_data.roles[5].posted_date": "2026-09-15",
+    "job_data.roles[6].posted_date": "2026-09-15",
+    "job_data.roles[7].posted_date": "2026-09-15",
+    "job_data.roles[8].posted_date": "2026-09-15",
+    "job_data.roles[9].posted_date": "2026-09-15",
+    "job_data.roles[10].posted_date": "2026-09-15",
+    "job_data.roles[11].posted_date": "2026-09-15",
+    "job_data.roles[11].title_updated_timestamp": "2026-09-21T18:15:12.661Z",
+    "job_data.roles[12].posted_date": "2026-09-15",
+    "job_data.roles[13].posted_date": "2026-09-15",
+    "job_data.roles[14].posted_date": "2026-09-15",
+    "job_data.roles[15].posted_date": "2026-09-15",
+    "job_data.roles[16].posted_date": "2026-09-15",
+    "job_data.roles[17].posted_date": "2026-09-15",
+    "job_data.roles[18].posted_date": "2026-09-15",
+    "job_data.roles[19].posted_date": "2026-09-15",
+    "job_data.roles[20].posted_date": "2026-09-15",
+    "job_data.roles[21].posted_date": "2026-09-15",
+    "job_data.roles[22].posted_date": "2026-09-15",
+    "job_data.last_updated": "2026-09-15T18:56:48.475Z",
+    "benefits.equity-stock.last_updated": "2026-09-15T19:14:18.694Z",
+    "benefits.health-insurance.last_updated": "2026-09-15T19:14:18.694Z",
+    "benefits.bonus.last_updated": "2026-09-15T19:14:18.694Z"
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "slug": "jupiter",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/97683.bf4c5d095f62558b.js",
+  "observed_at": "2026-09-28T08:33:10.782846+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 13474,
+    "sha256": "af2e1388f9b66d316b31b1402ed1e9de4f204aa03379d5303aa0116b6915fd69",
+    "elapsed_seconds": 0.445,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:10 GMT",
+      "etag": "\"4a193dfdfd2ad31aa478513c98296d81\"",
+      "last-modified": "Mon, 28 Sep 2026 08:33:10 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Jupiter",
+    "company_name_legal": "Jupiter Money Private Limited",
+    "founded_year": 2019,
+    "website_url": "https://jupiter.money",
+    "careers_url": "https://jupiter.keka.com/careers",
+    "investor_portfolio_page": null,
+    "id": 185
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 12,
+    "last_updated": "2026-09-14T13:03:59.655Z",
+    "crawl_status": "success",
+    "source": "Keka ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 12,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "keka_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Applied Scientist I",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/127033",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "127033"
+    },
+    {
+      "title": "Customer support executive",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/117912",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-1",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "117912"
+    },
+    {
+      "title": "Security Engineer 2",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/127993",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "127993"
+    },
+    {
+      "title": "Devops Engineer - SDE 2",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/134831",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "134831"
+    },
+    {
+      "title": "Legal Associate",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/138159",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "138159"
+    },
+    {
+      "title": "Product Manager",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/132016",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "3-5",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "132016"
+    },
+    {
+      "title": "Risk Analyst II",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/127248",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "127248"
+    },
+    {
+      "title": "Fraud Risk Analyst",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/127246",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "127246"
+    },
+    {
+      "title": "Fraud Analyst – Customer Experience",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/123310",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "123310"
+    },
+    {
+      "title": "Fraud Analyst",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/115605",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "2-4",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "115605"
+    },
+    {
+      "title": "Senior Manager - Fraud Operations",
+      "title_original": "Sr Manager",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-16T14:47:28.004Z",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/136609",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "136609",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of this role focus on managing a team of Fraud Analysts to resolve customer queries related to fraud, which aligns closely with customer support functions. The role involves ensuring high-quality customer interactions and handling escalations, which are key aspects of customer support."
+    },
+    {
+      "title": "Company secretary",
+      "apply_url": "https://jupiter.keka.com/careers/jobdetails/141185",
+      "location_ids": [
+        "mumbai_office"
+      ],
+      "location_display": "Mumbai, India",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "1-3 Years",
+      "commitment": "Full Time",
+      "posted_date": null,
+      "keka_job_id": "141185"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bangalore_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9128,
+      "longitude": 77.6413,
+      "exact_address": "Jupiter HQ, 456, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka, India - 560102",
+      "departments": [
+        "sales",
+        "customer-support",
+        "ai",
+        "design",
+        "engineering",
+        "legal",
+        "data",
+        "finance",
+        "security",
+        "qa",
+        "hr"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "data",
+        "sales",
+        "customer-support",
+        "content-production",
+        "design",
+        "engineering",
+        "legal",
+        "finance",
+        "security"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "operations"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-d",
+    "funding_stage_last_updated": "2026-02-10T17:13:48.549Z",
+    "current_valuation_usd": "$600 million",
+    "current_valuation_usd_last_updated": "2026-02-10T17:13:48.549Z",
+    "total_funding_raised": "$175 million",
+    "total_funding_raised_last_updated": "2026-02-10T17:13:48.549Z",
+    "key_investors": [
+      {
+        "name": "QED Investors",
+        "domain": "qedinvestors.com"
+      },
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      },
+      {
+        "name": "Mirae Asset",
+        "domain": "miraeasset.com"
+      },
+      {
+        "name": "BeeNext",
+        "domain": "beenext.com"
+      },
+      {
+        "name": "3one4 Capital",
+        "domain": "3one4.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Matrix Partners",
+        "domain": "matrixpartners.com"
+      },
+      {
+        "name": "Nubank",
+        "domain": "nubank.com"
+      },
+      {
+        "name": "Z47",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "QED Investors",
+        "logo_url": "/investor-logos/qed-investors.png"
+      },
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Mirae Asset",
+        "logo_url": "/investor-logos/mirae-asset.png"
+      },
+      {
+        "name": "BeeNext",
+        "logo_url": "/investor-logos/beenext.png"
+      },
+      {
+        "name": "3one4 Capital",
+        "logo_url": "/investor-logos/3one4.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Matrix Partners",
+        "logo_url": "/investor-logos/matrix-partners.png"
+      },
+      {
+        "name": "Nubank",
+        "logo_url": "/investor-logos/nubank.png"
+      },
+      {
+        "name": "Z47",
+        "logo_url": "/investor-logos/z47.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-10T17:13:48.549Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": "$18.2 million",
+      "revenue_growth_rate": 220
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Keka ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-10T17:13:48.549Z",
+    "company_basic_information.website_url_last_updated": "2026-02-10T17:13:48.549Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-10T17:13:48.549Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-10T17:13:48.549Z",
+    "company_basic_information.last_updated": "2026-02-10",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-02-10T17:27:39.102Z",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-11T07:41:27.152Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:28:53.622Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:32:27.838Z",
+    "social_media.x_url_last_verified": "2026-02-10T17:27:56.038Z",
+    "social_media.linkedin_url_last_verified": "2026-02-10T17:28:22.171Z",
+    "social_media.instagram_url_last_verified": "2026-02-11T07:07:54.558Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-10T17:13:48.549Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-10T17:13:48.549Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-10T17:13:48.549Z",
+    "financial_information.investor_logos_last_updated": "2026-02-10T17:13:48.549Z",
+    "location_mapping[0].last_updated": "2026-02-10T17:13:48.549Z",
+    "job_data.roles[10].title_updated_timestamp": "2026-08-16T14:47:28.004Z",
+    "job_data.last_updated": "2026-09-14T13:03:59.655Z"
+  }
+}

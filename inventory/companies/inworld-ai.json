@@ -1,0 +1,767 @@
+{
+  "slug": "inworld-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/24573.b87429227f23d0f4.js",
+  "observed_at": "2026-09-28T08:33:00.832845+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 24181,
+    "sha256": "cb17e1231032967eca727fb931dd3390c4a5fc7b014fa6e7a4ffbff055c3aa5e",
+    "elapsed_seconds": 0.191,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:33:00 GMT",
+      "etag": "\"79e092574e45a6cbcc79114f06526250\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:47 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Inworld AI",
+    "company_name_legal": "Inworld AI",
+    "founded_year": 2021,
+    "website_url": "https://inworld.ai",
+    "careers_url": "https://jobs.ashbyhq.com/inworld-ai",
+    "investor_portfolio_page": null,
+    "id": 282
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 22,
+    "last_updated": "2026-09-18T15:44:07.373Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 22,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "GTM Lead - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/1c07ae0f-8d77-496a-8b28-b974075bdc85",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-16",
+      "ashby_job_id": "1c07ae0f-8d77-496a-8b28-b974075bdc85"
+    },
+    {
+      "title": "Senior / Lead Machine Learning Engineer, Serving - Germany",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/183e158a-df78-4bcb-a5ee-96ddcb61c306",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "183e158a-df78-4bcb-a5ee-96ddcb61c306"
+    },
+    {
+      "title": "Senior / Lead Machine Learning Engineer, Serving - Serbia",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/92e64120-ce88-4f76-a694-244cd2813f28",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "92e64120-ce88-4f76-a694-244cd2813f28"
+    },
+    {
+      "title": "Senior / Lead Research Scientist - Germany",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/2eacea62-b50b-4792-b289-c8a4bbbb26b8",
+      "location_ids": [
+        "berlin_office",
+        "munich_office",
+        "frankfurt_office",
+        "hamburg_office",
+        "cologne_office"
+      ],
+      "location_display": "Remote, Germany",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-18",
+      "ashby_job_id": "2eacea62-b50b-4792-b289-c8a4bbbb26b8"
+    },
+    {
+      "title": "Senior / Lead Research Scientist - Serbia",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/015709ff-b1df-4972-b19f-4d2df73e2725",
+      "location_ids": [
+        "belgrade_office"
+      ],
+      "location_display": "Belgrade, Serbia",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-18",
+      "ashby_job_id": "015709ff-b1df-4972-b19f-4d2df73e2725"
+    },
+    {
+      "title": "Staff / Principal Machine Learning Engineer, Serving - Switzerland",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/bf5054ab-ed19-4890-8f0b-ca8a57210e42",
+      "location_ids": [
+        "zurich_office"
+      ],
+      "location_display": "Zurich, Switzerland",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "bf5054ab-ed19-4890-8f0b-ca8a57210e42"
+    },
+    {
+      "title": "Staff / Principal Machine Learning Engineer, Serving - UK",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/8a663fc5-3471-49df-8965-9438601ae590",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "8a663fc5-3471-49df-8965-9438601ae590"
+    },
+    {
+      "title": "Staff / Principal Machine Learning Engineer, Serving - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/56fc5614-9273-401a-9cc3-92e8caf27635",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "ai",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-04-07",
+      "ashby_job_id": "56fc5614-9273-401a-9cc3-92e8caf27635"
+    },
+    {
+      "title": "Staff / Principal Platform Engineer - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/b233d8a9-6f89-4758-92b7-587876862ddd",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-17",
+      "ashby_job_id": "b233d8a9-6f89-4758-92b7-587876862ddd"
+    },
+    {
+      "title": "Staff / Principal Research Scientist  - Switzerland",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/8d3ba745-5850-42c1-b3ed-51820bc00b37",
+      "location_ids": [
+        "zurich_office"
+      ],
+      "location_display": "Zurich, Switzerland",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-01-17",
+      "ashby_job_id": "8d3ba745-5850-42c1-b3ed-51820bc00b37"
+    },
+    {
+      "title": "Staff / Principal Research Scientist - UK",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/0971c8b7-6246-4dd8-8a62-839eba6511ec",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "research",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-03-18",
+      "ashby_job_id": "0971c8b7-6246-4dd8-8a62-839eba6511ec"
+    },
+    {
+      "title": "Staff / Principal Research Scientist - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/abb10a5c-cc22-4b18-892d-aea354c6bfdc",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2023-08-16",
+      "ashby_job_id": "abb10a5c-cc22-4b18-892d-aea354c6bfdc"
+    },
+    {
+      "title": "Staff / Principal Software Engineer - Canada",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/c9b39e18-0d33-4a2d-94f4-1b6b6abee429",
+      "location_ids": [
+        "vancouver_office"
+      ],
+      "location_display": "Vancouver, Canada",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-04-28",
+      "ashby_job_id": "c9b39e18-0d33-4a2d-94f4-1b6b6abee429"
+    },
+    {
+      "title": "Staff / Principal Software Engineer - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/bc788f3f-bab1-4f99-a068-22f59e818334",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-04-28",
+      "ashby_job_id": "bc788f3f-bab1-4f99-a068-22f59e818334"
+    },
+    {
+      "title": "Founding Solutions Engineer - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/9aef36c8-55e5-4e05-b3a7-00992ad69647",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-05-23",
+      "ashby_job_id": "9aef36c8-55e5-4e05-b3a7-00992ad69647"
+    },
+    {
+      "title": "Product Lead - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/71328e09-d549-46d3-b242-7dc9e447e388",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-04",
+      "ashby_job_id": "71328e09-d549-46d3-b242-7dc9e447e388"
+    },
+    {
+      "title": "Lead Technical Recruiter - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/fec9d44b-3536-4135-a92b-f7aaaad6eafb#loc-0",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "fec9d44b-3536-4135-a92b-f7aaaad6eafb"
+    },
+    {
+      "title": "Lead Technical Recruiter - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/fec9d44b-3536-4135-a92b-f7aaaad6eafb#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "hr",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "fec9d44b-3536-4135-a92b-f7aaaad6eafb"
+    },
+    {
+      "title": "Performance Marketing Lead - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/fc29367f-45d6-4555-a67f-2c739c3a67d2#loc-0",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "fc29367f-45d6-4555-a67f-2c739c3a67d2"
+    },
+    {
+      "title": "Performance Marketing Lead - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/fc29367f-45d6-4555-a67f-2c739c3a67d2#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "fc29367f-45d6-4555-a67f-2c739c3a67d2"
+    },
+    {
+      "title": "Product Marketing Manager - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/1baa5425-2bb3-459f-9d67-8e7560206b67#loc-0",
+      "location_ids": [
+        "mountain_view_office"
+      ],
+      "location_display": "Mountain View, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "1baa5425-2bb3-459f-9d67-8e7560206b67"
+    },
+    {
+      "title": "Product Marketing Manager - USA",
+      "apply_url": "https://jobs.ashbyhq.com/inworld-ai/1baa5425-2bb3-459f-9d67-8e7560206b67#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "California",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-03",
+      "ashby_job_id": "1baa5425-2bb3-459f-9d67-8e7560206b67"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cologne_office",
+      "city": "Cologne",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "exact_address": "Cologne, Germany",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "frankfurt_office",
+      "city": "Frankfurt",
+      "state": null,
+      "country": "Germany",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "exact_address": "Frankfurt, Germany",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1133,
+      "exact_address": "22 Upper Ground, London, England - SE1 9PD",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mountain_view_office",
+      "city": "Mountain View",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.3861,
+      "longitude": -122.0839,
+      "exact_address": "800 W El Camino Real Suite 180, Mountain View, California, 94040, United States",
+      "departments": [
+        "marketing",
+        "ai",
+        "engineering",
+        "research"
+      ],
+      "employee_count": "70"
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "ai",
+        "research"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belgrade_office",
+      "city": "Belgrade",
+      "state": null,
+      "country": "Serbia",
+      "latitude": 44.7866,
+      "longitude": 20.4489,
+      "exact_address": "Belgrade, Serbia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-05-12T09:08:22.579Z",
+    "current_valuation_usd": "$500 million",
+    "current_valuation_usd_last_updated": "2026-05-12T09:08:22.579Z",
+    "total_funding_raised": "$125 million",
+    "total_funding_raised_last_updated": "2026-05-12T09:08:22.579Z",
+    "key_investors": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Samsung NEXT Ventures",
+        "domain": "samsungnext.com"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kleinerperkins.com"
+      },
+      {
+        "name": "Craft Ventures",
+        "domain": "craftventures.com"
+      },
+      {
+        "name": "Intel Capital",
+        "domain": "intel.com"
+      },
+      {
+        "name": "Section 32",
+        "domain": "section32.com"
+      },
+      {
+        "name": "CRV",
+        "domain": "crv.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Samsung NEXT Ventures",
+        "logo_url": "/investor-logos/samsung-next-ventures.png"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Craft Ventures",
+        "logo_url": "/investor-logos/craft-ventures.png"
+      },
+      {
+        "name": "Intel Capital",
+        "logo_url": "/investor-logos/intel-capital.png"
+      },
+      {
+        "name": "Section 32",
+        "logo_url": "/investor-logos/section-32.png"
+      },
+      {
+        "name": "CRV",
+        "logo_url": "/investor-logos/crv.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-05-12T09:08:22.579Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "bonus",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].linkedin_url_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].linkedin_url_verified_by": "ai",
+    "leadership.founders[1].x_twitter_url_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "manual-edit",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-12T09:08:22.579Z",
+    "company_basic_information.website_url_last_updated": "2026-05-12T09:08:22.579Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-12T09:08:22.579Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-12T09:08:22.579Z",
+    "company_basic_information.last_updated": "2026-05-12",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-05-12T10:14:56.227Z",
+    "leadership.founders[0].image_url_last_updated": "2026-06-08T14:02:56.674Z",
+    "leadership.founders[0].description_last_updated": "2026-06-08T14:32:05.699Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-05-12T10:16:46.275Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-05-12T10:18:20.997Z",
+    "leadership.founders[1].image_url_last_updated": "2026-06-08T14:04:37.038Z",
+    "leadership.founders[1].description_last_updated": "2026-06-08T14:32:12.388Z",
+    "social_media.x_url_last_verified": "2026-05-12T10:18:20.775Z",
+    "social_media.linkedin_url_last_verified": "2026-05-12T10:18:42.467Z",
+    "business_details.industry_category_last_updated": "2026-05-12T09:08:22.579Z",
+    "business_details.industry_domains_last_updated": "2026-05-12T00:00:00.000Z",
+    "financial_information.funding_stage_last_updated": "2026-05-12T09:08:22.579Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-12T09:08:22.579Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-12T09:08:22.579Z",
+    "financial_information.investor_logos_last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[0].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[1].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[2].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[3].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[4].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[5].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[6].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[7].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[8].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[9].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[10].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[11].last_updated": "2026-05-12T09:08:22.579Z",
+    "location_mapping[12].last_updated": "2026-05-12T09:11:48.000Z",
+    "job_data.roles[0].posted_date": "2026-01-16",
+    "job_data.roles[1].posted_date": "2026-04-07",
+    "job_data.roles[2].posted_date": "2026-04-07",
+    "job_data.roles[3].posted_date": "2026-03-18",
+    "job_data.roles[4].posted_date": "2026-03-18",
+    "job_data.roles[5].posted_date": "2026-04-07",
+    "job_data.roles[6].posted_date": "2026-04-07",
+    "job_data.roles[7].posted_date": "2026-04-07",
+    "job_data.roles[8].posted_date": "2026-03-17",
+    "job_data.roles[9].posted_date": "2026-01-17",
+    "job_data.roles[10].posted_date": "2026-03-18",
+    "job_data.roles[11].posted_date": "2023-08-16",
+    "job_data.roles[12].posted_date": "2025-04-28",
+    "job_data.roles[13].posted_date": "2025-04-28",
+    "job_data.roles[14].posted_date": "2026-05-23",
+    "job_data.roles[15].posted_date": "2026-06-04",
+    "job_data.roles[16].posted_date": "2026-09-03",
+    "job_data.roles[17].posted_date": "2026-09-03",
+    "job_data.roles[18].posted_date": "2026-09-03",
+    "job_data.roles[19].posted_date": "2026-09-03",
+    "job_data.roles[20].posted_date": "2026-09-03",
+    "job_data.roles[21].posted_date": "2026-09-03",
+    "job_data.last_updated": "2026-09-18T15:44:07.373Z",
+    "benefits.equity-stock.last_updated": "2026-06-06T18:17:37.642Z",
+    "benefits.bonus.last_updated": "2026-06-06T18:17:37.642Z"
+  }
+}

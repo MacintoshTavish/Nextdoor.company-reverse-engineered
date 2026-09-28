@@ -1,0 +1,402 @@
+{
+  "slug": "chargebee",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/7631.ec4d76acb2784069.js",
+  "observed_at": "2026-09-28T08:30:00.685648+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20300,
+    "sha256": "6309c357c698859962df1986ece9dc47bcf65ccc1d2230209e12de5217c7e351",
+    "elapsed_seconds": 0.15,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:00 GMT",
+      "etag": "\"03558d0c68027b730a6daf1d6d396f2c\"",
+      "last-modified": "Mon, 28 Sep 2026 08:26:40 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Chargebee",
+    "company_name_legal": "Chargebee Technologies Private Limited",
+    "founded_year": 2012,
+    "website_url": "https://www.chargebee.com",
+    "careers_url": "https://jobs.chargebee.com/",
+    "investor_portfolio_page": null,
+    "id": 163
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 1,
+    "last_updated": "2026-09-24T10:28:27.595Z",
+    "crawl_status": "success",
+    "source": "SAP ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 1,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "sap_ats_job_id",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Principal, Revenue Solutions - Field CFO",
+      "apply_url": "https://jobs.chargebee.com/job/Remote-Principal%2C-Revenue-Solutions-Field-CFO/59796044/",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, US",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7955,
+      "longitude": -122.4028,
+      "exact_address": "222 Kearny St, San Francisco, California 94108, United States",
+      "departments": [
+        "executive",
+        "engineering",
+        "sales"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "consulting",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 4,
+  "financial_information": {
+    "funding_stage": "series-h",
+    "funding_stage_last_updated": "2026-01-23T11:02:28.368Z",
+    "current_valuation_usd": "$3.5 billion",
+    "current_valuation_usd_last_updated": "2026-01-23T11:02:28.368Z",
+    "total_funding_raised": "$480 million",
+    "total_funding_raised_last_updated": "2026-01-23T11:02:28.368Z",
+    "key_investors": [
+      {
+        "name": "Tiger Global",
+        "domain": "tigerglobal.com"
+      },
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "Insight Partners",
+        "domain": "insightpartners.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      },
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Steadview Capital",
+        "domain": "steadviewcapital.com"
+      },
+      {
+        "name": "TVS Capital",
+        "domain": "tvscapital.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Tiger Global",
+        "logo_url": "/investor-logos/tiger-global.png"
+      },
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "Insight Partners",
+        "logo_url": "/investor-logos/insight-partners.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      },
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Steadview Capital",
+        "logo_url": "/investor-logos/steadview-capital.png"
+      },
+      {
+        "name": "TVS Capital",
+        "logo_url": "/investor-logos/tvs-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-01-23T11:02:28.368Z",
+    "revenue_metrics": {
+      "annual_revenue_processed_usd": "$100 million",
+      "year_over_year_growth_rate": 100,
+      "revenue_doubling_period_months": 18
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "mental-health",
+    "flexible-hours",
+    "remote-work",
+    "unlimited-pto",
+    "company-recharge-days",
+    "retirement-401k",
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "google_images_linkedin",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "google_images_linkedin",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "ai",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "google_images_linkedin",
+    "leadership.founders[3].linkedin_verified_by": "sankalp",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].image_source": "google_images_crunchbase",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "SAP ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-01-23T11:02:28.368Z",
+    "company_basic_information.website_url_last_updated": "2026-01-23T11:02:28.368Z",
+    "company_basic_information.careers_url_last_updated": "2026-01-23T11:02:28.368Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-01-23T11:02:28.368Z",
+    "company_basic_information.last_updated": "2026-01-23",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-01-23T15:41:50.648Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-01-23T15:42:13.268Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-07T10:06:41.796Z",
+    "leadership.founders[0].description_last_updated": "2026-02-06T19:21:54.250Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-01-23T15:42:42.582Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-01-23T15:42:59.237Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-07T10:06:47.591Z",
+    "leadership.founders[1].description_last_updated": "2026-02-06T19:21:59.757Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2026-01-23T15:43:16.395Z",
+    "leadership.founders[2].description_last_updated": "2026-02-06T19:22:05.362Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-07T10:06:52.225Z",
+    "leadership.founders[3].linkedin_url_last_verified": "2026-01-24T11:42:18.353Z",
+    "leadership.founders[3].description_last_updated": "2026-02-06T19:22:11.188Z",
+    "leadership.founders[3].image_url_last_updated": "2026-02-07T10:07:02.213Z",
+    "social_media.x_url_last_verified": "2026-01-23T15:44:00.983Z",
+    "social_media.linkedin_url_last_verified": "2026-01-23T15:44:32.711Z",
+    "social_media.instagram_url_last_verified": "2026-01-23T15:44:51.360Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-01-23T11:02:28.368Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-01-23T11:02:28.368Z",
+    "financial_information.total_funding_raised_last_updated": "2026-01-23T11:02:28.368Z",
+    "financial_information.investor_logos_last_updated": "2026-01-23T11:02:28.368Z",
+    "location_mapping[0].last_updated": "2026-01-23T11:02:28.368Z",
+    "job_data.last_updated": "2026-09-24T10:28:27.595Z",
+    "benefits.health-insurance.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.mental-health.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.flexible-hours.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.remote-work.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.unlimited-pto.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.company-recharge-days.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.retirement-401k.last_updated": "2026-02-07T10:42:02.578Z",
+    "benefits.equity-stock.last_updated": "2026-02-07T10:42:02.578Z"
+  }
+}

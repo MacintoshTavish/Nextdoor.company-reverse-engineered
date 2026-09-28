@@ -1,0 +1,3208 @@
+{
+  "slug": "eliseai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/1923.229231a8b7ffdf2b.js",
+  "observed_at": "2026-09-28T08:31:16.085754+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 99342,
+    "sha256": "29c796106890697e79aff687d9ff1ed26ca0a84872e396a09c274c2561c62c7c",
+    "elapsed_seconds": 0.519,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:16 GMT",
+      "etag": "\"889aa18fd454111ac608be8492a0100d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:31:16 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "EliseAI",
+    "company_name_legal": "EliseAI",
+    "founded_year": 2017,
+    "website_url": "https://eliseai.com",
+    "careers_url": "https://jobs.ashbyhq.com/EliseAI",
+    "investor_portfolio_page": null,
+    "id": 432
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 177,
+    "last_updated": "2026-09-19T16:42:33.947Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 177,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Accounting Lead",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9243af97-6258-4463-95f7-6586c889ea58",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9243af97-6258-4463-95f7-6586c889ea58"
+    },
+    {
+      "title": "Accounts Payable Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/2986831b-75df-4a52-8819-e47884d33068",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "2986831b-75df-4a52-8819-e47884d33068"
+    },
+    {
+      "title": "Affordable Housing Compliance Analyst | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/fee68f4b-4789-4a89-9fcb-2bec51d30c8f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "fee68f4b-4789-4a89-9fcb-2bec51d30c8f"
+    },
+    {
+      "title": "Affordable Housing Compliance Expert | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/3912fd54-f5f0-47f6-b1c1-9d61292ce428",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3912fd54-f5f0-47f6-b1c1-9d61292ce428"
+    },
+    {
+      "title": "AI Engagement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/abb1b455-6a5b-4dc5-b608-23e0c8decab5#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "abb1b455-6a5b-4dc5-b608-23e0c8decab5"
+    },
+    {
+      "title": "AI Engagement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/abb1b455-6a5b-4dc5-b608-23e0c8decab5#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "abb1b455-6a5b-4dc5-b608-23e0c8decab5"
+    },
+    {
+      "title": "AI Engagement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/abb1b455-6a5b-4dc5-b608-23e0c8decab5#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "abb1b455-6a5b-4dc5-b608-23e0c8decab5"
+    },
+    {
+      "title": "AI Engagement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/abb1b455-6a5b-4dc5-b608-23e0c8decab5#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "abb1b455-6a5b-4dc5-b608-23e0c8decab5"
+    },
+    {
+      "title": "AI Engagement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/abb1b455-6a5b-4dc5-b608-23e0c8decab5#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "abb1b455-6a5b-4dc5-b608-23e0c8decab5"
+    },
+    {
+      "title": "AI Engagement Manager, Institutional Owners | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77"
+    },
+    {
+      "title": "AI Engagement Manager, Institutional Owners | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77"
+    },
+    {
+      "title": "AI Engagement Manager, Institutional Owners | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77"
+    },
+    {
+      "title": "AI Engagement Manager, Institutional Owners | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77"
+    },
+    {
+      "title": "AI Engagement Manager, Institutional Owners | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ebacc8d4-32d0-43ba-aeb5-9d8dd2133a77"
+    },
+    {
+      "title": "Associate Solutions Engineer | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/68e1e7e0-0089-4cd5-9603-24bae85891a9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "68e1e7e0-0089-4cd5-9603-24bae85891a9"
+    },
+    {
+      "title": "Associate Solutions Engineer | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/5b6f3775-3e79-4269-a255-47ee3057265d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5b6f3775-3e79-4269-a255-47ee3057265d"
+    },
+    {
+      "title": "Brand Designer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ceae21c5-b8b8-45c9-b963-cb21d13e02af",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ceae21c5-b8b8-45c9-b963-cb21d13e02af"
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/750f55ac-8a38-45db-abe8-e6637772256e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "750f55ac-8a38-45db-abe8-e6637772256e"
+    },
+    {
+      "title": "CRM Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/de780d8f-98eb-492b-80fc-6687f3cd65e9#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "de780d8f-98eb-492b-80fc-6687f3cd65e9"
+    },
+    {
+      "title": "CRM Account Executive",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/de780d8f-98eb-492b-80fc-6687f3cd65e9#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "de780d8f-98eb-492b-80fc-6687f3cd65e9"
+    },
+    {
+      "title": "Customer Education Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "814b3781-a2ad-49f8-9b8f-eaaf8e54abb5"
+    },
+    {
+      "title": "Customer Education Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "814b3781-a2ad-49f8-9b8f-eaaf8e54abb5"
+    },
+    {
+      "title": "Customer Education Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "814b3781-a2ad-49f8-9b8f-eaaf8e54abb5"
+    },
+    {
+      "title": "Customer Education Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "814b3781-a2ad-49f8-9b8f-eaaf8e54abb5"
+    },
+    {
+      "title": "Customer Education Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/814b3781-a2ad-49f8-9b8f-eaaf8e54abb5#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "814b3781-a2ad-49f8-9b8f-eaaf8e54abb5"
+    },
+    {
+      "title": "Customer Sentiment Specialist - Housing",
+      "title_original": "Customer Sentiment Specialist | Housing",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-22T15:18:11.019Z",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/b02c1d7f-7943-42f8-bc8c-52e3e1fe1924",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b02c1d7f-7943-42f8-bc8c-52e3e1fe1924",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Customer Sentiment Specialist involve proactively engaging with clients to gather feedback and insights, which aligns closely with the functions of customer success. The role emphasizes building strong relationships and ensuring customer satisfaction, making customer-success the most appropriate category."
+    },
+    {
+      "title": "Customer Success Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c#loc-0",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c"
+    },
+    {
+      "title": "Customer Success Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c"
+    },
+    {
+      "title": "Customer Success Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c"
+    },
+    {
+      "title": "Customer Success Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c#loc-3",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "65b1db32-1ff5-4ce7-b546-3a4c2df9ad2c"
+    },
+    {
+      "title": "Customer Success Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/1f59c180-e4e0-4c35-a5e8-37eff6fa4910",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "1f59c180-e4e0-4c35-a5e8-37eff6fa4910"
+    },
+    {
+      "title": "Customer Training Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e72e295c-0e4e-4465-92bd-70f5ff4e743e#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e72e295c-0e4e-4465-92bd-70f5ff4e743e"
+    },
+    {
+      "title": "Customer Training Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e72e295c-0e4e-4465-92bd-70f5ff4e743e#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e72e295c-0e4e-4465-92bd-70f5ff4e743e"
+    },
+    {
+      "title": "Customer Training Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e72e295c-0e4e-4465-92bd-70f5ff4e743e#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e72e295c-0e4e-4465-92bd-70f5ff4e743e"
+    },
+    {
+      "title": "Customer Training Specialist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e72e295c-0e4e-4465-92bd-70f5ff4e743e#loc-3",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "academy-training",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e72e295c-0e4e-4465-92bd-70f5ff4e743e"
+    },
+    {
+      "title": "Deployment Strategist, Future Platforms (Accounting) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e714c311-efc4-416a-bd6e-747ec60d6a48",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e714c311-efc4-416a-bd6e-747ec60d6a48"
+    },
+    {
+      "title": "Deployment Strategist, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9b461abe-dad0-491c-90b1-d533f3b0e5f5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9b461abe-dad0-491c-90b1-d533f3b0e5f5"
+    },
+    {
+      "title": "Deployment Strategist Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/b554cef1-fe91-4ca4-b464-b64451f49657#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b554cef1-fe91-4ca4-b464-b64451f49657"
+    },
+    {
+      "title": "Deployment Strategist Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/b554cef1-fe91-4ca4-b464-b64451f49657#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b554cef1-fe91-4ca4-b464-b64451f49657"
+    },
+    {
+      "title": "Deployment Strategist Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/b554cef1-fe91-4ca4-b464-b64451f49657#loc-2",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b554cef1-fe91-4ca4-b464-b64451f49657"
+    },
+    {
+      "title": "Director of Governance, Risk, and Compliance",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/24ae98c1-2ef6-4876-b00c-59c572df9257#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "24ae98c1-2ef6-4876-b00c-59c572df9257"
+    },
+    {
+      "title": "Director of Governance, Risk, and Compliance",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/24ae98c1-2ef6-4876-b00c-59c572df9257#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "24ae98c1-2ef6-4876-b00c-59c572df9257"
+    },
+    {
+      "title": "Director of Governance, Risk, and Compliance",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/24ae98c1-2ef6-4876-b00c-59c572df9257#loc-2",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "24ae98c1-2ef6-4876-b00c-59c572df9257"
+    },
+    {
+      "title": "Director of Talent",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/0e368ef3-b272-429d-a85e-e558df1493de",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0e368ef3-b272-429d-a85e-e558df1493de"
+    },
+    {
+      "title": "Engagement Lead, Future Platforms (Accounting) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/eb170de5-c3ae-4780-9587-13be016ecdc8",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "eb170de5-c3ae-4780-9587-13be016ecdc8"
+    },
+    {
+      "title": "Engagement Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7ada3ab7-b595-47cc-84d6-6787a55cc0b4#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7ada3ab7-b595-47cc-84d6-6787a55cc0b4"
+    },
+    {
+      "title": "Engagement Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7ada3ab7-b595-47cc-84d6-6787a55cc0b4#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7ada3ab7-b595-47cc-84d6-6787a55cc0b4"
+    },
+    {
+      "title": "Engagement Lead, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7ada3ab7-b595-47cc-84d6-6787a55cc0b4#loc-2",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7ada3ab7-b595-47cc-84d6-6787a55cc0b4"
+    },
+    {
+      "title": "Engagement Manager, Future Platforms (Accounting) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/30d9458a-94ba-4509-ba69-050b9f7521d4",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "30d9458a-94ba-4509-ba69-050b9f7521d4"
+    },
+    {
+      "title": "Engagement Manager, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/400dee1c-63ba-407e-8f88-ffa0af15c86c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "400dee1c-63ba-407e-8f88-ffa0af15c86c"
+    },
+    {
+      "title": "Enterprise Account Executive | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/a337f050-4f80-41a7-b20c-0963619812c9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a337f050-4f80-41a7-b20c-0963619812c9"
+    },
+    {
+      "title": "Enterprise Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d64ad5f1-7266-4b94-bf99-fd4ab5f18693#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d64ad5f1-7266-4b94-bf99-fd4ab5f18693"
+    },
+    {
+      "title": "Enterprise Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d64ad5f1-7266-4b94-bf99-fd4ab5f18693#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d64ad5f1-7266-4b94-bf99-fd4ab5f18693"
+    },
+    {
+      "title": "Enterprise Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d64ad5f1-7266-4b94-bf99-fd4ab5f18693#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d64ad5f1-7266-4b94-bf99-fd4ab5f18693"
+    },
+    {
+      "title": "Enterprise Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d64ad5f1-7266-4b94-bf99-fd4ab5f18693#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d64ad5f1-7266-4b94-bf99-fd4ab5f18693"
+    },
+    {
+      "title": "Enterprise Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d64ad5f1-7266-4b94-bf99-fd4ab5f18693#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d64ad5f1-7266-4b94-bf99-fd4ab5f18693"
+    },
+    {
+      "title": "Field Enablement Specialist - Housing",
+      "title_original": "Field Enablement Specialist | Housing",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-22T15:18:37.838Z",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/25b630b5-88db-4fcd-a9be-3a567e975b74",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "Remote, New York City",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "25b630b5-88db-4fcd-a9be-3a567e975b74",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Field Enablement Specialist involve designing and delivering tailored training sessions for customers, ensuring they effectively adopt and utilize the company's AI products. This role is heavily focused on customer interaction and success, making 'customer-success' the most appropriate category."
+    },
+    {
+      "title": "Founding Senior Software Engineer (Full Stack) | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d9178355-392e-4197-811f-32a1f9c2887e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d9178355-392e-4197-811f-32a1f9c2887e"
+    },
+    {
+      "title": "Founding Software Engineer | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/6b756f91-4355-49af-901b-77d3b62d656a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "6b756f91-4355-49af-901b-77d3b62d656a"
+    },
+    {
+      "title": "Founding Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/c1e78a97-68a0-4f71-8239-e62ab8fe8646#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "c1e78a97-68a0-4f71-8239-e62ab8fe8646"
+    },
+    {
+      "title": "Founding Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/c1e78a97-68a0-4f71-8239-e62ab8fe8646#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "c1e78a97-68a0-4f71-8239-e62ab8fe8646"
+    },
+    {
+      "title": "Graphic Designer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ef9611a4-58eb-4a4f-8e85-c5382ec3be44",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ef9611a4-58eb-4a4f-8e85-c5382ec3be44"
+    },
+    {
+      "title": "Growth Product Manager - Future Platforms",
+      "title_original": "Growth PM, Future Platforms | Housing",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-22T15:18:55.458Z",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7d2f5728-1ddf-49d6-87e8-54fc81cba65c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7d2f5728-1ddf-49d6-87e8-54fc81cba65c",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The role of Growth PM on the Future Platforms team primarily involves leading initiatives from concept to market adoption, which aligns closely with product management responsibilities. The focus on product innovation, go-to-market strategies, and cross-functional execution further solidifies this classification."
+    },
+    {
+      "title": "GTM Enablement Program Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/8b33cb13-0441-4d6e-887c-e8ce18ba98aa#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "8b33cb13-0441-4d6e-887c-e8ce18ba98aa"
+    },
+    {
+      "title": "GTM Enablement Program Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/8b33cb13-0441-4d6e-887c-e8ce18ba98aa#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "8b33cb13-0441-4d6e-887c-e8ce18ba98aa"
+    },
+    {
+      "title": "GTM Product Enablement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/09e616d7-172b-46d9-929d-0932e8a31bc4#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "09e616d7-172b-46d9-929d-0932e8a31bc4"
+    },
+    {
+      "title": "GTM Product Enablement Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/09e616d7-172b-46d9-929d-0932e8a31bc4#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "09e616d7-172b-46d9-929d-0932e8a31bc4"
+    },
+    {
+      "title": "GTM Strategy and Operations Manager / Senior Manager  | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/91bfa853-fb7a-461f-a02f-76804fdc7083",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "91bfa853-fb7a-461f-a02f-76804fdc7083"
+    },
+    {
+      "title": "GTM Strategy and Operations Senior Associate | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7ff38370-865b-4c0a-802f-235bd87a74c3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7ff38370-865b-4c0a-802f-235bd87a74c3"
+    },
+    {
+      "title": "Instructional Designer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/2756b585-961b-46e2-90bd-67a495597c25",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "2756b585-961b-46e2-90bd-67a495597c25"
+    },
+    {
+      "title": "IT Support Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/903db7cc-53f6-4217-b177-fd6bd17aee1a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "it",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "903db7cc-53f6-4217-b177-fd6bd17aee1a"
+    },
+    {
+      "title": "Junior Billing and Accounts Receivable Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/05b8eef2-fa3d-4158-9303-5415eba83aa9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "healthcare-operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "05b8eef2-fa3d-4158-9303-5415eba83aa9"
+    },
+    {
+      "title": "Junior Commercial Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9656e049-184a-4364-acbe-5b7029b2c052",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9656e049-184a-4364-acbe-5b7029b2c052"
+    },
+    {
+      "title": "Junior Research Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/0fb4a3ab-1472-4180-8f0c-9f898260f3bd",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0fb4a3ab-1472-4180-8f0c-9f898260f3bd"
+    },
+    {
+      "title": "Junior Research Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/54f71abf-9184-4b4a-8d41-43ebf1600eba",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "0-2 years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "54f71abf-9184-4b4a-8d41-43ebf1600eba"
+    },
+    {
+      "title": "Lead Economist | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/146c5291-ba3f-4857-bf69-e8764c5c837d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "146c5291-ba3f-4857-bf69-e8764c5c837d",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Lead Economist involve conducting original research and generating market insights specifically related to housing economics. This role focuses on transforming data into benchmarks and narratives, which aligns closely with research functions."
+    },
+    {
+      "title": "Legal Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/1f6c095e-39fc-4e6b-9ea0-887caad4d044",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "1f6c095e-39fc-4e6b-9ea0-887caad4d044"
+    },
+    {
+      "title": "Manager of Customer Success | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/3dbbc964-defa-482a-8695-3b67712b7722",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3dbbc964-defa-482a-8695-3b67712b7722"
+    },
+    {
+      "title": "Manager of SMB Sales | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/41d9bb8e-0e03-4d10-abb2-0f73d3457cd9",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "41d9bb8e-0e03-4d10-abb2-0f73d3457cd9"
+    },
+    {
+      "title": "Mid-Market Account Executive | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/84468a61-9af1-452b-9120-0d72db28a29b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "84468a61-9af1-452b-9120-0d72db28a29b"
+    },
+    {
+      "title": "Mid-Market Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85c00ebc-7d74-4f63-bebd-ed1dfdf0b442#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85c00ebc-7d74-4f63-bebd-ed1dfdf0b442"
+    },
+    {
+      "title": "Mid-Market Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85c00ebc-7d74-4f63-bebd-ed1dfdf0b442#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85c00ebc-7d74-4f63-bebd-ed1dfdf0b442"
+    },
+    {
+      "title": "Mid-Market Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85c00ebc-7d74-4f63-bebd-ed1dfdf0b442#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85c00ebc-7d74-4f63-bebd-ed1dfdf0b442"
+    },
+    {
+      "title": "Mid-Market Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85c00ebc-7d74-4f63-bebd-ed1dfdf0b442#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85c00ebc-7d74-4f63-bebd-ed1dfdf0b442"
+    },
+    {
+      "title": "Mid-Market Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85c00ebc-7d74-4f63-bebd-ed1dfdf0b442#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85c00ebc-7d74-4f63-bebd-ed1dfdf0b442"
+    },
+    {
+      "title": "Partner Development Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/0d2891bf-b90e-46e6-a1b1-d2f1fa37cdf4#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0d2891bf-b90e-46e6-a1b1-d2f1fa37cdf4"
+    },
+    {
+      "title": "Partner Development Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/0d2891bf-b90e-46e6-a1b1-d2f1fa37cdf4#loc-1",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0d2891bf-b90e-46e6-a1b1-d2f1fa37cdf4"
+    },
+    {
+      "title": "Partnership Strategy, Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/53606755-076f-4259-810b-372cfd187240",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "53606755-076f-4259-810b-372cfd187240"
+    },
+    {
+      "title": "Partnership Strategy, Senior Associate | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4c6dda70-481f-4b6b-928e-5840b51d3617",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4c6dda70-481f-4b6b-928e-5840b51d3617"
+    },
+    {
+      "title": "Product Solutions Analyst | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/51270e3c-3b0d-40b0-8f81-b49aeec2b757",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "51270e3c-3b0d-40b0-8f81-b49aeec2b757"
+    },
+    {
+      "title": "Product Strategy and Operations, Manager / Senior Manager - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/42e18fe8-8347-46c4-a18d-590f4e6d1977#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "42e18fe8-8347-46c4-a18d-590f4e6d1977"
+    },
+    {
+      "title": "Product Strategy and Operations, Manager / Senior Manager - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/42e18fe8-8347-46c4-a18d-590f4e6d1977#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "42e18fe8-8347-46c4-a18d-590f4e6d1977"
+    },
+    {
+      "title": "Product Strategy and Operations, Senior Associate - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/26d9e2ab-524d-4cb6-8daa-998ef6609e3e#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "26d9e2ab-524d-4cb6-8daa-998ef6609e3e"
+    },
+    {
+      "title": "Product Strategy and Operations, Senior Associate - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/26d9e2ab-524d-4cb6-8daa-998ef6609e3e#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "26d9e2ab-524d-4cb6-8daa-998ef6609e3e"
+    },
+    {
+      "title": "Property Accountant | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/0e5083c3-445f-423c-8ec2-bdfbea010ae5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "0e5083c3-445f-423c-8ec2-bdfbea010ae5"
+    },
+    {
+      "title": "Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/b0234ab0-73db-43ae-ba44-fcd0dddda179",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "b0234ab0-73db-43ae-ba44-fcd0dddda179"
+    },
+    {
+      "title": "Renewal Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d066c56c-24ce-4dfe-b6a8-4975c65b89bb",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d066c56c-24ce-4dfe-b6a8-4975c65b89bb"
+    },
+    {
+      "title": "Revenue Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/02374e9f-e8dd-4afb-83f1-dc95b6188fc1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "02374e9f-e8dd-4afb-83f1-dc95b6188fc1"
+    },
+    {
+      "title": "Revenue Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/5ae5b79b-1f03-4c05-b77c-9bcf14566d0c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5ae5b79b-1f03-4c05-b77c-9bcf14566d0c"
+    },
+    {
+      "title": "Sales Development Manager | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/69f2e143-9181-4e1f-b18f-ee684e8e525d",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "69f2e143-9181-4e1f-b18f-ee684e8e525d"
+    },
+    {
+      "title": "Sales Development Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f3a73d76-3314-43eb-a705-9e0db2805c2f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f3a73d76-3314-43eb-a705-9e0db2805c2f"
+    },
+    {
+      "title": "Sales Development Representative | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/030ce0cc-8242-49da-8a19-fd2f8ded3437",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "030ce0cc-8242-49da-8a19-fd2f8ded3437"
+    },
+    {
+      "title": "Sales Development Representative | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/20cb01af-6f28-4310-991e-c6a11aa38d08",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "20cb01af-6f28-4310-991e-c6a11aa38d08"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/59d7a2a6-cb05-456f-bde7-5337f1d88589#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "59d7a2a6-cb05-456f-bde7-5337f1d88589"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/59d7a2a6-cb05-456f-bde7-5337f1d88589#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "59d7a2a6-cb05-456f-bde7-5337f1d88589"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/fe19cade-c6ec-4552-8b49-3f45107f2466#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "fe19cade-c6ec-4552-8b49-3f45107f2466"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/fe19cade-c6ec-4552-8b49-3f45107f2466#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "fe19cade-c6ec-4552-8b49-3f45107f2466"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f0a1f54d-aa6b-4f1b-9a12-6c66cd095dba"
+    },
+    {
+      "title": "Senior Mid-Market Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f2d9974f-29f7-416f-be19-8d7a796c7abb#loc-0",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f2d9974f-29f7-416f-be19-8d7a796c7abb"
+    },
+    {
+      "title": "Senior Mid-Market Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f2d9974f-29f7-416f-be19-8d7a796c7abb#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f2d9974f-29f7-416f-be19-8d7a796c7abb"
+    },
+    {
+      "title": "Senior Research Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/748cce5f-04b5-4900-b449-f0d1fbb34d5a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "748cce5f-04b5-4900-b449-f0d1fbb34d5a"
+    },
+    {
+      "title": "Senior Research Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/34c3d9bf-0529-40f0-aee3-8947e1330868",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "research",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "34c3d9bf-0529-40f0-aee3-8947e1330868"
+    },
+    {
+      "title": "Senior Security Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/af77f19a-8ce5-451b-bae5-f78750679df3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "af77f19a-8ce5-451b-bae5-f78750679df3"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/3e8782a8-f397-413d-8939-ab5e4913d954",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3e8782a8-f397-413d-8939-ab5e4913d954"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/dc08433d-67d7-4498-891d-f7f174e312c1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "dc08433d-67d7-4498-891d-f7f174e312c1"
+    },
+    {
+      "title": "Senior Software Engineer (Full Stack)",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bd740e67-b145-46f0-b1f0-0a13610365dc#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bd740e67-b145-46f0-b1f0-0a13610365dc"
+    },
+    {
+      "title": "Senior Software Engineer (Full Stack)",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bd740e67-b145-46f0-b1f0-0a13610365dc#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bd740e67-b145-46f0-b1f0-0a13610365dc"
+    },
+    {
+      "title": "Senior Strategy Manager, Government Affairs | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/31a5baa1-18d3-45e8-96c8-3dc11b319f23",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "31a5baa1-18d3-45e8-96c8-3dc11b319f23"
+    },
+    {
+      "title": "Software Engineer (Full Stack and Mobile)",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/a3f5a582-7613-498e-8705-2dcaeae2511e#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a3f5a582-7613-498e-8705-2dcaeae2511e"
+    },
+    {
+      "title": "Software Engineer (Full Stack and Mobile)",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/a3f5a582-7613-498e-8705-2dcaeae2511e#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a3f5a582-7613-498e-8705-2dcaeae2511e"
+    },
+    {
+      "title": "Solution Engineer (Product Expert) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ea55a73a-a0d2-4c74-9265-e731b302dc01",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ea55a73a-a0d2-4c74-9265-e731b302dc01"
+    },
+    {
+      "title": "Solutions Engineer, Implementation & Delivery | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d400f45b-bc78-41c2-96ab-9c6c9eaecf06#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d400f45b-bc78-41c2-96ab-9c6c9eaecf06"
+    },
+    {
+      "title": "Solutions Engineer, Implementation & Delivery | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d400f45b-bc78-41c2-96ab-9c6c9eaecf06#loc-1",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d400f45b-bc78-41c2-96ab-9c6c9eaecf06"
+    },
+    {
+      "title": "Solutions Engineer (Product Expert) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/866d9768-9a9e-4e7d-aa2a-da977c5b5dde#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "866d9768-9a9e-4e7d-aa2a-da977c5b5dde"
+    },
+    {
+      "title": "Solutions Engineer (Product Expert) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/866d9768-9a9e-4e7d-aa2a-da977c5b5dde#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "866d9768-9a9e-4e7d-aa2a-da977c5b5dde"
+    },
+    {
+      "title": "Staff Property Accountant | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e47f024d-3f6c-4460-9932-5a8fb32e2d14",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e47f024d-3f6c-4460-9932-5a8fb32e2d14"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/d2fa8099-0cd1-47f3-928e-073aece1f7cf",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "d2fa8099-0cd1-47f3-928e-073aece1f7cf"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/efc949ef-22ce-401c-8161-091e387e776d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "efc949ef-22ce-401c-8161-091e387e776d"
+    },
+    {
+      "title": "Strategic Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33"
+    },
+    {
+      "title": "Strategic Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33"
+    },
+    {
+      "title": "Strategic Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33"
+    },
+    {
+      "title": "Strategic Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33"
+    },
+    {
+      "title": "Strategic Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4ec9e29c-1281-44d4-8b4c-2ad1c52e7b33"
+    },
+    {
+      "title": "Strategic Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9fdc7ae6-cc9f-4361-a940-39393159ae64",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9fdc7ae6-cc9f-4361-a940-39393159ae64"
+    },
+    {
+      "title": "Strategy and Operations, Future Platforms Associate/Sr Associate | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/f5ffe1fb-ac50-41ee-ae45-db8b278aba5a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "f5ffe1fb-ac50-41ee-ae45-db8b278aba5a"
+    },
+    {
+      "title": "Strategy and Operations, Manager - AI Transformation Advisory | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/8ba4a378-b115-45eb-b0db-7ad13689fd63",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "8ba4a378-b115-45eb-b0db-7ad13689fd63"
+    },
+    {
+      "title": "Strategy and Operations, Manager / Senior Manager - Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9e670a66-5000-459f-8702-52b9133b9800",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9e670a66-5000-459f-8702-52b9133b9800"
+    },
+    {
+      "title": "Strategy and Operations, Senior Associate - AI Transformation Advisory | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/3cfc00a3-68a2-48e4-acec-187c77425b2e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "3cfc00a3-68a2-48e4-acec-187c77425b2e"
+    },
+    {
+      "title": "VP of Growth",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/c4cfd7ee-6a65-40a5-889a-368e751402b5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "c4cfd7ee-6a65-40a5-889a-368e751402b5"
+    },
+    {
+      "title": "VP of Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/5025f40b-79da-4c4d-874c-2ffdea9bcc4e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5025f40b-79da-4c4d-874c-2ffdea9bcc4e"
+    },
+    {
+      "title": "VP of Revenue Operations",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7bc15b47-e510-43ce-b157-8a5ca17161cc#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7bc15b47-e510-43ce-b157-8a5ca17161cc"
+    },
+    {
+      "title": "VP of Revenue Operations",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7bc15b47-e510-43ce-b157-8a5ca17161cc#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7bc15b47-e510-43ce-b157-8a5ca17161cc"
+    },
+    {
+      "title": "Workplace Operations Associate",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/2dcf0f40-5f7e-4fd2-9220-ee8ea8fe526a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "administration",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "2dcf0f40-5f7e-4fd2-9220-ee8ea8fe526a"
+    },
+    {
+      "title": "Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bb1bec73-e828-491c-abcb-38913f613158#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bb1bec73-e828-491c-abcb-38913f613158"
+    },
+    {
+      "title": "Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bb1bec73-e828-491c-abcb-38913f613158#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bb1bec73-e828-491c-abcb-38913f613158"
+    },
+    {
+      "title": "Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bb1bec73-e828-491c-abcb-38913f613158#loc-2",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bb1bec73-e828-491c-abcb-38913f613158"
+    },
+    {
+      "title": "Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bb1bec73-e828-491c-abcb-38913f613158#loc-3",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bb1bec73-e828-491c-abcb-38913f613158"
+    },
+    {
+      "title": "Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bb1bec73-e828-491c-abcb-38913f613158#loc-4",
+      "location_ids": [
+        "chicago_office"
+      ],
+      "location_display": "Chicago, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bb1bec73-e828-491c-abcb-38913f613158"
+    },
+    {
+      "title": "Compliance Lead, Financial Services and Bank Partnerships | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7fa18983-1f46-4df5-9af7-4f6c5d797a5d#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7fa18983-1f46-4df5-9af7-4f6c5d797a5d"
+    },
+    {
+      "title": "Compliance Lead, Financial Services and Bank Partnerships | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7fa18983-1f46-4df5-9af7-4f6c5d797a5d#loc-1",
+      "location_ids": [
+        "boston_office"
+      ],
+      "location_display": "Boston, United States",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7fa18983-1f46-4df5-9af7-4f6c5d797a5d"
+    },
+    {
+      "title": "Compliance Lead, Financial Services and Bank Partnerships | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/7fa18983-1f46-4df5-9af7-4f6c5d797a5d#loc-2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "legal",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "7fa18983-1f46-4df5-9af7-4f6c5d797a5d"
+    },
+    {
+      "title": "GTM Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/ff53b687-1943-4f54-9d09-66098c20db1a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "ff53b687-1943-4f54-9d09-66098c20db1a"
+    },
+    {
+      "title": "Product Operations Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/85db5edc-d93e-4b7b-be46-3895046f1dab",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "85db5edc-d93e-4b7b-be46-3895046f1dab"
+    },
+    {
+      "title": "Product Strategy and Operations, Director - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/5ae4e913-e4cd-4655-9c80-b13b013552a7#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5ae4e913-e4cd-4655-9c80-b13b013552a7"
+    },
+    {
+      "title": "Product Strategy and Operations, Director - New Verticals | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/5ae4e913-e4cd-4655-9c80-b13b013552a7#loc-1",
+      "location_ids": [
+        "toronto_office"
+      ],
+      "location_display": "Toronto, Canada",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "5ae4e913-e4cd-4655-9c80-b13b013552a7"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/2025e09f-a1dd-44bb-bf68-6d356fa1c49f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "2025e09f-a1dd-44bb-bf68-6d356fa1c49f"
+    },
+    {
+      "title": "Senior Enterprise Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/a868e0d5-c138-4ddb-a1e2-a57c91225fda",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "a868e0d5-c138-4ddb-a1e2-a57c91225fda"
+    },
+    {
+      "title": "Senior Mid-Market Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/bd1645a5-99f5-4e75-a516-3dce603d4846",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "bd1645a5-99f5-4e75-a516-3dce603d4846"
+    },
+    {
+      "title": "Senior Platform Operations Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/754c4912-a2db-47b0-a42e-411fa9d72b0c",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "754c4912-a2db-47b0-a42e-411fa9d72b0c"
+    },
+    {
+      "title": "Senior Product Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/6d805fdd-a66d-49c8-a061-c41e066d76e6#loc-0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "6d805fdd-a66d-49c8-a061-c41e066d76e6"
+    },
+    {
+      "title": "Senior Product Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/6d805fdd-a66d-49c8-a061-c41e066d76e6#loc-1",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "6d805fdd-a66d-49c8-a061-c41e066d76e6"
+    },
+    {
+      "title": "SMB Account Executive | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/4a88ea31-ee6d-4af5-8cc5-e901ed0239f6",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "4a88ea31-ee6d-4af5-8cc5-e901ed0239f6"
+    },
+    {
+      "title": "SMB Sales Manager | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e29ccfc9-1d40-4d68-9d49-bff754efed3a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "e29ccfc9-1d40-4d68-9d49-bff754efed3a"
+    },
+    {
+      "title": "Solutions Consultant, Future Platforms (Accounting) | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/6d3f03f6-bd27-4d04-93f7-abd554550352",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "6d3f03f6-bd27-4d04-93f7-abd554550352"
+    },
+    {
+      "title": "Strategic Sales Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9f56ecc0-86bd-41c4-82f1-3c5d1f76e8dd",
+      "location_ids": [
+        "austin_office"
+      ],
+      "location_display": "Austin, United States",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "9f56ecc0-86bd-41c4-82f1-3c5d1f76e8dd"
+    },
+    {
+      "title": "Strategy and Operations, Talent",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/1c598d37-24b5-459a-b76c-2c8cdead3889#loc-0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "1c598d37-24b5-459a-b76c-2c8cdead3889"
+    },
+    {
+      "title": "Strategy and Operations, Talent",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/1c598d37-24b5-459a-b76c-2c8cdead3889#loc-1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-05",
+      "ashby_job_id": "1c598d37-24b5-459a-b76c-2c8cdead3889"
+    },
+    {
+      "title": "Ecosystem Strategist - Housing Technology",
+      "title_original": "Ecosystem Strategist, Future Platforms | Housing",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-21T18:12:45.563Z",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/49e9c0b6-fd1e-4a5e-a66f-1b4874193efb",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "49e9c0b6-fd1e-4a5e-a66f-1b4874193efb",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The Ecosystem Strategist role focuses on advising clients on their technology and vendor landscape, which aligns closely with consulting responsibilities. The primary tasks involve leading discovery, managing complex client workflows, and facilitating client-to-vendor dialogues, all of which are characteristic of a consulting function."
+    },
+    {
+      "title": "Enterprise Account Executive, Future Platforms | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/75188477-8fd8-4e18-85e0-b212496a4edd",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "75188477-8fd8-4e18-85e0-b212496a4edd"
+    },
+    {
+      "title": "Enterprise Sales Manager | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/e768dcd3-8397-4723-83d4-8fc53c5039fe",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "e768dcd3-8397-4723-83d4-8fc53c5039fe"
+    },
+    {
+      "title": "Events Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/505afcc6-220b-46d3-9474-ab0bf63dd019",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "505afcc6-220b-46d3-9474-ab0bf63dd019"
+    },
+    {
+      "title": "Knowledge Strategy, Senior Associate | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/a9ae6d71-6938-4597-b4e1-10de48d89dca",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "a9ae6d71-6938-4597-b4e1-10de48d89dca"
+    },
+    {
+      "title": "Sales Development Representative | Healthcare",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/438964d6-cc25-436e-901b-42ec3ffbc2d3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "438964d6-cc25-436e-901b-42ec3ffbc2d3"
+    },
+    {
+      "title": "Senior Growth Marketing Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/9fcbf7d5-783e-40f7-82cb-dd2f406b73da",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "9fcbf7d5-783e-40f7-82cb-dd2f406b73da"
+    },
+    {
+      "title": "Senior Product Marketing Manager | Housing",
+      "apply_url": "https://jobs.ashbyhq.com/EliseAI/6dae94a0-f18d-4828-b409-e70d9d5ebabc",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-19",
+      "ashby_job_id": "6dae94a0-f18d-4828-b409-e70d9d5ebabc"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "operations",
+        "academy-training",
+        "customer-success",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3515,
+      "longitude": -71.0736,
+      "exact_address": "10 St James Ave, Back Bay, Boston, Massachusetts, United States - 02116",
+      "departments": [
+        "operations",
+        "marketing",
+        "academy-training",
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.88542,
+      "longitude": -87.65058,
+      "exact_address": "167 N Green St, 11th Floor, Suite 1100, Fulton Market, Chicago, Illinois, United States - 60607",
+      "departments": [
+        "operations",
+        "academy-training",
+        "customer-success",
+        "data",
+        "consulting",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "dallas_office",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "exact_address": "Dallas, Texas, United States",
+      "departments": [
+        "operations",
+        "customer-success",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7496,
+      "longitude": -73.9857,
+      "exact_address": "401 Fifth Avenue, Midtown Manhattan, New York, New York, United States - 10016",
+      "departments": [
+        "finance",
+        "legal",
+        "operations",
+        "engineering",
+        "design",
+        "marketing",
+        "academy-training",
+        "other",
+        "customer-success",
+        "data",
+        "hr",
+        "consulting",
+        "sales",
+        "it",
+        "healthcare-operations",
+        "research",
+        "product",
+        "security",
+        "ai",
+        "administration"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.792397,
+      "longitude": -122.402888,
+      "exact_address": "425 California Street, Financial District, San Francisco, California, United States - 94104",
+      "departments": [
+        "operations",
+        "academy-training",
+        "customer-success",
+        "legal",
+        "sales",
+        "hr",
+        "research",
+        "data",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.646238,
+      "longitude": -79.379104,
+      "exact_address": "200 Bay Street, TD Canada Trust Tower, Financial District, Toronto, Ontario, Canada - M5J 2T6",
+      "departments": [
+        "data",
+        "legal",
+        "consulting",
+        "product",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-e",
+    "funding_stage_last_updated": "2026-08-22T15:13:00.700Z",
+    "funding_stage_corrected_reason": "Was 'series-f' — the $250M raise at a $2.2B valuation (Aug 2025, after crossing $100M ARR) was actually EliseAI's Series E, not Series F. Corrected via web search cross-check. Note: as of Aug 2026, EliseAI is reportedly in talks for a further ~$300M round at a $3.7B valuation (a16z/Bessemer) that has not yet closed — left the current $250M/$2.2B/series-e figures in place since that round isn't confirmed closed, but flagging for a future re-check.",
+    "current_valuation_usd": "$2.2B",
+    "current_valuation_usd_last_updated": "2026-08-22T15:13:00.700Z",
+    "total_funding_raised": "$250M",
+    "total_funding_raised_last_updated": "2026-08-22T15:13:00.700Z",
+    "key_investors": [
+      {
+        "name": "Andreessen Horowitz",
+        "domain": "a16z.com"
+      },
+      {
+        "name": "Bessemer Venture Partners",
+        "domain": "bvp.com"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "domain": "sapphireventures.com"
+      },
+      {
+        "name": "Navitas Capital",
+        "domain": ""
+      }
+    ],
+    "key_investors_added_reason": "Was empty. Added via web search confirmation of the $250M Series E (Aug 2025, $2.2B valuation): led by Andreessen Horowitz, with new investor Bessemer Venture Partners and existing investors Sapphire Ventures and Navitas Capital.",
+    "investor_logos": [
+      {
+        "name": "Andreessen Horowitz",
+        "logo_url": "/investor-logos/andreessen-horowitz.png"
+      },
+      {
+        "name": "Bessemer Venture Partners",
+        "logo_url": "/investor-logos/bessemer-venture-partners.png"
+      },
+      {
+        "name": "Sapphire Ventures",
+        "logo_url": "/investor-logos/sapphire-ventures.png"
+      },
+      {
+        "name": "Navitas Capital",
+        "logo_url": "/investor-logos/navitas-capital.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-22T15:13:00.700Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "parental-leave",
+    "commute-allowance",
+    "retirement-401k",
+    "gym-membership",
+    "wfh-setup",
+    "meal-allowance",
+    "unlimited-pto",
+    "relocation-assistance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[0].x_twitter_verified_by": "direct_navigation",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "direct_navigation",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "direct_navigation",
+    "social_media.linkedin_url_verified_by": "direct_navigation",
+    "social_media.instagram_url_verified_by": "direct_navigation",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "location_mapping[2].location_source": "perplexity",
+    "location_mapping[4].location_source": "perplexity",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[6].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-22T15:13:00.700Z",
+    "company_basic_information.website_url_last_updated": "2026-08-22T15:13:00.700Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-22T15:13:00.700Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-22T15:13:00.700Z",
+    "company_basic_information.last_updated": "2026-08-22",
+    "leadership.founders[0].linkedin_last_verified": "2026-08-22",
+    "leadership.founders[0].x_twitter_last_verified": "2026-08-22",
+    "leadership.founders[0].image_url_last_updated": "2026-08-22T15:47:04.430Z",
+    "leadership.founders[0].description_last_updated": "2026-08-22T15:48:32.387Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-08-22",
+    "leadership.founders[1].image_url_last_updated": "2026-08-22T15:47:22.815Z",
+    "leadership.founders[1].description_last_updated": "2026-08-22T15:48:39.644Z",
+    "social_media.x_url_last_updated": "2026-08-22T15:13:00.700Z",
+    "social_media.x_url_last_verified": "2026-08-22",
+    "social_media.linkedin_url_last_updated": "2026-08-22T15:13:00.700Z",
+    "social_media.linkedin_url_last_verified": "2026-08-22",
+    "social_media.instagram_url_last_updated": "2026-08-22T15:13:00.700Z",
+    "social_media.instagram_url_last_verified": "2026-08-22",
+    "business_details.industry_domains_last_updated": "2026-08-22",
+    "financial_information.funding_stage_last_updated": "2026-08-22T15:13:00.700Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-22T15:13:00.700Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-22T15:13:00.700Z",
+    "financial_information.investor_logos_last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[0].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[1].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[2].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[3].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[4].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[5].last_updated": "2026-08-22T15:13:00.700Z",
+    "location_mapping[6].last_updated": "2026-08-22T15:13:00.700Z",
+    "job_data.roles[0].posted_date": "2026-09-05",
+    "job_data.roles[1].posted_date": "2026-09-05",
+    "job_data.roles[2].posted_date": "2026-09-05",
+    "job_data.roles[3].posted_date": "2026-09-05",
+    "job_data.roles[4].posted_date": "2026-09-05",
+    "job_data.roles[5].posted_date": "2026-09-05",
+    "job_data.roles[6].posted_date": "2026-09-05",
+    "job_data.roles[7].posted_date": "2026-09-05",
+    "job_data.roles[8].posted_date": "2026-09-05",
+    "job_data.roles[9].posted_date": "2026-09-05",
+    "job_data.roles[10].posted_date": "2026-09-05",
+    "job_data.roles[11].posted_date": "2026-09-05",
+    "job_data.roles[12].posted_date": "2026-09-05",
+    "job_data.roles[13].posted_date": "2026-09-05",
+    "job_data.roles[14].posted_date": "2026-09-05",
+    "job_data.roles[15].posted_date": "2026-09-05",
+    "job_data.roles[16].posted_date": "2026-09-05",
+    "job_data.roles[17].posted_date": "2026-09-05",
+    "job_data.roles[18].posted_date": "2026-09-05",
+    "job_data.roles[19].posted_date": "2026-09-05",
+    "job_data.roles[20].posted_date": "2026-09-05",
+    "job_data.roles[21].posted_date": "2026-09-05",
+    "job_data.roles[22].posted_date": "2026-09-05",
+    "job_data.roles[23].posted_date": "2026-09-05",
+    "job_data.roles[24].posted_date": "2026-09-05",
+    "job_data.roles[25].posted_date": "2026-09-05",
+    "job_data.roles[25].title_updated_timestamp": "2026-08-22T15:18:11.019Z",
+    "job_data.roles[26].posted_date": "2026-09-05",
+    "job_data.roles[27].posted_date": "2026-09-05",
+    "job_data.roles[28].posted_date": "2026-09-05",
+    "job_data.roles[29].posted_date": "2026-09-05",
+    "job_data.roles[30].posted_date": "2026-09-05",
+    "job_data.roles[31].posted_date": "2026-09-05",
+    "job_data.roles[32].posted_date": "2026-09-05",
+    "job_data.roles[33].posted_date": "2026-09-05",
+    "job_data.roles[34].posted_date": "2026-09-05",
+    "job_data.roles[35].posted_date": "2026-09-05",
+    "job_data.roles[36].posted_date": "2026-09-05",
+    "job_data.roles[37].posted_date": "2026-09-05",
+    "job_data.roles[38].posted_date": "2026-09-05",
+    "job_data.roles[39].posted_date": "2026-09-05",
+    "job_data.roles[40].posted_date": "2026-09-05",
+    "job_data.roles[41].posted_date": "2026-09-05",
+    "job_data.roles[42].posted_date": "2026-09-05",
+    "job_data.roles[43].posted_date": "2026-09-05",
+    "job_data.roles[44].posted_date": "2026-09-05",
+    "job_data.roles[45].posted_date": "2026-09-05",
+    "job_data.roles[46].posted_date": "2026-09-05",
+    "job_data.roles[47].posted_date": "2026-09-05",
+    "job_data.roles[48].posted_date": "2026-09-05",
+    "job_data.roles[49].posted_date": "2026-09-05",
+    "job_data.roles[50].posted_date": "2026-09-05",
+    "job_data.roles[51].posted_date": "2026-09-05",
+    "job_data.roles[52].posted_date": "2026-09-05",
+    "job_data.roles[53].posted_date": "2026-09-05",
+    "job_data.roles[54].posted_date": "2026-09-05",
+    "job_data.roles[55].posted_date": "2026-09-05",
+    "job_data.roles[56].posted_date": "2026-09-05",
+    "job_data.roles[56].title_updated_timestamp": "2026-08-22T15:18:37.838Z",
+    "job_data.roles[57].posted_date": "2026-09-05",
+    "job_data.roles[58].posted_date": "2026-09-05",
+    "job_data.roles[59].posted_date": "2026-09-05",
+    "job_data.roles[60].posted_date": "2026-09-05",
+    "job_data.roles[61].posted_date": "2026-09-05",
+    "job_data.roles[62].posted_date": "2026-09-05",
+    "job_data.roles[62].title_updated_timestamp": "2026-08-22T15:18:55.458Z",
+    "job_data.roles[63].posted_date": "2026-09-05",
+    "job_data.roles[64].posted_date": "2026-09-05",
+    "job_data.roles[65].posted_date": "2026-09-05",
+    "job_data.roles[66].posted_date": "2026-09-05",
+    "job_data.roles[67].posted_date": "2026-09-05",
+    "job_data.roles[68].posted_date": "2026-09-05",
+    "job_data.roles[69].posted_date": "2026-09-05",
+    "job_data.roles[70].posted_date": "2026-09-05",
+    "job_data.roles[71].posted_date": "2026-09-05",
+    "job_data.roles[72].posted_date": "2026-09-05",
+    "job_data.roles[73].posted_date": "2026-09-05",
+    "job_data.roles[74].posted_date": "2026-09-05",
+    "job_data.roles[75].posted_date": "2026-09-05",
+    "job_data.roles[76].posted_date": "2026-09-05",
+    "job_data.roles[77].posted_date": "2026-09-05",
+    "job_data.roles[78].posted_date": "2026-09-05",
+    "job_data.roles[79].posted_date": "2026-09-05",
+    "job_data.roles[80].posted_date": "2026-09-05",
+    "job_data.roles[81].posted_date": "2026-09-05",
+    "job_data.roles[82].posted_date": "2026-09-05",
+    "job_data.roles[83].posted_date": "2026-09-05",
+    "job_data.roles[84].posted_date": "2026-09-05",
+    "job_data.roles[85].posted_date": "2026-09-05",
+    "job_data.roles[86].posted_date": "2026-09-05",
+    "job_data.roles[87].posted_date": "2026-09-05",
+    "job_data.roles[88].posted_date": "2026-09-05",
+    "job_data.roles[89].posted_date": "2026-09-05",
+    "job_data.roles[90].posted_date": "2026-09-05",
+    "job_data.roles[91].posted_date": "2026-09-05",
+    "job_data.roles[92].posted_date": "2026-09-05",
+    "job_data.roles[93].posted_date": "2026-09-05",
+    "job_data.roles[94].posted_date": "2026-09-05",
+    "job_data.roles[95].posted_date": "2026-09-05",
+    "job_data.roles[96].posted_date": "2026-09-05",
+    "job_data.roles[97].posted_date": "2026-09-05",
+    "job_data.roles[98].posted_date": "2026-09-05",
+    "job_data.roles[99].posted_date": "2026-09-05",
+    "job_data.roles[100].posted_date": "2026-09-05",
+    "job_data.roles[101].posted_date": "2026-09-05",
+    "job_data.roles[102].posted_date": "2026-09-05",
+    "job_data.roles[103].posted_date": "2026-09-05",
+    "job_data.roles[104].posted_date": "2026-09-05",
+    "job_data.roles[105].posted_date": "2026-09-05",
+    "job_data.roles[106].posted_date": "2026-09-05",
+    "job_data.roles[107].posted_date": "2026-09-05",
+    "job_data.roles[108].posted_date": "2026-09-05",
+    "job_data.roles[109].posted_date": "2026-09-05",
+    "job_data.roles[110].posted_date": "2026-09-05",
+    "job_data.roles[111].posted_date": "2026-09-05",
+    "job_data.roles[112].posted_date": "2026-09-05",
+    "job_data.roles[113].posted_date": "2026-09-05",
+    "job_data.roles[114].posted_date": "2026-09-05",
+    "job_data.roles[115].posted_date": "2026-09-05",
+    "job_data.roles[116].posted_date": "2026-09-05",
+    "job_data.roles[117].posted_date": "2026-09-05",
+    "job_data.roles[118].posted_date": "2026-09-05",
+    "job_data.roles[119].posted_date": "2026-09-05",
+    "job_data.roles[120].posted_date": "2026-09-05",
+    "job_data.roles[121].posted_date": "2026-09-05",
+    "job_data.roles[122].posted_date": "2026-09-05",
+    "job_data.roles[123].posted_date": "2026-09-05",
+    "job_data.roles[124].posted_date": "2026-09-05",
+    "job_data.roles[125].posted_date": "2026-09-05",
+    "job_data.roles[126].posted_date": "2026-09-05",
+    "job_data.roles[127].posted_date": "2026-09-05",
+    "job_data.roles[128].posted_date": "2026-09-05",
+    "job_data.roles[129].posted_date": "2026-09-05",
+    "job_data.roles[130].posted_date": "2026-09-05",
+    "job_data.roles[131].posted_date": "2026-09-05",
+    "job_data.roles[132].posted_date": "2026-09-05",
+    "job_data.roles[133].posted_date": "2026-09-05",
+    "job_data.roles[134].posted_date": "2026-09-05",
+    "job_data.roles[135].posted_date": "2026-09-05",
+    "job_data.roles[136].posted_date": "2026-09-05",
+    "job_data.roles[137].posted_date": "2026-09-05",
+    "job_data.roles[138].posted_date": "2026-09-05",
+    "job_data.roles[139].posted_date": "2026-09-05",
+    "job_data.roles[140].posted_date": "2026-09-05",
+    "job_data.roles[141].posted_date": "2026-09-05",
+    "job_data.roles[142].posted_date": "2026-09-05",
+    "job_data.roles[143].posted_date": "2026-09-05",
+    "job_data.roles[144].posted_date": "2026-09-05",
+    "job_data.roles[145].posted_date": "2026-09-05",
+    "job_data.roles[146].posted_date": "2026-09-05",
+    "job_data.roles[147].posted_date": "2026-09-05",
+    "job_data.roles[148].posted_date": "2026-09-05",
+    "job_data.roles[149].posted_date": "2026-09-05",
+    "job_data.roles[150].posted_date": "2026-09-05",
+    "job_data.roles[151].posted_date": "2026-09-05",
+    "job_data.roles[152].posted_date": "2026-09-05",
+    "job_data.roles[153].posted_date": "2026-09-05",
+    "job_data.roles[154].posted_date": "2026-09-05",
+    "job_data.roles[155].posted_date": "2026-09-05",
+    "job_data.roles[156].posted_date": "2026-09-05",
+    "job_data.roles[157].posted_date": "2026-09-05",
+    "job_data.roles[158].posted_date": "2026-09-05",
+    "job_data.roles[159].posted_date": "2026-09-05",
+    "job_data.roles[160].posted_date": "2026-09-05",
+    "job_data.roles[161].posted_date": "2026-09-05",
+    "job_data.roles[162].posted_date": "2026-09-05",
+    "job_data.roles[163].posted_date": "2026-09-05",
+    "job_data.roles[164].posted_date": "2026-09-05",
+    "job_data.roles[165].posted_date": "2026-09-05",
+    "job_data.roles[166].posted_date": "2026-09-05",
+    "job_data.roles[167].posted_date": "2026-09-05",
+    "job_data.roles[168].posted_date": "2026-09-05",
+    "job_data.roles[169].posted_date": "2026-09-19",
+    "job_data.roles[169].title_updated_timestamp": "2026-09-21T18:12:45.563Z",
+    "job_data.roles[170].posted_date": "2026-09-19",
+    "job_data.roles[171].posted_date": "2026-09-19",
+    "job_data.roles[172].posted_date": "2026-09-19",
+    "job_data.roles[173].posted_date": "2026-09-19",
+    "job_data.roles[174].posted_date": "2026-09-19",
+    "job_data.roles[175].posted_date": "2026-09-19",
+    "job_data.roles[176].posted_date": "2026-09-19",
+    "job_data.last_updated": "2026-09-19T16:42:33.947Z",
+    "benefits.equity-stock.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.health-insurance.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.dental-insurance.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.vision-insurance.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.parental-leave.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.commute-allowance.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.retirement-401k.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.gym-membership.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.wfh-setup.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.meal-allowance.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-22T15:45:12.870Z",
+    "benefits.relocation-assistance.last_updated": "2026-08-22T15:45:12.870Z"
+  }
+}

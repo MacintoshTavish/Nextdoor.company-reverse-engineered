@@ -1,0 +1,952 @@
+{
+  "slug": "brigit",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/37347.e46b76a292a67d34.js",
+  "observed_at": "2026-09-28T08:29:38.192376+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 25261,
+    "sha256": "ee2a056291e33dd4cf7097c50e6bb2227b91d3c8a5e6a69102f306fc7dec4f05",
+    "elapsed_seconds": 0.152,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:38 GMT",
+      "etag": "\"d0d9a9fceac21728914379657aa44784\"",
+      "last-modified": "Mon, 28 Sep 2026 08:15:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Brigit",
+    "company_name_legal": "Bridge It, Inc.",
+    "founded_year": 2017,
+    "website_url": "https://hellobrigit.com",
+    "careers_url": "https://jobs.ashbyhq.com/brigit",
+    "investor_portfolio_page": null,
+    "id": 242
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 18,
+    "last_updated": "2026-09-14T12:24:21.633Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 18,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Director of Data Science",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/9338bd61-b892-474b-964b-6e5c22285c48",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-25",
+      "ashby_job_id": "9338bd61-b892-474b-964b-6e5c22285c48"
+    },
+    {
+      "title": "Director of Data Science",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/d81523c0-f4b2-468a-aecc-4f2642225c15",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-26",
+      "ashby_job_id": "d81523c0-f4b2-468a-aecc-4f2642225c15"
+    },
+    {
+      "title": "Engineering Manager - Growth",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/e0dc36bb-47cd-46c9-ac78-2f3f8e471061",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-02-09",
+      "ashby_job_id": "e0dc36bb-47cd-46c9-ac78-2f3f8e471061"
+    },
+    {
+      "title": "Finance Manager",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/c12a9cd0-104e-4dcd-acbf-e06583d9b2e5",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "finance",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-02",
+      "ashby_job_id": "c12a9cd0-104e-4dcd-acbf-e06583d9b2e5"
+    },
+    {
+      "title": "Lead Data Analyst, Payments Platform",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/0c836406-9bce-4047-b52e-06ea2ebb6580",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-18",
+      "ashby_job_id": "0c836406-9bce-4047-b52e-06ea2ebb6580"
+    },
+    {
+      "title": "Lead Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/b10f0fae-4ed0-4474-9ddb-72ec69da868e",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "b10f0fae-4ed0-4474-9ddb-72ec69da868e"
+    },
+    {
+      "title": "Lead Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/6a214803-b38b-47b0-a8e9-6ffe20edec72",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "6a214803-b38b-47b0-a8e9-6ffe20edec72"
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/e46b2709-38b6-4b67-87ed-6ed33a60609f",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-04",
+      "ashby_job_id": "e46b2709-38b6-4b67-87ed-6ed33a60609f"
+    },
+    {
+      "title": "Senior Data Analyst, Line of Credit",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/4f6e5057-28d6-4d51-a1fc-6825f967834b",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-24",
+      "ashby_job_id": "4f6e5057-28d6-4d51-a1fc-6825f967834b"
+    },
+    {
+      "title": "Senior Data Analyst, Payments Platform",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/804901fc-1155-47b7-8c88-179aff855c8a",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-23",
+      "ashby_job_id": "804901fc-1155-47b7-8c88-179aff855c8a"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/aa4d6c31-6824-45bd-9b55-6cf0b391d103",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "aa4d6c31-6824-45bd-9b55-6cf0b391d103"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/5c621991-b957-4381-9415-ab611f8180f7",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-06-29",
+      "ashby_job_id": "5c621991-b957-4381-9415-ab611f8180f7"
+    },
+    {
+      "title": "Senior Software Engineer - Fullstack",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/70b71c70-ae7d-47df-b38f-4d4250994979",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2025-06-16",
+      "ashby_job_id": "70b71c70-ae7d-47df-b38f-4d4250994979"
+    },
+    {
+      "title": "Software Engineer - Fullstack",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/b6fd9d9c-7f4b-4a37-8589-0ba08983a9e1",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "b6fd9d9c-7f4b-4a37-8589-0ba08983a9e1"
+    },
+    {
+      "title": "Senior Software Engineer - Fullstack, US Remote",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/dadfe50a-a234-481c-b284-3050d135d8ae",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "dadfe50a-a234-481c-b284-3050d135d8ae"
+    },
+    {
+      "title": "Software Engineer - Fullstack, US Remote",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/ce751b1c-3d59-4ed9-bd4e-7274ead8b23c",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-01",
+      "ashby_job_id": "ce751b1c-3d59-4ed9-bd4e-7274ead8b23c"
+    },
+    {
+      "title": "VP of Product",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/33bf5fb0-1b0b-46e8-ab31-fc1beb706713",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, United States",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-07-02",
+      "ashby_job_id": "33bf5fb0-1b0b-46e8-ab31-fc1beb706713"
+    },
+    {
+      "title": "Senior IT Operations Manager",
+      "apply_url": "https://jobs.ashbyhq.com/brigit/95347f02-04b6-4849-9820-947d0b004da0",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "Remote, New York City",
+      "role_department": "it",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "95347f02-04b6-4849-9820-947d0b004da0"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.5345,
+      "longitude": 13.4748,
+      "exact_address": "An der Waldsiedlung 1, 10318 Berlin, Germany",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "london",
+      "state": "England",
+      "country": "United Kingdom",
+      "latitude": 51.5174,
+      "longitude": -0.0835,
+      "exact_address": "1 Finsbury Circus, London, United Kingdom, EC2M 7SH",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "new york",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7411,
+      "longitude": -73.9924,
+      "exact_address": "36 West 20th Street, Floor 11, New York, New York, United States - 10011",
+      "departments": [
+        "marketing",
+        "engineering",
+        "finance",
+        "data",
+        "design",
+        "product",
+        "hr"
+      ],
+      "employee_count": "100+"
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "marketing",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "product"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-04-11T16:06:16.235Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-04-11T11:13:44.321Z",
+    "total_funding_raised": "$35 million",
+    "total_funding_raised_last_updated": "2026-04-11T11:13:44.321Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-04-11T11:13:44.321Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "retirement-401k",
+    "parental-leave",
+    "gym-membership",
+    "mental-health",
+    "phone-reimbursement",
+    "learning-development",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "cowork",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "cowork",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "cowork",
+    "social_media.instagram_url_verified_by": "ai",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[26].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-11T11:13:44.321Z",
+    "company_basic_information.website_url_last_updated": "2026-04-11T11:13:44.321Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-11T11:13:44.321Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-11T11:13:44.321Z",
+    "company_basic_information.last_updated": "2026-04-11",
+    "leadership.founders[0].linkedin_last_verified": "2026-04-11T12:10:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T12:38:18.910Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:02:26.680Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-04-11T12:10:00.000Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:02:32.990Z",
+    "social_media.x_url_last_verified": "2026-04-11T11:36:57.007Z",
+    "social_media.linkedin_url_last_verified": "2026-04-11T12:10:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-04-11T11:36:56.600Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-04-11T16:06:16.235Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-11T11:13:44.321Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-11T11:13:44.321Z",
+    "financial_information.investor_logos_last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[0].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[1].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[2].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[3].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[4].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[5].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[6].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[7].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[8].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[9].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[10].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[11].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[12].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[13].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[14].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[15].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[16].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[17].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[18].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[19].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[20].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[21].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[22].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[23].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[24].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[25].last_updated": "2026-04-11T11:13:44.321Z",
+    "location_mapping[26].last_updated": "2026-05-23T21:13:42.381Z",
+    "job_data.roles[0].posted_date": "2026-06-25",
+    "job_data.roles[1].posted_date": "2026-06-26",
+    "job_data.roles[2].posted_date": "2026-02-09",
+    "job_data.roles[3].posted_date": "2026-07-02",
+    "job_data.roles[4].posted_date": "2026-06-18",
+    "job_data.roles[5].posted_date": "2026-06-29",
+    "job_data.roles[6].posted_date": "2026-06-29",
+    "job_data.roles[7].posted_date": "2026-05-04",
+    "job_data.roles[8].posted_date": "2026-06-24",
+    "job_data.roles[9].posted_date": "2026-06-23",
+    "job_data.roles[10].posted_date": "2026-06-29",
+    "job_data.roles[11].posted_date": "2026-06-29",
+    "job_data.roles[12].posted_date": "2025-06-16",
+    "job_data.roles[13].posted_date": "2026-07-01",
+    "job_data.roles[14].posted_date": "2026-07-01",
+    "job_data.roles[15].posted_date": "2026-07-01",
+    "job_data.roles[16].posted_date": "2026-07-02",
+    "job_data.roles[17].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:24:21.633Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.unlimited-pto.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.parental-leave.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.gym-membership.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.mental-health.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.learning-development.last_updated": "2026-04-23T13:58:09.406Z",
+    "benefits.remote-work.last_updated": "2026-04-23T13:58:09.406Z"
+  }
+}

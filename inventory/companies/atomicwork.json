@@ -1,0 +1,772 @@
+{
+  "slug": "atomicwork",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/72417.379fa1cf6c93493a.js",
+  "observed_at": "2026-09-28T08:29:11.251946+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 20241,
+    "sha256": "241f0d00d7e7e20abac4250a71a7ea9c7d69eb778b426f61087b6c77e585844a",
+    "elapsed_seconds": 0.403,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:29:11 GMT",
+      "etag": "\"204bf3ec09634075ef1f48f28960822f\"",
+      "last-modified": "Mon, 28 Sep 2026 08:29:11 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "benefits",
+    "show_on_map"
+  ],
+  "company": {
+    "company_name_brand": "Atomicwork",
+    "company_name_legal": "Atomicwork Inc",
+    "founded_year": 2022,
+    "website_url": "https://www.atomicwork.com",
+    "careers_url": "https://job-boards.greenhouse.io/atomicwork",
+    "investor_portfolio_page": null,
+    "id": 73
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 27,
+    "last_updated": "2026-09-24T09:56:11.488Z",
+    "crawl_status": "success",
+    "source": "Greenhouse Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 27,
+  "role_field_names": [
+    "apply_url",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Applied AI Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/5073381008",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Backend Engineer - Search",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4645648008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/5073379008",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "SDET",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4547914008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04",
+      "department_classification_status": "rule_reclassified",
+      "department_classification_reasoning": "Reclassified by rule-based SDET pattern (May 20, 2026 - moved SDET from engineering to qa)"
+    },
+    {
+      "title": "AI Engineer - Enterprise Search",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4495248008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Backend Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4143684008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Staff Engineer - Enterprise Search",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4489163008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Frontend Developer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4249636008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Platform Infrastructure Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170707008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Workflow Platform Integration Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4181576008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Application Security Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170696008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "QA Lead",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4610367008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Social Media Specialist",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4419323008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "People Partner",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4458602008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Lead Product Designer (Bangalore, India)",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170401008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4407185008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Visual Designer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4177607008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Product Manager - Platform",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4186148008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4411485008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Enterprise Account Executive (US)",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170612008",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, California",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Enterprise Solution Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170574008",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, California",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Solution Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170470008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Customer Success Manager (Bangalore, India)",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4174435008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Product Support Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4495245008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/5065963008",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Implementation Consultant",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170582008",
+      "location_ids": [
+        "bengaluru_office"
+      ],
+      "location_display": "Bengaluru, India",
+      "role_department": "consulting",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    },
+    {
+      "title": "Product Marketer",
+      "apply_url": "https://job-boards.greenhouse.io/atomicwork/jobs/5099156008",
+      "location_ids": [
+        "palo_alto_office"
+      ],
+      "location_display": "Palo Alto, California",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "posted_date": "2026-02-04"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9077,
+      "longitude": 77.6896,
+      "exact_address": "SLD-4, Shilpa Dacha, Sarjapur Main Road, Ambalipura, Bangalore, Karnataka, India - 560103",
+      "departments": [
+        "engineering",
+        "product",
+        "ai",
+        "security",
+        "qa",
+        "marketing",
+        "design",
+        "sales",
+        "consulting",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "palo_alto_office",
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4436,
+      "longitude": -122.1617,
+      "exact_address": "720 University Ave, Suite 204, Palo Alto, California, United States - 94301",
+      "departments": [
+        "sales",
+        "consulting"
+      ],
+      "employee_count": "60"
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [
+        "ai",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 3,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2025-10-24T14:17:09.853Z",
+    "current_valuation_usd": "$150 million",
+    "current_valuation_usd_last_updated": "2025-10-24T14:18:45.413Z",
+    "total_funding_raised": "$40 million",
+    "total_funding_raised_last_updated": "2025-10-24T14:17:09.853Z",
+    "key_investors": [
+      {
+        "name": "Khosla Ventures",
+        "domain": "khoslaventures.com"
+      },
+      {
+        "name": "Battery Ventures",
+        "domain": "battery.com"
+      },
+      {
+        "name": "Peak XV Partners",
+        "domain": "peakxv.com"
+      },
+      {
+        "name": "Blume Ventures",
+        "domain": "blume.vc"
+      },
+      {
+        "name": "Neon Fund",
+        "domain": "neon.fund"
+      },
+      {
+        "name": "Storm Ventures",
+        "domain": "stormventures.com"
+      },
+      {
+        "name": "Z47",
+        "domain": "matrixpartners.in"
+      },
+      {
+        "name": "Okta Ventures",
+        "domain": "okta.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Khosla Ventures",
+        "logo_url": "/investor-logos/khosla.png"
+      },
+      {
+        "name": "Battery Ventures",
+        "logo_url": "/investor-logos/battery-ventures.png"
+      },
+      {
+        "name": "Peak XV Partners",
+        "logo_url": "/investor-logos/peak-xv.png"
+      },
+      {
+        "name": "Blume Ventures",
+        "logo_url": "/investor-logos/blume.png"
+      },
+      {
+        "name": "Neon Fund",
+        "logo_url": "/investor-logos/neon-fund.png"
+      },
+      {
+        "name": "Storm Ventures",
+        "logo_url": "/investor-logos/storm-ventures.png"
+      },
+      {
+        "name": "Z47",
+        "logo_url": "/investor-logos/z47.png"
+      },
+      {
+        "name": "Okta Ventures",
+        "logo_url": "/investor-logos/okta-ventures.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-24T14:17:09.853Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "privilege-leave",
+    "sick-leave",
+    "flexible-hours",
+    "team-events",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].linkedin_verified_by": "sankalp",
+    "leadership.founders[2].x_twitter_verified_by": "sankalp",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Greenhouse Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-24T14:17:09.853Z",
+    "company_basic_information.website_url_last_updated": "2025-10-24T14:17:09.853Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-24T14:17:09.853Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T05:39:07.653Z",
+    "company_basic_information.last_updated": "2025-10-24",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "leadership.founders[0].image_url_last_updated": "2026-02-01T11:40:42.640Z",
+    "leadership.founders[0].description_last_updated": "2026-02-01T11:48:11.849Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "leadership.founders[1].image_url_last_updated": "2026-02-01T11:40:53.102Z",
+    "leadership.founders[1].description_last_updated": "2026-02-01T11:48:17.053Z",
+    "leadership.founders[2].linkedin_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "leadership.founders[2].x_twitter_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "leadership.founders[2].image_url_last_updated": "2026-02-01T11:41:03.640Z",
+    "leadership.founders[2].description_last_updated": "2026-02-01T11:48:22.379Z",
+    "social_media.x_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "social_media.linkedin_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "social_media.instagram_url_last_verified": "2025-10-24T14:17:09.853Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:02.526Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T19:51:48.389Z",
+    "financial_information.funding_stage_last_updated": "2025-10-24T14:17:09.853Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-24T14:18:45.413Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-24T14:17:09.853Z",
+    "financial_information.investor_logos_last_updated": "2025-10-24T14:17:09.853Z",
+    "location_mapping[0].last_updated": "2025-10-24T14:19:19.642Z",
+    "location_mapping[1].last_updated": "2025-10-24T14:17:09.853Z",
+    "job_data.roles[0].posted_date": "2026-02-04",
+    "job_data.roles[1].posted_date": "2026-02-04",
+    "job_data.roles[2].posted_date": "2026-02-04",
+    "job_data.roles[3].posted_date": "2026-02-04",
+    "job_data.roles[4].posted_date": "2026-02-04",
+    "job_data.roles[5].posted_date": "2026-02-04",
+    "job_data.roles[6].posted_date": "2026-02-04",
+    "job_data.roles[7].posted_date": "2026-02-04",
+    "job_data.roles[8].posted_date": "2026-02-04",
+    "job_data.roles[9].posted_date": "2026-02-04",
+    "job_data.roles[10].posted_date": "2026-02-04",
+    "job_data.roles[11].posted_date": "2026-02-04",
+    "job_data.roles[12].posted_date": "2026-02-04",
+    "job_data.roles[13].posted_date": "2026-02-04",
+    "job_data.roles[14].posted_date": "2026-02-04",
+    "job_data.roles[15].posted_date": "2026-02-04",
+    "job_data.roles[16].posted_date": "2026-02-04",
+    "job_data.roles[17].posted_date": "2026-02-04",
+    "job_data.roles[18].posted_date": "2026-02-04",
+    "job_data.roles[19].posted_date": "2026-02-04",
+    "job_data.roles[20].posted_date": "2026-02-04",
+    "job_data.roles[21].posted_date": "2026-02-04",
+    "job_data.roles[22].posted_date": "2026-02-04",
+    "job_data.roles[23].posted_date": "2026-02-04",
+    "job_data.roles[24].posted_date": "2026-02-04",
+    "job_data.roles[25].posted_date": "2026-02-04",
+    "job_data.roles[26].posted_date": "2026-02-04",
+    "job_data.last_updated": "2026-09-24T09:56:11.488Z",
+    "benefits.health-insurance.last_updated": "2025-12-06T00:00:00.000Z",
+    "benefits.privilege-leave.last_updated": "2025-12-06T00:00:00.000Z",
+    "benefits.sick-leave.last_updated": "2025-12-06T00:00:00.000Z",
+    "benefits.flexible-hours.last_updated": "2025-12-06T00:00:00.000Z",
+    "benefits.team-events.last_updated": "2025-12-06T00:00:00.000Z"
+  }
+}

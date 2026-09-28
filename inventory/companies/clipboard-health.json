@@ -1,0 +1,2830 @@
+{
+  "slug": "clipboard-health",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/54783.be3002b8869a6532.js",
+  "observed_at": "2026-09-28T08:30:14.366458+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 65289,
+    "sha256": "8134dc3b4506710b6535c5099203d23b34c108a88ad3b890aff7de49204bd997",
+    "elapsed_seconds": 1.892,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:14 GMT",
+      "etag": "\"9a61092d8b579bb8aa8a4b2b6ce0122d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:14 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Clipboard Health",
+    "company_name_legal": "Clipboard Health",
+    "founded_year": 2020,
+    "website_url": "https://www.clipboardhealth.com",
+    "careers_url": "https://jobs.ashbyhq.com/clipboard",
+    "investor_portfolio_page": null,
+    "id": 198
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 49,
+    "last_updated": "2026-09-14T12:24:59.551Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 49,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Tooling Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/3140ff24-cfdc-4f22-a81f-ccac98ef9120",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "3140ff24-cfdc-4f22-a81f-ccac98ef9120"
+    },
+    {
+      "title": "AI Tooling Program Manager",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/80f1fd1c-7b09-4d6e-9a0b-e234fc9672b8",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "80f1fd1c-7b09-4d6e-9a0b-e234fc9672b8"
+    },
+    {
+      "title": "Applied Scientist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/8e59b9ee-5e85-49f8-9750-1c9c1e9bb52a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "data",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8e59b9ee-5e85-49f8-9750-1c9c1e9bb52a"
+    },
+    {
+      "title": "Billing Representative",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/2ddc9bb3-0531-4fbe-a514-d77ed408cfd0#loc-0",
+      "location_ids": [
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2ddc9bb3-0531-4fbe-a514-d77ed408cfd0"
+    },
+    {
+      "title": "Billing Representative",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/2ddc9bb3-0531-4fbe-a514-d77ed408cfd0#loc-1",
+      "location_ids": [
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Remote, Asia Pacific",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2ddc9bb3-0531-4fbe-a514-d77ed408cfd0"
+    },
+    {
+      "title": "Billing Representative",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/2ddc9bb3-0531-4fbe-a514-d77ed408cfd0#loc-2",
+      "location_ids": [
+        "bucharest_office"
+      ],
+      "location_display": "Bucharest, Romania",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2ddc9bb3-0531-4fbe-a514-d77ed408cfd0"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/735edf77-6e08-4896-b7c4-046a1c099385",
+      "location_ids": [
+        "johannesburg_office",
+        "cape_town_office",
+        "pretoria_office",
+        "durban_office"
+      ],
+      "location_display": "Remote, South Africa",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "735edf77-6e08-4896-b7c4-046a1c099385"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/26f63db2-b223-47e5-86ef-14563144a4c2",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "26f63db2-b223-47e5-86ef-14563144a4c2"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/8ddd86d1-04e3-4ec1-8e8a-adf614119e43",
+      "location_ids": [
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8ddd86d1-04e3-4ec1-8e8a-adf614119e43"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/8de450a8-54e4-4523-837f-438a97e57ca6",
+      "location_ids": [
+        "kingston_office",
+        "san_juan_office",
+        "santo_domingo_office",
+        "port_of_spain_office"
+      ],
+      "location_display": "Jamaica",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8de450a8-54e4-4523-837f-438a97e57ca6"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/76a2e3cc-4426-4492-890d-370f1bf8bc69#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "76a2e3cc-4426-4492-890d-370f1bf8bc69"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/76a2e3cc-4426-4492-890d-370f1bf8bc69#loc-1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "76a2e3cc-4426-4492-890d-370f1bf8bc69"
+    },
+    {
+      "title": "Client Support Specialist (Workplaces - B2B)",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/76a2e3cc-4426-4492-890d-370f1bf8bc69#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "76a2e3cc-4426-4492-890d-370f1bf8bc69"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/8f01008d-a05a-4fcc-873d-83175e2c70ba",
+      "location_ids": [
+        "cairo_office",
+        "johannesburg_office",
+        "cape_town_office",
+        "lagos_office",
+        "nairobi_office",
+        "casablanca_office"
+      ],
+      "location_display": "Africa, Central & South America, the Caribbean",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8f01008d-a05a-4fcc-873d-83175e2c70ba"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/48cd8693-92b0-4d11-9eaf-10402426fe3e",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "48cd8693-92b0-4d11-9eaf-10402426fe3e"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/d43bf22d-8219-4265-b061-87aab63d13e9#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d43bf22d-8219-4265-b061-87aab63d13e9"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/d43bf22d-8219-4265-b061-87aab63d13e9#loc-1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d43bf22d-8219-4265-b061-87aab63d13e9"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/d43bf22d-8219-4265-b061-87aab63d13e9#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d43bf22d-8219-4265-b061-87aab63d13e9"
+    },
+    {
+      "title": "Customer Experience Specialist",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/6d7d384b-2b99-44f5-be2a-cc693c629d9e",
+      "location_ids": [
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines",
+      "role_department": "customer-success",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "6d7d384b-2b99-44f5-be2a-cc693c629d9e"
+    },
+    {
+      "title": "Customer Support Team Lead",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/7f481ae8-22b8-4adf-8f02-b65a802b58d3#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7f481ae8-22b8-4adf-8f02-b65a802b58d3"
+    },
+    {
+      "title": "Customer Support Team Lead",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/7f481ae8-22b8-4adf-8f02-b65a802b58d3#loc-1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7f481ae8-22b8-4adf-8f02-b65a802b58d3"
+    },
+    {
+      "title": "Customer Support Team Lead",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/7f481ae8-22b8-4adf-8f02-b65a802b58d3#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "7f481ae8-22b8-4adf-8f02-b65a802b58d3"
+    },
+    {
+      "title": "In-House Content Creator",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/11673cb5-ab23-467a-95f5-085c3af98411",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "content-production",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "11673cb5-ab23-467a-95f5-085c3af98411"
+    },
+    {
+      "title": "Manager, Strategic Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/8dda6bc0-378d-449a-a15a-490b891b03b2",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "8dda6bc0-378d-449a-a15a-490b891b03b2"
+    },
+    {
+      "title": "Onboarding Documents Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/82df7116-0720-4434-a330-ca7e0389dc60#loc-0",
+      "location_ids": [
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "bengaluru_office"
+      ],
+      "location_display": "Remote, Asia Pacific",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "82df7116-0720-4434-a330-ca7e0389dc60"
+    },
+    {
+      "title": "Onboarding Documents Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/82df7116-0720-4434-a330-ca7e0389dc60#loc-1",
+      "location_ids": [
+        "manila_office"
+      ],
+      "location_display": "Manila, Philippines",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "82df7116-0720-4434-a330-ca7e0389dc60"
+    },
+    {
+      "title": "Onboarding Expert",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/875a2615-be51-4347-b16a-82869173d548",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office",
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office",
+        "buenos_aires_office",
+        "cordoba_office",
+        "rosario_office",
+        "bogota_office",
+        "medellin_office",
+        "cali_office",
+        "santiago_office",
+        "valparaiso_office",
+        "lima_office"
+      ],
+      "location_display": "Central & South America",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "875a2615-be51-4347-b16a-82869173d548"
+    },
+    {
+      "title": "Onboarding Expert",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/f6081a39-cbcd-4040-8be6-e8d5979f22e6#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f6081a39-cbcd-4040-8be6-e8d5979f22e6"
+    },
+    {
+      "title": "Onboarding Expert",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/f6081a39-cbcd-4040-8be6-e8d5979f22e6#loc-1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f6081a39-cbcd-4040-8be6-e8d5979f22e6"
+    },
+    {
+      "title": "Onboarding Expert",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/f6081a39-cbcd-4040-8be6-e8d5979f22e6#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f6081a39-cbcd-4040-8be6-e8d5979f22e6"
+    },
+    {
+      "title": "Operations Strategy Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/69c93703-ab00-47ca-b8f4-a32c96e74925",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "69c93703-ab00-47ca-b8f4-a32c96e74925"
+    },
+    {
+      "title": "Operations Strategy Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/e460c498-cd2f-43bd-9930-954367036d90#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e460c498-cd2f-43bd-9930-954367036d90"
+    },
+    {
+      "title": "Operations Strategy Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/e460c498-cd2f-43bd-9930-954367036d90#loc-1",
+      "location_ids": [
+        "london_office",
+        "manchester_office",
+        "edinburgh_office",
+        "birmingham_office"
+      ],
+      "location_display": "Remote, United Kingdom",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e460c498-cd2f-43bd-9930-954367036d90"
+    },
+    {
+      "title": "Operations Strategy Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/e460c498-cd2f-43bd-9930-954367036d90#loc-2",
+      "location_ids": [
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "dublin_office",
+        "madrid_office",
+        "barcelona_office",
+        "stockholm_office",
+        "copenhagen_office",
+        "munich_office",
+        "milan_office",
+        "zurich_office",
+        "warsaw_office",
+        "prague_office",
+        "lisbon_office",
+        "vienna_office",
+        "hamburg_office",
+        "brussels_office",
+        "rome_office",
+        "helsinki_office"
+      ],
+      "location_display": "Remote, Europe",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "e460c498-cd2f-43bd-9930-954367036d90"
+    },
+    {
+      "title": "Product Strategy & Operations",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/383cc244-7fc9-4b74-9a97-3793ea53f65a",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "383cc244-7fc9-4b74-9a97-3793ea53f65a"
+    },
+    {
+      "title": "Revenue Strategy & Growth Associate",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2ca7fa94-6b57-4358-9105-857b911c15f7"
+    },
+    {
+      "title": "Sales Commission Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/aa269dc2-c718-4316-928f-390599546708#loc-0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "Remote, Canada",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "aa269dc2-c718-4316-928f-390599546708"
+    },
+    {
+      "title": "Sales Commission Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/aa269dc2-c718-4316-928f-390599546708#loc-1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "data",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "aa269dc2-c718-4316-928f-390599546708"
+    },
+    {
+      "title": "Sales Operations Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/5981222f-7c67-410f-a898-f9eb525c2cc3",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office",
+        "toronto_office",
+        "vancouver_office",
+        "montreal_office"
+      ],
+      "location_display": "North America",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "5981222f-7c67-410f-a898-f9eb525c2cc3"
+    },
+    {
+      "title": "Senior Associate, Revenue Strategy & Growth",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/cba99195-dea0-49ee-85f9-296098f86acd",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "cba99195-dea0-49ee-85f9-296098f86acd"
+    },
+    {
+      "title": "Strategy & Ops Associate, Applied AI",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/48b39937-d8fa-467b-beb0-4fdebfe7bd9f",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "48b39937-d8fa-467b-beb0-4fdebfe7bd9f"
+    },
+    {
+      "title": "Strategy & Ops Associate, Applied AI",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/f9ec8cfe-9eb2-4b10-9942-a36c2fe0cc20",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "f9ec8cfe-9eb2-4b10-9942-a36c2fe0cc20"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/d77b2224-307f-48b1-a0ea-ab67153993c0",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "d77b2224-307f-48b1-a0ea-ab67153993c0"
+    },
+    {
+      "title": "Billing Representative",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/2ddc9bb3-0531-4fbe-a514-d77ed408cfd0#loc-3",
+      "location_ids": [
+        "mexico_city_office",
+        "guadalajara_office",
+        "monterrey_office",
+        "queretaro_office",
+        "sao_paulo_office",
+        "rio_de_janeiro_office",
+        "brasilia_office",
+        "belo_horizonte_office",
+        "buenos_aires_office",
+        "cordoba_office",
+        "rosario_office",
+        "bogota_office",
+        "medellin_office",
+        "cali_office",
+        "santiago_office",
+        "valparaiso_office",
+        "lima_office"
+      ],
+      "location_display": "Central & South America",
+      "role_department": "finance",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "2ddc9bb3-0531-4fbe-a514-d77ed408cfd0"
+    },
+    {
+      "title": "Strategy & Operations Senior Associate - Billing",
+      "title_original": "S&O Senior Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T13:46:34.932Z",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/64ac2f12-3cfc-4a7e-bb0d-1c97ffcb83a5",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "64ac2f12-3cfc-4a7e-bb0d-1c97ffcb83a5",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the S&O Senior Associate role focus on optimizing billing processes, predictive analytics, and vendor management, all of which are essential for operational efficiency in the company. The role is centered around ensuring high-quality growth through effective revenue collection and cash conversion, which aligns closely with operations."
+    },
+    {
+      "title": "Senior Associate - Strategy & Operations",
+      "title_original": "S&O Senior Associate",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-02T13:47:00.481Z",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/1bde9c0f-0ca8-4cd6-9f88-49b3384861b1",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Global",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-31",
+      "ashby_job_id": "1bde9c0f-0ca8-4cd6-9f88-49b3384861b1",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the S&O Senior Associate role focus on optimizing billing processes, predictive analytics, and vendor management, all of which are critical to the operational efficiency of the company. The role is centered around ensuring that revenue is converted into cash effectively, which aligns closely with operations."
+    },
+    {
+      "title": "Customer Support Team Lead",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/879da742-8599-4520-9fc6-1eccac1dd7a3",
+      "location_ids": [
+        "toronto_office",
+        "vancouver_office",
+        "london_office",
+        "berlin_office",
+        "amsterdam_office",
+        "paris_office",
+        "stockholm_office",
+        "dublin_office",
+        "bengaluru_office",
+        "mumbai_office",
+        "singapore_office",
+        "hong_kong_office",
+        "tokyo_office",
+        "seoul_office",
+        "sao_paulo_office",
+        "mexico_city_office",
+        "buenos_aires_office",
+        "dubai_office",
+        "tel_aviv_office",
+        "johannesburg_office",
+        "sydney_office",
+        "melbourne_office"
+      ],
+      "location_display": "Remote, Non-US",
+      "role_department": "customer-support",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "879da742-8599-4520-9fc6-1eccac1dd7a3"
+    },
+    {
+      "title": "Forward Deployed Analyst",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/860d0f13-2d27-44ed-a555-4e31e175da80",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "customer-success",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "860d0f13-2d27-44ed-a555-4e31e175da80"
+    },
+    {
+      "title": "Litigation Counsel",
+      "apply_url": "https://jobs.ashbyhq.com/clipboard/05fa099b-3a5e-4e3b-b1b5-7ba23b0db7a4",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "legal",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-14",
+      "ashby_job_id": "05fa099b-3a5e-4e3b-b1b5-7ba23b0db7a4"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2125,
+      "longitude": -97.7194,
+      "exact_address": "4500 S Pleasant Valley Rd Ste 201, Austin, Texas, United States - 78744",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "product",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "exact_address": "Berlin, Germany",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3458,
+      "longitude": -71.0896,
+      "exact_address": "800 Boylston Street, Suite 1410, Boston, Massachusetts, United States - 02199",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cairo_office",
+      "city": "Cairo",
+      "state": null,
+      "country": "Egypt",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "exact_address": "Cairo, Egypt",
+      "departments": [
+        "customer-success",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cape_town_office",
+      "city": "Cape Town",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "exact_address": "Cape Town, South Africa",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "operations",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "casablanca_office",
+      "city": "Casablanca",
+      "state": null,
+      "country": "Morocco",
+      "latitude": 33.5731,
+      "longitude": -7.5898,
+      "exact_address": "Casablanca, Morocco",
+      "departments": [
+        "customer-success",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cebu_city_office",
+      "city": "Cebu City",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "exact_address": "Cebu City, Philippines",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "davao_city_office",
+      "city": "Davao City",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 7.1907,
+      "longitude": 125.4553,
+      "exact_address": "Davao City, Philippines",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "product",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "product",
+        "operations",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kingston_office",
+      "city": "Kingston",
+      "state": null,
+      "country": "Jamaica",
+      "latitude": 18.0179,
+      "longitude": -76.8099,
+      "exact_address": "Kingston, Jamaica",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lagos_office",
+      "city": "Lagos",
+      "state": null,
+      "country": "Nigeria",
+      "latitude": 6.5244,
+      "longitude": 3.3792,
+      "exact_address": "Lagos, Nigeria",
+      "departments": [
+        "customer-success",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "los angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0954,
+      "longitude": -118.2484,
+      "exact_address": "2710 Media Center Dr. Building #6, Suite #120, Los Angeles, CA, United States - 90065",
+      "departments": [
+        "product",
+        "sales"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "manila_office",
+      "city": "Manila",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "exact_address": "Manila, Philippines",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "montreal_office",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "exact_address": "Montreal, Quebec, Canada",
+      "departments": [
+        "sales",
+        "customer-support",
+        "customer-success",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nairobi_office",
+      "city": "Nairobi",
+      "state": null,
+      "country": "Kenya",
+      "latitude": -1.2864,
+      "longitude": 36.8172,
+      "exact_address": "Nairobi, Kenya",
+      "departments": [
+        "customer-success",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "port_of_spain_office",
+      "city": "Port of Spain",
+      "state": null,
+      "country": "Trinidad and Tobago",
+      "latitude": 10.6549,
+      "longitude": -61.5019,
+      "exact_address": "Port of Spain, Trinidad and Tobago",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "quezon_city_office",
+      "city": "Quezon City",
+      "state": null,
+      "country": "Philippines",
+      "latitude": 14.676,
+      "longitude": 121.0437,
+      "exact_address": "Quezon City, Philippines",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7759,
+      "longitude": -122.4194,
+      "exact_address": "77 Van Ness Avenue Suite 101 #1728, San Francisco, California, United States - 94102",
+      "departments": [
+        "customer-support",
+        "engineering",
+        "product",
+        "sales",
+        "operations",
+        "other"
+      ],
+      "employee_count": "501-1000"
+    },
+    {
+      "location_id": "san_juan_office",
+      "city": "San Juan",
+      "state": null,
+      "country": "Puerto Rico",
+      "latitude": 18.4655,
+      "longitude": -66.1057,
+      "exact_address": "San Juan, Puerto Rico",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santo_domingo_office",
+      "city": "Santo Domingo",
+      "state": null,
+      "country": "Dominican Republic",
+      "latitude": 18.4861,
+      "longitude": -69.9312,
+      "exact_address": "Santo Domingo, Dominican Republic",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "product",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "customer-support",
+        "product",
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "customer-support",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "customer-support",
+        "customer-success",
+        "product",
+        "operations",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "sales",
+        "customer-support",
+        "customer-success",
+        "operations",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "sales",
+        "customer-support",
+        "customer-success",
+        "operations",
+        "product",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "us_office",
+      "city": "Covina",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0905,
+      "longitude": -117.8906,
+      "exact_address": "440 N Barranca Ave #5028, Covina, California, United States - 91723",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "650+"
+    },
+    {
+      "location_id": "st_louis_office",
+      "city": "st louis",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 38.5645,
+      "longitude": -90.3692,
+      "exact_address": "7721 Watson Rd, St. Louis, Missouri, United States - 63119",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": "5+"
+    },
+    {
+      "location_id": "pretoria_office",
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "country": "South Africa",
+      "latitude": -25.7479,
+      "longitude": 28.2293,
+      "exact_address": "Pretoria, Gauteng, South Africa",
+      "departments": [
+        "customer-support",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "durban_office",
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "country": "South Africa",
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "exact_address": "Durban, KwaZulu-Natal, South Africa",
+      "departments": [
+        "customer-support",
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_jersey_office",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "latitude": 40.7357,
+      "longitude": -74.1724,
+      "exact_address": "New Jersey, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "birmingham_office",
+      "city": "Birmingham",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "exact_address": "Birmingham, United Kingdom",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "edinburgh_office",
+      "city": "Edinburgh",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "exact_address": "Edinburgh, United Kingdom",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "houston_office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "exact_address": "Houston, Texas, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "indianapolis_office",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "country": "United States",
+      "latitude": 39.7684,
+      "longitude": -86.1581,
+      "exact_address": "Indianapolis, Indiana, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "kansas_city_office",
+      "city": "Kansas City",
+      "state": "Missouri",
+      "country": "United States",
+      "latitude": 39.0997,
+      "longitude": -94.5786,
+      "exact_address": "Kansas City, Missouri, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "manchester_office",
+      "city": "Manchester",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "exact_address": "Manchester, United Kingdom",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "nashville_office",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "country": "United States",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "exact_address": "Nashville, Tennessee, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "virginia_beach_office",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "United States",
+      "latitude": 36.8529,
+      "longitude": -75.978,
+      "exact_address": "Virginia Beach, Virginia, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "omaha_office",
+      "city": "Omaha",
+      "state": "Nebraska",
+      "country": "United States",
+      "latitude": 41.2565,
+      "longitude": -95.9345,
+      "exact_address": "Omaha, Nebraska, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tampa_office",
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "exact_address": "Tampa, Florida, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "baltimore_office",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "country": "United States",
+      "latitude": 39.2904,
+      "longitude": -76.6122,
+      "exact_address": "Baltimore, Maryland, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cleveland_office",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "latitude": 41.4993,
+      "longitude": -81.6944,
+      "exact_address": "Cleveland, Ohio, United States",
+      "departments": [
+        "sales"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hartford_office",
+      "city": "Hartford",
+      "state": "Connecticut",
+      "country": "United States",
+      "latitude": 41.7658,
+      "longitude": -72.6734,
+      "exact_address": "Hartford, Connecticut, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "belo_horizonte_office",
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "latitude": -19.9167,
+      "longitude": -43.9345,
+      "exact_address": "Belo Horizonte, Minas Gerais, Brazil",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bogota_office",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "country": "Colombia",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "exact_address": "Bogotá, Cundinamarca, Colombia",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brasilia_office",
+      "city": "Brasília",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "latitude": -15.8267,
+      "longitude": -47.9218,
+      "exact_address": "Brasília, Distrito Federal, Brazil",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cali_office",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "exact_address": "Cali, Valle del Cauca, Colombia",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "cordoba_office",
+      "city": "Córdoba",
+      "state": "Córdoba",
+      "country": "Argentina",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "exact_address": "Córdoba, Córdoba, Argentina",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "guadalajara_office",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "Mexico",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "exact_address": "Guadalajara, Jalisco, Mexico",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lima_office",
+      "city": "Lima",
+      "state": "Lima",
+      "country": "Peru",
+      "latitude": -12.0464,
+      "longitude": -77.0428,
+      "exact_address": "Lima, Lima, Peru",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "medellin_office",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia",
+      "latitude": 6.2476,
+      "longitude": -75.5658,
+      "exact_address": "Medellín, Antioquia, Colombia",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "monterrey_office",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "Mexico",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "exact_address": "Monterrey, Nuevo León, Mexico",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "queretaro_office",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "Mexico",
+      "latitude": 20.5888,
+      "longitude": -100.3899,
+      "exact_address": "Querétaro, Querétaro, Mexico",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rio_de_janeiro_office",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "exact_address": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rosario_office",
+      "city": "Rosario",
+      "state": "Santa Fe",
+      "country": "Argentina",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "exact_address": "Rosario, Santa Fe, Argentina",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "santiago_office",
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "country": "Chile",
+      "latitude": -33.4489,
+      "longitude": -70.6693,
+      "exact_address": "Santiago, Región Metropolitana, Chile",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "valparaiso_office",
+      "city": "Valparaíso",
+      "state": "Valparaíso",
+      "country": "Chile",
+      "latitude": -33.0472,
+      "longitude": -71.6127,
+      "exact_address": "Valparaíso, Valparaíso, Chile",
+      "departments": [
+        "customer-support"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bucharest_office",
+      "city": "Bucharest",
+      "state": null,
+      "country": "Romania",
+      "latitude": 44.4268,
+      "longitude": 26.1025,
+      "exact_address": "Bucharest, Romania",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "south_america_office",
+      "city": null,
+      "state": null,
+      "country": "South America",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "Remote, South America",
+      "departments": [
+        "finance"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 1,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-02-23T19:25:37.131Z",
+    "current_valuation_usd": "$1.3 billion",
+    "current_valuation_usd_last_updated": "2026-02-23T19:25:37.131Z",
+    "total_funding_raised": "$94 million",
+    "total_funding_raised_last_updated": "2026-02-23T19:25:37.131Z",
+    "key_investors": [
+      {
+        "name": "Sequoia Capital",
+        "domain": "sequoiacap.com"
+      },
+      {
+        "name": "IVP",
+        "domain": "ivp.com"
+      },
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Caffeinated Capital",
+        "domain": "caffeinatedcapital.com"
+      },
+      {
+        "name": "Initialized Capital",
+        "domain": "initialized.com"
+      },
+      {
+        "name": "Michael Seibel",
+        "domain": null
+      },
+      {
+        "name": "Tony Xu",
+        "domain": null
+      },
+      {
+        "name": "Emmett Shear",
+        "domain": null
+      },
+      {
+        "name": "SciFi VC",
+        "domain": null
+      },
+      {
+        "name": "Liquid 2 Ventures",
+        "domain": "liquid2.vc"
+      },
+      {
+        "name": "Oyster Ventures",
+        "domain": "oyster.vc"
+      },
+      {
+        "name": "Muse Capital",
+        "domain": null
+      },
+      {
+        "name": "Alexis Ohanian",
+        "domain": null
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Sequoia Capital",
+        "logo_url": "/investor-logos/sequoia.png"
+      },
+      {
+        "name": "IVP",
+        "logo_url": "/investor-logos/ivp.png"
+      },
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Caffeinated Capital",
+        "logo_url": "/investor-logos/caffeinated-capital.png"
+      },
+      {
+        "name": "Initialized Capital",
+        "logo_url": "/investor-logos/initialized-capital.png"
+      },
+      {
+        "name": "Michael Seibel",
+        "logo_url": "/investor-logos/michael-seibel.png"
+      },
+      {
+        "name": "Tony Xu",
+        "logo_url": null
+      },
+      {
+        "name": "Emmett Shear",
+        "logo_url": null
+      },
+      {
+        "name": "SciFi VC",
+        "logo_url": null
+      },
+      {
+        "name": "Liquid 2 Ventures",
+        "logo_url": "/investor-logos/liquid-2-ventures.png"
+      },
+      {
+        "name": "Oyster Ventures",
+        "logo_url": "/investor-logos/oyster-ventures.png"
+      },
+      {
+        "name": "Muse Capital",
+        "logo_url": "/investor-logos/muse-capital.png"
+      },
+      {
+        "name": "Alexis Ohanian",
+        "logo_url": "/investor-logos/alexis-ohanian.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-23T19:25:37.131Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "retirement-401k",
+    "unlimited-pto",
+    "flexible-hours",
+    "commute-allowance",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[63].source": "phase3_residual_resolution",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-23T19:25:37.131Z",
+    "company_basic_information.website_url_last_updated": "2026-02-23T19:25:37.131Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-23T19:25:37.131Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-23T19:25:37.131Z",
+    "company_basic_information.last_updated": "2026-02-23",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-24T10:42:21.819Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:39:00.023Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T14:41:43.963Z",
+    "social_media.x_url_last_verified": "2026-02-24T10:42:42.342Z",
+    "social_media.instagram_url_last_verified": "2026-02-24T10:43:55.088Z",
+    "social_media.linkedin_url_last_verified": "2026-02-24T11:46:21.320Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T17:54:28.035Z",
+    "financial_information.funding_stage_last_updated": "2026-02-23T19:25:37.131Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-23T19:25:37.131Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-23T19:25:37.131Z",
+    "financial_information.investor_logos_last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[0].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[1].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[2].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[3].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[4].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[5].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[6].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[7].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[8].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[9].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[10].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[11].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[12].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[13].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[14].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[15].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[16].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[17].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[18].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[19].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[20].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[21].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[22].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[23].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[24].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[25].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[26].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[27].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[28].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[29].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[30].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[31].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[32].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[33].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[34].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[35].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[36].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[37].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[38].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[39].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[40].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[41].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[42].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[43].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[44].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[45].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[46].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[47].last_updated": "2026-02-23T19:25:37.131Z",
+    "location_mapping[48].last_updated": "2026-02-24T11:22:17.541Z",
+    "location_mapping[49].last_updated": "2026-02-24T11:22:17.541Z",
+    "location_mapping[50].last_updated": "2026-02-24T11:22:17.541Z",
+    "location_mapping[63].last_updated": "2026-05-24T03:03:26.255535",
+    "job_data.roles[0].posted_date": "2026-08-31",
+    "job_data.roles[1].posted_date": "2026-08-31",
+    "job_data.roles[2].posted_date": "2026-08-31",
+    "job_data.roles[3].posted_date": "2026-08-31",
+    "job_data.roles[4].posted_date": "2026-08-31",
+    "job_data.roles[5].posted_date": "2026-08-31",
+    "job_data.roles[6].posted_date": "2026-08-31",
+    "job_data.roles[7].posted_date": "2026-08-31",
+    "job_data.roles[8].posted_date": "2026-08-31",
+    "job_data.roles[9].posted_date": "2026-08-31",
+    "job_data.roles[10].posted_date": "2026-08-31",
+    "job_data.roles[11].posted_date": "2026-08-31",
+    "job_data.roles[12].posted_date": "2026-08-31",
+    "job_data.roles[13].posted_date": "2026-08-31",
+    "job_data.roles[14].posted_date": "2026-08-31",
+    "job_data.roles[15].posted_date": "2026-08-31",
+    "job_data.roles[16].posted_date": "2026-08-31",
+    "job_data.roles[17].posted_date": "2026-08-31",
+    "job_data.roles[18].posted_date": "2026-08-31",
+    "job_data.roles[19].posted_date": "2026-08-31",
+    "job_data.roles[20].posted_date": "2026-08-31",
+    "job_data.roles[21].posted_date": "2026-08-31",
+    "job_data.roles[22].posted_date": "2026-08-31",
+    "job_data.roles[23].posted_date": "2026-08-31",
+    "job_data.roles[24].posted_date": "2026-08-31",
+    "job_data.roles[25].posted_date": "2026-08-31",
+    "job_data.roles[26].posted_date": "2026-08-31",
+    "job_data.roles[27].posted_date": "2026-08-31",
+    "job_data.roles[28].posted_date": "2026-08-31",
+    "job_data.roles[29].posted_date": "2026-08-31",
+    "job_data.roles[30].posted_date": "2026-08-31",
+    "job_data.roles[31].posted_date": "2026-08-31",
+    "job_data.roles[32].posted_date": "2026-08-31",
+    "job_data.roles[33].posted_date": "2026-08-31",
+    "job_data.roles[34].posted_date": "2026-08-31",
+    "job_data.roles[35].posted_date": "2026-08-31",
+    "job_data.roles[36].posted_date": "2026-08-31",
+    "job_data.roles[37].posted_date": "2026-08-31",
+    "job_data.roles[38].posted_date": "2026-08-31",
+    "job_data.roles[39].posted_date": "2026-08-31",
+    "job_data.roles[40].posted_date": "2026-08-31",
+    "job_data.roles[41].posted_date": "2026-08-31",
+    "job_data.roles[42].posted_date": "2026-08-31",
+    "job_data.roles[43].posted_date": "2026-08-31",
+    "job_data.roles[44].posted_date": "2026-08-31",
+    "job_data.roles[44].title_updated_timestamp": "2026-08-02T13:46:34.932Z",
+    "job_data.roles[45].posted_date": "2026-08-31",
+    "job_data.roles[45].title_updated_timestamp": "2026-08-02T13:47:00.481Z",
+    "job_data.roles[46].posted_date": "2026-09-14",
+    "job_data.roles[47].posted_date": "2026-09-14",
+    "job_data.roles[48].posted_date": "2026-09-14",
+    "job_data.last_updated": "2026-09-14T12:24:59.551Z",
+    "benefits.health-insurance.last_updated": "2026-03-11T12:06:58.462Z",
+    "benefits.retirement-401k.last_updated": "2026-03-11T12:06:58.462Z",
+    "benefits.unlimited-pto.last_updated": "2026-03-11T12:06:58.462Z",
+    "benefits.flexible-hours.last_updated": "2026-03-11T12:06:58.462Z",
+    "benefits.commute-allowance.last_updated": "2026-03-11T12:06:58.462Z",
+    "benefits.remote-work.last_updated": "2026-03-11T12:06:58.462Z"
+  }
+}

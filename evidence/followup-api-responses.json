@@ -1,0 +1,35 @@
+[
+  {
+    "method": "GET",
+    "path": "/api/discover-map-data",
+    "status_line": "HTTP/2 401",
+    "body": {
+      "error": "Unauthorized"
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/company-leadership?id=105&slug=superk",
+    "status_line": "HTTP/2 401",
+    "body": {
+      "error": "Unauthorized"
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/company/atlan/role/security-engineer-automation-ai",
+    "status_line": "HTTP/2 404",
+    "body": {
+      "error": "Role not found"
+    }
+  },
+  {
+    "method": "GET",
+    "path": "/api/white-glove-jd?slug=construction-ai-fullstack",
+    "status_line": "HTTP/2 200",
+    "body": {
+      "content": "[Public job description omitted]",
+      "content_characters": 3683
+    }
+  }
+]

@@ -1,0 +1,894 @@
+{
+  "slug": "dexterity",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/15731.7a5fc34a6b458a48.js",
+  "observed_at": "2026-09-28T08:30:50.117657+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 28827,
+    "sha256": "bee76cf17d108aafde39a4b750c43ae83bf9e2adaf52a741bc95d665ab6bddfe",
+    "elapsed_seconds": 0.393,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:50 GMT",
+      "etag": "\"cffc085c61a1ec0241046f19c3f08fcf\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:50 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Dexterity",
+    "company_name_legal": "Dexterity, Inc.",
+    "founded_year": 2017,
+    "website_url": "https://www.dexterity.ai",
+    "careers_url": "https://jobs.lever.co/dexterity",
+    "investor_portfolio_page": null,
+    "id": 411
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 30,
+    "last_updated": "2026-09-19T16:55:43.948Z",
+    "crawl_status": "success",
+    "source": "Lever Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 30,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "equity",
+    "experience",
+    "lever_job_id",
+    "location_display",
+    "location_ids",
+    "location_inferred_by_ai",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "team",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Contract / Jr. Test Manufacturing Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/b797d144-159f-4467-a54e-b88da612d244",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "b797d144-159f-4467-a54e-b88da612d244"
+    },
+    {
+      "title": "Controls Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/fc2356ec-35b9-470f-af00-a4286e275161",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "fc2356ec-35b9-470f-af00-a4286e275161"
+    },
+    {
+      "title": "Manufacturing Engineer, Document Control",
+      "apply_url": "https://jobs.lever.co/dexterity/f64ee685-10c0-4b47-932f-13a01d878388",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "qa",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "f64ee685-10c0-4b47-932f-13a01d878388"
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/0ef47e26-322e-4dd8-95e5-983f61c34edb",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "0ef47e26-322e-4dd8-95e5-983f61c34edb"
+    },
+    {
+      "title": "Senior Functional Safety Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/db04a1c5-c1c5-4eee-ab5f-8527ab1b751b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "db04a1c5-c1c5-4eee-ab5f-8527ab1b751b"
+    },
+    {
+      "title": "Senior Mechanical Engineer - Architectural Elements",
+      "apply_url": "https://jobs.lever.co/dexterity/be469284-f510-4679-a925-7f4011a138af",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "be469284-f510-4679-a925-7f4011a138af"
+    },
+    {
+      "title": "Senior Robotics Manipulation Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "6c8a6e37-c72a-4e93-92fe-04d3b6bcbc66"
+    },
+    {
+      "title": "Technical Program Manager, Architectural Elements",
+      "apply_url": "https://jobs.lever.co/dexterity/fa94d8b0-d5f4-4e21-88b3-80d661717ce1",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "fa94d8b0-d5f4-4e21-88b3-80d661717ce1"
+    },
+    {
+      "title": "Senior/Staff AI Algorithms Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/ecdf1193-7946-4345-95be-3c1453d15a94",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "ecdf1193-7946-4345-95be-3c1453d15a94"
+    },
+    {
+      "title": "Senior/Staff Machine Learning Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/c8a70b59-6dc2-4139-b3bf-758295777c98",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "c8a70b59-6dc2-4139-b3bf-758295777c98"
+    },
+    {
+      "title": "Application Support Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/75ba6fc2-629a-41a0-bc79-41e4f8aea6e3",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "customer-support",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "75ba6fc2-629a-41a0-bc79-41e4f8aea6e3"
+    },
+    {
+      "title": "Field Service Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/0630d2f1-586c-4819-a111-a6188462af3b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "0630d2f1-586c-4819-a111-a6188462af3b"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/5005c9a7-4014-4ccb-8d13-c109951f9097",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "5005c9a7-4014-4ccb-8d13-c109951f9097"
+    },
+    {
+      "title": "Materials Handler",
+      "apply_url": "https://jobs.lever.co/dexterity/3e96d3f1-7eda-4452-aa9b-3647633c755b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "3e96d3f1-7eda-4452-aa9b-3647633c755b"
+    },
+    {
+      "title": "Mech Pilot / Specialist (Tracy, CA)",
+      "apply_url": "https://jobs.lever.co/dexterity/8af40fe0-e801-4a87-8a81-35c54fdc18f2",
+      "location_ids": [
+        "tracy_office"
+      ],
+      "location_display": "Tracy, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "8af40fe0-e801-4a87-8a81-35c54fdc18f2",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Mech Pilot / Specialist role involve operating and troubleshooting robotic systems at customer sites, which clearly aligns with the robotics department. The role requires a strong understanding of electromechanical systems and robotics, making it a perfect fit for this category."
+    },
+    {
+      "title": "Project Manager",
+      "apply_url": "https://jobs.lever.co/dexterity/f838ba93-e560-4a42-b7ad-0fa8626b0921",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "f838ba93-e560-4a42-b7ad-0fa8626b0921"
+    },
+    {
+      "title": "Robotics Field Engineer (Gardena, CA)",
+      "apply_url": "https://jobs.lever.co/dexterity/fa93eb17-30a6-444e-b8de-2fe2a9e288bf",
+      "location_ids": [
+        "gardena_office"
+      ],
+      "location_display": "Gardena, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Contract",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "fa93eb17-30a6-444e-b8de-2fe2a9e288bf"
+    },
+    {
+      "title": "Sr. Manager Product Service and Support",
+      "apply_url": "https://jobs.lever.co/dexterity/ec448f6c-ccd3-4d56-8613-419ad5c28bbd",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "ec448f6c-ccd3-4d56-8613-419ad5c28bbd"
+    },
+    {
+      "title": "Head of Computer Vision and Machine Learning",
+      "apply_url": "https://jobs.lever.co/dexterity/c09a7805-2a30-4f94-aaf4-4547fb619047",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "c09a7805-2a30-4f94-aaf4-4547fb619047"
+    },
+    {
+      "title": "Security Architect",
+      "apply_url": "https://jobs.lever.co/dexterity/44985c0b-59f6-4898-8d76-8ebd02ba5f39",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "security",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "44985c0b-59f6-4898-8d76-8ebd02ba5f39"
+    },
+    {
+      "title": "Senior Computer Vision Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/570a7303-09f0-485a-b24a-7d5ea187dab4",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "ai",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "570a7303-09f0-485a-b24a-7d5ea187dab4"
+    },
+    {
+      "title": "Senior/Staff Algorithms Engineer",
+      "apply_url": "https://jobs.lever.co/dexterity/f3a1592e-d775-4f39-b0e5-95d17f68c389",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "f3a1592e-d775-4f39-b0e5-95d17f68c389"
+    },
+    {
+      "title": "Staff Engineer, Infrastructure",
+      "apply_url": "https://jobs.lever.co/dexterity/30ffd0e6-bece-4664-9650-4a904e6c6b5b",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "30ffd0e6-bece-4664-9650-4a904e6c6b5b"
+    },
+    {
+      "title": "Customer Success Manager, Aviation Robotics",
+      "apply_url": "https://jobs.lever.co/dexterity/f955e34a-5b7e-41ac-8ca9-117e554c4635",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "robotics",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "f955e34a-5b7e-41ac-8ca9-117e554c4635"
+    },
+    {
+      "title": "Marketing Principal/ Director - Physical AI",
+      "apply_url": "https://jobs.lever.co/dexterity/8f29ecd9-f9cc-458d-afb8-6c1a2e5781dd",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "8f29ecd9-f9cc-458d-afb8-6c1a2e5781dd"
+    },
+    {
+      "title": "Principal Product Manager, Physical AI Applications (Retail & 3PL)",
+      "apply_url": "https://jobs.lever.co/dexterity/9c4bd592-9047-4bea-81d5-1e760af2d4b6",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "9c4bd592-9047-4bea-81d5-1e760af2d4b6"
+    },
+    {
+      "title": "Senior Manager, Site Operations",
+      "apply_url": "https://jobs.lever.co/dexterity/f7635f1d-bce7-421d-a396-8143d4598f5c",
+      "location_ids": [
+        "hagerstown_office"
+      ],
+      "location_display": "Hagerstown, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "f7635f1d-bce7-421d-a396-8143d4598f5c"
+    },
+    {
+      "title": "Sr. Manager, Customer Success",
+      "apply_url": "https://jobs.lever.co/dexterity/32ab47b6-dbcf-49f6-9556-715ebc2e0206",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "customer-success",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "32ab47b6-dbcf-49f6-9556-715ebc2e0206"
+    },
+    {
+      "title": "Senior Enterprise Sales Executive - Industrial Automation",
+      "title_original": "Senior Enterprise Sales Executive",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-08-22T15:09:38.815Z",
+      "apply_url": "https://jobs.lever.co/dexterity/33d4eaf5-f4d1-4bba-b801-2b1069102647",
+      "location_ids": [
+        "san_francisco_remote",
+        "new_york_remote",
+        "austin_remote",
+        "seattle_remote",
+        "boston_remote",
+        "chicago_remote",
+        "denver_remote",
+        "los_angeles_remote",
+        "atlanta_remote",
+        "miami_remote"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "33d4eaf5-f4d1-4bba-b801-2b1069102647",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the Senior Enterprise Sales Executive focus on leading strategic sales growth, developing account strategies, and managing complex sales cycles with enterprise customers. The role requires extensive experience in enterprise sales and account management, which aligns directly with the sales department."
+    },
+    {
+      "title": "Staff Accountant",
+      "apply_url": "https://jobs.lever.co/dexterity/916af5eb-b8c9-4d13-8328-27604e0134d9",
+      "location_ids": [
+        "redwood_city_office"
+      ],
+      "location_display": "Redwood City, USA",
+      "role_department": "finance",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FT",
+      "posted_date": "2026-09-05",
+      "lever_job_id": "916af5eb-b8c9-4d13-8328-27604e0134d9"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "redwood_city_office",
+      "city": "Redwood City",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.4852,
+      "longitude": -122.2364,
+      "exact_address": "Redwood City, California, United States",
+      "departments": [
+        "engineering",
+        "qa",
+        "robotics",
+        "ai",
+        "customer-support",
+        "operations",
+        "product",
+        "security",
+        "customer-success",
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tracy_office",
+      "city": "Tracy",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7397,
+      "longitude": -121.4252,
+      "exact_address": "Tracy, California, United States",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "gardena_office",
+      "city": "Gardena",
+      "state": "California",
+      "country": "United States",
+      "latitude": 33.8883,
+      "longitude": -118.3092,
+      "exact_address": "Gardena, California, United States",
+      "departments": [
+        "robotics"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hagerstown_office",
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "country": "United States",
+      "latitude": 39.6418,
+      "longitude": -77.72,
+      "exact_address": "Hagerstown, Maryland, United States",
+      "departments": [
+        "ai",
+        "operations"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_remote",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_remote",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_remote",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_remote",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_remote",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_remote",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_remote",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_remote",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_remote",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 6,
+  "financial_information": {
+    "funding_stage": "series-c",
+    "funding_stage_last_updated": "2026-08-08T06:52:35.510Z",
+    "current_valuation_usd": "$1.65B",
+    "current_valuation_usd_last_updated": "2026-08-08T06:52:35.510Z",
+    "total_funding_raised": "$300M",
+    "total_funding_raised_last_updated": "2026-08-08T06:52:35.510Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kleinerperkins.com"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "domain": "lsvp.com"
+      },
+      {
+        "name": "Obvious Ventures",
+        "domain": "obvious.com"
+      },
+      {
+        "name": "Sumitomo Corporation",
+        "domain": "sumitomocorp.com"
+      },
+      {
+        "name": "B37.vc",
+        "domain": "b37.vc"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "logo_url": "/investor-logos/lightspeed-venture-partners.png"
+      },
+      {
+        "name": "Obvious Ventures",
+        "logo_url": null
+      },
+      {
+        "name": "Sumitomo Corporation",
+        "logo_url": null
+      },
+      {
+        "name": "B37.vc",
+        "logo_url": "/investor-logos/b37-vc.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-08-08T06:52:35.510Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "unlimited-pto",
+    "equity-stock",
+    "retirement-401k",
+    "meal-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "leadership.founders[2].image_source": "linkedin_profile",
+    "leadership.founders[2].description_source": "perplexity-sonar-pro",
+    "leadership.founders[3].image_source": "linkedin_profile",
+    "leadership.founders[3].description_source": "perplexity-sonar-pro",
+    "leadership.founders[4].image_source": "linkedin_profile",
+    "leadership.founders[4].description_source": "perplexity-sonar-pro",
+    "leadership.founders[5].image_source": "linkedin_profile",
+    "leadership.founders[5].description_source": "perplexity-sonar-pro",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "job-board-inferred",
+    "location_mapping[2].location_source": "job-board-inferred",
+    "location_mapping[3].location_source": "job-board-inferred",
+    "location_mapping[4].source": "ai_inference_upsert",
+    "location_mapping[5].source": "ai_inference_upsert",
+    "location_mapping[6].source": "ai_inference_upsert",
+    "location_mapping[7].source": "ai_inference_upsert",
+    "location_mapping[8].source": "ai_inference_upsert",
+    "location_mapping[9].source": "ai_inference_upsert",
+    "location_mapping[10].source": "ai_inference_upsert",
+    "location_mapping[11].source": "ai_inference_upsert",
+    "location_mapping[12].source": "ai_inference_upsert",
+    "location_mapping[13].source": "ai_inference_upsert",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Lever Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "glassdoor"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-08-08T06:52:35.510Z",
+    "company_basic_information.website_url_last_updated": "2026-08-08T06:52:35.510Z",
+    "company_basic_information.careers_url_last_updated": "2026-08-08T06:52:35.510Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-08-08T06:52:35.510Z",
+    "company_basic_information.last_updated": "2026-08-08",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-08-08T07:25:27.495Z",
+    "leadership.founders[1].image_url_last_updated": "2026-08-08T07:13:45.507Z",
+    "leadership.founders[1].description_last_updated": "2026-08-08T07:16:30.439Z",
+    "leadership.founders[2].image_url_last_updated": "2026-08-08T07:14:06.201Z",
+    "leadership.founders[2].description_last_updated": "2026-08-08T07:16:38.563Z",
+    "leadership.founders[3].image_url_last_updated": "2026-08-08T07:14:26.070Z",
+    "leadership.founders[3].description_last_updated": "2026-08-08T07:16:44.156Z",
+    "leadership.founders[4].image_url_last_updated": "2026-08-08T07:15:24.948Z",
+    "leadership.founders[4].description_last_updated": "2026-08-08T07:16:49.272Z",
+    "leadership.founders[5].image_url_last_updated": "2026-08-08T07:15:44.612Z",
+    "leadership.founders[5].description_last_updated": "2026-08-08T07:16:54.505Z",
+    "social_media.x_url_last_updated": "2026-08-08T06:52:35.510Z",
+    "social_media.linkedin_url_last_updated": "2026-08-08T06:52:35.510Z",
+    "social_media.instagram_url_last_updated": "2026-08-08T06:52:35.510Z",
+    "business_details.industry_domains_last_updated": "2026-08-08",
+    "financial_information.funding_stage_last_updated": "2026-08-08T06:52:35.510Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-08-08T06:52:35.510Z",
+    "financial_information.total_funding_raised_last_updated": "2026-08-08T06:52:35.510Z",
+    "financial_information.investor_logos_last_updated": "2026-08-08T06:52:35.510Z",
+    "location_mapping[0].last_updated": "2026-08-08T06:52:35.510Z",
+    "location_mapping[1].last_updated": "2026-08-08T06:52:35.510Z",
+    "location_mapping[2].last_updated": "2026-08-08T06:52:35.510Z",
+    "location_mapping[3].last_updated": "2026-08-08T06:52:35.510Z",
+    "location_mapping[4].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[5].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[6].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[7].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[8].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[9].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[10].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[11].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[12].last_updated": "2026-08-22T15:09:38.815Z",
+    "location_mapping[13].last_updated": "2026-08-22T15:09:38.815Z",
+    "job_data.roles[0].posted_date": "2026-09-05",
+    "job_data.roles[1].posted_date": "2026-09-05",
+    "job_data.roles[2].posted_date": "2026-09-05",
+    "job_data.roles[3].posted_date": "2026-09-05",
+    "job_data.roles[4].posted_date": "2026-09-05",
+    "job_data.roles[5].posted_date": "2026-09-05",
+    "job_data.roles[6].posted_date": "2026-09-05",
+    "job_data.roles[7].posted_date": "2026-09-05",
+    "job_data.roles[8].posted_date": "2026-09-05",
+    "job_data.roles[9].posted_date": "2026-09-05",
+    "job_data.roles[10].posted_date": "2026-09-05",
+    "job_data.roles[11].posted_date": "2026-09-05",
+    "job_data.roles[12].posted_date": "2026-09-05",
+    "job_data.roles[13].posted_date": "2026-09-05",
+    "job_data.roles[14].posted_date": "2026-09-05",
+    "job_data.roles[15].posted_date": "2026-09-05",
+    "job_data.roles[16].posted_date": "2026-09-05",
+    "job_data.roles[17].posted_date": "2026-09-05",
+    "job_data.roles[18].posted_date": "2026-09-05",
+    "job_data.roles[19].posted_date": "2026-09-05",
+    "job_data.roles[20].posted_date": "2026-09-05",
+    "job_data.roles[21].posted_date": "2026-09-05",
+    "job_data.roles[22].posted_date": "2026-09-05",
+    "job_data.roles[23].posted_date": "2026-09-05",
+    "job_data.roles[24].posted_date": "2026-09-05",
+    "job_data.roles[25].posted_date": "2026-09-05",
+    "job_data.roles[26].posted_date": "2026-09-05",
+    "job_data.roles[27].posted_date": "2026-09-05",
+    "job_data.roles[28].posted_date": "2026-09-05",
+    "job_data.roles[28].title_updated_timestamp": "2026-08-22T15:09:38.815Z",
+    "job_data.roles[29].posted_date": "2026-09-05",
+    "job_data.last_updated": "2026-09-19T16:55:43.948Z",
+    "benefits.health-insurance.last_updated": "2026-08-08T06:52:35.510Z",
+    "benefits.unlimited-pto.last_updated": "2026-08-08T06:52:35.510Z",
+    "benefits.equity-stock.last_updated": "2026-08-08T06:52:35.510Z",
+    "benefits.retirement-401k.last_updated": "2026-08-08T06:52:35.510Z",
+    "benefits.meal-allowance.last_updated": "2026-08-08T06:52:35.510Z"
+  }
+}

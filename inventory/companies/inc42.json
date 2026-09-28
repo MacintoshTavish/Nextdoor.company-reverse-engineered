@@ -1,0 +1,157 @@
+{
+  "slug": "inc42",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/6955.d2bb36dac5ee50e0.js",
+  "observed_at": "2026-09-28T08:32:54.206748+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 6605,
+    "sha256": "95996e4d0828c8785772588dbe4a9a1062fbda78484bdd7786f1409e800699d4",
+    "elapsed_seconds": 0.454,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:32:54 GMT",
+      "etag": "\"747e8dbe4453b989aa2376a1d964ddaa\"",
+      "last-modified": "Mon, 28 Sep 2026 08:32:54 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Inc42",
+    "company_name_legal": "NxGn Media Services Private Limited",
+    "founded_year": 2014,
+    "website_url": "https://inc42.com",
+    "careers_url": "https://inc42.freshteam.com/jobs",
+    "investor_portfolio_page": null,
+    "id": 304
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-16T18:05:49.514Z",
+    "crawl_status": "success",
+    "source": "Freshteam Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "ai"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.5479,
+      "longitude": 77.2597,
+      "exact_address": "59/16, 4th Floor, Jujhar Tower, R.D. Marg, Kalkaji, New Delhi, Delhi, India - 110019",
+      "departments": [
+        "marketing",
+        "sales",
+        "other",
+        "content-production",
+        "design",
+        "entrepreneurs",
+        "product"
+      ],
+      "employee_count": "50+"
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-05-25T09:05:05.592Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-05-25T11:15:00.000Z",
+    "total_funding_raised": "$53.77 million",
+    "total_funding_raised_last_updated": "2026-05-25T08:56:59.608Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-05-25T08:56:59.608Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "_status",
+    "_sources_checked",
+    "_last_checked"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-manual",
+    "leadership.founders[0].x_twitter_verified_by": "claude-manual",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-manual",
+    "leadership.founders[1].x_twitter_verified_by": "claude-manual",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-manual",
+    "social_media.linkedin_url_verified_by": "claude-manual",
+    "social_media.instagram_url_verified_by": "claude-manual",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[1].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Freshteam Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits._sources_checked": [
+      "job_description",
+      "levels_fyi"
+    ]
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-25T08:56:59.608Z",
+    "company_basic_information.website_url_last_updated": "2026-05-25T08:56:59.608Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-25T08:56:59.608Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-25T08:56:59.608Z",
+    "company_basic_information.last_updated": "2026-05-25",
+    "leadership.founders[0].linkedin_last_verified": "2026-05-25",
+    "leadership.founders[0].x_twitter_last_verified": "2026-05-25",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:08:11.291Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:14:53.089Z",
+    "leadership.founders[1].linkedin_last_verified": "2026-05-25",
+    "leadership.founders[1].x_twitter_last_verified": "2026-05-25",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:08:31.087Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T09:15:00.498Z",
+    "social_media.x_url_last_updated": "2026-05-25T08:56:59.608Z",
+    "social_media.x_url_last_verified": "2026-05-25",
+    "social_media.linkedin_url_last_updated": "2026-05-25T08:56:59.608Z",
+    "social_media.linkedin_url_last_verified": "2026-05-25",
+    "social_media.instagram_url_last_updated": "2026-05-25T08:56:59.608Z",
+    "social_media.instagram_url_last_verified": "2026-05-25",
+    "business_details.industry_domains_last_updated": "2026-05-25",
+    "financial_information.funding_stage_last_updated": "2026-05-25T09:05:05.592Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-25T11:15:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-25T08:56:59.608Z",
+    "financial_information.investor_logos_last_updated": "2026-05-25T08:56:59.608Z",
+    "location_mapping[0].last_updated": "2026-05-25T08:56:59.608Z",
+    "location_mapping[1].last_updated": "2026-05-25T08:56:59.608Z",
+    "job_data.last_updated": "2026-09-16T18:05:49.514Z"
+  }
+}

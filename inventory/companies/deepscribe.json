@@ -1,0 +1,443 @@
+{
+  "slug": "deepscribe",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/92449.eadbeb26fc538f09.js",
+  "observed_at": "2026-09-28T08:30:47.502913+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 12046,
+    "sha256": "1b2d8b2e1fec49532a6931ec3c2718ad0198d201456775af3b7c8d7dd4132428",
+    "elapsed_seconds": 0.431,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:30:47 GMT",
+      "etag": "\"9613c5c04f9914e75618cb0b417fe9b8\"",
+      "last-modified": "Mon, 28 Sep 2026 08:30:47 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "DeepScribe",
+    "company_name_legal": "DeepScribe Inc",
+    "founded_year": 2017,
+    "website_url": "https://www.deepscribe.ai",
+    "careers_url": "https://careers.kula.ai/deepscribe",
+    "investor_portfolio_page": null,
+    "id": 17
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 3,
+    "last_updated": "2026-09-18T16:02:03.259Z",
+    "crawl_status": "success",
+    "source": "Kula ATS",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 3,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "equity",
+    "experience",
+    "kula_job_id",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_estimated",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "AI Engineer",
+      "apply_url": "https://careers.kula.ai/deepscribe/13110/",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "ai",
+      "work_mode": "remote",
+      "salary_range": null,
+      "salary_estimated": {
+        "currency": "USD",
+        "min": 90000,
+        "max": 100000,
+        "period": "year",
+        "display": "$90k–100k",
+        "confidence": "medium",
+        "reason": "Based on 2026 industry data for AI Engineers in the US remote sector, salaries typically start around $90,000–$100,000 for junior roles, while mid-level roles average $140,000–$210,000 annually.",
+        "citations": [
+          "https://www.ayautomate.com/blog/ai-engineer-salary-guide-2026",
+          "https://www.youtube.com/watch?v=eTBSF411yQ4",
+          "https://www.kore1.com/ai-engineer-salary-guide/",
+          "https://tripleten.com/tools/entry-level-ai-engineer-salary/"
+        ],
+        "source": "searchapi",
+        "fetched_at": "2026-07-02T20:06:13.401Z"
+      },
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Software Engineer, Product",
+      "apply_url": "https://careers.kula.ai/deepscribe/17900/",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    },
+    {
+      "title": "Product Designer",
+      "apply_url": "https://careers.kula.ai/deepscribe/54328/",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "design",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full Time",
+      "posted_date": "2026-09-03"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.401993,
+      "longitude": -97.721611,
+      "exact_address": "11801 Domain Blvd, 3rd Floor, Austin, Texas, United States - 78758",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "boston_office",
+      "city": "boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.361145,
+      "longitude": -71.057083,
+      "exact_address": "100 Cambridge Street, 10th Floor, Boston, Massachusetts, United States - 02114",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Berkeley",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.870857,
+      "longitude": -122.268926,
+      "exact_address": "2150 Shattuck Ave, Penthouse Suite, Berkeley, California, United States - 94704",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "51-200"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.707512,
+      "longitude": -74.011934,
+      "exact_address": "30 Broad Street, Suite 1200, New York, New York, United States - 10004",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.796282,
+      "longitude": -122.405528,
+      "exact_address": "50 Osgood Place, Suite 220A, San Francisco, California, United States - 94133",
+      "departments": [
+        "engineering",
+        "ai",
+        "hr"
+      ],
+      "employee_count": "201-500"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "engineering",
+        "hr"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2025-11-19T14:16:03.497Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-11-19T14:16:03.497Z",
+    "total_funding_raised": "$61.2 million",
+    "total_funding_raised_last_updated": "2025-11-21T15:04:26.589Z",
+    "key_investors": [
+      {
+        "name": "Index Ventures",
+        "domain": "indexventures.com"
+      },
+      {
+        "name": "Bee Partners",
+        "domain": "beepartners.vc"
+      },
+      {
+        "name": "1984 Ventures",
+        "domain": "1984.vc"
+      },
+      {
+        "name": "Alex Wang (Scale.ai)",
+        "domain": "scale.ai"
+      },
+      {
+        "name": "Stage 2 Capital",
+        "domain": "stage2.capital"
+      },
+      {
+        "name": "Industry Ventures",
+        "domain": "industryventures.com"
+      },
+      {
+        "name": "Dylan Field (Figma)",
+        "domain": "figma.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Index Ventures",
+        "logo_url": "/investor-logos/index-ventures.png"
+      },
+      {
+        "name": "Bee Partners",
+        "logo_url": "/investor-logos/bee-partners.png"
+      },
+      {
+        "name": "1984 Ventures",
+        "logo_url": "/investor-logos/1984-ventures.png"
+      },
+      {
+        "name": "Alex Wang (Scale.ai)",
+        "logo_url": "/investor-logos/alex-wang-scaleai.png"
+      },
+      {
+        "name": "Stage 2 Capital",
+        "logo_url": "/investor-logos/stage-2-capital.png"
+      },
+      {
+        "name": "Industry Ventures",
+        "logo_url": "/investor-logos/industry-ventures.png"
+      },
+      {
+        "name": "Dylan Field (Figma)",
+        "logo_url": "/investor-logos/dylan-field-figma.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-11-19T14:16:03.497Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "unlimited-pto",
+    "wfh-setup",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "retirement-401k",
+    "remote-work",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.roles[0].salary_estimated.citations": [
+      "https://www.ayautomate.com/blog/ai-engineer-salary-guide-2026",
+      "https://www.youtube.com/watch?v=eTBSF411yQ4",
+      "https://www.kore1.com/ai-engineer-salary-guide/",
+      "https://tripleten.com/tools/entry-level-ai-engineer-salary/"
+    ],
+    "job_data.roles[0].salary_estimated.source": "searchapi",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Kula ATS",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-11-19T14:16:03.497Z",
+    "company_basic_information.website_url_last_updated": "2025-11-19T14:16:03.497Z",
+    "company_basic_information.careers_url_last_updated": "2025-11-19T14:16:03.497Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-11-19T14:16:03.497Z",
+    "company_basic_information.last_updated": "2025-11-19",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-11-23T12:53:41.845Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-17T12:04:15.052Z",
+    "leadership.founders[0].description_last_updated": "2026-01-17T12:04:31.668Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-11-23T12:54:11.574Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-11-23T12:54:21.927Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-17T12:04:26.099Z",
+    "leadership.founders[1].description_last_updated": "2026-01-17T12:04:38.028Z",
+    "social_media.x_url_last_verified": "2025-11-23T13:09:29.901Z",
+    "social_media.linkedin_url_last_verified": "2025-11-23T12:54:56.021Z",
+    "social_media.instagram_url_last_verified": "2025-11-23T13:09:44.142Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:00:51.454Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-11-19T14:16:03.497Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-11-19T14:16:03.497Z",
+    "financial_information.total_funding_raised_last_updated": "2025-11-21T15:04:26.589Z",
+    "financial_information.investor_logos_last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[0].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[1].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[2].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[3].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[4].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[5].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[6].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[7].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[8].last_updated": "2025-11-19T14:16:03.497Z",
+    "location_mapping[9].last_updated": "2025-11-19T14:16:03.497Z",
+    "job_data.roles[0].posted_date": "2026-09-03",
+    "job_data.roles[0].salary_estimated.fetched_at": "2026-07-02T20:06:13.401Z",
+    "job_data.roles[1].posted_date": "2026-09-03",
+    "job_data.roles[2].posted_date": "2026-09-03",
+    "job_data.last_updated": "2026-09-18T16:02:03.259Z"
+  }
+}

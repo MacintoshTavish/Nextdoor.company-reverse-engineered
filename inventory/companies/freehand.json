@@ -1,0 +1,691 @@
+{
+  "slug": "freehand",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/41387.af9cf0e9a9b369b6.js",
+  "observed_at": "2026-09-28T08:31:59.831276+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 19151,
+    "sha256": "9674a136b9a26f7d319a2bd0f7f809a0ea9c812b923dcce743696dacf1f5138d",
+    "elapsed_seconds": 0.161,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:31:59 GMT",
+      "etag": "\"842d4c41629c0018307e7b6c2579bf35\"",
+      "last-modified": "Mon, 28 Sep 2026 08:12:34 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Freehand",
+    "company_name_legal": "Freehand",
+    "founded_year": 2024,
+    "website_url": "https://freehand.ai",
+    "careers_url": "https://jobs.ashbyhq.com/freehand",
+    "investor_portfolio_page": null,
+    "id": 310
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 13,
+    "last_updated": "2026-09-16T17:52:51.519Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "selective_scrape"
+  },
+  "job_count": 13,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Business Development Representative",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/523c67ae-fcad-4c7f-9cf6-bda623e0006c",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-03-19",
+      "ashby_job_id": "523c67ae-fcad-4c7f-9cf6-bda623e0006c"
+    },
+    {
+      "title": "GTM Architect",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/3ee3eaa8-c703-429b-9072-1845b44e4681",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-04-11",
+      "ashby_job_id": "3ee3eaa8-c703-429b-9072-1845b44e4681"
+    },
+    {
+      "title": "Chief of Staff / Strategic Finance",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/3e52b9cc-1385-47f7-85d2-2f929a9dad1d",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-05-28",
+      "ashby_job_id": "3e52b9cc-1385-47f7-85d2-2f929a9dad1d"
+    },
+    {
+      "title": "Backend Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/99739dc4-cbbf-4584-a100-1747e5fc3418",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-06-12",
+      "ashby_job_id": "99739dc4-cbbf-4584-a100-1747e5fc3418"
+    },
+    {
+      "title": "AI Deployment Strategist",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-04",
+      "ashby_job_id": "fe8baee3-b6c4-42a7-849d-467cbd72bad7"
+    },
+    {
+      "title": "Growth/Performance Marketing",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/c980a4f7-02ba-4e39-8af4-227f32b8605b",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "marketing",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-04",
+      "ashby_job_id": "c980a4f7-02ba-4e39-8af4-227f32b8605b"
+    },
+    {
+      "title": "Strategic Partnerships",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/501ff9bb-fc8b-4285-b03a-8380abe2db6b",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "operations",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-04",
+      "ashby_job_id": "501ff9bb-fc8b-4285-b03a-8380abe2db6b"
+    },
+    {
+      "title": "AI Product Manager",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/1f616b29-e36f-45be-ab6b-bc7a25bc8b6d",
+      "location_ids": [
+        "bengaluru_office",
+        "mumbai_office",
+        "delhi_office",
+        "pune_office",
+        "hyderabad_office",
+        "chennai_office"
+      ],
+      "location_display": "Remote, India",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-18",
+      "ashby_job_id": "1f616b29-e36f-45be-ab6b-bc7a25bc8b6d"
+    },
+    {
+      "title": "Global Talent Partner",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/000a96e9-1f2e-45ad-a581-ce911b4568e6",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-08-18",
+      "ashby_job_id": "000a96e9-1f2e-45ad-a581-ce911b4568e6"
+    },
+    {
+      "title": "Lead - Customer Growth",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/71ba0bbf-b9bc-420c-9889-d79c987ef943",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-08-18",
+      "ashby_job_id": "71ba0bbf-b9bc-420c-9889-d79c987ef943"
+    },
+    {
+      "title": "AI Product Manager (US)",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/e30f0488-81bc-426d-a727-0f9419c94730",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "product",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "e30f0488-81bc-426d-a727-0f9419c94730"
+    },
+    {
+      "title": "Backend Engineer (US)",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/a27dfeb1-b8ab-4f56-bd06-5981d2c5e6fc",
+      "location_ids": [
+        "san_francisco_office",
+        "new_york_office",
+        "austin_office",
+        "seattle_office",
+        "boston_office",
+        "chicago_office",
+        "denver_office",
+        "los_angeles_office",
+        "atlanta_office",
+        "miami_office"
+      ],
+      "location_display": "Remote, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "a27dfeb1-b8ab-4f56-bd06-5981d2c5e6fc"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/freehand/9998b887-a4ad-412e-b665-debc8f7495a9",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "hybrid",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-02",
+      "ashby_job_id": "9998b887-a4ad-412e-b665-debc8f7495a9"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.787918,
+      "longitude": -84.388115,
+      "exact_address": "1201 West Peachtree Street NW, Atlanta, Georgia, United States - 30309",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9515471,
+      "longitude": 77.5998658,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3533209,
+      "longitude": -71.0566523,
+      "exact_address": "155 Federal Street, Suite 700, Boston, Massachusetts, United States - 02110",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "chennai_office",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 13.0470244,
+      "longitude": 80.2342414,
+      "exact_address": "Chennai, Tamil Nadu, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8863904,
+      "longitude": -87.6510065,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "delhi_office",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "exact_address": "Delhi, Delhi, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7406,
+      "longitude": -104.9806,
+      "exact_address": "1500 N Grant St, Ste N, Denver, CO 80203, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "hyderabad_office",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 17.46387,
+      "longitude": 78.37253,
+      "exact_address": "Hyderabad, Telangana, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0443303,
+      "longitude": -118.2560014,
+      "exact_address": "416 W 8th Street, Los Angeles, California, United States - 90014",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "miami_office",
+      "city": "Miami Beach",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.8026,
+      "longitude": -80.1266,
+      "exact_address": "Miami, Florida, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.0076,
+      "longitude": 72.8173,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.73948,
+      "longitude": -73.98476,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "pune_office",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 18.5030298,
+      "longitude": 73.8002958,
+      "exact_address": "Pune, Maharashtra, India",
+      "departments": [
+        "sales",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.781476,
+      "longitude": -122.408067,
+      "exact_address": "981 Mission Street, San Francisco, California, United States - 94103",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering",
+        "customer-success"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-b",
+    "funding_stage_last_updated": "2026-05-25T12:02:34.830Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-05-25T12:02:34.830Z",
+    "total_funding_raised": "$23.8 million",
+    "total_funding_raised_last_updated": "2026-05-25T12:02:34.830Z",
+    "key_investors": [],
+    "investor_logos": [],
+    "investor_logos_last_updated": "2026-05-25T12:02:34.830Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "unlimited-pto",
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "life-insurance",
+    "health-savings-account",
+    "retirement-401k",
+    "parental-leave",
+    "remote-work",
+    "commute-allowance",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "claude-co-work",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "claude-co-work",
+    "social_media.linkedin_url_verified_by": "claude-co-work",
+    "social_media.instagram_url_verified_by": "claude-co-work",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[0].location_source": "perplexity",
+    "location_mapping[2].location_source": "searchapi-maps",
+    "location_mapping[2].location_source_query": "Freehand bengaluru",
+    "location_mapping[3].location_source": "perplexity",
+    "location_mapping[4].location_source": "searchapi-maps",
+    "location_mapping[4].location_source_query": "Freehand office chennai",
+    "location_mapping[5].location_source": "perplexity",
+    "location_mapping[7].location_source": "perplexity",
+    "location_mapping[8].location_source": "perplexity",
+    "location_mapping[9].location_source": "perplexity",
+    "location_mapping[10].location_source": "perplexity",
+    "location_mapping[11].location_source": "perplexity",
+    "location_mapping[12].location_source": "perplexity",
+    "location_mapping[13].location_source": "searchapi-maps",
+    "location_mapping[13].location_source_query": "Freehand office pune",
+    "location_mapping[14].location_source": "perplexity",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "selective_scrape",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-05-25T12:02:34.830Z",
+    "company_basic_information.website_url_last_updated": "2026-05-25T12:02:34.830Z",
+    "company_basic_information.careers_url_last_updated": "2026-05-25T12:02:34.830Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-05-25T12:02:34.830Z",
+    "company_basic_information.last_updated": "2026-05-25",
+    "leadership.founders[0].linkedin_verified_at": "2026-05-25",
+    "leadership.founders[0].image_url_last_updated": "2026-06-09T09:12:53.174Z",
+    "leadership.founders[0].description_last_updated": "2026-06-09T09:15:59.158Z",
+    "leadership.founders[1].linkedin_verified_at": "2026-05-25",
+    "leadership.founders[1].image_url_last_updated": "2026-06-09T09:12:56.179Z",
+    "leadership.founders[1].description_last_updated": "2026-06-09T09:16:05.056Z",
+    "social_media.x_url_last_updated": "2026-05-25T12:02:34.830Z",
+    "social_media.x_url_verified_at": "2026-05-25",
+    "social_media.linkedin_url_last_updated": "2026-05-25T12:02:34.830Z",
+    "social_media.linkedin_url_verified_at": "2026-05-25",
+    "social_media.instagram_url_last_updated": "2026-05-25T12:02:34.830Z",
+    "social_media.instagram_url_verified_at": "2026-05-25",
+    "business_details.industry_domains_last_updated": "2026-05-25",
+    "financial_information.funding_stage_last_updated": "2026-05-25T12:02:34.830Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-05-25T12:02:34.830Z",
+    "financial_information.total_funding_raised_last_updated": "2026-05-25T12:02:34.830Z",
+    "financial_information.investor_logos_last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[0].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[1].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[2].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[3].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[4].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[5].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[6].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[7].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[8].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[9].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[10].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[11].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[12].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[13].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[14].last_updated": "2026-05-25T12:02:34.830Z",
+    "location_mapping[15].last_updated": "2026-05-25T12:02:34.830Z",
+    "job_data.roles[0].posted_date": "2026-03-19",
+    "job_data.roles[1].posted_date": "2026-04-11",
+    "job_data.roles[2].posted_date": "2026-05-28",
+    "job_data.roles[3].posted_date": "2026-06-12",
+    "job_data.roles[4].posted_date": "2026-08-04",
+    "job_data.roles[5].posted_date": "2026-08-04",
+    "job_data.roles[6].posted_date": "2026-08-04",
+    "job_data.roles[7].posted_date": "2026-08-18",
+    "job_data.roles[8].posted_date": "2026-08-18",
+    "job_data.roles[9].posted_date": "2026-08-18",
+    "job_data.roles[10].posted_date": "2026-09-02",
+    "job_data.roles[11].posted_date": "2026-09-02",
+    "job_data.roles[12].posted_date": "2026-09-02",
+    "job_data.last_updated": "2026-09-16T17:52:51.519Z",
+    "benefits.unlimited-pto.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.health-insurance.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.dental-insurance.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.vision-insurance.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.life-insurance.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.health-savings-account.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.retirement-401k.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.parental-leave.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.remote-work.last_updated": "2026-06-07T17:20:18.791Z",
+    "benefits.commute-allowance.last_updated": "2026-06-07T17:20:18.791Z"
+  }
+}

@@ -1,0 +1,863 @@
+{
+  "slug": "synthflow-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/6555.03e5d1d6b8648ae9.js",
+  "observed_at": "2026-09-28T08:37:09.994584+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 22255,
+    "sha256": "f5eea30788e57edb00cff18f03bb56e2c517aa75e265516e1e5db5a6fe2f7689",
+    "elapsed_seconds": 0.159,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:37:09 GMT",
+      "etag": "\"0cb068da144f23afddd985048e1e0602\"",
+      "last-modified": "Mon, 28 Sep 2026 07:54:13 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Synthflow AI",
+    "company_name_legal": "Synthflow AI",
+    "founded_year": 2023,
+    "website_url": "https://synthflow.ai",
+    "careers_url": "https://jobs.deel.com/synthflow-ai",
+    "investor_portfolio_page": null,
+    "id": 201
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 5,
+    "last_updated": "2026-09-15T12:57:45.532Z",
+    "crawl_status": "success",
+    "source": "Deel",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 5,
+  "role_field_names": [
+    "apply_url",
+    "commitment",
+    "deel_job_id",
+    "equity",
+    "experience",
+    "location_display",
+    "location_ids",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Technical Product Manager",
+      "apply_url": "https://jobs.deel.com/synthflow-ai/job-details/0097a638-c0da-448c-84f0-340ceffa46b3/overview",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "product",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Product Operations Intern",
+      "apply_url": "https://jobs.deel.com/synthflow-ai/job-details/e8fec900-35fb-4960-8cb4-571458c682ba/overview",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": "€2,400 EUR",
+      "experience": null,
+      "commitment": "Intern",
+      "posted_date": null
+    },
+    {
+      "title": "Growth Marketing Manager",
+      "apply_url": "https://jobs.deel.com/synthflow-ai/job-details/a251cbce-5940-4509-8f4d-4dd13f2efc98/overview",
+      "location_ids": [
+        "berlin_office",
+        "london_office"
+      ],
+      "location_display": "Berlin, Germany; London, United Kingdom",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Senior Forward Deployed Engineer - DACH",
+      "apply_url": "https://jobs.deel.com/synthflow-ai/job-details/cc08b221-1473-4d27-b668-63de74a5dead/overview",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "5+ years",
+      "commitment": "Full-time",
+      "posted_date": null
+    },
+    {
+      "title": "Revenue Operations Specialist",
+      "apply_url": "https://jobs.deel.com/synthflow-ai/job-details/4d14ce9c-ad24-4853-b163-53d69c023d10/overview",
+      "location_ids": [
+        "berlin_office"
+      ],
+      "location_display": "Berlin, Germany",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "Full-time",
+      "posted_date": null
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "amsterdam_office",
+      "city": "Amsterdam",
+      "state": null,
+      "country": "Netherlands",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "exact_address": "Amsterdam, Netherlands",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "atlanta_office",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "country": "United States",
+      "latitude": 33.749,
+      "longitude": -84.388,
+      "exact_address": "Atlanta, Georgia, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "austin_office",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "exact_address": "Austin, Texas, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "bengaluru_office",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "exact_address": "Bengaluru, Karnataka, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "berlin_office",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "latitude": 52.5033,
+      "longitude": 13.3233,
+      "exact_address": "Kurfürstendamm 15, 10719 Berlin, Germany",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "boston_office",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "exact_address": "Boston, Massachusetts, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "buenos_aires_office",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "exact_address": "Buenos Aires, Buenos Aires, Argentina",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "chicago_office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "exact_address": "Chicago, Illinois, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "denver_office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "exact_address": "Denver, Colorado, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dubai_office",
+      "city": "Dubai",
+      "state": null,
+      "country": "United Arab Emirates",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "exact_address": "Dubai, United Arab Emirates",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "dublin_office",
+      "city": "Dublin",
+      "state": null,
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "exact_address": "Dublin, Ireland",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hong_kong_office",
+      "city": "Hong Kong",
+      "state": null,
+      "country": "Hong Kong",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "exact_address": "Hong Kong, Hong Kong",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "johannesburg_office",
+      "city": "Johannesburg",
+      "state": null,
+      "country": "South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "exact_address": "Johannesburg, South Africa",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "london_office",
+      "city": "London",
+      "state": null,
+      "country": "United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "exact_address": "London, United Kingdom",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "los_angeles_office",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "exact_address": "Los Angeles, California, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "melbourne_office",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "country": "Australia",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "exact_address": "Melbourne, Victoria, Australia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mexico_city_office",
+      "city": "Mexico City",
+      "state": "Ciudad de México",
+      "country": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "exact_address": "Mexico City, Ciudad de México, Mexico",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "miami_office",
+      "city": "miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 25.7733,
+      "longitude": -80.1942,
+      "exact_address": "66 W Flagler St Floor 9, Miami, FL, United States - 33130",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "mumbai_office",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "exact_address": "Mumbai, Maharashtra, India",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "paris_office",
+      "city": "Paris",
+      "state": null,
+      "country": "France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "exact_address": "Paris, France",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7759,
+      "longitude": -122.4194,
+      "exact_address": "1355 Market Street, Suite 900, San Francisco, CA 94103, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": "10+"
+    },
+    {
+      "location_id": "sao_paulo_office",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "exact_address": "São Paulo, São Paulo, Brazil",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seattle_office",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "exact_address": "Seattle, Washington, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "seoul_office",
+      "city": "Seoul",
+      "state": null,
+      "country": "South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "exact_address": "Seoul, South Korea",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "singapore_office",
+      "city": "Singapore",
+      "state": null,
+      "country": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "exact_address": "Singapore, Singapore",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "stockholm_office",
+      "city": "Stockholm",
+      "state": null,
+      "country": "Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "exact_address": "Stockholm, Sweden",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "sydney_office",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "exact_address": "Sydney, New South Wales, Australia",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tel_aviv_office",
+      "city": "Tel Aviv",
+      "state": null,
+      "country": "Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "exact_address": "Tel Aviv, Israel",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "tokyo_office",
+      "city": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "exact_address": "Tokyo, Japan",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "toronto_office",
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "exact_address": "Toronto, Ontario, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vancouver_office",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "exact_address": "Vancouver, British Columbia, Canada",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "barcelona_office",
+      "city": "Barcelona",
+      "state": null,
+      "country": "Spain",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "exact_address": "Barcelona, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "brussels_office",
+      "city": "Brussels",
+      "state": null,
+      "country": "Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "exact_address": "Brussels, Belgium",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "copenhagen_office",
+      "city": "Copenhagen",
+      "state": null,
+      "country": "Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "exact_address": "Copenhagen, Denmark",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "hamburg_office",
+      "city": "Hamburg",
+      "state": null,
+      "country": "Germany",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "exact_address": "Hamburg, Germany",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "helsinki_office",
+      "city": "Helsinki",
+      "state": null,
+      "country": "Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "exact_address": "Helsinki, Finland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "lisbon_office",
+      "city": "Lisbon",
+      "state": null,
+      "country": "Portugal",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "exact_address": "Lisbon, Portugal",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "madrid_office",
+      "city": "Madrid",
+      "state": null,
+      "country": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "exact_address": "Madrid, Spain",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "milan_office",
+      "city": "Milan",
+      "state": null,
+      "country": "Italy",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "exact_address": "Milan, Italy",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "munich_office",
+      "city": "Munich",
+      "state": null,
+      "country": "Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "exact_address": "Munich, Germany",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "prague_office",
+      "city": "Prague",
+      "state": null,
+      "country": "Czech Republic",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "exact_address": "Prague, Czech Republic",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "rome_office",
+      "city": "Rome",
+      "state": null,
+      "country": "Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "exact_address": "Rome, Italy",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "vienna_office",
+      "city": "Vienna",
+      "state": null,
+      "country": "Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "exact_address": "Vienna, Austria",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "warsaw_office",
+      "city": "Warsaw",
+      "state": null,
+      "country": "Poland",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "exact_address": "Warsaw, Poland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "zurich_office",
+      "city": "Zurich",
+      "state": null,
+      "country": "Switzerland",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "exact_address": "Zurich, Switzerland",
+      "departments": [
+        "marketing"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-02-28T10:36:15.880Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2026-02-28T10:36:15.880Z",
+    "total_funding_raised": "$30 million",
+    "total_funding_raised_last_updated": "2026-02-28T10:36:15.880Z",
+    "key_investors": [
+      {
+        "name": "Accel",
+        "domain": "accel.com"
+      },
+      {
+        "name": "Singular.vc",
+        "domain": "singular.vc"
+      },
+      {
+        "name": "Atlantic Labs",
+        "domain": "atlanticlabs.de"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Accel",
+        "logo_url": "/investor-logos/accel.png"
+      },
+      {
+        "name": "Singular.vc",
+        "logo_url": "/investor-logos/singularvc.png"
+      },
+      {
+        "name": "Atlantic Labs",
+        "logo_url": "/investor-logos/atlantic-labs.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-02-28T10:36:15.880Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "ai",
+    "social_media.instagram_url_verified_by": "sankalp",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Deel",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-02-28T10:36:15.880Z",
+    "company_basic_information.website_url_last_updated": "2026-02-28T10:36:15.880Z",
+    "company_basic_information.careers_url_last_updated": "2026-02-28T10:36:15.880Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-02-28T10:36:15.880Z",
+    "company_basic_information.last_updated": "2026-02-28",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-02-28T14:28:55.344Z",
+    "leadership.founders[0].image_url_last_updated": "2026-03-11T14:54:07.500Z",
+    "leadership.founders[0].description_last_updated": "2026-03-11T15:00:51.665Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-02-28T14:29:14.459Z",
+    "leadership.founders[1].image_url_last_updated": "2026-03-11T14:54:18.969Z",
+    "leadership.founders[1].description_last_updated": "2026-03-11T15:00:57.047Z",
+    "social_media.x_url_last_verified": "2026-02-28T14:29:29.514Z",
+    "social_media.linkedin_url_last_verified": "2026-02-28T14:29:59.406Z",
+    "social_media.instagram_url_last_verified": "2026-02-28T15:33:51.682Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-02-28T10:36:15.880Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-02-28T10:36:15.880Z",
+    "financial_information.total_funding_raised_last_updated": "2026-02-28T10:36:15.880Z",
+    "financial_information.investor_logos_last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[0].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[1].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[2].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[3].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[4].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[5].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[6].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[7].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[8].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[9].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[10].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[11].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[12].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[13].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[14].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[15].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[16].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[17].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[18].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[19].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[20].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[21].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[22].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[23].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[24].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[25].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[26].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[27].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[28].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[29].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[30].last_updated": "2026-02-28T10:36:15.880Z",
+    "location_mapping[31].last_updated": "2026-02-28T10:36:15.880Z",
+    "job_data.last_updated": "2026-09-15T12:57:45.532Z",
+    "benefits.equity-stock.last_updated": "2026-03-11T12:31:18.840Z"
+  }
+}

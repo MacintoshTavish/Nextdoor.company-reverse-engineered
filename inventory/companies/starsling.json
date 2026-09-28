@@ -1,0 +1,155 @@
+{
+  "slug": "starsling",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/77031.89a298072c8b980e.js",
+  "observed_at": "2026-09-28T08:36:57.321767+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 6098,
+    "sha256": "a0b22140e1234dcf3b818570d21346a082f8bdd6a70d8e1f8055b6b146cd5de4",
+    "elapsed_seconds": 0.405,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:57 GMT",
+      "etag": "\"354acb79b41a3c8576f5ab7a3fb0481d\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:57 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "StarSling",
+    "company_name_legal": "StarSling",
+    "founded_year": 2025,
+    "website_url": "https://www.starsling.dev",
+    "careers_url": "https://www.ycombinator.com/companies/starsling/jobs",
+    "investor_portfolio_page": "https://www.ycombinator.com/companies/starsling",
+    "id": 36
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 0,
+    "last_updated": "2026-09-14T13:26:33.855Z",
+    "crawl_status": "success",
+    "source": "Y Combinator Jobs",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 0,
+  "role_field_names": [],
+  "jobs": [],
+  "locations": [
+    {
+      "location_id": "san_francisco_office",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7650506,
+      "longitude": -122.4323762,
+      "exact_address": "2261 Market Street Ste 85120, San Francisco, California 94114, United States",
+      "departments": [
+        "engineering",
+        "sales",
+        "operations"
+      ],
+      "employee_count": "2+"
+    },
+    {
+      "location_id": "san_mateo_office",
+      "city": "San Mateo",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.563,
+      "longitude": -122.3255,
+      "exact_address": "San Mateo, California, United States",
+      "departments": [
+        "engineering"
+      ],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "seed",
+    "funding_stage_last_updated": "2025-10-01T00:00:00.000Z",
+    "current_valuation_usd": null,
+    "current_valuation_usd_last_updated": "2025-10-01T00:00:00.000Z",
+    "total_funding_raised": null,
+    "total_funding_raised_last_updated": "2025-10-07T09:47:23.509Z",
+    "key_investors": [
+      {
+        "name": "Y Combinator",
+        "domain": "ycombinator.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Y Combinator",
+        "logo_url": "/investor-logos/y-combinator.png"
+      }
+    ],
+    "investor_logos_last_updated": "2025-10-01T00:00:00.000Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "equity-stock",
+    "benefits_scraping_source"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "sankalp",
+    "leadership.founders[0].x_twitter_verified_by": "sankalp",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "sankalp",
+    "leadership.founders[1].x_twitter_verified_by": "sankalp",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "sankalp",
+    "social_media.linkedin_url_verified_by": "sankalp",
+    "business_details.short_description_generated_by": "perplexity-sonar-pro-searchapi",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Y Combinator Jobs",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2025-10-01T00:00:00.000Z",
+    "company_basic_information.website_url_last_updated": "2025-10-01T00:00:00.000Z",
+    "company_basic_information.careers_url_last_updated": "2025-10-01T00:00:00.000Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2025-10-30T10:08:06.447Z",
+    "company_basic_information.last_updated": "2025-10-01",
+    "leadership.founders[0].linkedin_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "leadership.founders[0].image_url_last_updated": "2026-01-28T20:06:25.974Z",
+    "leadership.founders[0].description_last_updated": "2026-01-28T20:20:48.869Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "leadership.founders[1].image_url_last_updated": "2026-01-28T20:06:41.209Z",
+    "leadership.founders[1].description_last_updated": "2026-01-28T20:20:56.013Z",
+    "social_media.x_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "social_media.linkedin_url_last_verified": "2025-10-01T00:00:00.000Z",
+    "business_details.short_description_last_updated": "2026-01-15T18:03:17.212Z",
+    "business_details.industry_domains_last_updated": "2026-05-01T18:33:41.465Z",
+    "financial_information.funding_stage_last_updated": "2025-10-01T00:00:00.000Z",
+    "financial_information.current_valuation_usd_last_updated": "2025-10-01T00:00:00.000Z",
+    "financial_information.total_funding_raised_last_updated": "2025-10-07T09:47:23.509Z",
+    "financial_information.investor_logos_last_updated": "2025-10-01T00:00:00.000Z",
+    "location_mapping[0].last_updated": "2025-10-01T00:00:00.000Z",
+    "job_data.last_updated": "2026-09-14T13:26:33.855Z",
+    "benefits.equity-stock.last_updated": "2026-01-07T14:50:41.427Z"
+  }
+}

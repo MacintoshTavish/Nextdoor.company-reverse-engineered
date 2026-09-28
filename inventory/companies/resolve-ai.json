@@ -1,0 +1,494 @@
+{
+  "slug": "resolve-ai",
+  "module_url": "https://www.nextdoor.company/_next/static/chunks/57875.cee89348079cdbb8.js",
+  "observed_at": "2026-09-28T08:36:00.330710+00:00",
+  "fetch": {
+    "status": 200,
+    "bytes": 18905,
+    "sha256": "72fb457770549734fb035d9fe75dc38cf91da7f0728438ac05c436ff7a49d5a2",
+    "elapsed_seconds": 0.438,
+    "headers": {
+      "cache-control": "public,max-age=31536000,immutable",
+      "content-type": "application/javascript; charset=utf-8",
+      "date": "Mon, 28 Sep 2026 08:36:00 GMT",
+      "etag": "\"08a27f6d0f40f2a6f79daa239c62a2c5\"",
+      "last-modified": "Mon, 28 Sep 2026 08:36:00 GMT"
+    }
+  },
+  "parse_status": "ok",
+  "top_level_fields": [
+    "id",
+    "company_basic_information",
+    "leadership",
+    "social_media",
+    "business_details",
+    "financial_information",
+    "location_mapping",
+    "job_data",
+    "show_on_map",
+    "benefits"
+  ],
+  "company": {
+    "company_name_brand": "Resolve AI",
+    "company_name_legal": "Resolve AI",
+    "founded_year": 2025,
+    "website_url": "https://resolve.ai",
+    "careers_url": "https://jobs.ashbyhq.com/resolveai",
+    "investor_portfolio_page": null,
+    "id": 236
+  },
+  "show_on_map": true,
+  "job_metadata": {
+    "total_roles": 15,
+    "last_updated": "2026-09-26T19:13:48.994Z",
+    "crawl_status": "success",
+    "source": "Ashby Jobs Board",
+    "crawl_method": "automated+browser"
+  },
+  "job_count": 15,
+  "role_field_names": [
+    "apply_url",
+    "ashby_job_id",
+    "commitment",
+    "compensation_type",
+    "department_alternative_categories",
+    "department_classification_confidence",
+    "department_classification_reasoning",
+    "department_classification_status",
+    "department_classification_timestamp",
+    "department_manual_override",
+    "equity",
+    "experience",
+    "extraction_method",
+    "location_display",
+    "location_ids",
+    "location_inference_reasoning",
+    "location_inference_source",
+    "location_inference_timestamp",
+    "location_inferred_by_ai",
+    "location_original",
+    "posted_date",
+    "role_department",
+    "salary_range",
+    "title",
+    "title_original",
+    "title_updated_by_ai",
+    "title_updated_timestamp",
+    "work_mode"
+  ],
+  "jobs": [
+    {
+      "title": "Director of Revenue Operations",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/bc1257cd-2081-4859-be1c-54854a23d7c2",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "operations",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "bc1257cd-2081-4859-be1c-54854a23d7c2"
+    },
+    {
+      "title": "Enterprise Account Executive - Northeast",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/3f86b690-150a-41f2-9ed5-80b32b86b78e",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "3f86b690-150a-41f2-9ed5-80b32b86b78e"
+    },
+    {
+      "title": "Enterprise Account Executive - Northwest",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/7dc3cbfa-aa79-4df5-8767-bfd6e9127ed0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "7dc3cbfa-aa79-4df5-8767-bfd6e9127ed0"
+    },
+    {
+      "title": "Enterprise Account Executive - Southwest",
+      "title_original": "Enterprise Account Executive - Southwest",
+      "title_updated_by_ai": true,
+      "title_updated_timestamp": "2026-09-26T19:15:33.171Z",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/76e46a12-2d7c-45f5-9113-da137fdecfa9",
+      "location_ids": [
+        "san_francisco_remote"
+      ],
+      "location_display": "San Francisco, United States",
+      "role_department": "sales",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "76e46a12-2d7c-45f5-9113-da137fdecfa9",
+      "department_classification_status": "ai_classified",
+      "department_classification_reasoning": "The primary responsibilities of the role focus on driving new business acquisition, managing the full sales cycle, and developing relationships with key stakeholders, all of which are core functions of a sales position. The emphasis on meeting sales quotas and collaborating with cross-functional teams to tailor solutions further solidifies this classification."
+    },
+    {
+      "title": "Enterprise Solutions Engineer - East Coast",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/1512ffdb-3e75-4bf2-8e04-4aad71068ab3",
+      "location_ids": [
+        "new_york_office"
+      ],
+      "location_display": "New York, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "1512ffdb-3e75-4bf2-8e04-4aad71068ab3"
+    },
+    {
+      "title": "Enterprise Solutions Engineer - West Coast",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/081ffd47-1883-4bea-9eb8-a75182d523a0",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "remote",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "081ffd47-1883-4bea-9eb8-a75182d523a0"
+    },
+    {
+      "title": "Growth Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/9670b82f-be04-4210-896c-56e39a825a97",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "9670b82f-be04-4210-896c-56e39a825a97"
+    },
+    {
+      "title": "Product Design Lead",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/e5d71d91-c69a-4894-ad42-b1009a97f4f4",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "design",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "e5d71d91-c69a-4894-ad42-b1009a97f4f4"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/f9cca54e-99fb-4108-a5fb-0f05bdefb810",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "marketing",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "f9cca54e-99fb-4108-a5fb-0f05bdefb810"
+    },
+    {
+      "title": "Research Engineer",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/588a0c76-41df-436a-9b70-23d8728a77ee",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "588a0c76-41df-436a-9b70-23d8728a77ee"
+    },
+    {
+      "title": "Sales Development Representative, Enterprise",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/5e1ceaf9-9e4d-41c0-a0da-de350b478baa",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "sales",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "5e1ceaf9-9e4d-41c0-a0da-de350b478baa"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/ea7c99ba-691d-4828-be89-6fdee7e42c54",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "ea7c99ba-691d-4828-be89-6fdee7e42c54"
+    },
+    {
+      "title": "Software Engineer, Infrastructure Security",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/2aa8ba5e-9678-4693-9821-a7ff92e27862",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "2aa8ba5e-9678-4693-9821-a7ff92e27862"
+    },
+    {
+      "title": "Staff+ Software Engineer - Backend",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/ed7c8fa4-1412-4de7-9249-83b39c355203",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "engineering",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": "7+ years",
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "ed7c8fa4-1412-4de7-9249-83b39c355203"
+    },
+    {
+      "title": "Technical Recruiter",
+      "apply_url": "https://jobs.ashbyhq.com/resolveai/a30a5c93-b95b-4c1a-9189-e477ac467f33",
+      "location_ids": [
+        "san_francisco_office"
+      ],
+      "location_display": "San Francisco, USA",
+      "role_department": "hr",
+      "work_mode": "on-site",
+      "salary_range": null,
+      "experience": null,
+      "commitment": "FullTime",
+      "posted_date": "2026-09-26",
+      "ashby_job_id": "a30a5c93-b95b-4c1a-9189-e477ac467f33"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "new_york_office",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "exact_address": "New York, New York, United States",
+      "departments": [
+        "sales",
+        "engineering"
+      ],
+      "employee_count": null
+    },
+    {
+      "location_id": "san_francisco_office",
+      "city": "san francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7625,
+      "longitude": -122.4105,
+      "exact_address": "375 Alabama St #490, San Francisco, California, United States - 94110",
+      "departments": [
+        "ai",
+        "operations",
+        "legal",
+        "sales",
+        "engineering",
+        "design",
+        "marketing",
+        "hr"
+      ],
+      "employee_count": "50+"
+    },
+    {
+      "location_id": "san_francisco_remote",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "exact_address": "San Francisco, California, United States",
+      "departments": [],
+      "employee_count": null
+    }
+  ],
+  "founder_count": 2,
+  "financial_information": {
+    "funding_stage": "series-a",
+    "funding_stage_last_updated": "2026-04-08T12:53:05.607Z",
+    "current_valuation_usd": "$1B",
+    "current_valuation_usd_last_updated": "2026-04-08T12:53:05.607Z",
+    "total_funding_raised": "$1 billion",
+    "total_funding_raised_last_updated": "2026-04-08T12:53:05.607Z",
+    "key_investors": [
+      {
+        "name": "Fei-Fei Li",
+        "domain": ""
+      },
+      {
+        "name": "Greylock Partners",
+        "domain": "greylock.com"
+      },
+      {
+        "name": "Unusual Ventures",
+        "domain": ""
+      },
+      {
+        "name": "Kleiner Perkins",
+        "domain": "kleinerperkins.com"
+      }
+    ],
+    "investor_logos": [
+      {
+        "name": "Fei-Fei Li",
+        "logo_url": null
+      },
+      {
+        "name": "Greylock Partners",
+        "logo_url": "/investor-logos/greylock.png"
+      },
+      {
+        "name": "Unusual Ventures",
+        "logo_url": "/investor-logos/unusual-ventures.png"
+      },
+      {
+        "name": "Kleiner Perkins",
+        "logo_url": "/investor-logos/kleiner-perkins.png"
+      }
+    ],
+    "investor_logos_last_updated": "2026-04-08T12:53:05.607Z",
+    "revenue_metrics": {
+      "annual_revenue_usd": null,
+      "revenue_growth_rate": null
+    }
+  },
+  "benefits_fields": [
+    "health-insurance",
+    "dental-insurance",
+    "vision-insurance",
+    "unlimited-pto",
+    "visa-sponsorship",
+    "retirement-401k",
+    "parental-leave",
+    "wfh-setup",
+    "meal-allowance",
+    "benefits_scraping_source",
+    "housing-stipend"
+  ],
+  "provenance": {
+    "leadership.founders[0].linkedin_verified_by": "ai",
+    "leadership.founders[0].x_twitter_verified_by": "ai",
+    "leadership.founders[0].image_source": "linkedin_profile",
+    "leadership.founders[0].description_source": "perplexity-sonar-pro",
+    "leadership.founders[1].linkedin_verified_by": "ai",
+    "leadership.founders[1].x_twitter_verified_by": "ai",
+    "leadership.founders[1].image_source": "linkedin_profile",
+    "leadership.founders[1].description_source": "perplexity-sonar-pro",
+    "social_media.x_url_verified_by": "ai",
+    "social_media.linkedin_url_verified_by": "cowork",
+    "social_media.instagram_url_verified_by": "cowork",
+    "business_details.industry_domains_source": "searchapi-google-ai-mode",
+    "location_mapping[2].source": "ai_inference_upsert",
+    "job_data.roles[3].location_inference_source": "ai",
+    "job_data.crawl_status": "success",
+    "job_data.source": "Ashby Jobs Board",
+    "job_data.crawl_method": "automated+browser",
+    "benefits.benefits_scraping_source": "job_description"
+  },
+  "timestamps": {
+    "company_basic_information.company_name_brand_last_updated": "2026-04-08T12:53:05.607Z",
+    "company_basic_information.website_url_last_updated": "2026-04-08T12:53:05.607Z",
+    "company_basic_information.careers_url_last_updated": "2026-04-08T12:53:05.607Z",
+    "company_basic_information.investor_portfolio_page_last_updated": "2026-04-08T12:53:05.607Z",
+    "company_basic_information.last_updated": "2026-04-08",
+    "leadership.founders[0].linkedin_url_last_verified": "2026-04-08T13:11:01.668Z",
+    "leadership.founders[0].x_twitter_url_last_verified": "2026-04-08T13:11:24.552Z",
+    "leadership.founders[0].image_url_last_updated": "2026-04-24T12:34:35.524Z",
+    "leadership.founders[0].description_last_updated": "2026-04-25T10:00:54.136Z",
+    "leadership.founders[1].linkedin_url_last_verified": "2026-04-08T13:13:03.454Z",
+    "leadership.founders[1].x_twitter_url_last_verified": "2026-04-08T13:13:24.096Z",
+    "leadership.founders[1].image_url_last_updated": "2026-04-24T12:34:46.618Z",
+    "leadership.founders[1].description_last_updated": "2026-04-25T10:00:59.747Z",
+    "social_media.x_url_last_verified": "2026-04-08T13:13:46.645Z",
+    "social_media.linkedin_url_last_verified": "2026-04-08T13:30:00.000Z",
+    "social_media.instagram_url_last_verified": "2026-04-08T13:30:00.000Z",
+    "business_details.industry_domains_last_updated": "2026-05-02T18:10:39.739Z",
+    "financial_information.funding_stage_last_updated": "2026-04-08T12:53:05.607Z",
+    "financial_information.current_valuation_usd_last_updated": "2026-04-08T12:53:05.607Z",
+    "financial_information.total_funding_raised_last_updated": "2026-04-08T12:53:05.607Z",
+    "financial_information.investor_logos_last_updated": "2026-04-08T12:53:05.607Z",
+    "location_mapping[0].last_updated": "2026-04-08T12:53:05.607Z",
+    "location_mapping[1].last_updated": "2026-04-08T12:53:05.607Z",
+    "location_mapping[2].last_updated": "2026-09-26T19:15:33.171Z",
+    "job_data.roles[0].posted_date": "2026-09-26",
+    "job_data.roles[1].posted_date": "2026-09-26",
+    "job_data.roles[2].posted_date": "2026-09-26",
+    "job_data.roles[3].posted_date": "2026-09-26",
+    "job_data.roles[3].title_updated_timestamp": "2026-09-26T19:15:33.171Z",
+    "job_data.roles[4].posted_date": "2026-09-26",
+    "job_data.roles[5].posted_date": "2026-09-26",
+    "job_data.roles[6].posted_date": "2026-09-26",
+    "job_data.roles[7].posted_date": "2026-09-26",
+    "job_data.roles[8].posted_date": "2026-09-26",
+    "job_data.roles[9].posted_date": "2026-09-26",
+    "job_data.roles[10].posted_date": "2026-09-26",
+    "job_data.roles[11].posted_date": "2026-09-26",
+    "job_data.roles[12].posted_date": "2026-09-26",
+    "job_data.roles[13].posted_date": "2026-09-26",
+    "job_data.roles[14].posted_date": "2026-09-26",
+    "job_data.last_updated": "2026-09-26T19:13:48.994Z",
+    "benefits.health-insurance.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.dental-insurance.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.vision-insurance.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.unlimited-pto.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.visa-sponsorship.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.retirement-401k.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.parental-leave.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.wfh-setup.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.meal-allowance.last_updated": "2026-04-23T11:02:34.214Z",
+    "benefits.housing-stipend.last_updated": "2026-04-23T11:02:34.214Z"
+  }
+}
